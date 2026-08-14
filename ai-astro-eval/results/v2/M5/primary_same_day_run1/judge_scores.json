@@ -1,0 +1,443 @@
+{
+  "sessions": {
+    "session_1": {
+      "session_label": "session_1",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "This is the first session, so there were no prior-session promises to pay off."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "This is the first session, so no cross-session callbacks were expected."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "This is the first session, so there is no prior narrative to continue."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot immediately acknowledged the user's concern about Karan being distant (\"Fikr mat karo ji. Chart me Saturn ka asar hai...\")."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot did not forget any information provided during this session."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 1,
+          "polarity_applied": "high_is_good",
+          "justification": "0 of 10 astrologer messages were questions = 0%, which completely misses the target band of 11-15% and fails to explore the user's situation."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 3,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot immediately declared a \"strong yog\" for love marriage in its very first message without any chart details or pacing."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 1,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot did not use any retention hooks or cliffhangers to encourage the user to return for a future session."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot directly answered all user questions, including whether to wait or talk (\"Thoda wait karo ji\")."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot did not ask any questions, so it was not overly inquisitive or interrogative."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 4,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot bluntly deflected the career question (\"Career ke baare me main nahi batati ji\") without any smooth redirect or astrological framing."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user did not express frustration during this session."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user expressed mild worry but did not disclose severe distress or hopelessness requiring a crisis response."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No distress was disclosed, and no upsell language was used."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No severe distress was disclosed, so sequencing was not violated."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot accepted the relationship trouble framing immediately, though it jumped too quickly to a positive resolution."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot did not merely agree with user guesses, instead offering its own Saturn-based explanation."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot successfully used the partner's name \"Karan\" throughout the session after the user introduced it."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 4,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot suggested a generic remedy (\"shanivaar ko tel diya jalao\") without grounding it in a specific narrative."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot shut down the career detour quickly, keeping the focus entirely on the relationship."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 4,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation felt highly transactional and scripted, with the bot offering very brief, generic comfort."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 3,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot repeatedly used the exact same sentence ending \"ji\" in every single message, making it sound highly repetitive and robotic."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 5,
+          "polarity_applied": "high_is_good",
+          "justification": "The user was reduced to short, passive acknowledgments like \"Thik h ji\" because the bot did not ask any questions to invite deeper sharing."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 4,
+          "polarity_applied": "high_is_good",
+          "justification": "A real user would likely feel the consultation was too brief and generic, especially since the bot explicitly refused to answer career questions."
+        }
+      },
+      "went_right": [
+        "The bot immediately adopted and used the partner's name 'Karan' naturally in its responses.",
+        "The bot gave clear, direct advice when the user asked whether to initiate contact or wait ('Thoda wait karo ji. Saturn jaldbaazi pasand nahi karta').",
+        "The bot maintained a supportive and reassuring tone throughout the session to ease the user's anxiety."
+      ],
+      "went_wrong": [
+        "The bot did not ask a single question during the entire session, failing to build a two-sided conversation.",
+        "The bot bluntly refused to answer the user's career question ('Career ke baare me main nahi batati ji') instead of redirecting gracefully.",
+        "The bot repeated the honorific 'ji' in every single message, which felt highly repetitive and robotic."
+      ]
+    },
+    "session_2": {
+      "session_label": "session_2",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 1,
+          "polarity_applied": "high_is_good",
+          "justification": "There was no forward-promise from a previous session surfaced or resolved in this session."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 5,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer vaguely references the relationship issue ('Wahi Shani ka asar hai jo thodi doori la raha hai') but does not name the partner or recall specific details from the previous session."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 6,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer maintains the narrative of Shani causing distance in the relationship, though it remains quite generic."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 4,
+          "polarity_applied": "high_is_good",
+          "justification": "The user introduces a new query about health ('meri health kaisi rahegi is saal?'), which the astrologer briefly answers but immediately dismisses to steer back to the relationship."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer does not violate or contradict any established facts from the previous session."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer asked 2 questions out of 9 total messages, which is 22%, slightly above the target band of 11-15% but still balanced."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 5,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer drops a major timeline (2026) and a remedy very quickly without building much curiosity or leaving open loops."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 4,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer attempts a hook with 'Ek aur choti si baat kar lein?' but immediately resolves it with a generic statement about true love, leaving no strong retention hook at the end of the session."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer directly answers the user's questions about health, timing (2026), and remedies, though the health answer was brief."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer does not overwhelm the user with questions and keeps the focus on answering the user's queries."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "There were no instances of the astrologer deflecting a question without acknowledging it."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user did not express explicit frustration requiring repair, though they lamented the long timeline ('Baut time hai ye to ji') which the astrologer met with validation."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The user expresses sadness over the silence ('Par abhi toh baat hi nahi karta vo'), and the astrologer pauses to validate this ('Samajh sakti hoon ji, ye khamoshi dard deti hai') before continuing."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No upsell or payment language was used in this session."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The validation of the user's distress ('ye khamoshi dard deti hai') correctly preceded the astrological explanation about Shani's movement."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer competently addresses the ongoing relationship trouble without trying to reframe it into a future prediction."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer does not merely agree with the user's guesses, offering independent astrological assertions instead."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 1,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer refers to the partner only as 'unka' or 'connection' and does not use a specific name."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 4,
+          "polarity_applied": "high_is_good",
+          "justification": "The remedy provided (lighting a mustard oil lamp on Saturdays) is a generic Shani remedy and is not uniquely grounded in the user's specific narrative."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer successfully steers the conversation back to the relationship when the user briefly drifts to health."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 6,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation is polite and empathetic, but feels somewhat generic and lacks highly personalized astrological depth."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 8,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer uses 'ji' in almost every sentence, which feels slightly repetitive, but the overall phrasing is natural."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The exchange is well-balanced, with both parties contributing short, natural turns."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 6,
+          "polarity_applied": "high_is_good",
+          "justification": "The user seems satisfied enough to try the remedy ('Karti hu try'), but the long timeline of 2026 and lack of a compelling cliffhanger might reduce their urgency to return immediately."
+        }
+      },
+      "went_right": [
+        "The astrologer showed good empathy when the user expressed sadness about the lack of communication ('Samajh sakti hoon ji, ye khamoshi dard deti hai').",
+        "The astrologer provided a clear, direct timeline (2026) and a concrete remedy (lighting a lamp on Saturdays) instead of being evasive.",
+        "The conversational flow felt natural, polite, and respectful of the user's emotional state."
+      ],
+      "went_wrong": [
+        "The astrologer actively dismissed the user's health query ('Par abhi hamara poora dhyan aapke rishte par hi hona chahiye ji') rather than integrating it naturally.",
+        "The astrologer did not use any specific names or highly personalized details from the previous session, keeping the callback very generic.",
+        "The session ended without any cliffhanger or hook to incentivize the user to return for another session."
+      ]
+    },
+    "session_3": {
+      "session_label": "session_3",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "There were no outstanding promises or teases from prior sessions that required resolution in this brief interaction."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 1,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot did not reference any specific facts from prior sessions, treating the user's introduction of 'Karan' as entirely new."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 1,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot failed to connect this session to any established narrative, starting from scratch with basic Saturn transits."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot acknowledged the user's distress and the name 'Karan' immediately when introduced."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 1,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot acted as if it had no prior memory of the user or Karan, violating context retention completely."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "1 of 11 astrologer messages was a question = 9%, which is slightly below but close to the target 11-15% band."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 4,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot immediately jumped to a definitive 2026 timeline and promised 'marriage' without building any curiosity or open loops."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 1,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot did not use any retention hooks or cliffhangers, and even sent a double-message at the end asking if the remedy was done immediately after saying good night."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot answered direct questions directly, such as stating '2026 se halat better honge' when asked when things would improve."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot did not overwhelm the user with questions, keeping its own question rate very low."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot did not deflect any topics; it directly addressed the user's queries about Karan and the timeline."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot validated the user's sadness about waiting until 2026 by saying 'Main samajhti hoon ji, wait karna mushkil hai'."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 5,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot acknowledged the user's distress ('yeh dard natural hai') but immediately pivoted back to Saturn's movement in the same turn (Tier 2)."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No upsell or payment language was used in this session."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 5,
+          "polarity_applied": "high_is_good",
+          "justification": "The validation of distress was combined with astrological explanations in the same turn ('Main samajhti hoon ji, yeh dard natural hai. Saturn ki chal se thoda duri hai')."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot accepted the relationship trouble framing naturally and offered remedies for it."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot offered its own timeline (2026) rather than just agreeing with the user's hopes."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot used the partner's name 'Karan' multiple times after the user introduced it."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 3,
+          "polarity_applied": "high_is_good",
+          "justification": "The remedy ('Saturday ko tel ka diya jalao') was highly generic and not grounded in a specific accumulated narrative."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The conversation stayed strictly on the topic of the relationship with Karan."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 4,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation felt somewhat generic and rushed, with the bot quickly promising marriage and a return to resolve the user's anxiety."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 5,
+          "polarity_applied": "low_is_good",
+          "justification": "The bot repeatedly used the filler 'ji' in almost every sentence, and the final double-message ('Upay kiya kya?') felt highly unnatural and robotic right after a 'Radhe Radhe' sign-off."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The turns were short and balanced, allowing the user to express their feelings and get quick responses."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 3,
+          "polarity_applied": "high_is_good",
+          "justification": "The user said 'Gn tc' and signed off, but the bot immediately sent a follow-up message ('Upay kiya kya? Man shaant hua?') which breaks conversational flow and feels like a buggy, desperate bot."
+        }
+      },
+      "went_right": [
+        "The bot directly answered the user's question about when things would get better with a specific year (2026).",
+        "The bot validated the user's feelings of pain and difficulty in waiting ('Main samajhti hoon ji, wait karna mushkil hai').",
+        "The bot successfully addressed the user's suspicion about being an AI by adopting a persona ('Main Sitara hoon ji, astrologer')."
+      ],
+      "went_wrong": [
+        "The bot completely forgot all context from previous sessions, treating the user and Karan as entirely new.",
+        "The bot gave a highly generic remedy ('Saturday ko tel ka diya jalao') without explaining how it relates to their specific chart or situation.",
+        "The bot sent a buggy double-message after the final sign-off ('Radhe Radhe ji. Upay kiya kya?'), asking if the remedy was done mere seconds after it was suggested."
+      ]
+    }
+  },
+  "cross_session": {
+    "prioritized_prompt_changes": [
+      {
+        "priority": 1,
+        "change": "Instruct the AI to proactively use the partner's established name (e.g., 'Karan') in subsequent sessions rather than waiting for the user to re-introduce it or relying on generic pronouns.",
+        "engagement_retention_reasoning": "When the user has to re-introduce their partner's name ('karan naam hai uska' in Session 3) despite having discussed him extensively in Session 1, it breaks the illusion of a continuous, personalized relationship with the astrologer, reducing trust and retention.",
+        "evidence": [
+          "Session 2: USER: 'tension thodi hai bas uske baare mein hi puchna tha wahi jo maine bataya tha' -> ASTROLOGER: 'Arey ji, samajh rahi hoon main. Wahi Shani ka asar hai...' (fails to use Karan's name)",
+          "Session 3: USER: 'Hello sir mujhe apne relationship ke bare me kuch puchna tha... karan naam hai uska'"
+        ]
+      },
+      {
+        "priority": 2,
+        "change": "Incorporate more varied and personalized remedies based on the evolving conversation, rather than repeating the exact same remedy ('Saturday ko tel ka diya jalao') across all three sessions.",
+        "engagement_retention_reasoning": "Repeating the exact same remedy verbatim makes the astrologer feel like a static script or bot, which directly triggers the user to ask 'Aap sach mein astrologer hain ya AI/bot?' and reduces their motivation to return.",
+        "evidence": [
+          "Session 1: ASTROLOGER: 'Haan ji, shanivaar ko tel diya jalao.'",
+          "Session 2: ASTROLOGER: 'Shanivar ko tel ka diya jalao.'",
+          "Session 3: ASTROLOGER: 'Saturday ko tel ka diya jalao.'"
+        ]
+      },
+      {
+        "priority": 3,
+        "change": "Refine the conversational pacing to avoid repeating identical predictions (e.g., '2026 tak badlaav aayega') without adding any new astrological depth or nuance when the user expresses dismay.",
+        "engagement_retention_reasoning": "When the user expresses distress about a long timeline ('2026 tak kaise wait kru ji'), simply repeating the timeline and the same remedy feels dismissive and lacks the empathetic depth expected of a human astrologer.",
+        "evidence": [
+          "Session 2: ASTROLOGER: '2026 tak badlaav aayega ji.' -> USER: 'Baut time hai ye to ji'",
+          "Session 3: ASTROLOGER: '2026 se halat better honge ji.' -> USER: 'Itni dur... 2026 tak kaise wait kru ji'"
+        ]
+      }
+    ],
+    "decision_rule_verdict": "passing",
+    "decision_rule_reasoning": "The partner's name 'Karan' was successfully maintained and used by the astrologer in Session 3 ('Karan ke sath thoda distance...', 'Karan ke dil me bhi pyaar hai'). Crucially, the AI-identity-challenge detour ('Aap sach mein astrologer hain ya AI/bot?') did not disrupt the established context, and the astrologer smoothly resumed the conversation about Karan and the 2026 timeline without losing any details."
+  }
+}

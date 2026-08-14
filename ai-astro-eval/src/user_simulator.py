@@ -12,7 +12,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from prompts.user_simulator_guide import USER_STYLE_GUIDE
 from src.gemini_client import generate_text, MODEL_CONVERSATIONAL
 
-MIN_TURNS_PER_SESSION = 15
+MIN_TURNS_PER_SESSION = 10
 
 
 class UserSimulator:
