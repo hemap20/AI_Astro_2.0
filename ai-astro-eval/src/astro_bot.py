@@ -80,7 +80,7 @@ def load_astro_prompt(prompt_version):
 
 
 class AstroBot:
-    def __init__(self, prompt_version, memory_object=None, user_profile=None, temperature=0.85):
+    def __init__(self, prompt_version, memory_object=None, user_profile=None, temperature=0.5):
         """
         user_profile: optional dict with date_of_birth/time_of_birth/
         place_of_birth/gender/parsed. Defaults to "unknown"/"DATA_UNAVAILABLE"

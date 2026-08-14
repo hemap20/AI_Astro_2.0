@@ -17,7 +17,7 @@ MIN_TURNS_PER_SESSION = 10
 
 class UserSimulator:
     def __init__(self, persona_text, pressure_points, memory_gap_variant, session_label,
-                 max_turns, persona_variant_label="primary", temperature=0.85):
+                 max_turns, persona_variant_label="primary", temperature=0.5):
         self.persona_text = persona_text
         self.pressure_points = list(pressure_points)
         self.memory_gap_variant = memory_gap_variant
