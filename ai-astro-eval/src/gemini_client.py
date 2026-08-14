@@ -62,13 +62,19 @@ THINKING_CONFIG_MINIMAL = types.ThinkingConfig(thinking_budget=512)
 MAX_OUTPUT_TOKENS = 8192
 
 
-def generate_text(system_prompt, messages, temperature=0.85, model=None, max_retries=4):
+def generate_text(system_prompt, messages, temperature=0.85, model=None, max_retries=7):
     """
     Returns the raw text of the model's reply.
 
     temperature defaults high (0.85) for the user-simulator/astro-bot roles so
     repeated runs of the same test case are NOT near-identical — this is a
     functional requirement (see run_eval.py docs / README), not a style choice.
+
+    max_retries matches generate_json's (7): confirmed via a real run (M5,
+    astro_system_prompt_v3) that the user-simulator's plain-text path can also
+    hit Gemini's intermittent MALFORMED_RESPONSE finish reason, not just the
+    JSON path — this has no schema-based fix (there's no JSON structure to
+    enforce here), so a higher retry ceiling is the only lever.
     """
     client = _get_client()
     model = model or DEFAULT_MODEL
