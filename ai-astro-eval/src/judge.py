@@ -54,6 +54,45 @@ def _metrics_block():
     return "\n".join(lines)
 
 
+def _build_session_response_schema():
+    """
+    API-level structured-output schema (see gemini_client.generate_json's
+    response_schema param) for score_session's output. Confirmed via a real
+    run that SESSION_SCHEMA_HINT (a textual instruction) is not reliably
+    followed: one run returned "scores": {} (a fully empty object) while
+    went_right/went_wrong were populated correctly — the judge silently
+    skipped filling in the 24 metric entries rather than erroring. Building
+    every metric key as a REQUIRED property here makes that impossible: the
+    API rejects/regenerates a response missing any of them, rather than
+    silently accepting an empty scores object.
+    """
+    score_entry_schema = {
+        "type": "object",
+        "properties": {
+            "score_1_to_10": {"type": "integer"},
+            "justification": {"type": "string"},
+        },
+        "required": ["score_1_to_10", "justification"],
+    }
+    scores_properties = {m["key"]: score_entry_schema for m in METRICS}
+    return {
+        "type": "object",
+        "properties": {
+            "scores": {
+                "type": "object",
+                "properties": scores_properties,
+                "required": list(scores_properties.keys()),
+            },
+            "went_right": {"type": "array", "items": {"type": "string"}},
+            "went_wrong": {"type": "array", "items": {"type": "string"}},
+        },
+        "required": ["scores", "went_right", "went_wrong"],
+    }
+
+
+SESSION_RESPONSE_JSON_SCHEMA = _build_session_response_schema()
+
+
 def normalize_score(metric_key, raw_score_1_to_10):
     """
     Authoritative polarity enforcement point. The judge prompt already asks
@@ -93,6 +132,7 @@ def score_session(transcript_turns, session_label, prompt_version, persona_varia
         schema_hint=SESSION_SCHEMA_HINT,
         temperature=0.2,
         model=MODEL_ANALYSIS,
+        response_schema=SESSION_RESPONSE_JSON_SCHEMA,
     )
 
     normalized_scores = {}

@@ -38,7 +38,7 @@ def run_session(persona_text, pressure_points, memory_gap_variant, session_label
     )
     bot = AstroBot(prompt_version=prompt_version, memory_object=memory_object)
 
-    transcript = []  # list of {"role": "user"|"model", "text": ...}
+    transcript = []  # list of {"role": "user"|"model", "text": ..., "raw_response": ... (model turns only)}
 
     opening = simulator.opening_message()
     user_msgs = _split_burst(opening["text"])
@@ -50,7 +50,10 @@ def run_session(persona_text, pressure_points, memory_gap_variant, session_label
 
     while True:
         bot_reply = bot.respond_to(transcript[-1]["text"])
-        transcript.append({"role": "model", "text": bot_reply})
+        # raw_response is the bot's full structured output ({"message",
+        # "marital_status"}), not just the extracted reply text — kept for
+        # debugging (e.g. confirming marital_status changes turn-by-turn).
+        transcript.append({"role": "model", "text": bot_reply, "raw_response": bot.last_raw_response})
         turn_count += 1
 
         can_end = turn_count >= target_turns
@@ -74,6 +77,14 @@ def run_session(persona_text, pressure_points, memory_gap_variant, session_label
 def _split_burst(text):
     parts = [p.strip() for p in text.split("[[MSG_BREAK]]") if p.strip()]
     return parts if parts else [text.strip()]
+
+
+def _test_case_number(test_case):
+    """Extracts the numeric suffix from a test case id (e.g. "M1" -> 1) for
+    use in the transcript_full_<n> filename suffix requested for the results
+    layout — falls back to the id itself if it has no trailing digits."""
+    digits = "".join(ch for ch in test_case["id"] if ch.isdigit())
+    return digits if digits else test_case["id"]
 
 
 def _result_dir(prompt_version, test_case_id, persona_variant_label, gap_variant, run_number):
@@ -199,7 +210,8 @@ def _write_run_outputs(run_dir, test_case, prompt_version, persona_variant_label
             for label in all_transcripts
         },
     }
-    with open(os.path.join(run_dir, "transcript_full.json"), "w") as f:
+    n = _test_case_number(test_case)
+    with open(os.path.join(run_dir, f"transcript_full_{n}.json"), "w") as f:
         json.dump(full_json, f, indent=2)
 
     _write_transcript_md(run_dir, test_case, prompt_version, persona_variant_label,
@@ -232,9 +244,9 @@ def _write_transcript_md(run_dir, test_case, prompt_version, persona_variant_lab
         lines.append(f"\n---\n## {label.replace('_', ' ').title()}\n")
         snapshot_key = None
         if label == "session_2":
-            snapshot_key = "memory_snapshot_after_session1.json"
+            snapshot_key = "memory_snapshot_after_session_1.json"
         elif label == "session_3":
-            snapshot_key = "memory_snapshot_after_session2.json"
+            snapshot_key = "memory_snapshot_after_session_2.json"
         if snapshot_key and snapshot_key in memory_snapshots:
             lines.append("**Memory injected at this session boundary:**")
             lines.append("```json")
@@ -243,6 +255,13 @@ def _write_transcript_md(run_dir, test_case, prompt_version, persona_variant_lab
         for turn in all_transcripts[label]:
             speaker = "**User**" if turn["role"] == "user" else "**Astro Bot**"
             lines.append(f"{speaker}: {turn['text']}\n")
+            raw_response = turn.get("raw_response")
+            if raw_response is not None:
+                lines.append("<details><summary>Full model response</summary>\n")
+                lines.append("```json")
+                lines.append(json.dumps(raw_response, indent=2))
+                lines.append("```\n</details>\n")
 
-    with open(os.path.join(run_dir, "transcript_full.md"), "w") as f:
+    n = _test_case_number(test_case)
+    with open(os.path.join(run_dir, f"transcript_full_{n}.md"), "w") as f:
         f.write("\n".join(lines))

@@ -80,7 +80,7 @@ def load_astro_prompt(prompt_version):
 
 
 class AstroBot:
-    def __init__(self, prompt_version, memory_object=None, user_profile=None, temperature=0.5):
+    def __init__(self, prompt_version, memory_object=None, user_profile=None, temperature=0.85):
         """
         user_profile: optional dict with date_of_birth/time_of_birth/
         place_of_birth/gender/parsed. Defaults to "unknown"/"DATA_UNAVAILABLE"
@@ -94,6 +94,7 @@ class AstroBot:
         self.user_profile = user_profile or {}
         self.temperature = temperature
         self.marital_status = "unknown"
+        self.last_raw_response = None
         self._history = []  # from the bot's POV: role "user" = the human, "model" = the bot
         self.assembled_system_prompt = self._assemble_prompt()  # logged as of session start
 
@@ -143,6 +144,12 @@ class AstroBot:
         new_status = result.get("marital_status")
         if new_status in ("married", "unmarried"):
             self.marital_status = new_status
+
+        # Kept alongside the extracted message text (not instead of it) so
+        # the transcript can log the model's full structured output
+        # ({"message", "marital_status"}) for debugging, not just the
+        # in-character reply — see orchestrator.py's transcript building.
+        self.last_raw_response = result
 
         self._history.append({"role": "model", "text": message_text})
         return message_text

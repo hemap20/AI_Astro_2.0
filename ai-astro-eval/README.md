@@ -48,8 +48,11 @@ python run_eval.py --prompt-version v1 --test-case M3 --persona-variant alt --ga
 ```
 
 Results land in `results/<prompt_version>/<test_case_id>/<persona_variant>_<gap_variant>_run<N>/`:
-- `transcript_full.md` / `.json` — full 3-session transcript, memory shown inline at each boundary
-- `memory_snapshot_after_session1.json` / `after_session2.json` — exact summarizer output injected
+- `transcript_full_<n>.md` / `.json` — full 3-session transcript (`<n>` = the test case's numeric suffix,
+  e.g. `transcript_full_1.json` for M1), memory shown inline at each boundary. Each astro-bot turn also
+  carries its full raw structured response (`{"message", "marital_status"}`), not just the extracted
+  reply text — shown inline in the `.md` and as a `raw_response` field per turn in the `.json`.
+- `memory_snapshot_after_session_1.json` / `after_session_2.json` — exact summarizer output injected
 - `judge_scores.json` — raw normalized scores + right/wrong lists + cross-session synthesis
 - `judge_report.md` — screenshot-ready formatted report
 
@@ -68,9 +71,10 @@ test a new prompt.
 - **15-turn-per-session floor** is enforced in code in
   `src/orchestrator.py::run_session()` (`target_turns = max(max_turns, MIN_TURNS_PER_SESSION)`),
   not left to the simulator's judgment.
-- **Non-determinism**: the user simulator runs at temperature 0.95 specifically
-  so repeated runs of the same test case diverge — spot-check `transcript_full.md`
-  across two runs of the same case to confirm this if you change models/temps.
+- **Non-determinism**: the user simulator and astro bot run at temperature 0.85
+  by default specifically so repeated runs of the same test case diverge —
+  spot-check `transcript_full_<n>.md` across two runs of the same case to
+  confirm this if you change models/temps.
 - **Persona variants**: the test-case data only defines one persona per case.
   The required second ("alt") variant is derived in `run_eval.py` by applying
   a style-shift overlay (`ALT_PERSONA_STYLE_SHIFT`) on top of the same
