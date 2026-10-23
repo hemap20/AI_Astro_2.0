@@ -65,17 +65,28 @@ def load_astro_prompt(prompt_version):
     prompt_version: e.g. "v1" -> prompts/astro_system_prompt_v1.py, which must
     define ASTRO_SYSTEM_PROMPT_TEMPLATE (a str.format() template).
 
-    Returns (template, default_parsed). If the module also defines ASTRO_DATA
-    (a real sample Vedic reading — PAST_EVENTS/EXPERT_DATA/REMEDIES), that is
-    used as the default "parsed" value instead of "DATA_UNAVAILABLE", so a run
-    actually exercises Phases 2-5 (predictions, past-event trust-building,
-    remedies, retention hooks) rather than degrading to the no-data path on
-    every test case. Falls back to "DATA_UNAVAILABLE" for prompt versions that
-    don't define ASTRO_DATA.
+    Returns (template, default_parsed). If the module also defines a sample
+    Vedic reading (PAST_EVENTS/EXPERT_DATA/REMEDIES) under EITHER of the two
+    names seen across prompt versions so far — ASTRO_DATA (v1-v7) or `parsed`
+    (v8+) — that is used as the default data value instead of
+    "DATA_UNAVAILABLE", so a run actually exercises the real-reading path
+    (predictions, past-event trust-building, remedies, retention hooks)
+    rather than silently degrading to the no-data path on every test case.
+
+    CONFIRMED BUG (found when v9's prompt was being added): v8 renamed its
+    data variable from ASTRO_DATA to `parsed`, and this function only checked
+    for ASTRO_DATA — every v8 run before this fix silently got
+    "DATA_UNAVAILABLE" instead of the real chart data, invalidating those
+    results as a reading-quality comparison against other versions. Both
+    names are checked now specifically so this can't silently regress again
+    if a future version renames it a third way without this function being
+    updated — add the new name here explicitly rather than assuming.
     """
     module_name = f"prompts.astro_system_prompt_{prompt_version}"
     module = importlib.import_module(module_name)
-    default_parsed = getattr(module, "ASTRO_DATA", "DATA_UNAVAILABLE")
+    default_parsed = getattr(module, "ASTRO_DATA", None)
+    if default_parsed is None:
+        default_parsed = getattr(module, "parsed", "DATA_UNAVAILABLE")
     return module.ASTRO_SYSTEM_PROMPT_TEMPLATE, default_parsed
 
 
@@ -112,6 +123,7 @@ class AstroBot:
 
     def _assemble_prompt(self):
         parsed_value = self.user_profile.get("parsed", self._default_parsed)
+        memory_text = self._memory_summary_text()
         values = _SafeFormatDict(
             current_date=self.user_profile.get("current_date", datetime.date.today().isoformat()),
             date_of_birth=self.user_profile.get("date_of_birth", "unknown"),
@@ -121,7 +133,17 @@ class AstroBot:
             marital_status=self.marital_status,
             parsed=parsed_value,
             ASTRO_DATA=parsed_value,
-            memory_summary=self._memory_summary_text(),
+            memory_summary=memory_text,
+            # v9 renamed {memory_summary} -> {previous_conversation_summary};
+            # supplied as an alias (same content) so either naming works,
+            # matching the ASTRO_DATA/`parsed` dual-support above.
+            previous_conversation_summary=memory_text,
+            # No real session-timer exists in this harness; default to "False"
+            # so the payment-nudge/urgency branch never fires during eval —
+            # matches how v2's hardcoded "1 Minute left \"False\"" placeholder
+            # was handled. Override via user_profile if a test case ever needs
+            # to specifically exercise that branch.
+            time_running_out=self.user_profile.get("time_running_out", "False"),
         )
         return self.prompt_template.format_map(values)
 

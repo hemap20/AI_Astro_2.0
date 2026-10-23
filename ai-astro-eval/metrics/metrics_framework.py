@@ -20,7 +20,7 @@ Each metric has:
   - `applies_to`      "session" or "test_case" — whether this is scored per-session or
                        only meaningfully evaluated once across the full 3-session run.
 
-NORMALIZATION RULE (enforced in code, not left to the judge model):
+NORMALIZATION RULE (n):
   All metrics are reported on a 1-10 scale where 1 = worst, 10 = best, ALWAYS.
   - polarity == "high_is_good": raw_score_1_to_10 = raw_value directly (judge already
     reasons on a 1-10 "how good" scale for these).
