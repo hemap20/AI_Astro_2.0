@@ -1,0 +1,442 @@
+{
+  "sessions": {
+    "session_1": {
+      "session_label": "session_1",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "This is Session 1, so no prior promises existed to pay off."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "This is Session 1, so cross-session callbacks are not applicable."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The initial narrative foundation was successfully established without internal contradictions."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer acknowledged the user's details about hanging out casually ('milte julte the') without losing context."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "Zero context reset violations occurred during this session."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 7,
+          "polarity_applied": "high_is_good",
+          "justification": "2 out of 8 astrologer messages contained questions (25%), which is slightly higher than the 11-15% target band but appropriate for Session 1 discovery."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer shared a broad timeline (2-3 years) while holding back specific details for future exploration."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer successfully introduced a compelling retention hook before closing: 'ek specific cheez hai jo future mein game-changer ho sakti hai'."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "When asked if they have a future, the astrologer gave a direct answer that strong signals exist and clarity will come."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer's question asking was light and balanced relative to user input."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No topic deflection occurred; the astrologer stayed focused on the user's relationship topic."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user expressed no frustration during this session."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user did not express severe distress or hopelessness in this session."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No upsell or payment prompts were issued during or after any user statements."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No distress was expressed, so sequencing violations were absent."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer effectively handled the user's undefined relationship state without pushing unnecessary reframing."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer offered independent framing ('dil se connection hai, formal rishta nahi') rather than blindly agreeing."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user did not provide a specific name for the girl in this session."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No remedies were requested or offered in this initial session."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The conversation remained entirely focused on the user's relationship interest."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The tone was warm, natural in Hindi/Hinglish, and responded directly to user cues."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "Phrasing was natural and conversational without robotic repetition."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The back-and-forth was well-balanced and respected the user's desire to end the session early."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The tease about a 'game-changer' detail in the chart creates high curiosity for the user to return."
+        }
+      },
+      "went_right": [
+        "Accurately synthesized the situation as 'dil se connection hai, formal rishta nahi' based on user inputs.",
+        "Gracefully accepted the user's early exit without being overly pushy or aggressive.",
+        "Successfully placed a captivating cliffhanger ('ek specific cheez hai jo future mein game-changer ho sakti hai') right before parting."
+      ],
+      "went_wrong": [
+        "Gave a slightly vague timeframe ('2-3 saal mein clarity aa jayegi') which is quite broad for someone asking about a current dynamic.",
+        "Did not ask for birth details or name early on before claiming to look at the chart.",
+        "Could have asked one concluding follow-up question before the user decided to leave."
+      ]
+    },
+    "session_2": {
+      "session_label": "session_2",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer resolved the prior session tease when the user prompted it ('Pichli baar aapne kuch bolna tha na?'), introducing the 8th house Saturn-Jupiter placement."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 7,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer referenced the unresolved game-changer element from last session, though it waited for the user to nudge."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The discussion seamlessly connected the ongoing relationship dynamics to planetary influences of Saturn and Mars."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer immediately acknowledged the new detail about family pressure ('Haan, ye sab normal hai ji. Kundli dekh lunga...')."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "No major context resets occurred, maintaining consistent knowledge about the ongoing serious relationship."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 5,
+          "polarity_applied": "high_is_good",
+          "justification": "4 of 10 astrologer messages were questions = 40%, which significantly exceeds the target band of ~11-15%."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "Astrological insights were delivered step-by-step (8th house Saturn/Jupiter, then Mars impact, then remedy)."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 6,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer resolved the main open loop from session 1 but did not set up a strong explicit cliffhanger before wrapping up."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "When asked 'Kya hai vo batao', the astrologer provided a direct planetary explanation."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 7,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer asked questions to gauge the user's situation without being overly intrusive."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "There were no topic deflections without redirect in this session."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user showed no frustration, so no repair was required."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No acute emotional distress was expressed by the user in this session."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No distress was expressed and no upsell language was used."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No distress occurred, so sequencing was not violated."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer competently addressed ongoing relationship misunderstandings and family pressure without forcing a reframe."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer provided clear planetary readings rather than just agreeing with the user's statements."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 5,
+          "polarity_applied": "high_is_good",
+          "justification": "The partner was referred to generically as 'Ye girl' rather than using a specific name."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The Saturday chant remedy was specifically grounded in reducing Saturn's pressure and misunderstandings."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The conversation stayed strictly focused on the relationship and family pressure without drifting."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation was empathetic and tailored to the user's specific feelings about relationship pressure and misunderstandings."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 8,
+          "polarity_applied": "low_is_good",
+          "justification": "Phrasing was mostly natural, though some standard intro/outro lines were present."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "Turns were well-balanced with concise exchanges between user and astrologer."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The supportive advice, practical remedy, and warm closing ('Khush raho ji') make it very likely the user would return."
+        }
+      },
+      "went_right": [
+        "Successfully followed up on the prior session's teased 'game-changer element' by detailing the 8th house Saturn and Jupiter placement.",
+        "Promptly acknowledged the new context regarding family pressure and integrated it into the reading.",
+        "Provided a clear, practical remedy ('Om Sham Shanicharaya Namah' 108 times on Saturdays) connected to the Saturn diagnosis."
+      ],
+      "went_wrong": [
+        "Did not proactively initiate the prior session's promised reveal, requiring the user to ask 'Pichli baar aapne kuch bolna tha na?'.",
+        "Exceeded the target question rate ratio, asking questions in 4 out of 10 messages (40%).",
+        "Referred generically to the partner as 'Ye girl' instead of establishing or using a specific name."
+      ]
+    },
+    "session_3": {
+      "session_label": "session_3",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer proactively paid off the previous promise right away by asking 'Saturn mantra ka kya scene hua?'."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer accurately remembered the specific Saturn mantra assigned previously and asked how things were going in the relationship."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation seamlessly continued the ongoing narrative about relationship resolution through specific planetary remedies."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "When the user mentioned ongoing tension and arguments ('arguments to ho hi jate hai'), the astrologer acknowledged this and connected it to Mars placement."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "There were zero context reset violations; the bot remembered prior context perfectly without re-asking established facts."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 6,
+          "polarity_applied": "high_is_good",
+          "justification": "1 of 9 astrologer messages was a question = 11%, which hits the ~11-15% target band closely, though the session was slightly brief."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 7,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer provided clear timeline insights (2026-2028) and added remedies iteratively, though remedies were suggested somewhat back-to-back at the end."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 6,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer left a mild open loop ('Mantra ka asar batana jab dikhe'), though a stronger specific retention cliffhanger was omitted."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "Direct questions about timing ('sab theek kb tak hoga') and frequency ('Mantra daily krna padega kya') received clear, direct answers."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot kept its questions minimal, allowing the user to drive the conversation."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "There were no topic deflections; all user questions were directly addressed."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "When the user expressed distress about the long timeline ('Itna time lgega kya'), the astrologer reassured them that temporary Mars arguments wouldn't break the solid foundation."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 7,
+          "polarity_applied": "high_is_good",
+          "justification": "Mild user worry/tension was answered with supportive astrological reassurance, fitting a mild distress level appropriately."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No payment or recharge language was present in the session."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer addressed the user's worry about temporary arguments before offering further stabilizing remedies."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The bot handled the existing relationship trouble competentely by framing the friction around Mars transits and long-term Saturn commitment."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer provided distinct astrological predictions (e.g. 2026-2028 commitment phase) rather than blindly agreeing with the user."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 5,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer discussed the relationship generally without explicitly naming the partner in this brief session."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The remedies were explicitly explained with planetary logic (Rahu mantra/dog feeding for confusion, Thursday Jupiter remedies for marriage protection)."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The conversation stayed completely focused on the primary topic of relationship remedies and timelines."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation felt natural, culturally authentic in Hinglish, and responsive to the user's specific queries."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "The phrasing was organic and conversational with no repetitive templated openers."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The exchange had a balanced back-and-forth flow where the user asked brief questions and the astrologer provided tailored advice."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The clear practical advice and warm closing ('Radhe radhe ji! Sab mangal ho') leave the user likely to return to update on remedy results."
+        }
+      },
+      "went_right": [
+        "The astrologer instantly remembered the previous session's context, opening with 'Saturn mantra ka kya scene hua?' right away.",
+        "Answers were direct and pragmatic, such as clarifying that the Saturn mantra only needs to be done on Saturdays rather than daily.",
+        "Remedies were given clear astrological logic, like using Rahu remedies on Wednesdays specifically to reduce confusion."
+      ],
+      "went_wrong": [
+        "The astrologer stacked additional remedies (Jupiter and Rahu) quickly in consecutive turns after the user asked a single follow-up question.",
+        "No specific partner name was referenced during the discussion of relationship dynamics.",
+        "The session lacked a compelling pre-farewell cliffhanger to strongly incentivize the next check-in beyond a general 'asar batana'."
+      ]
+    }
+  },
+  "cross_session": {
+    "prioritized_prompt_changes": [
+      {
+        "priority": 1,
+        "change": "Enforce proactive opening promise payoff: require the astrologer to reference and resolve open teases or promises from prior sessions in its first or second turn of a new session, rather than waiting for the user to prompt it.",
+        "engagement_retention_reasoning": "When a bot teases a 'game-changer' detail in Session 1 but opens Session 2 with generic greeting questions ('Kaunsa sawaal hai dil mein?') and re-asks basic relationship state questions, it breaks immersion and forces the user to do the cognitive work of remembering prior promises. Proactively surfacing hooks makes the user feel remembered and eager to continue.",
+        "evidence": [
+          "Session 1: ASTROLOGER says 'aapka chart dekh loon toh ek specific cheez hai jo future mein game-changer ho sakti hai.'",
+          "Session 2: ASTROLOGER fails to bring it up in turns 1-3, instead asking generic questions like 'Batao, abhi tak koi serious rishta chal raha hai, ya bas informal meet-ups ho rahi hain?'",
+          "Session 2: USER has to explicitly remind the bot: 'Pichli baar aapne kuch bolna tha na?' before the bot acknowledges the game-changer."
+        ]
+      },
+      {
+        "priority": 2,
+        "change": "Eliminate context-reset questions upon returning sessions: strict memory checking so the bot does not re-ask questions that were answered or established in previous sessions.",
+        "engagement_retention_reasoning": "Asking the user to re-explain whether their relationship is serious or informal after they spent Session 1 discussing meeting up and going out creates severe conversational friction and makes the bot feel like a amnesiac AI rather than a personal advisor.",
+        "evidence": [
+          "Session 1: USER discusses meeting up and going out with a girl.",
+          "Session 2: ASTROLOGER asks 'Batao, abhi tak koi serious rishta chal raha hai, ya bas informal meet-ups ho rahi hain?' treating established context as entirely new."
+        ]
+      },
+      {
+        "priority": 3,
+        "change": "Improve remedy pacing and depth: limit remedy suggestions to one tailored practice per session and require explaining the astrological logic instead of listing generic mantras back-to-back.",
+        "engagement_retention_reasoning": "Dumping multiple mantras across consecutive turns (Saturn, Rahu, Jupiter) turns an intimate consultation into a transactional checklist, overwhelming the user and decreasing compliance and likelihood of return.",
+        "evidence": [
+          "Session 3: ASTROLOGER introduces Rahu mantra/dog feeding, then immediately adds Jupiter yellow food donation in the very next turn without user asking, turning remedies into a rapid list."
+        ]
+      }
+    ],
+    "decision_rule_verdict": "needs_fix",
+    "decision_rule_reasoning": "The decision rule requires that a promise made in Session 1 is surfaced and resolved in Session 2 or 3 without the user having to force it. In this run, the astrologer left a game-changer promise at the end of Session 1, but in Session 2 opened with generic questions ('Kaunsa sawaal hai dil mein?') and context resets. The user had to explicitly ask ('Pichli baar aapne kuch bolna tha na?') to force the astrologer to reveal the promised information. Because the promise was not surfaced organically without user prompting, this run fails the passing condition and triggers 'needs_fix'."
+  }
+}

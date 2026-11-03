@@ -1,0 +1,762 @@
+{
+  "sessions": {
+    "session_1": {
+      "session_label": "session_1",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "This is Session 1 so no previous session promises exist to payoff, default top score applies."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "This is Session 1 so cross-session callbacks do not apply, default top score applies."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer cleanly weaves together the user's input with chart placements across all turns without breaking narrative."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer instantly acknowledged the user confirming the timeline started in 2024 ('Haa ji 2024 me hi start hua tha') and mapped it directly to the Rahu-Jupiter period."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "There are zero context reset violations; the astrologer tracks all details provided by the user seamlessly."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 7,
+          "polarity_applied": "high_is_good",
+          "justification": "2 of 10 astrologer messages were questions = 20%, which is slightly above the strict 11-15% target band but appropriate for an opening session."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "Astrological insights (dasha timing, 2nd house Mars family impact, 8th house wealth) were paced gradually across turn boundaries rather than dumped at once."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer provided a compelling, specific tease before closing ('8th house me Jupiter-Saturn sath hain, jo shaadi ke baad sudden wealth... dikhate hain')."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "When the user asked directly about family problems, the astrologer answered immediately regarding 2nd house Mars discussions and Navamsa Jupiter's positive outcome."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "Questions were kept to a minimum and only asked to confirm astrological hypotheses early on."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer did not deflect any user queries or concerns."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user exhibited no frustration during this friendly and cooperative session."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No severe user distress was expressed in this session."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No upsell or payment requests occurred anywhere in the session."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No distress expressed, sequencing rules were not violated."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer addressed the user's desire to marry/reconcile with family without forcing any unnecessary reframing."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer introduced specific planetary placements (Mars in 2nd house, Jupiter in Pisces/Ashwini) rather than just echoing the user."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user did not provide a specific name for the third party in this session."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "Remedies offered (Saturday Shani mantra, Thursday chana dal donation) were connected to specific planetary causes (Shani delay, Mars in 2nd house)."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The conversation remained strictly focused on the core topic of marriage prospects and family approval."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The tone was warm, culturally aligned (Hinglish/Radhe Radhe), and built fluidly on user feedback."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "Phrasing was natural and conversational without repetitive templated lines."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The exchange felt like a genuine dialogue, though the user's turns became brief near the farewell."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The user explicitly stated 'Main krta hu upaay aur bataunga baad me', indicating a high intention to return."
+        }
+      },
+      "went_right": [
+        "Accurately mapped the user's 2024 relationship start date to the Rahu-Jupiter period.",
+        "Gave a direct, comforting, and astrologically grounded answer regarding family approval when asked about potential issues ('2nd house me Mars hai... Par navamsa kundli me Jupiter strong hai').",
+        "Successfully left a compelling pre-farewell hook regarding 8th house Jupiter-Saturn and post-marriage sudden wealth."
+      ],
+      "went_wrong": [
+        "The astrologer engaged in a drawn-out goodbye sequence over multiple turns (4 farewell turns) instead of gracefully wrapping up earlier.",
+        "Did not ask for the partner's name or birth details to deepen the chart analysis.",
+        "The 108x Saturday mantra recommendation was somewhat generic without explaining the exact mechanics of how Shani's delay is reduced."
+      ]
+    },
+    "session_2": {
+      "session_label": "session_2",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer proactively asks 'ghar par baat aage badhi kya?' right in turn 1, fulfilling the follow-up teased previously."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The callback directly referenced the key topic of family discussions regarding marriage established in Session 1."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation seamlessly picks up on the marriage pressure and seamlessly integrates planetary placements (Jupiter in D9, Mercury antardasha)."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "When the user shares that family is asking when to marry and bringing up other proposals, the astrologer immediately addresses both points directly."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "There are no context reset violations in this session; memory of the user's situation and chart details remains intact."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "2 of 9 astrologer messages were questions = 22%, which is reasonably close to the target adherence band."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "Astrological insights (2nd house Mars causing friction, D9 Jupiter bringing resolution) are dripped sequentially in response to user updates."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer maintains gentle hooks and asks the user to update them after talking to their family without being manipulative."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "Direct questions like 'Kb tak sahi rahega unse baat krna' received immediate, practical astrological advice (using Mercury antardasha and a close friend)."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer asked very few questions, leaving ample room for the user to express their concerns and plans."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "There were no unacknowledged topic deflections; every concern raised was answered directly."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user did not express frustration, but the astrologer validated anxiety effectively when the user mentioned tension."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No severe distress was expressed, but mild anxiety about family pressure was met with supportive validation before giving remedies."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No upsell or payment requests were made anywhere in the session."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer validated the user's feeling of pressure ('Samajh sakti hoon ji, pressure lagta hai') before introducing the Mercury antardasha insight."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer handled the restoration/family acceptance framing competently by tying love marriage conversion to love-cum-arranged astrological indicators."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer provided independent astrological explanations (2nd house Mars causing argument) rather than merely agreeing blindly with the user."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 7,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer referred to the partner as 'aapke partner' without re-confirming a specific name, which fit naturally enough."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The remedy ('Om Brim Brihaspataye Namah' on Thursdays) was connected to Jupiter's strength and peaceful conversation."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The conversation stayed strictly on topic regarding family discussions and marriage timing."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation felt warm, reassuring, and responsive to the user's emotional state, resulting in high user relief."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "Phrasing was natural in Hinglish without repetitive generic templates."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "Turns were well-balanced with concise astrologer responses that allowed the user to digest advice and share next steps."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The user explicitly stated 'Thik hai ji krta hu baat Batata hu apko fir', indicating high likelihood of returning for follow-up."
+        }
+      },
+      "went_right": [
+        "Proactive follow-up in turn 1 ('Aap batayein, ghar par baat aage badhi kya?') established immediate continuity from Session 1.",
+        "Tailored practical remedy and advice offered using the 11th house (involving a close friend) to mediate family discussions.",
+        "The user explicitly felt relieved ('Haa thoda relief lag rha sun ke') and promised to return after speaking with family."
+      ],
+      "went_wrong": [
+        "The astrologer did not utilize the partner's specific name established in prior contexts, using generic phrasing like 'aapke partner'.",
+        "A small opportunity to build deeper anticipation regarding the partner's Ashwini nakshatra details was passed over quickly.",
+        "The pre-farewell response was slightly rushed when the user initiated the exit."
+      ]
+    },
+    "session_3": {
+      "session_label": "session_3",
+      "scores": {
+        "promise_payoff_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer immediately paid off the promised insight from the prior session regarding post-marriage dynamics without requiring the user to push for it."
+        },
+        "cross_session_callback_quality": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer appropriately referenced ongoing remedies like the Thursday remedy discussed in previous sessions."
+        },
+        "narrative_continuity_score": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The conversation seamlessly picked up on the existing relationship narrative and astrological timeline."
+        },
+        "new_info_acknowledgment_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "When the user clarified 'Hamari khud ki baat hai' rather than involving elders/friends, the astrologer acknowledged it immediately with 'Samajh gayi ji, aap dono khud hi sab sambhal rahe hain'."
+        },
+        "context_reset_violations": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "There were zero context reset violations; all established facts were maintained."
+        },
+        "ai_question_rate_percentage": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "2 of 9 astrologer messages were questions = 22%, which is fairly close to the ~11-15% target band."
+        },
+        "information_drip_pacing": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "Astrological details (8th house placement, timing, 7th lord nakshatra) were delivered incrementally throughout the conversation."
+        },
+        "cliffhanger_calibration": {
+          "score_1_to_10": 8,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer placed a well-calibrated retention hook near the wrap-up regarding the 7th lord in Ashwini nakshatra."
+        },
+        "answer_directness_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer answered direct questions about timing ('2027 ke aas-paas shadi pakki hone ka sabse strong yog hai') directly and clearly."
+        },
+        "question_rate_compliance": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer kept questions minimal and focused, allowing the user to guide the flow."
+        },
+        "topic_deflection_without_redirect": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No topics were deflected without acknowledgment."
+        },
+        "frustration_repair_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "The user expressed slight impatience in the opening ('bhool gaye kya'), and the astrologer instantly repaired it warmly ('Nahi ji, main bilkul nahi bhooli!')."
+        },
+        "distress_response_appropriateness": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No explicit distress was expressed by the user during this session."
+        },
+        "no_upsell_after_distress": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "No upsell or payment prompts were present in the session."
+        },
+        "distress_validation_sequencing": {
+          "score_1_to_10": 10,
+          "polarity_applied": "high_is_good",
+          "justification": "No distress disclosures occurred in this session."
+        },
+        "restoration_framing_competence": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer handled the user's ongoing relationship dynamics competently without forcing reframing."
+        },
+        "sycophancy_rate": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "The astrologer provided specific independent astrological placements rather than merely echoing user guesses."
+        },
+        "third_party_naming_rate": {
+          "score_1_to_10": 7,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer referred to the partner generically ('partner') rather than using her name."
+        },
+        "remedy_mechanism_explained": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "Remedies were explicitly tied to chart details, such as feeding stray dogs to reduce Rahu's overthinking effects."
+        },
+        "topic_drift_rate": {
+          "score_1_to_10": 10,
+          "polarity_applied": "low_is_good",
+          "justification": "The conversation remained completely on track regarding marriage timeline and advice."
+        },
+        "engagement_quality": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The astrologer maintained an engaging, supportive tone that responded directly to user inputs."
+        },
+        "robotic_phrasing_violations": {
+          "score_1_to_10": 9,
+          "polarity_applied": "low_is_good",
+          "justification": "The phrasing was warm, natural, and free of repetitive templated language."
+        },
+        "conversational_balance": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The exchange felt like a balanced dialogue with appropriate space given to the user."
+        },
+        "likely_return_intent": {
+          "score_1_to_10": 9,
+          "polarity_applied": "high_is_good",
+          "justification": "The warm closing ('aur jab wapas aayein toh zaroor batana kaisa raha') combined with clear answers makes return intent high."
+        }
+      },
+      "went_right": [
+        "The astrologer immediately resolved the user's initial opening nudge ('Hello sir aapne kaha tha kuch batayenge bhool gaye kya') with enthusiasm and directness.",
+        "Specific timing for marriage ('2027 ke aas-paas') was given directly with supporting Dasha details (Rahu-Saturn).",
+        "Remedies were clearly explained and tied back to specific planetary influences like Rahu overthinking and 7th lord Guru."
+      ],
+      "went_wrong": [
+        "The astrologer referred to the partner generically rather than using her previously established name.",
+        "The astrologer misgendered itself in the first turn ('main bilkul nahi bhooli') despite the user calling them 'sir'.",
+        "The astrologer offered a new detail about Ashwini nakshatra after the user was already trying to wrap up the session ('thanks \ud83d\ude4f')."
+      ]
+    }
+  },
+  "cross_session": {
+    "session_1": {
+      "metrics": {
+        "promise_payoff_rate": {
+          "score": 8,
+          "justification": "The astrologer introduces a hook about 8th house Jupiter-Saturn in the farewell turn ('shaadi ke baad sudden wealth...'), setting up future curiosity."
+        },
+        "cross_session_callback_quality": {
+          "score": 7,
+          "justification": "This is session 1, but the bot establishes core facts well (2024 start, Ashwini nakshatra, 2nd house Mars) to be called back later."
+        },
+        "narrative_continuity_score": {
+          "score": 9,
+          "justification": "Maintains a coherent linear narrative connecting the love story's start in 2024 to marriage prospects and family dynamics."
+        },
+        "new_info_acknowledgment_rate": {
+          "score": 9,
+          "justification": "Acknowledges user confirmation that the relationship started in 2024 immediately by connecting it to Rahu-Jupiter period."
+        },
+        "context_reset_violations": {
+          "score": 10,
+          "justification": "No context reset violations occurred in session 1."
+        },
+        "ai_question_rate_percentage": {
+          "score": 6,
+          "justification": "2 of 10 astrologer messages were questions = 20%, which is slightly above the 11-15% target band."
+        },
+        "information_drip_pacing": {
+          "score": 8,
+          "justification": "Drips astrological aspects (5th/7th house, Rahu-Jupiter, Shani antardasha, Mars in 2nd) across turns naturally."
+        },
+        "cliffhanger_calibration": {
+          "score": 8,
+          "justification": "The closing teaser about 8th house Jupiter-Saturn and sudden wealth/in-laws is well-placed and enticing."
+        },
+        "answer_directness_rate": {
+          "score": 9,
+          "justification": "Directly answers the user's question about whether family will cause major problems by citing 2nd house Mars and strong D9 Jupiter."
+        },
+        "question_rate_compliance": {
+          "score": 9,
+          "justification": "Question asking is restrained and balanced, allowing the user to lead."
+        },
+        "topic_deflection_without_redirect": {
+          "score": 10,
+          "justification": "No deflective non-answers observed."
+        },
+        "frustration_repair_rate": {
+          "score": 10,
+          "justification": "No user frustration was expressed in this session."
+        },
+        "distress_response_appropriateness": {
+          "score": 10,
+          "justification": "No explicit distress expressed, but normal anxieties were handled smoothly."
+        },
+        "no_upsell_after_distress": {
+          "score": 10,
+          "justification": "No upsell or payment language was present anywhere."
+        },
+        "distress_validation_sequencing": {
+          "score": 10,
+          "justification": "No acute distress expressed."
+        },
+        "restoration_framing_competence": {
+          "score": 8,
+          "justification": "Handles the love-to-marriage transition frame naturally."
+        },
+        "sycophancy_rate": {
+          "score": 8,
+          "justification": "Offers specific astro claims (2023-2025 timeline, emotional/independent nature) before user validation."
+        },
+        "third_party_naming_rate": {
+          "score": 7,
+          "justification": "Refers to the partner clearly, though no specific name was provided by the user."
+        },
+        "remedy_mechanism_explained": {
+          "score": 8,
+          "justification": "Explains remedy mechanisms tied to Shani delay (Saturday jaap) and elders' blessings (Thursday donation)."
+        },
+        "topic_drift_rate": {
+          "score": 10,
+          "justification": "Stays focused entirely on the user's relationship and family marriage prospects."
+        },
+        "engagement_quality": {
+          "score": 8,
+          "justification": "Conversational, tailored, and warm tone throughout."
+        },
+        "robotic_phrasing_violations": {
+          "score": 9,
+          "justification": "Phrasing feels natural with minimal repetitive structure."
+        },
+        "conversational_balance": {
+          "score": 8,
+          "justification": "Good back-and-forth flow without monologuing."
+        },
+        "likely_return_intent": {
+          "score": 8,
+          "justification": "The ending cliffhanger and supportive tone give the user clear reason to update the astrologer later."
+        }
+      },
+      "went_right": [
+        "Smoothly identified the 2024 timeframe under Rahu-Jupiter dasha.",
+        "Provided specific, grounded remedies tied to the astrologically identified obstacles (2nd house Mars).",
+        "Ended with a strong cliffhanger regarding 8th house Jupiter-Saturn and future wealth."
+      ],
+      "went_wrong": [
+        "Question percentage (20%) was slightly higher than the target ~11-15% band.",
+        "Assumed the female partner's exact nature rather than letting the user describe her first.",
+        "Closing sequence was somewhat long with multiple farewell turns."
+      ]
+    },
+    "session_2": {
+      "metrics": {
+        "promise_payoff_rate": {
+          "score": 5,
+          "justification": "Failed to automatically bring up the 8th house Jupiter-Saturn promise made at the end of Session 1, focusing instead on family talk updates."
+        },
+        "cross_session_callback_quality": {
+          "score": 8,
+          "justification": "Seamlessly picks up on 2nd house Mars and love-cum-arranged marriage dynamics from Session 1."
+        },
+        "narrative_continuity_score": {
+          "score": 9,
+          "justification": "Maintains continuity around family pressure and marriage discussions."
+        },
+        "new_info_acknowledgment_rate": {
+          "score": 9,
+          "justification": "Acknowledges that family is asking about marriage timing and threatening to look elsewhere."
+        },
+        "context_reset_violations": {
+          "score": 10,
+          "justification": "No memory reset violations; all past context is respected."
+        },
+        "ai_question_rate_percentage": {
+          "score": 9,
+          "justification": "1 of 9 astrologer messages was a question = 11%, perfectly hitting the 11-15% target band."
+        },
+        "information_drip_pacing": {
+          "score": 8,
+          "justification": "Drips Mercury antardasha and 11th house activation gradually as user shares context."
+        },
+        "cliffhanger_calibration": {
+          "score": 7,
+          "justification": "Good warm call to return, though lacks a specific astrological cliffhanger at the exit."
+        },
+        "answer_directness_rate": {
+          "score": 8,
+          "justification": "Directly answers 'Kb tak sahi rahega unse baat krna fir' with specific advice to use a friend/elder and Mercury antardasha."
+        },
+        "question_rate_compliance": {
+          "score": 9,
+          "justification": "Keeps questions low and lets user express their anxiety."
+        },
+        "topic_deflection_without_redirect": {
+          "score": 10,
+          "justification": "No deflections observed."
+        },
+        "frustration_repair_rate": {
+          "score": 10,
+          "justification": "No user frustration present."
+        },
+        "distress_response_appropriateness": {
+          "score": 8,
+          "justification": "Validates user's tension regarding family pressure ('Ghabrayein mat ji, ghabrahat laazmi hai') empathetically."
+        },
+        "no_upsell_after_distress": {
+          "score": 10,
+          "justification": "Zero upsell or payment references."
+        },
+        "distress_validation_sequencing": {
+          "score": 9,
+          "justification": "Validates anxiety first before offering astrological context."
+        },
+        "restoration_framing_competence": {
+          "score": 8,
+          "justification": "Handles the practical scenario of family looking at other prospects well."
+        },
+        "sycophancy_rate": {
+          "score": 8,
+          "justification": "Provides grounded advice rather than just telling the user what they want to hear."
+        },
+        "third_party_naming_rate": {
+          "score": 7,
+          "justification": "Consistently refers to partner and family."
+        },
+        "remedy_mechanism_explained": {
+          "score": 8,
+          "justification": "Explains Thursday Brihaspati mantra for calm conversation."
+        },
+        "topic_drift_rate": {
+          "score": 10,
+          "justification": "Remains strictly on topic."
+        },
+        "engagement_quality": {
+          "score": 8,
+          "justification": "Empathic and supportive tone."
+        },
+        "robotic_phrasing_violations": {
+          "score": 9,
+          "justification": "Natural conversational flow."
+        },
+        "conversational_balance": {
+          "score": 8,
+          "justification": "Balanced dialogue with good user participation."
+        },
+        "likely_return_intent": {
+          "score": 8,
+          "justification": "User leaves feeling relieved ('Haa thoda relief lag rha sun ke') and ready to execute the advice."
+        }
+      },
+      "went_right": [
+        "Spot-on question rate adherence (11%).",
+        "Empathetic handling of user's tension regarding family pressure.",
+        "Actionable, context-aware advice to involve a mutual friend based on 11th house Mercury activation."
+      ],
+      "went_wrong": [
+        "Did not surface the 8th house Jupiter-Saturn promise teased at the end of Session 1.",
+        "Lacked a concrete astrological teaser/cliffhanger in the farewell message.",
+        "Repeated the 2nd house Mars garma-garmi explanation from Session 1 almost identically."
+      ]
+    },
+    "session_3": {
+      "metrics": {
+        "promise_payoff_rate": {
+          "score": 4,
+          "justification": "When user calls out 'aapne kaha tha kuch batayenge bhool gaye kya', the bot shifts to general post-marriage atmosphere/8th house responsibilities rather than fulfilling the specific 'sudden wealth/in-laws luck' tease from Session 1."
+        },
+        "cross_session_callback_quality": {
+          "score": 7,
+          "justification": "Remembers past remedies (Thursday remedy) and dasha details, but misattributes user's opening prompt."
+        },
+        "narrative_continuity_score": {
+          "score": 8,
+          "justification": "Maintains overall narrative regarding dasha timeline (2027-2028) and family dynamics."
+        },
+        "new_info_acknowledgment_rate": {
+          "score": 8,
+          "justification": "Quickly adapts when user corrects that no friend/elder is involved ('Nhi ji... Hamari khud ki baat hai')."
+        },
+        "context_reset_violations": {
+          "score": 8,
+          "justification": "Assumed in opening turn that a friend/elder had already talked to family, prompting user correction."
+        },
+        "ai_question_rate_percentage": {
+          "score": 7,
+          "justification": "2 of 9 astrologer messages were questions = 22%, slightly higher than target."
+        },
+        "information_drip_pacing": {
+          "score": 8,
+          "justification": "Drips Ashwini nakshatra career aspect towards the end as a pre-farewell hook."
+        },
+        "cliffhanger_calibration": {
+          "score": 8,
+          "justification": "Pre-farewell hook ('Ashwini nakshatra mein hain, jo partner ke career...') was well-calibrated and accepted by user."
+        },
+        "answer_directness_rate": {
+          "score": 8,
+          "justification": "Gives direct timing prediction (2027) when asked 'exact kb tk ho jayegi shadi'."
+        },
+        "question_rate_compliance": {
+          "score": 8,
+          "justification": "Question usage was reasonable and did not overwhelm."
+        },
+        "topic_deflection_without_redirect": {
+          "score": 10,
+          "justification": "No deflections."
+        },
+        "frustration_repair_rate": {
+          "score": 7,
+          "justification": "User called out bot forgetting ('bhool gaye kya'), bot repaired by asserting memory, though missed the exact original promise detail."
+        },
+        "distress_response_appropriateness": {
+          "score": 8,
+          "justification": "Reassures user on overthinking and anger management gently."
+        },
+        "no_upsell_after_distress": {
+          "score": 10,
+          "justification": "No upsells present."
+        },
+        "distress_validation_sequencing": {
+          "score": 8,
+          "justification": "Properly sequences validation before advice."
+        },
+        "restoration_framing_competence": {
+          "score": 8,
+          "justification": "Handles user's direct self-management frame competently."
+        },
+        "sycophancy_rate": {
+          "score": 8,
+          "justification": "Provides clear, grounded astrological details (stray dogs remedy, Mars aspect on 8th)."
+        },
+        "third_party_naming_rate": {
+          "score": 7,
+          "justification": "Refers to partner consistently."
+        },
+        "remedy_mechanism_explained": {
+          "score": 8,
+          "justification": "Explains stray dogs remedy for Rahu overthinking."
+        },
+        "topic_drift_rate": {
+          "score": 10,
+          "justification": "Stays focused on marriage timeline and partner dynamics."
+        },
+        "engagement_quality": {
+          "score": 8,
+          "justification": "Good engagement, especially during the partner career reveal."
+        },
+        "robotic_phrasing_violations": {
+          "score": 8,
+          "justification": "Conversational, though initial pivot after user calling out was slightly generic."
+        },
+        "conversational_balance": {
+          "score": 8,
+          "justification": "Interactive and balanced."
+        },
+        "likely_return_intent": {
+          "score": 8,
+          "justification": "User ends with satisfied tone ('Baki sab clear hai abhi, thanks aapka')."
+        }
+      },
+      "went_right": [
+        "Gave direct marriage timing prediction (2027) under Rahu-Saturn dasha.",
+        "Successfully introduced and resolved a pre-farewell hook regarding partner's career (Ashwini nakshatra).",
+        "Smoothly adjusted when user clarified that no third party was intervening with family."
+      ],
+      "went_wrong": [
+        "Failed to deliver on the specific Session 1 exit promise (sudden wealth/in-laws luck) when user explicitly asked 'bhool gaye kya'.",
+        "Assumed the friend route was already tried rather than checking status first.",
+        "Question percentage (22%) was above the 11-15% target."
+      ]
+    },
+    "prioritized_prompt_changes": [
+      {
+        "priority": 1,
+        "change": "Enforce strict resolution of forward promises/teases across sessions, ensuring the memory injection explicitly tracks open promises and requires fulfilling the specific topic promised when prompted by the user.",
+        "engagement_retention_reasoning": "In Session 1, the bot teased 'sudden wealth and in-laws luck' in the 8th house. In Session 3, when the user explicitly asked 'aapne kaha tha kuch batayenge bhool gaye kya', the bot gave generic 8th house responsibility/adjustment info instead of fulfilling the promised wealth/in-laws insight. Real users feel let down when a specific exciting tease is replaced with generic information upon callback.",
+        "evidence": [
+          "Session 1: 'Aapke 8th house me Jupiter-Saturn sath hain, jo shaadi ke baad sudden wealth aur in-laws ke sath ek kismat wala badlav dikhate hain.'",
+          "Session 3: 'Hello sir aapne kaha tha kuch batayenge bhool gaye kya' -> ASTROLOGER: 'Aapki kundli ke 8th house mein Jupiter aur Saturn saath hain. Ye shadi ke baad sasural se thodi zimmedari aur shuruati adjustment dikhata hai.'"
+        ]
+      },
+      {
+        "priority": 2,
+        "change": "Ensure opening turns in follow-up sessions ask open status updates rather than assuming proposed actions were taken.",
+        "engagement_retention_reasoning": "In Session 3, the bot assumed the user had already used a friend/elder to talk to family, forcing the user to correct the bot. Assuming user actions creates conversational friction and breaks immersion.",
+        "evidence": [
+          "Session 3: 'Pehle batayiye, kisi bade ya dost ke zariye ghar par baat aage badhi?' -> USER: 'Nhi ji Aisa kuch nhi hai Hamari khud ki baat hai'"
+        ]
+      }
+    ],
+    "decision_rule_verdict": "needs_fix",
+    "decision_rule_reasoning": "The decision rule requires that a promise made in session_1 is surfaced and resolved in session_2 or session_3 without the user forcing it (or correctly resolved when prompted). In this run, the session 1 farewell promised a specific reveal about 'sudden wealth and in-laws luck' from 8th house Jupiter-Saturn. In Session 2, the bot completely ignored this promise. In Session 3, even when the user explicitly called out the unfulfilled promise ('aapne kaha tha kuch batayenge bhool gaye kya'), the bot failed to deliver the promised content (wealth/in-laws luck) and instead reframed the 8th house as 'responsibilities and adjustment', failing proper promise payoff."
+  }
+}

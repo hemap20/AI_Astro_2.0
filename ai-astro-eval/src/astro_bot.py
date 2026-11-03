@@ -20,6 +20,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from src.gemini_client import generate_json, MODEL_CONVERSATIONAL
+from src import claude_client
 
 BOT_RESPONSE_SCHEMA_HINT = """
 {
@@ -91,7 +92,7 @@ def load_astro_prompt(prompt_version):
 
 
 class AstroBot:
-    def __init__(self, prompt_version, memory_object=None, user_profile=None, temperature=0.85):
+    def __init__(self, prompt_version, memory_object=None, user_profile=None, temperature=0.85, model=None):
         """
         user_profile: optional dict with date_of_birth/time_of_birth/
         place_of_birth/gender/parsed. Defaults to "unknown"/"DATA_UNAVAILABLE"
@@ -104,6 +105,8 @@ class AstroBot:
         self.memory_object = memory_object
         self.user_profile = user_profile or {}
         self.temperature = temperature
+        # Model under test for the astrologer role; "claude-*" routes to the Anthropic API.
+        self.model = model or MODEL_CONVERSATIONAL
         self.marital_status = "unknown"
         self.last_raw_response = None
         self._history = []  # from the bot's POV: role "user" = the human, "model" = the bot
@@ -154,12 +157,13 @@ class AstroBot:
         # the previous turn, and the prompt's Step 2 behavior depends on it.
         self.assembled_system_prompt = self._assemble_prompt()
 
-        result = generate_json(
+        generate = claude_client.generate_json if self.model.startswith("claude") else generate_json
+        result = generate(
             system_prompt=self.assembled_system_prompt,
             messages=self._history,
             schema_hint=BOT_RESPONSE_SCHEMA_HINT,
             temperature=self.temperature,
-            model=MODEL_CONVERSATIONAL,
+            model=self.model,
             response_schema=BOT_RESPONSE_JSON_SCHEMA,
         )
         message_text = result.get("message", "")

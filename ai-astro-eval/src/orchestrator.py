@@ -19,7 +19,7 @@ RESULTS_ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__fi
 
 
 def run_session(persona_text, pressure_points, memory_gap_variant, session_label,
-                 max_turns, memory_object, prompt_version, persona_variant_label):
+                 max_turns, memory_object, prompt_version, persona_variant_label, astro_model=None):
     """
     Runs one session to completion. Enforces the minimum-turn floor in code:
     the loop will not accept session_end before MIN_TURNS_PER_SESSION (or
@@ -36,7 +36,7 @@ def run_session(persona_text, pressure_points, memory_gap_variant, session_label
         max_turns=target_turns,
         persona_variant_label=persona_variant_label,
     )
-    bot = AstroBot(prompt_version=prompt_version, memory_object=memory_object)
+    bot = AstroBot(prompt_version=prompt_version, memory_object=memory_object, model=astro_model)
 
     transcript = []  # list of {"role": "user"|"model", "text": ..., "raw_response": ... (model turns only)}
 
@@ -87,9 +87,9 @@ def _test_case_number(test_case):
     return digits if digits else test_case["id"]
 
 
-def _result_dir(prompt_version, test_case_id, persona_variant_label, gap_variant, run_number):
+def _result_dir(prompt_version, test_case_id, persona_variant_label, gap_variant, run_number, astro_model=None):
     run_dir = os.path.join(
-        RESULTS_ROOT, prompt_version, test_case_id,
+        RESULTS_ROOT, prompt_version, *([astro_model] if astro_model else []), test_case_id,
         f"{persona_variant_label}_{gap_variant}_run{run_number}",
     )
     return run_dir
@@ -105,8 +105,8 @@ def _ensure_no_silent_overwrite(run_dir):
 
 
 def run_single(test_case, prompt_version, persona_variant_label, persona_text_by_session,
-                gap_variant, run_number):
-    run_dir = _result_dir(prompt_version, test_case["id"], persona_variant_label, gap_variant, run_number)
+                gap_variant, run_number, astro_model=None):
+    run_dir = _result_dir(prompt_version, test_case["id"], persona_variant_label, gap_variant, run_number, astro_model)
     _ensure_no_silent_overwrite(run_dir)
 
     sessions = test_case["sessions"]
@@ -132,6 +132,7 @@ def run_single(test_case, prompt_version, persona_variant_label, persona_text_by
             memory_object=memory_object,
             prompt_version=prompt_version,
             persona_variant_label=persona_variant_label,
+            astro_model=astro_model,
         )
         all_transcripts[label] = transcript
         all_prompts_used[label] = assembled_prompt
