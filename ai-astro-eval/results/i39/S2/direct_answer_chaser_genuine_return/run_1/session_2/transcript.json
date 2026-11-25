@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Humne ghar ki pareshani aur shaadi ke samay ke baare mein baat ki thi. Woh ghar ka bhari samay agle saal June tak dheere-dheere kam hone lagega. Kya aapne guru ke liye bataya gaya mantra padhna shuru kar diya hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Namaste. Humne ghar ki pareshani aur shaadi ke samay ke baare mein baat ki thi. Woh ghar ka bhari samay agle saal June tak dheere-dheere kam hone lagega. Kya aapne guru ke liye bataya gaya mantra padhna shuru kar diya hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Mantra chhoro, shadi ka batao. Kab hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Us samay mehnat ka grah naye badlav ke liye rasta khol dega. Kya 2022 mein aapki padhai ya college ki zindagi mein koi bada badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Us samay mehnat ka grah naye badlav ke liye rasta khol dega. Kya 2022 mein aapki padhai ya college ki zindagi mein koi bada badlav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 mein kaunsa month?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se May 2027 ka samay shaadi ke liye majboot hai, kyunki tab mehnat ka grah nayi sthiti mein aayega. Aapki shaadi aur kamai dono isi samay sudharenge. Aapke hone wale jeevansathi ka nature kafi shant hoga, par woh thode chup-chap rahenge. Kya aapne shukra ka mantra shuru kiya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se May 2027 ka samay shaadi ke liye majboot hai, kyunki tab mehnat ka grah nayi sthiti mein aayega. Aapki shaadi aur kamai dono isi samay sudharenge. Aapke hone wale jeevansathi ka nature kafi shant hoga, par woh thode chup-chap rahenge. Kya aapne shukra ka mantra shuru kiya hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se September 2028 ke beech badhega, jab himmat aur kamai ka grah majboot hoga. Tabhi ek khas field mein mauka milega. Kya aap koi course kar rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa March 2027 se September 2028 ke beech badhega, jab himmat aur kamai ka grah majboot hoga. Tabhi ek khas field mein mauka milega. Kya aap koi course kar rahi hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Paisa exact kis mahine aayega?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se income ke raste khulne lagenge, jab kismat ka grah career badlayega. Ek khaas field aapki kamai boost karegi. Tab tak Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' har guruvar padhna shuru kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se income ke raste khulne lagenge, jab kismat ka grah career badlayega. Ek khaas field aapki kamai boost karegi. Tab tak Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' har guruvar padhna shuru kijiye."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rahi wo bta ni rahe.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Sirf mahina batao, faltu gyan mat do.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se aamdani shuru hogi. Saving ka ghar kamzor hai isliye paisa rukta nahi, par kamai ka ghar majboot hai jo tab khulega. Kya ghar mein abhi paison ko lekar jhagde hote hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se aamdani shuru hogi. Saving ka ghar kamzor hai isliye paisa rukta nahi, par kamai ka ghar majboot hai jo tab khulega. Kya ghar mein abhi paison ko lekar jhagde hote hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Par paisa kab aayega wo batao, mahina.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi kamai ka rasta khulne lagega, jab career ka grah mauke dega. Paise ki tangi aur ghar ka tanaav ek hi grah se juda hai, isliye job milte hi ghar ki halat sudhar jayegi. Kya aapne kabhi kisi course karne ka socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se hi kamai ka rasta khulne lagega, jab career ka grah mauke dega. Paise ki tangi aur ghar ka tanaav ek hi grah se juda hai, isliye job milte hi ghar ki halat sudhar jayegi. Kya aapne kabhi kisi course karne ka socha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 19
+  }
+]

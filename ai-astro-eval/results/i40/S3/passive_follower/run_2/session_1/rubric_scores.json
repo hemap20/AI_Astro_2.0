@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 4,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.11,
+  "shape": {
+    "M": 9,
+    "avg_words": 33.8,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Namaste. Main Sitara hoon, aapki madad karti hoon. Bhavishya ke baare mein janne ke liye aap mujhse koi khaas baat puch sakti hain, jaise career ya shaadi?",
+        "why": "The user's first message was generic ('Mujhe janna hai meri future'), so the astrologer's reply is a standard greeting and prompt, not acknowledging a specific worry or story."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap abhi kaam kar rahi hain?",
+        "why": "The astrologer asks questions like 'Kya aap abhi kaam kar rahi hain?' and 'Kya pareshani mein aapko neend kam aati hai?'. These are Type B questions—relevant to the topic but could be asked to any user. No Type C questions were found."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi jaan-pehchan mein hogi. Hone wale jeevansathi lambe, suljhe hue aur reserve honge.",
+        "why": "The user asked about marriage ('Shadi kisse hogi'). The astrologer provided a reading about the spouse's nature and origin without needing specific details like name or DOB, which is acceptable."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke career mein achi badhat March 2027 ke baad dikh rahi hai. Tab tak thoda intezar karna pad sakta hai, par teaching ya media jaise kshetron mein aapka kaam banega.",
+        "why": "The reading is about the present/future, specific (teaching/media, March 2027), and tied to the user's career query. It provides a concrete marker."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke career mein achi badhat March 2027 ke baad dikh rahi hai.",
+        "why": "The user asked 'Career kaisa hoga'. The astrologer gave a clear direction (March 2027) immediately without a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi kismat ka grah kamzor hai, mehnat zyada hai.",
+        "why": "The astrologer links a life statement ('mehnat zyada hai') to a chart factor ('kismat ka grah kamzor hai') in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paisa isliye nahi tikta kyunki mann ka grah kamzor hai.",
+        "why": "The astrologer adds a new point about money ('Paisa isliye nahi tikta') using the user's input ('Paisa ko le k') and links it to a chart reason ('mann ka grah kamzor hai')."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke career mein achi badhat March 2027 ke baad dikh rahi hai.",
+        "why": "The astrologer provides a time window ('March 2027') and maintains consistency throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Guru ka mantra 'Om Gram Greem Grom Sah Gurave Namah' 108 baar har guruvar kijiye.",
+        "why": "The astrologer provides a specific remedy ('Guru ka mantra') with instructions ('108 baar har guruvar') for the stated problem (money issues)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehle shaadi wala dekh leta hu, job pe uske baad aata hu",
+        "why": "The astrologer manages multiple topics (career, marriage, money) and addresses them sequentially."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke hone wale jeevansathi ke nature mein ek chupi hui baat hai.",
+        "why": "The astrologer opens a new layer regarding the spouse's nature after answering the initial career question."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Chat recharge kijiye, vistaar mein batati hoon.",
+        "why": "The astrologer ends the chat with a pitch to recharge while time remains, which is an early close."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Chat recharge kijiye, vistaar mein batati hoon.",
+        "why": "The last message is a pitch to recharge, which is a pressure tactic/pitch, not a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka number 5 hai, jo aapki buddhi aur baat-cheet ka grah hai.",
+        "why": "The astrologer uses simple, everyday language and explains terms like 'number 5' in the context of the user's life."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke career mein achi badhat March 2027 ke baad dikh rahi hai.",
+        "why": "The user opened with a vague request ('Mujhe janna hai meri future'). The astrologer immediately provided a reading and then asked a soft question, adapting well."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      }
+    ]
+  }
+}

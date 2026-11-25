@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi. Shaadi kab hogi meri?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 se September 2028 ke beech hone ke yog dikh rahe hain. Kya November 2022 mein aapki padhai ya college ki zindagi mein kuch badlav aaya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 se September 2028 ke beech hone ke yog dikh rahe hain. Kya November 2022 mein aapki padhai ya college ki zindagi mein kuch badlav aaya tha?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan, change aaya tha.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaun sa mahina?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka mahina kafi sahi hai. 2022 ka wohi daur ab rishton ke liye rasta bana raha hai, jaisa pichli baar bataya tha. Kya ghar par baat shuru hui hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ka mahina kafi sahi hai. 2022 ka wohi daur ab rishton ke liye rasta bana raha hai, jaisa pichli baar bataya tha. Kya ghar par baat shuru hui hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ghar pe baat chal rhi.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rhe abhi.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Wohi final hoga ya koi aur?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta wahi se pakka hone ke yog hain. Ek baat is rishte mein abhi saaf nahi hai. Shukra ke liye har Shukravar 108 baar mantra japiye, kya gharwale bhi yahi soch rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta wahi se pakka hone ke yog hain. Ek baat is rishte mein abhi saaf nahi hai. Shukra ke liye har Shukravar 108 baar mantra japiye, kya gharwale bhi yahi soch rahe hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paka wahi hoga ya nahi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein btao.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta wahi pakka lag raha hai, par wo thode guarded hain isliye waqt lag raha hai. Tuesday se Hanuman Chalisa shuru kijiye, ghar ka mahaul theek hoga. Kya yeh jaan-pehchan se aaya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta wahi pakka lag raha hai, par wo thode guarded hain isliye waqt lag raha hai. Tuesday se Hanuman Chalisa shuru kijiye, ghar ka mahaul theek hoga. Kya yeh jaan-pehchan se aaya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan, jaan-pehchan ka hai.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Wahi final hoga ya nahi? Haan ya na.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, wahi rishta pakka hone ke yog majboot hain. Woh ladke ka nature thoda guarded hai, isiliye baat dheere badh rahi hai. Guru ke liye har Guruvar 108 baar mantra japiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, wahi rishta pakka hone ke yog majboot hain. Woh ladke ka nature thoda guarded hai, isiliye baat dheere badh rahi hai. Guru ke liye har Guruvar 108 baar mantra japiye."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Job mein salary kab badhegi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki salary aur career mein badlav March 2027 se September 2028 ke beech hi aayega. Career growth aur salary dono ek hi samay sudhrenge, isliye abhi apni skills par mehnat kijiye. Aap abhi kis field mein kaam kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki salary aur career mein badlav March 2027 se September 2028 ke beech hi aayega. Career growth aur salary dono ek hi samay sudhrenge, isliye abhi apni skills par mehnat kijiye. Aap abhi kis field mein kaam kar rahi hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "IT sector.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "2027 ya 2028? Konse saal pakka?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Salary mein badlav 2027 mein shuru ho jayega. Shaadi aur job dono 2027 mein saath track par aa rahe hain. Career mein ek naya mauka chupa hai, kya kabhi emerald pehna hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Salary mein badlav 2027 mein shuru ho jayega. Shaadi aur job dono 2027 mein saath track par aa rahe hain. Career mein ek naya mauka chupa hai, kya kabhi emerald pehna hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Emerald aapke buddhi ke grah ke liye hai. Ghar ki tension mid-2027 tak khatam ho jayegi. Career sudharte hi ghar ka mahaul bhi theek hoga. Kya jhagde paison ki wajah se hote hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Emerald aapke buddhi ke grah ke liye hai. Ghar ki tension mid-2027 tak khatam ho jayegi. Career sudharte hi ghar ka mahaul bhi theek hoga. Kya jhagde paison ki wajah se hote hain?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, personal issues hain.",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 24
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas jaane ki baat hai ji. Vahan se unhone khud contact kiya hai, ya aap wahan try kar rahe ho?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas jaane ki baat hai ji. Vahan se unhone khud contact kiya hai, ya aap wahan try kar rahe ho?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Unhone bola call karenge. Kab tak bulayenge?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas bulava aa jayega ji, tab tak Shani ka asar bhi kam ho raha hai. Salary ya post ko lekar koi baat hui hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas bulava aa jayega ji, tab tak Shani ka asar bhi kam ho raha hai. Salary ya post ko lekar koi baat hui hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka mahina sabse pakka lag raha hai ji, kyunki tabhi naya samay shuru hota hai. Baaki thoda-bahut aage-peeche bhi ho sakta hai. Vahan salary ko lekar koi baat hui hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ka mahina sabse pakka lag raha hai ji, kyunki tabhi naya samay shuru hota hai. Baaki thoda-bahut aage-peeche bhi ho sakta hai. Vahan salary ko lekar koi baat hui hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi hui.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maanti hoon ji, kabhi-kabhi samay thoda upar-neeche ho jata hai. Shani ki dhili chal ki wajah se kaam mein der ho rahi hai ji. Aap is beech kahin aur bhi koshish kar rahe ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Maanti hoon ji, kabhi-kabhi samay thoda upar-neeche ho jata hai. Shani ki dhili chal ki wajah se kaam mein der ho rahi hai ji. Aap is beech kahin aur bhi koshish kar rahe ho?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha, agle hafte interview hai.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Vo purani job milegi ya nahi, yes or no mein bolo.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai ji. Guru ki taqat se purani baat pakki hogi. Agle hafte ka interview kis role ke liye hai ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Zyada chance hai ji. Guru ki taqat se purani baat pakki hogi. Agle hafte ka interview kis role ke liye hai ji?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Zyada chance nahi, seedha bolo milegi ya nahi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, mil jayegi. Kaam ka sthaan mazboot ho raha hai ji. Agle hafte ke interview ki taiyaari kaisi chal rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan ji, mil jayegi. Kaam ka sthaan mazboot ho raha hai ji. Agle hafte ke interview ki taiyaari kaisi chal rahi hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 14
+  }
+]

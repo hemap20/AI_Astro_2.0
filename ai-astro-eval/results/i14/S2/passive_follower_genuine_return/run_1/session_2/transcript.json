@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, welcome back! Aane wale samay mein 2027 se cheezein behtar hone wali hain, toh batayiye aaj kis baare mein baat karni hai, shaadi ya ghar ke halaat par?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, welcome back! Aane wale samay mein 2027 se cheezein behtar hone wali hain, toh batayiye aaj kis baare mein baat karni hai, shaadi ya ghar ke halaat par?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 aur September 2028 ke beech hogi ji. Pichli baar aapne rishte ki baat ki thi, jo Venus kamzor hone se atki hai. Family abhi kahan dekh rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 aur September 2028 ke beech hogi ji. Pichli baar aapne rishte ki baat ki thi, jo Venus kamzor hone se atki hai. Family abhi kahan dekh rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Rishta chal rha h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jaan-pehchaan se hi banega ji. Shukra kamzor hone se baat thodi dheemi chal rahi hai. Isliye Friday se Shukra ka mantra jaap shuru kar do.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta jaan-pehchaan se hi banega ji. Shukra kamzor hone se baat thodi dheemi chal rahi hai. Isliye Friday se Shukra ka mantra jaap shuru kar do."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh mantra regular karna ji, tabhi raste saaf honge. Ek aur baat hai, hone wale partner ka nature kaafi shant aur padha-likha hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Yeh mantra regular karna ji, tabhi raste saaf honge. Ek aur baat hai, hone wale partner ka nature kaafi shant aur padha-likha hoga."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Paisa ko le k kya hai",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, paise ko lekar bhi baat karte hain. Paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, paise ko lekar bhi baat karte hain. Paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kharche",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche 2028 aate-aate control mein aa jayenge ji. Doosre ghar ki kamzori se paisa rukta nahi hai. Abhi monthly kharcha zyada ho raha hai ya udhar hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kharche 2028 aate-aate control mein aa jayenge ji. Doosre ghar ki kamzori se paisa rukta nahi hai. Abhi monthly kharcha zyada ho raha hai ya udhar hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Zyada kharcha hai",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bhot h",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension mid-2027 tak theek ho jayegi ji. Shani ke asar se ghar mein aisi halat banti hai. Yeh tension kis baat ko lekar zyada hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension mid-2027 tak theek ho jayegi ji. Shani ke asar se ghar mein aisi halat banti hai. Yeh tension kis baat ko lekar zyada hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, yeh waqt hi aisa hai. Shani ke asar se mann aur ghar mein bhaari-pan rehta hai. Raat ko neend theek se aati hai ya subah thakaan lagti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi ji, yeh waqt hi aisa hai. Shani ke asar se mann aur ghar mein bhaari-pan rehta hai. Raat ko neend theek se aati hai ya subah thakaan lagti hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Thakaan rehti hai",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Subah ki thakaan Chandra aur Shani ke asar se hoti hai ji. Yeh pareshani mid-2027 ke baad theek ho jayegi. 2027 ke aakhir tak neend aur tabiyat dono mein sukoon dikhega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Subah ki thakaan Chandra aur Shani ke asar se hoti hai ji. Yeh pareshani mid-2027 ke baad theek ho jayegi. 2027 ke aakhir tak neend aur tabiyat dono mein sukoon dikhega."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok thik h",
+    "sec": 270,
+    "idx": 19
+  }
+]

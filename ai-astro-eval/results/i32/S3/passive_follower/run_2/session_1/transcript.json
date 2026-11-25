@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapka bhavishya dekhne mein madad kar sakti hoon. Aap career ke baare mein jaanna chahti hain ya rishte aur shaadi ke baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapka bhavishya dekhne mein madad kar sakti hoon. Aap career ke baare mein jaanna chahti hain ya rishte aur shaadi ke baare mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Sab batado",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka career 2027 se tezi pakdega aur shaadi ka yog bhi tabhi banta dikh raha hai. 2023 se 2025 tak aapne mehnat bohot ki par paisa tight raha, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapka career 2027 se tezi pakdega aur shaadi ka yog bhi tabhi banta dikh raha hai. 2023 se 2025 tak aapne mehnat bohot ki par paisa tight raha, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, paisa bht tight tha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paisa dono ek hi wajah se ruke hain, kyunki career ka ghar abhi dheema hai. 2027 mein ye badlega, par usse pehle ek bada mauka aayega jise pehchanna zaroori hoga. Aap abhi kya kar rahi hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Career aur paisa dono ek hi wajah se ruke hain, kyunki career ka ghar abhi dheema hai. 2027 mein ye badlega, par usse pehle ek bada mauka aayega jise pehchanna zaroori hoga. Aap abhi kya kar rahi hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Student hu",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career ka grah abhi dheema hai, isliye padhai mein bhi rukawat aati hai. 2027 se ek khas mauka aayega, par usse pehle ek galti se bachna hoga. Aap kya padh rahi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Career ka grah abhi dheema hai, isliye padhai mein bhi rukawat aati hai. 2027 se ek khas mauka aayega, par usse pehle ek galti se bachna hoga. Aap kya padh rahi hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Bba kr rhi hu",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "BBA finance ke liye achha hai, jo aapki kundli mein bhi hai. Career mein ek khas saathi ki madad milegi, par wo kaun hoga, ye abhi saaf nahi hai. Kya aapka interest finance mein hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "BBA finance ke liye achha hai, jo aapki kundli mein bhi hai. Career mein ek khas saathi ki madad milegi, par wo kaun hoga, ye abhi saaf nahi hai. Kya aapka interest finance mein hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan finance mein hai",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai, jo aapke buddhi aur baat-cheet ke grah ka hai. Yahi grah finance mein aapko safalta dilayega. Par ek aisa rishta aane wala hai jo aapke career ki disha badal dega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka number 5 hai, jo aapke buddhi aur baat-cheet ke grah ka hai. Yahi grah finance mein aapko safalta dilayega. Par ek aisa rishta aane wala hai jo aapke career ki disha badal dega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Is saal kaisa hoga",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi mehnat aur karm ke grah ki wajah se padhai mein thodi tension hai. Par December ke baad se sudhaar aayega. Ek naya rasta khulne wala hai, par wo kya hoga, ye jaldi saaf hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Abhi mehnat aur karm ke grah ki wajah se padhai mein thodi tension hai. Par December ke baad se sudhaar aayega. Ek naya rasta khulne wala hai, par wo kya hoga, ye jaldi saaf hoga."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se videsh jaane ya badi naukri ke yog ban rahe hain. Isse judi ek badi khabar hai jo aapke liye zaruri hai. Kya aapne kabhi bahar jaane ka socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "2027 se videsh jaane ya badi naukri ke yog ban rahe hain. Isse judi ek badi khabar hai jo aapke liye zaruri hai. Kya aapne kabhi bahar jaane ka socha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ha socha hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kya badi khabar hai",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027-2028 mein videsh ka yog hai. Guruvaar se Guru mantra shuru kijiye, career mein raste khulenge. Aapke sawalon ke jawab mil gaye. Agli baar partner ke nature par baat karenge, zaroor judiyega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "2027-2028 mein videsh ka yog hai. Guruvaar se Guru mantra shuru kijiye, career mein raste khulenge. Aapke sawalon ke jawab mil gaye. Agli baar partner ke nature par baat karenge, zaroor judiyega."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

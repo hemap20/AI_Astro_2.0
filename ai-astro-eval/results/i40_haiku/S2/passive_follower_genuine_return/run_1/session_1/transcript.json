@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Aap future ke baare mein kya jaanna chahti hain, kaam, shaadi ya paise? Bataiye, main dekh kar batati hoon.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Aap future ke baare mein kya jaanna chahti hain, kaam, shaadi ya paise? Bataiye, main dekh kar batati hoon."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baare mein dekhna accha hai. Aapki kundli mein shaadi ka samay kaafi saaf dikhta hai. Kya aap abhi unmarried hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke baare mein dekhna accha hai. Aapki kundli mein shaadi ka samay kaafi saaf dikhta hai. Kya aap abhi unmarried hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, unmarried hu. Rishta dekh rhe h.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta dekhna shuru ho gaya hai, yeh accha samay hai. Aapki kundli mein shaadi ki pehli khidki Mar 2027 se Sep 2028 ke beech dikhti hai. Kya aapko yaad hai ki Oct 2025 ke aas-paas career ke baare mein sochna shuru hua tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta dekhna shuru ho gaya hai, yeh accha samay hai. Aapki kundli mein shaadi ki pehli khidki Mar 2027 se Sep 2028 ke beech dikhti hai. Kya aapko yaad hai ki Oct 2025 ke aas-paas career ke baare mein sochna shuru hua tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat abhi dheere dheere sudhar sakti hai, kamai aur kharch dono par dhyan dena padega. Mar 2027 se Sep 2028 ke beech paise ka bojh halka hota dikhta hai. Kya aapke ghar mein paise ki baat par aksar tension hota hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki halat abhi dheere dheere sudhar sakti hai, kamai aur kharch dono par dhyan dena padega. Mar 2027 se Sep 2028 ke beech paise ka bojh halka hota dikhta hai. Kya aapke ghar mein paise ki baat par aksar tension hota hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan tension rehti hai.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me bohot tension hai.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein tension ho to man bhaari rehta hai, yeh samajh sakti hoon. Kundli mein Chandra, jo mann ka grah hai, abhi thoda kamzor hai, isliye neend aur sukoon par asar padta hai. Kya is tension mein aapki neend bhi pareshan karti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar mein tension ho to man bhaari rehta hai, yeh samajh sakti hoon. Kundli mein Chandra, jo mann ka grah hai, abhi thoda kamzor hai, isliye neend aur sukoon par asar padta hai. Kya is tension mein aapki neend bhi pareshan karti hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha neend nhi aati",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Neend na aana bohot thaka deta hai, aap himmat rakhiye. Kundli mein Chandra, jo mann ka grah hai, kamzor hai, isliye raat ko mann shant nahi hota. Ghar ki tension Mar 2027 se dheere dheere kam hone ke aasar hain. Kya aap bata sakti hain ki yeh neend ka masla kab se shuru hua?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Neend na aana bohot thaka deta hai, aap himmat rakhiye. Kundli mein Chandra, jo mann ka grah hai, kamzor hai, isliye raat ko mann shant nahi hota. Ghar ki tension Mar 2027 se dheere dheere kam hone ke aasar hain. Kya aap bata sakti hain ki yeh neend ka masla kab se shuru hua?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, aap pareshan mat hoiye. Kya aap yaad kar sakti hain ki Nov 2022 ke aas-paas padhai ya college mein kuch badla tha?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Koi baat nahi, aap pareshan mat hoiye. Kya aap yaad kar sakti hain ki Nov 2022 ke aas-paas padhai ya college mein kuch badla tha?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Bss tension rehti h",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bahut bhaari lagta hai jab ghar mein tension rehti hai, aap akeli mat rahiye. Kundli mein Shani, jo mehnat aur karm ka grah hai, abhi ka daur bhaari hai, par Mar 2027 ke baad halki hone lagti hai. Aaj raat sone se pehle kuch der gehri saans lijiye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Bahut bhaari lagta hai jab ghar mein tension rehti hai, aap akeli mat rahiye. Kundli mein Shani, jo mehnat aur karm ka grah hai, abhi ka daur bhaari hai, par Mar 2027 ke baad halki hone lagti hai. Aaj raat sone se pehle kuch der gehri saans lijiye."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  }
+]

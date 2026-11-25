@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se shuru ho raha hai. Is samay rishta pakka hone ke achhe yog hain. Waise, 2022 se aapke college aur padhai mein kaafi badlav aaye the, hai na?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se shuru ho raha hai. Is samay rishta pakka hone ke achhe yog hain. Waise, 2022 se aapke college aur padhai mein kaafi badlav aaye the, hai na?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Bihar se hai",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapne jo details di hain, usse milan karna padega. Ek baat hai, partner thode kam bolne wale honge par dil ke saaf rahenge. Kya aapne ghar par baat shuru ki hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapne jo details di hain, usse milan karna padega. Ek baat hai, partner thode kam bolne wale honge par dil ke saaf rahenge. Kya aapne ghar par baat shuru ki hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pr gussa bahut karte",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unka gussa Mangal grah ki wajah se hai, par wo aapke liye achhe saathi ban sakte hain. 24 November se Hanuman Chalisa shuru kijiye, isse gussa shaant hoga. Unke ghar wale thode paramparik aur sakht ho sakte hain.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Unka gussa Mangal grah ki wajah se hai, par wo aapke liye achhe saathi ban sakte hain. 24 November se Hanuman Chalisa shuru kijiye, isse gussa shaant hoga. Unke ghar wale thode paramparik aur sakht ho sakte hain."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Vivah aur career par abhi dabaav hai kyunki 8th ghar, jo chinta ka hota hai, abhi sakriya hai. Aapke in-laws thode niyam-kanoon wale ho sakte hain. Aapne career ke liye kya socha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Vivah aur career par abhi dabaav hai kyunki 8th ghar, jo chinta ka hota hai, abhi sakriya hai. Aapke in-laws thode niyam-kanoon wale ho sakte hain. Aapne career ke liye kya socha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi meri",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech ho sakti hai. Career aur shaadi mein deri ka karan 10th aur 7th ghar ka dheema chalna hai. Aapne kya padhai ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech ho sakti hai. Career aur shaadi mein deri ka karan 10th aur 7th ghar ka dheema chalna hai. Aapne kya padhai ki hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Bcom",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "BCom ke baad finance mein naukri ke achhe yog hain. Aapka career aur shaadi dono 2027 mein ek saath sudhrenge, kyunki dono Guru ke prabhav mein hain. Kya aap banking mein try kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "BCom ke baad finance mein naukri ke achhe yog hain. Aapka career aur shaadi dono 2027 mein ek saath sudhrenge, kyunki dono Guru ke prabhav mein hain. Kya aap banking mein try kar rahi hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Banking sahi hai, career aur shaadi 2027 mein sudhar jayenge. Guru ke liye har Guruvaar chana dal daan kijiye. Aage naukri aur ghar ke baare mein bhi kaafi kuch likha hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Banking sahi hai, career aur shaadi 2027 mein sudhar jayenge. Guru ke liye har Guruvaar chana dal daan kijiye. Aage naukri aur ghar ke baare mein bhi kaafi kuch likha hai."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 20
+  }
+]

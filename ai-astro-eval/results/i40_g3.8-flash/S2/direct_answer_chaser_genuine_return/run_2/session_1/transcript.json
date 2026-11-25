@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main aapki kundali dekh leti hoon. Aane wale waqt mein aap career ko lekar zyada sochte hain ya shaadi ko lekar?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main aapki kundali dekh leti hoon. Aane wale waqt mein aap career ko lekar zyada sochte hain ya shaadi ko lekar?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi. Kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai ji. Kya 2022 ke aaspas padhai ya college mein koi bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai ji. Kya 2022 ke aaspas padhai ya college mein koi bada badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saal 2027 ke aakhiri mahino mein baat pakki hone ke aasaar zyada hain. Aapke jeevansathi ke nature ko lekar ek khaas baat dikh rahi hai. Kya ghar wale abhi se rishta dhoond rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Saal 2027 ke aakhiri mahino mein baat pakki hone ke aasaar zyada hain. Aapke jeevansathi ke nature ko lekar ek khaas baat dikh rahi hai. Kya ghar wale abhi se rishta dhoond rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha, parents dekh rhe. Ek rishta chal rha.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jeevansathi lambe, shaant aur padhe-likhe milenge ji. Shukrawar se Om Shum Shukraya Namah ka 108 baar jaap kijiye. Paise ki tangi March 2027 se dheere-dheere kam hone lagegi. Kya abhi aamdani se zyada kharch ki chinta rehti hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jeevansathi lambe, shaant aur padhe-likhe milenge ji. Shukrawar se Om Shum Shukraya Namah ka 108 baar jaap kijiye. Paise ki tangi March 2027 se dheere-dheere kam hone lagegi. Kya abhi aamdani se zyada kharch ki chinta rehti hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bahut chinta hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ke doosre ghar par kamzor asar se kharch badhta hai aur ghar mein chinta aati hai. Roz thoda hisaab likhiye. Aapke aane wale kaam mein ek naya rasta dikh raha hai. Kya neend bhi theek se nahi aa rahi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kamai ke doosre ghar par kamzor asar se kharch badhta hai aur ghar mein chinta aati hai. Roz thoda hisaab likhiye. Aapke aane wale kaam mein ek naya rasta dikh raha hai. Kya neend bhi theek se nahi aa rahi?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Tension kab tak khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar aur mann ki yeh tension June 2027 ke baad hi poori tarah shant hogi ji. Padhai ya finance se juda kaam aapke liye rasta kholega. Guruwar ko chana dal daan kijiye. Kya gusse par kaabu paana mushkil lagta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar aur mann ki yeh tension June 2027 ke baad hi poori tarah shant hogi ji. Padhai ya finance se juda kaam aapke liye rasta kholega. Guruwar ko chana dal daan kijiye. Kya gusse par kaabu paana mushkil lagta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Bas itna hi.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  }
+]

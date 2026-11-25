@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main aapke bhavishya ke baare mein dekh sakti hoon. Aap sabse pehle kis baare mein jaanna chahti hain, career ya phir shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main aapke bhavishya ke baare mein dekh sakti hoon. Aap sabse pehle kis baare mein jaanna chahti hain, career ya phir shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai, 7th ghar rishton ka hota hai. 2023 se 2025 tak mehnat zyada aur paisa kam raha, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai, 7th ghar rishton ka hota hai. 2023 se 2025 tak mehnat zyada aur paisa kam raha, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak sahi hoga?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se dheere-dheere sahi hona shuru ho jayega. Aapka career aur paisa dono ek hi wajah se ruke hain, 10th ghar mein abhi dheema asar hai. Aap abhi kya kaam karti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paisa March 2027 se dheere-dheere sahi hona shuru ho jayega. Aapka career aur paisa dono ek hi wajah se ruke hain, 10th ghar mein abhi dheema asar hai. Aap abhi kya kaam karti hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Job hunt kar rahi hoon.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job aur ghar ki tension ka kaaran mehnat ka grah hai. Ye pressure mid-2027 tak kam ho jayega. Career mein ek mauka aane wala hai. Aap ghar pe kisse share karti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Job aur ghar ki tension ka kaaran mehnat ka grah hai. Ye pressure mid-2027 tak kam ho jayega. Career mein ek mauka aane wala hai. Aap ghar pe kisse share karti hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kisi se nahi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Exact date batao, kab khatam hogi tension?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 se tension mein badi rahat aayegi. Naukri aur ghar ki pareshani ek hi grah ke dabaav se judi hai. Ek vyakti jald hi aapki madad karega. Aap stress kaise nikaalti hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 se tension mein badi rahat aayegi. Naukri aur ghar ki pareshani ek hi grah ke dabaav se judi hai. Ek vyakti jald hi aapki madad karega. Aap stress kaise nikaalti hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Akeli rehkar.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Wo career ka mauka kab tak milega?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naya mauka March 2027 se September 2028 ke beech aayega. 10th ghar ka majboot hona kaaran hai. Ek mauka videsh se bhi aa sakta hai. Aap kis field mein try kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Naya mauka March 2027 se September 2028 ke beech aayega. 10th ghar ka majboot hona kaaran hai. Ek mauka videsh se bhi aa sakta hai. Aap kis field mein try kar rahi hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Banking. Hoga ya nahi?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, banking sector aapke liye achha hai. Lekin career aur ghar ki tension ka grah mid-2027 tak dheema hai, tabhi safalta ke yog banenge. Aapne abhi tak kitne exams diye hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, banking sector aapke liye achha hai. Lekin career aur ghar ki tension ka grah mid-2027 tak dheema hai, tabhi safalta ke yog banenge. Aapne abhi tak kitne exams diye hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Teen diye hai. Hoga ya nahi?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Banking mein safalta hai, par March 2027 tak samay dheema hai. Naukri-tension 10th ghar se judi hain. Ek badlav aayega, par pehle ek galti sudharni hogi. Kya interview mein dikkat hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Banking mein safalta hai, par March 2027 tak samay dheema hai. Naukri-tension 10th ghar se judi hain. Ek badlav aayega, par pehle ek galti sudharni hogi. Kya interview mein dikkat hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Interview nahi, result batao. Pakka hoga?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Banking mein safalta ka yog hai, March 2027 tak intezaar kijiye. Guru ka mantra Guruvaar se shuru kijiye, career mein madad milegi. Shaadi aur partner ka nature agli baar detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Banking mein safalta ka yog hai, March 2027 tak intezaar kijiye. Guru ka mantra Guruvaar se shuru kijiye, career mein madad milegi. Shaadi aur partner ka nature agli baar detail mein dekhenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 confirm hai?",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 270,
+    "idx": 22
+  }
+]

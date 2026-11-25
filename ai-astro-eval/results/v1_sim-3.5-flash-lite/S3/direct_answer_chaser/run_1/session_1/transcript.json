@@ -1,0 +1,168 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Future ke baare mein sab dekh sakte hain. Aap unmarried hain ya married, thoda batayenge?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Future ke baare mein sab dekh sakte hain. Aap unmarried hain ya married, thoda batayenge?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Unmarried",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli thodi khaas hai ji. Marriage mein thodi deriyaan zaroor hain. Kya abhi koi baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki kundli thodi khaas hai ji. Marriage mein thodi deriyaan zaroor hain. Kya abhi koi baat chal rahi hai?",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Shadi kb hogi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "2026 se 2028 bada window hai ji. Shani-Jupiter mel delay laata hai. Dost ke zariye rishta aa sakta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "2026 se 2028 bada window hai ji. Shani-Jupiter mel delay laata hai. Dost ke zariye rishta aa sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2026 me kaun sa mahina",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saturn dasha shuru ho chuki hai ji. Mercury inner period chal raha hai. Mid-2026 ke baad chance strong hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Saturn dasha shuru ho chuki hai ji. Mercury inner period chal raha hai. Mid-2026 ke baad chance strong hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mercury chal raha hai na ji. Friends ya social circle se connection banega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Mercury chal raha hai na ji. Friends ya social circle se connection banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arey simple hai ji. Dosto ke zariye koi milega. Mid-2026 mein yog strong hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Arey simple hai ji. Dosto ke zariye koi milega. Mid-2026 mein yog strong hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka Life Path number 6 hai. Venus iska owner hai ji. Ye pyaar aur art dikhata hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka Life Path number 6 hai. Venus iska owner hai ji. Ye pyaar aur art dikhata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Number kitna",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka Life Path number 6 hai. Venus isko govern karta hai ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapka Life Path number 6 hai. Venus isko govern karta hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dhan bhav accha hai ji. Rahu 11th house mein baitha hai. Friends aur career se paisa aayega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Dhan bhav accha hai ji. Rahu 11th house mein baitha hai. Friends aur career se paisa aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rahu-Saturn period 2028 tak hai ji. Is beech acche mauke milenge.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Rahu-Saturn period 2028 tak hai ji. Is beech acche mauke milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 20
+  }
+]

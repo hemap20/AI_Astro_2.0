@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bataiye, aaj kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bataiye, aaj kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, maine aapke hone wale jeevan-saathi ke baare mein dekha tha. Wo lambe, shant aur padhe-likhe honge, bas thode reserve rahenge. Kya abhi ghar par kisi rishte ki baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, maine aapke hone wale jeevan-saathi ke baare mein dekha tha. Wo lambe, shant aur padhe-likhe honge, bas thode reserve rahenge. Kya abhi ghar par kisi rishte ki baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha chal rhi hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta pehchan ke logon mein hi hona sahi hai. Shaadi ka yog 2027 mein mazboot hai. Is rishte mein ek khas nishani hai jo aapko pehchanni hogi, kya aapne notice ki?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta pehchan ke logon mein hi hona sahi hai. Shaadi ka yog 2027 mein mazboot hai. Is rishte mein ek khas nishani hai jo aapko pehchanni hogi, kya aapne notice ki?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unhone aur unke ghar walon ne rishte ko leke thodi chupi banayi hui hai, wo jaldbaazi nahi dikhayenge. Aapka rishta unse pehchan ke daayre mein hi judega, kya aapne ye note kiya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Unhone aur unke ghar walon ne rishte ko leke thodi chupi banayi hui hai, wo jaldbaazi nahi dikhayenge. Aapka rishta unse pehchan ke daayre mein hi judega, kya aapne ye note kiya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan notice kiya",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k batao",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi isliye hai kyunki dhan ke ghar mein thodi kamzori hai. Agle saal March ke baad se halat sudharne lagenge, jab karz aur tension dono dheere-dheere kam honge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki tangi isliye hai kyunki dhan ke ghar mein thodi kamzori hai. Agle saal March ke baad se halat sudharne lagenge, jab karz aur tension dono dheere-dheere kam honge."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension h",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension bhari grahon ki wajah se hai, jo gussa aur bhari-pan badha rahe hain. Ye February 2027 tak kam ho jayega. 24 November se Hanuman Chalisa padhein, isse shanti milegi. Ye tension kab se badhi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension bhari grahon ki wajah se hai, jo gussa aur bhari-pan badha rahe hain. Ye February 2027 tak kam ho jayega. 24 November se Hanuman Chalisa padhein, isse shanti milegi. Ye tension kab se badhi hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, ye grahon ka asar hai jo ghar mein bina wajah tension badhata hai. March ke baad se naukri aur paise ke mamle sudhrenge, toh ghar ka mahaul bhi thanda ho jayega. Career ke liye aapne kya socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Koi baat nahi, ye grahon ka asar hai jo ghar mein bina wajah tension badhata hai. March ke baad se naukri aur paise ke mamle sudhrenge, toh ghar ka mahaul bhi thanda ho jayega. Career ke liye aapne kya socha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi, aap batao",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli ke hisaab se teaching, finance ya media ka kaam aapke liye behtar hai. Naukri pehle milegi, fir business ka sochna. Kya aapne in fields mein kabhi try kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapki kundli ke hisaab se teaching, finance ya media ka kaam aapke liye behtar hai. Naukri pehle milegi, fir business ka sochna. Kya aapne in fields mein kabhi try kiya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  }
+]

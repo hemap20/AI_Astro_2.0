@@ -1,0 +1,206 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job ka sawaal hai ji. Purani company ne kab chhoda tha, aur kya abhi kahin aur try kar rahe ho?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job ka sawaal hai ji. Purani company ne kab chhoda tha, aur kya abhi kahin aur try kar rahe ho?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "3 mahine pehle.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Haan interview hai next week.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle hafte ke interview mein koshish poori rakhna ji, aur naya kaam March 2027 ke baad banega. Shani ka asar career par hai isliye thodi rukawat hai. Interview wali company mein baat purane doston ke zariye hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Agle hafte ke interview mein koshish poori rakhna ji, aur naya kaam March 2027 ke baad banega. Shani ka asar career par hai isliye thodi rukawat hai. Interview wali company mein baat purane doston ke zariye hai kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Purani job ka kya?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani company se wapas bulane ka yog nahi hai ji. Shani ki wajah se purane raste ab band lagte hain. Wahan se nikalte waqt kuch anban hui thi kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Purani company se wapas bulane ka yog nahi hai ji. Shani ki wajah se purane raste ab band lagte hain. Wahan se nikalte waqt kuch anban hui thi kya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha, thodi hui thi.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Par wapas bulayenge kya?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wahan se wapsi ka yog nahi hai ji, naya kaam hi aage badhayega. Communication ya padhai ke sector mein naya mauka jaldi milega. Aapki padhai kis subject mein hui hai ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wahan se wapsi ka yog nahi hai ji, naya kaam hi aage badhayega. Communication ya padhai ke sector mein naya mauka jaldi milega. Aapki padhai kis subject mein hui hai ji?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "BCom",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi pichli baar bhi galat hua",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi keh rahe ho ji, kai baar samay aage-pichhe ho jata hai. BCom ke baad finance ya accounts mein mauka March 2027 ke baad hi banega. Kya abhi isi field mein try kar rahe ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sahi keh rahe ho ji, kai baar samay aage-pichhe ho jata hai. BCom ke baad finance ya accounts mein mauka March 2027 ke baad hi banega. Kya abhi isi field mein try kar rahe ho?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Finance mein naya mauka zaroor banega ji. Guru ki kripa se March 2027 ke baad achhi job mil jayegi. Rukawat hatane ke liye Guruvaar se chana dal ka daan shuru kijiye ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Finance mein naya mauka zaroor banega ji. Guru ki kripa se March 2027 ke baad achhi job mil jayegi. Rukawat hatane ke liye Guruvaar se chana dal ka daan shuru kijiye ji."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kaha pe?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Daan kisi bhi paas ke mandir mein kar sakte ho ji. Nayi job ke liye bhi sheher badalne ka yog ban sakta hai. Kya ghar ke paas hi chahiye ya doosre sheher bhi ja sakte ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Daan kisi bhi paas ke mandir mein kar sakte ho ji. Nayi job ke liye bhi sheher badalne ka yog ban sakta hai. Kya ghar ke paas hi chahiye ya doosre sheher bhi ja sakte ho?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ja sakta hu.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Doosre sheher jaane se tarakkhi ka rasta khulega ji. Rahu ke asar se 2027-2028 ke beech door ki yatra ya transfer ka yog banega. Pehle kabhi ghar se door reh kar kaam kiya hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Doosre sheher jaane se tarakkhi ka rasta khulega ji. Rahu ke asar se 2027-2028 ke beech door ki yatra ya transfer ka yog banega. Pehle kabhi ghar se door reh kar kaam kiya hai kya?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k kaisa rahega?",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat ko lekar sawal hai ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paise ki halat ko lekar sawal hai ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Kamai mein.",
+    "sec": 270,
+    "idx": 26
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ki tangi March 2027 ke baad theek honi shuru hogi ji. Mangal ka strong asar aamdani ko badhayega. March 2027 se September 2028 ke beech paisa tikne ki shuruat par nazar rakhna ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Kamai ki tangi March 2027 ke baad theek honi shuru hogi ji. Mangal ka strong asar aamdani ko badhayega. March 2027 se September 2028 ke beech paisa tikne ki shuruat par nazar rakhna ji."
+    },
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 300,
+    "idx": 28
+  }
+]

@@ -1,0 +1,181 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 4,
+    "2.3": 3,
+    "2.4": 4,
+    "2.5": 1,
+    "2.6": 4,
+    "2.7": 4,
+    "3.1": 6,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 6
+  },
+  "gate_fail": [],
+  "overall": 4.38,
+  "shape": {
+    "M": 10,
+    "avg_words": 28.6,
+    "long_share": 0.3
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 4
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap purani job ke baare mein pooch rahi hain.",
+        "why": "The astrologer acknowledges the user's specific question about the old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya waha dobara jaane mein hichkichahat hoti hai?",
+        "why": "No Type C questions, but most questions are Type B (generic life questions) rather than building on the user's specific situation."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Main dekh sakti hoon ki wapsi ki baat pakki ho sakti hai",
+        "why": "It is about the present/future, but it is generic and lacks a specific chart reason or concrete marker in the first reading."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Main bata sakti hoon ki March 2027 tak purani job mil sakti hai.",
+        "why": "The user asked 'Kab tak bulayenge?' and the astrologer gave a date (March 2027) that is extremely far in the future, effectively giving no useful direction for the immediate concern."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": null,
+        "why": "No chart references are provided in the readings."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Main dekh sakti hoon ki aane wale dinon mein naye mauke milenge.",
+        "why": "The later reading adds a new point but does not use any specific details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Main bata sakti hoon ki March 2027 tak purani job mil sakti hai.",
+        "why": "Giving a date years into the future for a simple job return question is not a helpful or realistic window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Iske liye Friday ko white sweets daan kijiye.",
+        "why": "A stock remedy (donating sweets) is given with no stated link to the specific problem of the job return."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Purani job ka jawab de diya hai. Finance aur communication ke kshetra se jude bade badlaav ki baatein abhi baaki hain.",
+        "why": "The astrologer answers the new question (marriage) but the first question (job) was not fully resolved, and the astrologer pivots to a pitch."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Finance aur communication ke kshetra se jude bade badlaav ki baatein abhi baaki hain.",
+        "why": "A generic pointer is used to encourage further chat."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aap chat recharge karke ise abhi poora samajh sakti hoon.",
+        "why": "The astrologer ends the chat with a pitch while time remains, effectively closing the session."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aap chat recharge karke ise abhi poora samajh sakti hoon.",
+        "why": "The last message is a pitch/closing, leaving the user with no reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji. Aap purani job ke baare mein pooch rahi hain.",
+        "why": "The language is simple and conversational, matching the user's tone."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      }
+    ]
+  }
+}

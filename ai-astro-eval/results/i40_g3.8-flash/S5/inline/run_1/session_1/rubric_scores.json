@@ -1,0 +1,195 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 4,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 6.06,
+  "shape": {
+    "M": 10,
+    "avg_words": 30.2,
+    "long_share": 0.5
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Love life ko lekar abhi dil mein kya sawal chal raha hai?",
+        "why": "The astrologer acknowledges the user's topic 'Love life' in the first reply."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aap kisi rishte mein hain ya naye rishte ke baare mein sochna chahte hain?",
+        "why": "No Type C questions, but more than half are Type B (generic)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Rishton ka grah kamzor hai, kya 2025 ke aaspas baat bante bante ruk gayi thi?",
+        "why": "The reading is about the past/present, new, specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Patri mein partner ke swabhav aur unche kad ko lekar gehra yog dikhta hai.",
+        "why": "Provides a clear direction/reading about the love life."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ka klesh aur papa ki dukan ka jana dono aathvein ghar ke mehnat wale grah se jude hain.",
+        "why": "Links the life event (shop loss/fighting) to a chart factor (8th house) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mata ji ke dukh se aapka mann bhi dab raha hai.",
+        "why": "Uses the user's detail about their mother to build depth."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Mann ke grah par bhari asar hai jo June 2027 tak theek ho jayega.",
+        "why": "Gives a single date/deadline rather than a window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Brihaspativar ko chana dal daan karein.",
+        "why": "Provides a practical remedy for the stated problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki love life aur pareshani par humne baat ki.",
+        "why": "The astrologer holds the thread across different topics."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Patri mein partner ke swabhav aur unche kad ko lekar gehra yog dikhta hai.",
+        "why": "Opens a specific further layer about the partner."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Patri mein aane wale partner ke shant swabhav aur unki samajh ko lekar ek gehra yog banta hai.",
+        "why": "The astrologer continues to send repetitive messages after the user said 'Bas'."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aapka sawal humne ache se dekh liya hai ji. Patri mein partner ke swabhav aur unke parivar ko lekar ek gehra yog dikhta hai.",
+        "why": "The last messages are repetitive filler/pitching."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ka klesh aur papa ki dukan ka jana dono aathvein ghar ke mehnat wale grah se jude hain.",
+        "why": "Uses easy language and explains chart terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main aapka dard samajh sakti hoon ji. Jab ghar par bura waqt aata hai toh khud par dosh lagne lagta hai, par yeh sab waqt ka phera hai.",
+        "why": "Adapts to the user's emotional pushback ('Aap samjh nahi rahe') in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      },
+      {
+        "idx": 21,
+        "type": "reading"
+      },
+      {
+        "idx": 23,
+        "type": "reading"
+      },
+      {
+        "idx": 25,
+        "type": "reading"
+      }
+    ]
+  }
+}

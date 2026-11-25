@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aapka swagat hai. Pichli baar baat hui thi family aur shaadi ke baare mein, aaj bataiye kis cheez ko lekar zyaada chinta ho rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aapka swagat hai. Pichli baar baat hui thi family aur shaadi ke baare mein, aaj bataiye kis cheez ko lekar zyaada chinta ho rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka tension hai",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech pakki hone ka yog hai ji. Pichli baar aapne shaadi ki hi chinta batayi thi, toh kya abhi ghar wale kisi rishte ki baat kar rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech pakki hone ka yog hai ji. Pichli baar aapne shaadi ki hi chinta batayi thi, toh kya abhi ghar wale kisi rishte ki baat kar rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rahe h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jaan-pehchaan ke zariye aane ka yog hai ji. Partner kafi shaant aur samajhdar swabhaav ke honge. Kya abhi kisi baat par charcha shuru hui hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta jaan-pehchaan ke zariye aane ka yog hai ji. Partner kafi shaant aur samajhdar swabhaav ke honge. Kya abhi kisi baat par charcha shuru hui hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha baat chal rhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat chal rahi hai toh Shukra ko majboot karne ke liye upay shuru kar dijiye ji. Har Shukravaar 'Om Shum Shukraya Namah' ka 108 baar jaap karein aur safed mithaai daan dein. Kya ye rishta kisi jaan-pehchaan ke madhyam se hi aa raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Baat chal rahi hai toh Shukra ko majboot karne ke liye upay shuru kar dijiye ji. Har Shukravaar 'Om Shum Shukraya Namah' ka 108 baar jaap karein aur safed mithaai daan dein. Kya ye rishta kisi jaan-pehchaan ke madhyam se hi aa raha hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha family friends",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Family friends se baat aage badhna bahut achha sanket hai ji. Hone wale jeevan saathi kafi shaant aur samajhdar honge. Kya abhi aage milne ki baat ho rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Family friends se baat aage badhna bahut achha sanket hai ji. Hone wale jeevan saathi kafi shaant aur samajhdar honge. Kya abhi aage milne ki baat ho rahi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Milna shuru ho raha hai toh baat positive lagegi ji. Samne wale thode traditional aur samajhdar honge. Kya unhone aage milne ki koi tareekh tay ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Milna shuru ho raha hai toh baat positive lagegi ji. Samne wale thode traditional aur samajhdar honge. Kya unhone aage milne ki koi tareekh tay ki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi abhi",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, jaldi hi koi pakki khabar milegi. Partner kafi padhe-likhe aur warm nature ke honge. Kya unki job ya padhai ke baare mein kuch bataya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Koi baat nahi ji, jaldi hi koi pakki khabar milegi. Partner kafi padhe-likhe aur warm nature ke honge. Kya unki job ya padhai ke baare mein kuch bataya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Waise meri job ka kya",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ki chinta mat kijiye ji, iske baare mein bhi baat karte hain. Aap abhi kahin kaam kar rahe hain ya naya try kar rahe hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Job ki chinta mat kijiye ji, iske baare mein bhi baat karte hain. Aap abhi kahin kaam kar rahe hain ya naya try kar rahe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Naya try krrhi hu",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi naukri ke raste June 2027 ke baad khulne lagenge ji. Shani ka dabav career sthaan se hatne par mehnat rang layegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Nayi naukri ke raste June 2027 ke baad khulne lagenge ji. Shani ka dabav career sthaan se hatne par mehnat rang layegi."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bhi tension hai",
+    "sec": 270,
+    "idx": 20
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se life mein naye mauke aur stability aane wali hai, halat behtar honge. Batao, abhi sabse zyada tension kis cheez ki hai, career ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "2027 se life mein naye mauke aur stability aane wali hai, halat behtar honge. Batao, abhi sabse zyada tension kis cheez ki hai, career ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi. Kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ke pakke yog hain, rishta jaan-pehchaan se aayega. Par shadi se pehle ek aisi baat ka dhyan rakhna hoga jo sabse main hai. Ghar pe abhi kisi rishte ki baat shuru hui hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ke pakke yog hain, rishta jaan-pehchaan se aayega. Par shadi se pehle ek aisi baat ka dhyan rakhna hoga jo sabse main hai. Ghar pe abhi kisi rishte ki baat shuru hui hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, mummy papa dekh rahe hain, ek rishta aaya bhi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 hi pakka hai kya?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2027 mein sabse strong chances hain kyunki tabhi naya phase shuru hota hai, baaki pura window khula hai. Ghar wale kya soch rahe hain is baare mein?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se May 2027 mein sabse strong chances hain kyunki tabhi naya phase shuru hota hai, baaki pura window khula hai. Ghar wale kya soch rahe hain is baare mein?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March ya April?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 hi sabse strong lag raha hai kyunki wahi se naya samay shuru hota hai. Par rishta pakka karne se pehle unke parivar ke nature ko achhi tarah samajh lena, wahi par ek chhota twist aa sakta hai jo baad mein matter karega. Kya ladke wale family background ke baare mein kuch bataya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 hi sabse strong lag raha hai kyunki wahi se naya samay shuru hota hai. Par rishta pakka karne se pehle unke parivar ke nature ko achhi tarah samajh lena, wahi par ek chhota twist aa sakta hai jo baad mein matter karega. Kya ladke wale family background ke baare mein kuch bataya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ab ye batao, paisa kab badhega?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aane ke baad bhi rukta nahi hai kya, ya saving karne mein problem aa rahi hai? Yeh kab se feel ho raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa aane ke baad bhi rukta nahi hai kya, ya saving karne mein problem aa rahi hai? Yeh kab se feel ho raha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Saving problem. 2 saal se.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab badhega?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi paisa tight hai na? Kundli mein wahi 2 saal dikh rahe hain. March 2027 se halat sudhrenge. Monday ko 'Om Som Somaya Namah' 108 baar jaap karo. Job karte ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "2023 se hi paisa tight hai na? Kundli mein wahi 2 saal dikh rahe hain. March 2027 se halat sudhrenge. Monday ko 'Om Som Somaya Namah' 108 baar jaap karo. Job karte ho?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, abhi job nahi hai.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ghar ki tension kab se chal rahi hai, aur iska asar tumhare din bhar ke mood par kaise padta hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ye ghar ki tension kab se chal rahi hai, aur iska asar tumhare din bhar ke mood par kaise padta hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "3 saal se.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab khatam hogi tension?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh teen saal ka dabav wahi grahon ki chal ka asar hai, jo June 2027 ke baad kam hone lagega. Saturday ko 'Om Sham Shanaishcharaya Namah' 108 baar jaap karo aur kale til daan karo. Kya is dauran ghar pe kisi se apni baat kehne mein pareshani hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Yeh teen saal ka dabav wahi grahon ki chal ka asar hai, jo June 2027 ke baad kam hone lagega. Saturday ko 'Om Sham Shanaishcharaya Namah' 108 baar jaap karo aur kale til daan karo. Kya is dauran ghar pe kisi se apni baat kehne mein pareshani hoti hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 start ya end?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ke beech ke baad se hi tension tezi se kam hone lagegi. June ke baad ek aisa turning point aayega jab career ko lekar ek bada decision lena padega. Kya job ke liye abhi kuch socha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "June ke beech ke baad se hi tension tezi se kam hone lagegi. June ke baad ek aisa turning point aayega jab career ko lekar ek bada decision lena padega. Kya job ke liye abhi kuch socha hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

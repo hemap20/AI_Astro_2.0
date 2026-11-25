@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Aap kaise hain? Aap apne mann ki koi baat batana chahengi to main sunne ke liye taiyaar hoon.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Aap kaise hain? Aap apne mann ki koi baat batana chahengi to main sunne ke liye taiyaar hoon."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichli baar aapki shaadi ki fikr, ghar ka tanav aur paise ki tangi ki baat hui thi. Aaj uspe dobara baat karte hain. Shaadi ke baare mein aapka sawal kya hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, pichli baar aapki shaadi ki fikr, ghar ka tanav aur paise ki tangi ki baat hui thi. Aaj uspe dobara baat karte hain. Shaadi ke baare mein aapka sawal kya hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rhe kya karu",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar wale rishta dhoondh rahe hain, ye samajh sakti hoon. Aapko is waqt kya sabse zyada pareshan kar raha hai, rishta ki jaldi ya ghar ka mahaul?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, ghar wale rishta dhoondh rahe hain, ye samajh sakti hoon. Aapko is waqt kya sabse zyada pareshan kar raha hai, rishta ki jaldi ya ghar ka mahaul?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ka mahaul",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ka mahaul thik na ho to dil par bhaari lagta hai, ye samajh sakti hoon. Pichli baar ki tarah aaj bhi dhairya rakhiye. Ghar mein sabse zyada tension kab se shuru hua, jab rishta ki baat chali ya usse pehle?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, ghar ka mahaul thik na ho to dil par bhaari lagta hai, ye samajh sakti hoon. Pichli baar ki tarah aaj bhi dhairya rakhiye. Ghar mein sabse zyada tension kab se shuru hua, jab rishta ki baat chali ya usse pehle?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Rishta ki baat se hi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, rishta ki baat shuru hote hi ghar ka tanav badh jaana aam baat hai. Aapki kundli mein Shukra, jo rishton ka grah hai, abhi kamzor hai, isliye ye daur bhaari lagta hai. Kya aap bata sakti hain ki Nov 2022 mein aapki padhai ya college mein koi badlav aaya tha?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, rishta ki baat shuru hote hi ghar ka tanav badh jaana aam baat hai. Aapki kundli mein Shukra, jo rishton ka grah hai, abhi kamzor hai, isliye ye daur bhaari lagta hai. Kya aap bata sakti hain ki Nov 2022 mein aapki padhai ya college mein koi badlav aaya tha?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi. Ha.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, koi baat nahi. Mera sawal bas itna tha ki Nov 2022 ke aas-paas aapki padhai ya college mein koi badlav aaya tha, kya ye sahi hai? Haan ya na mein bata dijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, koi baat nahi. Mera sawal bas itna tha ki Nov 2022 ke aas-paas aapki padhai ya college mein koi badlav aaya tha, kya ye sahi hai? Haan ya na mein bata dijiye."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ye jaankar accha laga ki Nov 2022 ke aas-paas padhai mein badlav aaya tha. Ab ghar ke mahaul ki baat karein. Ghar mein koi aapse khul kar baat karta hai, ya aap zyadatar chup rehti hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, ye jaankar accha laga ki Nov 2022 ke aas-paas padhai mein badlav aaya tha. Ab ghar ke mahaul ki baat karein. Ghar mein koi aapse khul kar baat karta hai, ya aap zyadatar chup rehti hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Chup rehti hu",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aap chup rehti hain to mann mein bojh badhta hai, ye samajh sakti hoon. Chandra, jo mann ka grah hai, uspar Mangal ki nazar padti hai, isliye gussa aur bhaari pan jaldi aata hai. Kya aapke ghar mein koi ek insaan hai jiske saath aap thodi der baat kar sakti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, aap chup rehti hain to mann mein bojh badhta hai, ye samajh sakti hoon. Chandra, jo mann ka grah hai, uspar Mangal ki nazar padti hai, isliye gussa aur bhaari pan jaldi aata hai. Kya aapke ghar mein koi ek insaan hai jiske saath aap thodi der baat kar sakti hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Koi nahi",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, itna akela mehsoos karna bhaari hota hai, ye samajh sakti hoon. Aapki kundli mein Shukra, jo rishton ka grah hai, kamzor hai, isliye ghar mein khulkar baat kam hoti hai. Ye daur hamesha ke liye nahi hai. Har din kuch der apne mann ki baat kaagaz par likhiye, isse dil halka hoga.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, itna akela mehsoos karna bhaari hota hai, ye samajh sakti hoon. Aapki kundli mein Shukra, jo rishton ka grah hai, kamzor hai, isliye ghar mein khulkar baat kam hoti hai. Ye daur hamesha ke liye nahi hai. Har din kuch der apne mann ki baat kaagaz par likhiye, isse dil halka hoga."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapne kaha ki ghar mein koi nahi jisse baat kar sakein, ye sunkar dukh hua. Aapki kundli mein Shukra, jo rishton ka grah hai, ka daur ab badal raha hai. Mar 2027 ke baad ghar ka mahaul thoda sudharne ki ummeed hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ji, aapne kaha ki ghar mein koi nahi jisse baat kar sakein, ye sunkar dukh hua. Aapki kundli mein Shukra, jo rishton ka grah hai, ka daur ab badal raha hai. Mar 2027 ke baad ghar ka mahaul thoda sudharne ki ummeed hai."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 20
+  }
+]

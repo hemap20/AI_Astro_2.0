@@ -1,0 +1,169 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 6,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 8
+  },
+  "gate_fail": [],
+  "overall": 7.31,
+  "shape": {
+    "M": 7,
+    "avg_words": 32.3,
+    "long_share": 0.71
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 3
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Job dhundh rahi hu.",
+        "why": "The astrologer acknowledges the user's job hunt in the first reply, but does not name the feeling."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi aap padhai kar rahe hain ya job dhoondh rahe hain?",
+        "why": "The questions are relevant and build on the user's situation. No Type C questions found."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mann ka grah weak hone se tension zyada hai. Kya 2022 mein padhai mein koi badlav aaya tha?",
+        "why": "The reading is about the present, adds new information (tension/mind), is specific, and ties to a chart reason (Mann ka grah)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 ka mahina naye kaam ke liye sabse behtar dikh raha hai.",
+        "why": "A clear direction (March 2027) is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mann ka grah weak hone se tension zyada hai.",
+        "why": "Multiple linked readings are provided using plain words like 'Mann ka grah' and 'Kamai ka grah'."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Marketing aapke liye bohot achha hai.",
+        "why": "The astrologer adds new points (marketing suitability) and uses the user's input (marketing field)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 ka mahina naye kaam ke liye sabse behtar dikh raha hai.",
+        "why": "A specific month is given as what the chart shows, without promising certainty."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Guruvar se \"Om Gram Greem Grom Sah Gurave Namah\" japein.",
+        "why": "The remedy is tied to the cause (Kamai ka grah), includes how and when, and a specific duration is provided."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 se job ke saath kamai shuru ho jayegi... March 2027 mein job confirm hone ke poore chance hain.",
+        "why": "Both questions (job timing and money) are answered clearly and connected."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Abhi kya pareshani hai?",
+        "why": "The astrologer asks a generic question rather than opening a specific next layer based on the reading."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Every reply carries a reading, guidance or a question",
+        "why": "No closing message and no empty acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ka grah majboot hone se March 2027 ke baad paisa achha bachega. Abhi interview ki tayyari kaisi chal rahi hai?",
+        "why": "The last message contains a reading and a relevant question."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mann ka grah weak hone se tension zyada hai.",
+        "why": "Uses everyday language for astrology terms."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      }
+    ]
+  }
+}

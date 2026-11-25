@@ -1,0 +1,125 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Purani job se vapas bulava aane ke chances abhi kam hain, par naye mauke zaroor milenge. Kya aapne khud job chhodi thi ya unhone hataya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Purani job se vapas bulava aane ke chances abhi kam hain, par naye mauke zaroor milenge. Kya aapne khud job chhodi thi ya unhone hataya tha?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Unhone hataya tha. Kab tak wapas bulayenge?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job se vapas bulana mushkil hai, par Mar 2027 se Sep 2028 ke beech nayi job milegi. Kya 2023 se 2025 ke beech paise ki kami rahi thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Purani job se vapas bulana mushkil hai, par Mar 2027 se Sep 2028 ke beech nayi job milegi. Kya 2023 se 2025 ke beech paise ki kami rahi thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Matlab nahi bulayenge? Spasht kijiye.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, wahan vapas jana mushkil hai. Par 10ve ghar ke malik majboot hone se nayi behtar job milegi. Kya 2023 se 2025 ke beech paise ki kami rahi thi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, wahan vapas jana mushkil hai. Par 10ve ghar ke malik majboot hone se nayi behtar job milegi. Kya 2023 se 2025 ke beech paise ki kami rahi thi?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Agle hafte interview hai, wahan hoga?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle hafte interview mein result thoda dheema reh sakta hai. Par aapke chart mein ek nayi line se labh ka mauka dikhta hai. Ye kis post ke liye hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Agle hafte interview mein result thoda dheema reh sakta hai. Par aapke chart mein ek nayi line se labh ka mauka dikhta hai. Ye kis post ke liye hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Data Analyst. Selection hoga ya nahi?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is interview mein selection ke chances thode kam hain. Par Budh aur Guru ke karan Data Analyst field aapke liye best hai. Thu se Guru mantra japna shuru kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Is interview mein selection ke chances thode kam hain. Par Budh aur Guru ke karan Data Analyst field aapke liye best hai. Thu se Guru mantra japna shuru kijiye."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha ya na bolo, hoga ya nahi?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo batate ho vesa hota nahi.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki baat samajh sakti hoon, isme selection ki ummeed 'na' ke barabar hai. Par Mar 2027 se tech field mein acchi job zaroor milegi. Kya kahin aur apply kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki baat samajh sakti hoon, isme selection ki ummeed 'na' ke barabar hai. Par Mar 2027 se tech field mein acchi job zaroor milegi. Kya kahin aur apply kiya hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, bas wahi interview hai. 2027 bahut dur hai, kuch jaldi batao.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "10ve ghar par mehnat ke grah ki wajah se abhi deri hai. Sat 21 Nov se 'Om Sham Shanaishcharaya Namah' jap kijiye. Kya aap roz naye apply kar rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "10ve ghar par mehnat ke grah ki wajah se abhi deri hai. Sat 21 Nov se 'Om Sham Shanaishcharaya Namah' jap kijiye. Kya aap roz naye apply kar rahe hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Faltu, 5 minute aise hi nikal gaye.",
+    "sec": 210,
+    "idx": 16
+  }
+]

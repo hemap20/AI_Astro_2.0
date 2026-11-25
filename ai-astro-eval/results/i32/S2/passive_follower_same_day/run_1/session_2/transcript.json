@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon? Bataiye, aaj mann mein kya baat hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon? Bataiye, aaj mann mein kya baat hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, humne aapki shaadi aur sarkari naukri ke baare mein baat ki thi. 2023 se 2025 tak padhai aur career mein kafi mehnat karni padi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, humne aapki shaadi aur sarkari naukri ke baare mein baat ki thi. 2023 se 2025 tak padhai aur career mein kafi mehnat karni padi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi bole",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur shaadi ka tanaav ek hi grah ke asar se hai. 2027 mein naukri aur shaadi dono pakke hain. Ek khaas rishta aane wala hai, kya ghar par baat chali?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Career aur shaadi ka tanaav ek hi grah ke asar se hai. 2027 mein naukri aur shaadi dono pakke hain. Ek khaas rishta aane wala hai, kya ghar par baat chali?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, baat chal rahi.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki baat aur career ek hi grah se jude hain. 2027 mein dono jagah khushi aayegi. Rishte mein ek khaas insaan se mulakaat hogi, par abhi ek baat ka khayal rakhna hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar ki baat aur career ek hi grah se jude hain. 2027 mein dono jagah khushi aayegi. Rishte mein ek khaas insaan se mulakaat hogi, par abhi ek baat ka khayal rakhna hoga."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya baat hai?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte mein jaldbaazi se bachein, kyunki aapke rishton ka grah abhi thoda kamzor hai. Shaanti se faisla lena hi aapke liye behtar rahega. Aapne abhi tak koi rishta pasand kiya kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishte mein jaldbaazi se bachein, kyunki aapke rishton ka grah abhi thoda kamzor hai. Shaanti se faisla lena hi aapke liye behtar rahega. Aapne abhi tak koi rishta pasand kiya kya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa 2027 se behtar hoga, jab karz dheere-dheere kam hoga. Aapka dhan ka ghar thoda kamzor hai, isliye bachat mein dikat aati hai. Kya aapne kabhi nivesh karne ka socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa 2027 se behtar hoga, jab karz dheere-dheere kam hoga. Aapka dhan ka ghar thoda kamzor hai, isliye bachat mein dikat aati hai. Kya aapne kabhi nivesh karne ka socha hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi pta",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur paison ki dikkat ek hi wajah se hai, mann ka grah abhi thoda dab gaya hai. 2027 mein shaanti aayegi. Ek khaas vyakti ghar mein khushiyan wapas layega, kya aapne socha wo kaun ho sakta hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension aur paison ki dikkat ek hi wajah se hai, mann ka grah abhi thoda dab gaya hai. 2027 mein shaanti aayegi. Ek khaas vyakti ghar mein khushiyan wapas layega, kya aapne socha wo kaun ho sakta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sarkari naukri aur shaadi ka yog 2027 mein ek sath ban raha hai. Career mein ek bada mauka aane wala hai, jise pehchanna zaroori hai. Aap abhi kis exam ki taiyari kar rahi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sarkari naukri aur shaadi ka yog 2027 mein ek sath ban raha hai. Career mein ek bada mauka aane wala hai, jise pehchanna zaroori hai. Aap abhi kis exam ki taiyari kar rahi hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Bank exam",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Guru ka asar exam ke liye accha hai. Guruvaar se Guru mantra ka jap kijiye, isse career aur shaadi dono mein safalta milegi. Agli baar partner ke nature par baat karenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Guru ka asar exam ke liye accha hai. Guruvaar se Guru mantra ka jap kijiye, isse career aur shaadi dono mein safalta milegi. Agli baar partner ke nature par baat karenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

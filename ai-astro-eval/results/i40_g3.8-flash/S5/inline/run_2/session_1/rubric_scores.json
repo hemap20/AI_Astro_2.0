@@ -1,0 +1,251 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 3
+  },
+  "gate_fail": [],
+  "overall": 6.65,
+  "shape": {
+    "M": 10,
+    "avg_words": 33.2,
+    "long_share": 0.6
+  },
+  "rep": {
+    "rep": 4,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki love life ko lekar mann mein kya baat chal rahi hai?",
+        "why": "The astrologer acknowledges the user's topic of love life."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya 2022 mein padhai ya college ko lekar koi bada badlav aaya tha?",
+        "why": "No Type C questions, but most questions are generic life questions (Type B)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No specific person mentioned."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Rishte ke yog 2027 se 2028 ke beech, lagbhag 24 saal ki umar mein ban rahe hain.",
+        "why": "The first reading is entirely about the future."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishte ke yog 2027 se 2028 ke beech, lagbhag 24 saal ki umar mein ban rahe hain.",
+        "why": "Provides a clear direction and time window before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ka klesh aur paise ki tangi dono dusre ghar ke asar se jude hain.",
+        "why": "Links a life statement (family conflict/money) to a chart factor (second house)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ka klesh aur paise ki tangi dono dusre ghar ke asar se jude hain.",
+        "why": "Later readings add new points and use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishte ke yog 2027 se 2028 ke beech",
+        "why": "Provides a clear time window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah ke liye shukrawar se safed mithai daan karein.",
+        "why": "Remedy is tied to the specific problem (relationships) and includes how/when."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kamai ka time aur baat maine bata di hai ji. Partner ke aane wale naye raste aur unki rashi ka aapas ka mel dekhna abhi baaki hai.",
+        "why": "Both questions (love and money) were addressed."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Partner ke aane wale naye raste aur unki rashi ka aapas ka mel dekhna abhi baaki hai.",
+        "why": "Points to a specific further detail about the partner."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapka dhanyawad ji, apna dhyan rakhiyega aur bilkul chinta mat kijiye. Sab theek ho jayega.",
+        "why": "No early close; the astrologer only closes after the user says thanks."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ka time aur baat maine bata di hai ji. Partner ke aane wale naye raste aur unki rashi ka aapas ka mel dekhna abhi baaki hai.",
+        "why": "The last messages provide a reading and a pending point."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ka klesh aur paise ki tangi dono dusre ghar ke asar se jude hain.",
+        "why": "Uses simple, everyday language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main aapka dukh samajh sakti hoon ji. Jab ghar mein takleef ho toh aisi baatein mann mein aati hain, par aapki kamai ke grah aage bohot majboot hain.",
+        "why": "Adapts to the user's feeling of being misunderstood by validating them and then providing a reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "reading"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      },
+      {
+        "idx": 25,
+        "type": "reading"
+      }
+    ]
+  }
+}

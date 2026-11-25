@@ -1,0 +1,222 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog shuru hai ji. Shani ki mahadasha se raste khulenge.",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se yog shuru hai ji. Shani ki mahadasha se raste khulenge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "bihar",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli milan zaroor karwana padega ji. Aapke liye Tula ya Dhanu rashi behtar rehti hai. Manglik milan bhi check karna hoga.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kundli milan zaroor karwana padega ji. Aapke liye Tula ya Dhanu rashi behtar rehti hai. Manglik milan bhi check karna hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi hai kya mere liye",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rashi milan mein thoda gap lag raha hai ji. Aapke liye Dhanu ya Tula rashi sahi hai. Hone wale pati ki lambai aur swabhav kafi accha hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rashi milan mein thoda gap lag raha hai ji. Aapke liye Dhanu ya Tula rashi sahi hai. Hone wale pati ki lambai aur swabhav kafi accha hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Wo gusse wala h",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein calm partner ka yog hai ji. Gusse wala ladka aapke liye theek nahi. Soch samajh kar hi faisla lijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli mein calm partner ka yog hai ji. Gusse wala ladka aapke liye theek nahi. Soch samajh kar hi faisla lijiye.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hone wale pati calm rahenge ji. In-laws traditional aur reserved milenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Hone wale pati calm rahenge ji. In-laws traditional aur reserved milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb tak hogi",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech yog hai ji. Shani ka 9th house se judna rasta banayega. Rishta kisi jaan-pehchaan ke zariye hi aayega ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech yog hai ji. Shani ka 9th house se judna rasta banayega. Rishta kisi jaan-pehchaan ke zariye hi aayega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lambe aur padhe-likhe honge ji. Guru ka prabhav hai yeh.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Partner lambe aur padhe-likhe honge ji. Guru ka prabhav hai yeh.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Job kaisi rahegi",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job mein acchi tarakki hai ji. Guru ka prabhav hai. Teaching ya finance line aapke liye best rahegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad job mein acchi tarakki hai ji. Guru ka prabhav hai. Teaching ya finance line aapke liye best rahegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khtm ho rha hai",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, March 2027 ke Shani period se judi hui.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, March 2027 ke Shani period se judi hui.",
+      "marital_status": "unchanged"
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 270,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein videsh jaane ka yog bhi hai ji. Rahu aur Shukra ki sthiti yeh rasta banayegi.",
+    "sec": 285,
+    "raw_response": {
+      "message": "2027 mein videsh jaane ka yog bhi hai ji. Rahu aur Shukra ki sthiti yeh rasta banayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 29
+  }
+]

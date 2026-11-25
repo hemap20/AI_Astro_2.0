@@ -1,0 +1,161 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 9,
+    "2.1": 7,
+    "2.2": 9,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 8,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.71,
+  "shape": {
+    "M": 5,
+    "avg_words": 29.6,
+    "long_share": 0.2
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech bohot majboot hai.",
+        "why": "The astrologer acknowledges the user's main concern (marriage timing) immediately in the first reply."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2022 ke aaspas aapki padhai ya life mein koi bada badlaav aaya tha?",
+        "why": "The questions are relevant. The first question is Type B (could be asked to anyone), but subsequent questions like 'Kya unke ghar walon se baat hui?' and 'Kya yeh rishta ghar walon ke zariye aaya hai?' are Type A, building on the context of the relationship."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Matching ke hisab se rishta accha hai, bas Manglik milaap zaroori hai.",
+        "why": "The astrologer asks for the boy's details (implied by the user providing them) and uses them to provide a reading about the match (Manglik dosha, nature)."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech bohot majboot hai.",
+        "why": "The reading is about the future (not present/past), but it is specific and provides a clear window."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 se May 2027 ke beech shaadi ka sabse accha yog hai.",
+        "why": "The astrologer provides a clear direction (yes, it's good) and a specific time window (March-May 2027) in response to the user's repeated question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Bas Manglik milaap zaroori hai.",
+        "why": "The astrologer links the relationship advice to a chart factor (Manglik dosha) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Unki kaun si baat aapko pasand hai? ... Woh thode reserved hain, isliye gussa lagta hai",
+        "why": "The astrologer builds depth by addressing the user's concern about the boy being 'short tempered' and providing a new perspective (reserved)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 se May 2027 ke beech shaadi ka sabse accha yog hai.",
+        "why": "The astrologer provides a clear 3-month window and maintains consistency throughout the chat without making false promises."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Friday 20 Nov se 'Om Shum Shukraya Namah' jaapein.",
+        "why": "The astrologer provides a specific remedy (mantra) with a start time (Friday 20 Nov) for the relationship issue."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Rishta sahi hai, aap aage baat badha sakti hain.",
+        "why": "The astrologer consistently addresses the main question (is the boy right/should I marry) while answering follow-up questions about timing."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Unki kaun si baat aapko pasand hai?",
+        "why": "The astrologer opens a next layer by asking about the user's perception of the boy, which is specific to the relationship concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 se May 2027 ke beech shaadi ka sabse accha yog hai. Iss dauran baat pakki hona tay lagta hai. Kya ghar wale abhi se tayyari kar rahe hain?",
+        "why": "No closing message is used, and every reply carries a reading or relevant question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se May 2027 ke beech shaadi ka sabse accha yog hai.",
+        "why": "The last message provides a concrete reading, leaving the user with a clear answer."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Bas Manglik milaap zaroori hai.",
+        "why": "The language is easy, and astrology terms like 'Manglik' are used in a way that is commonly understood in this context."
+      }
+    },
+    "labels": [
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      }
+    ]
+  }
+}

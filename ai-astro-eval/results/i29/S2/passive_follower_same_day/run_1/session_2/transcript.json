@@ -1,0 +1,128 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon. Batao, aaj kya pareshani hai ya kya jaanna chahte ho?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon. Batao, aaj kya pareshani hai ya kya jaanna chahte ho?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, maine career aur shaadi ke baare mein socha tha. Shaadi ke chances March 2027 se September 2028 ke beech hain. 2023 se 2025 tak paise ki tangi aur mehnat bohot rahi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, maine career aur shaadi ke baare mein socha tha. Shaadi ke chances March 2027 se September 2028 ke beech hain. 2023 se 2025 tak paise ki tangi aur mehnat bohot rahi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ji. Sahi bola.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhara kismat ka grah abhi kamzor hai, isliye kaam mein rukavat hai. Ghar wale abhi rishte ki baat kahan tak le gaye hain? Rishta aate waqt ek cheez ka dhyan rakhna zaroori hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Tumhara kismat ka grah abhi kamzor hai, isliye kaam mein rukavat hai. Ghar wale abhi rishte ki baat kahan tak le gaye hain? Rishta aate waqt ek cheez ka dhyan rakhna zaroori hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rhe",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke hisaab se tumhara hone wala partner shant aur padha-likha hoga. Par ek baat ka dhyan rakho, unke parivar aur nature ko thoda gehrai se samajhna zaroori hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli ke hisaab se tumhara hone wala partner shant aur padha-likha hoga. Par ek baat ka dhyan rakho, unke parivar aur nature ko thoda gehrai se samajhna zaroori hai."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Paisa ka kya?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ka ghar thoda kamzor hai aur jaldbazi mein liye gaye faisle dikkat badhate hain. March 2027 se career sambhalega, tab dikkat kam hogi. Somwar ka vrat rakho, mann shant rahega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ka ghar thoda kamzor hai aur jaldbazi mein liye gaye faisle dikkat badhate hain. March 2027 se career sambhalega, tab dikkat kam hogi. Somwar ka vrat rakho, mann shant rahega."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar pe bohot tension h",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahaul grahon ke asar se bhaari hai. Mangal ke liye Hanuman Chalisa padhna shuru karo aur ghar pe khul ke baat karo. Parivar se rishte kaise sudharein, agli baar baat karenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ka mahaul grahon ke asar se bhaari hai. Mangal ke liye Hanuman Chalisa padhna shuru karo aur ghar pe khul ke baat karo. Parivar se rishte kaise sudharein, agli baar baat karenge."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai. Ghar ka mahaul aur rishton mein thandak kaise laani hai, wo tumhari kundli mein saaf dikh raha hai. Agli baar jab baat karenge, tab is par vistaar se charcha karenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Theek hai. Ghar ka mahaul aur rishton mein thandak kaise laani hai, wo tumhari kundli mein saaf dikh raha hai. Agli baar jab baat karenge, tab is par vistaar se charcha karenge."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai. Apna khayal rakhna. Jab bhi mann ho ya koi sawal ho, phir baat karenge. Namaste.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Theek hai. Apna khayal rakhna. Jab bhi mann ho ya koi sawal ho, phir baat karenge. Namaste."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 16
+  }
+]

@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 6,
+    "3.3": 4,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 8,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.76,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.3,
+    "long_share": 0.56
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "User shared no worry, feeling or story, only a question."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya abhi ghar wale direct baat kar rahe hain?",
+        "why": "No Type C questions, but more than half are Type B (generic)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya abhi ghar wale direct baat kar rahe hain?",
+        "why": "Asks with a reason (to understand the rishta situation) and carries on."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka sabse pakka yog March 2027 se September 2028 ke beech hai.",
+        "why": "Now, New, and Specific are yes; Reason is no."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka sabse pakka yog March 2027 se September 2028 ke beech hai.",
+        "why": "Clear direction given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Is rishte mein rishton ke grah ki kamzori se baatein beech mein ruk sakti hain.",
+        "why": "Two or more linked readings provided."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Nahi ji, 2025 mein final hona bohot mushkil hai. Is rishte mein rishton ke grah ki kamzori se baatein beech mein ruk sakti hain.",
+        "why": "One later reading is New and Uses user detail."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka sabse pakka yog March 2027 se September 2028 ke beech hai.",
+        "why": "A window is provided and facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukravar se 'Om Shum Shukraya Namah' ka jaap karein, rasta saaf hoga.",
+        "why": "One remedy provided with how and when."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension June 2027 ke baad kam ho jayegi.",
+        "why": "Answers the questions in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke partner ke swabhaav aur unke ghar walon ke baare mein ek khas baat baaki hai.",
+        "why": "Names one specific further thing about the concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Chat abhi recharge karke aage samajh lijiye.",
+        "why": "Pitch for recharge is not a closing message but stalls the chat."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Chat abhi recharge karke aage samajh lijiye.",
+        "why": "Last message is a pitch/wait line."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ke grah par mehnat ke grah ki nazar hai",
+        "why": "No technical terms used without explanation, no formal language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Nahi, 2025 mein yeh rishta final nahi hoga.",
+        "why": "User pushed for certainty, astrologer answered plainly in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "reading"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "reading"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "both"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      }
+    ]
+  }
+}

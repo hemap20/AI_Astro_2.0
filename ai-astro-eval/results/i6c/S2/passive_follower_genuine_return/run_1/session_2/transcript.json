@@ -1,0 +1,180 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! 2027 mein March ke baad career mein acchi rahat dikh rahi hai. Bataiye, aaj kaunse vishay par baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! 2027 mein March ke baad career mein acchi rahat dikh rahi hai. Bataiye, aaj kaunse vishay par baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ka yog hai ji. Rishta arranged hone ka pura chance hai. Kya ghar wale abhi koshish kar rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ka yog hai ji. Rishta arranged hone ka pura chance hai. Kya ghar wale abhi koshish kar rahe hain?",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale dekh rahe hain toh baat pakki ho sakti hai. Kundli mein partner kaafi calm aur educated dikh rahe hain.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ghar wale dekh rahe hain toh baat pakki ho sakti hai. Kundli mein partner kaafi calm aur educated dikh rahe hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial situation sudharne lagegi ji. Mangal strong hone se debt bhi clear hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad financial situation sudharne lagegi ji. Mangal strong hone se debt bhi clear hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bhot hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahaul abhi thoda heavy chal raha hai. June 2027 ke baad yeh tension poori tarah kum ho jayegi ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ka mahaul abhi thoda heavy chal raha hai. June 2027 ke baad yeh tension poori tarah kum ho jayegi ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se 2028 ke beech bahar jaane ka yog bhi ban raha hai ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "2027 se 2028 ke beech bahar jaane ka yog bhi ban raha hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saturday ko kale til daan kijiye ji. Shani ki shanti se rukaavat dur hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Saturday ko kale til daan kijiye ji. Shani ki shanti se rukaavat dur hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 ke baad apna ghar banega ji. Sabhi pareshaniya dheere dheere door ho jayengi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "October 2028 ke baad apna ghar banega ji. Sabhi pareshaniya dheere dheere door ho jayengi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner thode shant aur lambe honge ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Partner thode shant aur lambe honge ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "In-laws traditional aur reserved rahenge ji. Ye kundli mein saaf dikh raha hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "In-laws traditional aur reserved rahenge ji. Ye kundli mein saaf dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

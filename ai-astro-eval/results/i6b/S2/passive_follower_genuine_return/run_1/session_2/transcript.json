@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. March 2027 se career mein relief milegi. Aaj kya pareshan kar raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. March 2027 se career mein relief milegi. Aaj kya pareshan kar raha hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi ka yog shuru hoga. Kya aap abhi unmarried hain ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se shaadi ka yog shuru hoga. Kya aap abhi unmarried hain ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha unmarried",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji. Rishta family dwara aayega. Partner calm aur educated hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Theek hai ji. Rishta family dwara aayega. Partner calm aur educated hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta chal rha h",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh toh badhiya hai ji. Shani aur Guru ki vajah se baat ban sakti hai. Kya yeh rishta kisi jaan-pehchan wale ke through hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Yeh toh badhiya hai ji. Shani aur Guru ki vajah se baat ban sakti hai. Kya yeh rishta kisi jaan-pehchan wale ke through hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha relative h",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Relative ke through baat aage badhna Guru ka asar hai ji. Inka swabhav kaafi calm aur educated hoga. Kya ghar wale isme poora support kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Relative ke through baat aage badhna Guru ka asar hai ji. Inka swabhav kaafi calm aur educated hoga. Kya ghar wale isme poora support kar rahe hain?",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan sab man gye",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sabka manna bohot achhi baat hai ji. Ghar ki tenshan ab kam ho rahi hai. 2027 ke shuruat mein baat pakki ho sakti hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Sabka manna bohot achhi baat hai ji. Ghar ki tenshan ab kam ho rahi hai. 2027 ke shuruat mein baat pakki ho sakti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k tension hai",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad karza kam hoga ji. Mangal strong hone se paisa aane lagega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad karza kam hoga ji. Mangal strong hone se paisa aane lagega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khtm hogi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-2027 mein ghar ki tension khatam hogi ji. Shani ka asar kam hone se.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mid-2027 mein ghar ki tension khatam hogi ji. Shani ka asar kam hone se.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baad apna ghar banega ji. Budh ka yog strong dikh raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi ke baad apna ghar banega ji. Budh ka yog strong dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

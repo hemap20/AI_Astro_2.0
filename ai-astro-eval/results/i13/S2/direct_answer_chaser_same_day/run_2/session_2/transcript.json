@@ -1,0 +1,200 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek do saal mein aapke halat behtar hone lagenge. Bataiye, aaj kis baare mein baat karni hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek do saal mein aapke halat behtar hone lagenge. Bataiye, aaj kis baare mein baat karni hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Itna late? Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai ji. Shukra ke kamzor hone ki wajah se thoda samay lag raha hai. Ghar wale abhi rishta kahan dekh rahe hain ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai ji. Shukra ke kamzor hone ki wajah se thoda samay lag raha hai. Ghar wale abhi rishta kahan dekh rahe hain ji?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rhe hain abhi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Par 2027-28 bohot dur hai. Koi exact mahina?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein Shani ka naya samay shuru hote hi yog sabse strong ho jayega ji. Baaki rasta September 2028 tak open hai. Jo rishta abhi dekh rahe hain, kya woh jaan-pehchaan ka hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 mein Shani ka naya samay shuru hote hi yog sabse strong ho jayega ji. Baaki rasta September 2028 tak open hai. Jo rishta abhi dekh rahe hain, kya woh jaan-pehchaan ka hai ji?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, family friends hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Usse hogi ya nahi ye batao?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Iss rishte se baat pakki hone ke acche chances hain ji. Jaan-pehchaan ke zariye hi aage rasta khul raha hai. Kya woh ladka thoda shant aur padha-likha hai ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Iss rishte se baat pakki hone ke acche chances hain ji. Jaan-pehchaan ke zariye hi aage rasta khul raha hai. Kya woh ladka thoda shant aur padha-likha hai ji?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan shant hai.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Bas ye batao, usse shaadi hogi ya nahi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Usi rishte ke hone ke poore chance hain ji. Unka shant nature aapke yog se bilkul milta hai. Kya unki family thodi traditional aur strict hai ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Usi rishte ke hone ke poore chance hain ji. Unka shant nature aapke yog se bilkul milta hai. Kya unki family thodi traditional aur strict hai ji?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan strict hain.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Hogi ya nahi, bas haan ya na bolo.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, is rishte ke hone ke poore chance hain ji. Guru ka sath baat aage badhayega. Friday ko white sweets daan karna shuru karein ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, is rishte ke hone ke poore chance hain ji. Guru ka sath baat aage badhayega. Friday ko white sweets daan karna shuru karein ji."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki baat karte hain ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ki baat karte hain ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kamai mein.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak badhegi income?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad se income dheere-dheere badhne lagegi ji. Mangal ke strong hone se paise ke raste khulenge. Kya abhi job mein salary time par nahi mil rahi ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad se income dheere-dheere badhne lagegi ji. Mangal ke strong hone se paise ke raste khulenge. Kya abhi job mein salary time par nahi mil rahi ji?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein dimaag ko thaka deti hai ji. Yeh baat zyadatar kis wajah se badh rahi hai ji?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein dimaag ko thaka deti hai ji. Yeh baat zyadatar kis wajah se badh rahi hai ji?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Family issues. Kab tak khatam hogi ye bataiye.",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "February 2027 ke baad ghar ka mahaul theek hone lagega ji. Shani ka mushkil samay nikalne se yeh dabav khatam hoga. June 2027 tak ghar mein puri shanti aa jayegi.",
+    "sec": 285,
+    "raw_response": {
+      "message": "February 2027 ke baad ghar ka mahaul theek hone lagega ji. Shani ka mushkil samay nikalne se yeh dabav khatam hoga. June 2027 tak ghar mein puri shanti aa jayegi."
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 300,
+    "idx": 27
+  }
+]

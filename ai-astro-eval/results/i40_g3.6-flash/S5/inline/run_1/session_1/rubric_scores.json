@@ -1,0 +1,195 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 4,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 4,
+    "2.3": 7,
+    "2.4": 4,
+    "2.5": 7,
+    "2.6": 4,
+    "2.7": null,
+    "3.1": 4,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 3,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 3
+  },
+  "gate_fail": [],
+  "overall": 4.38,
+  "shape": {
+    "M": 10,
+    "avg_words": 30.4,
+    "long_share": 0.6
+  },
+  "rep": {
+    "rep": 4,
+    "top_opener": 3
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki pareshani aur dukan ka nuksan 3rd house ke Budh-Guru se judaa hai",
+        "why": "The astrologer acknowledges the specific details about the shop and family fighting, though it takes a few turns to get there."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aap abhi kisi ke saath rishte mein hain ya single hain?",
+        "why": "The astrologer asks this question twice (message 1 and 7), making it a Type C question."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Ghar ki pareshani aur dukan ka nuksan 3rd house ke Budh-Guru se judaa hai",
+        "why": "It is about the present and tied to a chart reason, but the reading is quite generic regarding the shop/family issues."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapki shaadi arranged raste se hona zyaada pakka hai.",
+        "why": "The user asked about love life, and the astrologer gives a prediction about arranged marriage without addressing the user's emotional distress or the 'love life' aspect directly."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki pareshani aur dukan ka nuksan 3rd house ke Budh-Guru se judaa hai",
+        "why": "Links the life event (shop loss) to a chart factor (3rd house Budh-Guru) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapki shaadi arranged raste se hona zyaada pakka hai.",
+        "why": "The later readings (about marriage, then remedies) are new, but they don't really use the user's specific details about their parents fighting or feeling unlucky."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "June 2027 tak theek ho jayegi",
+        "why": "Provides a clear window (June 2027) and the facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aap roz Hanuman Chalisa padha kijiye.",
+        "why": "A stock remedy (Hanuman Chalisa) given without a specific link to the user's problem of feeling unlucky or family fighting."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user does not change the topic; they are expressing distress about the same situation."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": null,
+        "why": "Nothing further is opened; the astrologer just keeps pushing for a recharge."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aapki love life par maine baat kar li hai ji. Aapke padhe-likhe aur calm sathi ke nature par gehrai se batana baaki hai. Poori clarity ke liye abhi chat recharge kijiye.",
+        "why": "The astrologer repeatedly closes the chat with a recharge pitch while the user is clearly distressed and trying to leave."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aapki love life ka sawal poora ho gaya hai. Mesha rashi wale partner ke saath aapki compatibility ki gehrai abhi baaki hai. Poori baat ke liye abhi chat recharge kijiye.",
+        "why": "The last messages are repetitive recharge pitches, not reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki pareshani aur dukan ka nuksan 3rd house ke Budh-Guru se judaa hai",
+        "why": "Uses simple language and explains the chart terms in a way that relates to the user's life."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Aapki love life par maine baat kar li hai ji. Aapke padhe-likhe aur calm sathi ke nature par gehrai se batana baaki hai. Poori clarity ke liye abhi chat recharge kijiye.",
+        "why": "The user is clearly distressed and saying 'Sab bekaar hai', but the astrologer ignores this and continues to push for a recharge, failing to adapt."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "reading"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      }
+    ]
+  }
+}

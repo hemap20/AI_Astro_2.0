@@ -1,0 +1,271 @@
+{
+  "scores": {
+    "1.1": 10,
+    "1.2": 4,
+    "1.4": 9,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 8,
+    "4.1": 1,
+    "4.3": 6
+  },
+  "gate_fail": [],
+  "overall": 7.12,
+  "shape": {
+    "M": 9,
+    "avg_words": 46.9,
+    "long_share": 0.78
+  },
+  "rep": {
+    "rep": 2,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 10,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "The astrologer directly answers the user's first question about marriage timing."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aap abhi naukri karti hain?",
+        "why": "The astrologer asks if the user is working after already asking if they are looking for a job, making it a Type C question."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Woh padhe-likhe aur shant hain, bas thode sambhal kar chalne wale hain.",
+        "why": "The astrologer reads about the partner's personality and characteristics."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "It is about the future, not the present, and lacks a specific chart reason in the first reading."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "Provides a clear time window for the marriage question immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapka waqt lekar trust karna aur unka gussa ek hi himmat ke grah ki nazar se judte hain",
+        "why": "Links the user's trust issue and partner's anger to a planetary influence (Mars)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapka waqt lekar trust karna aur unka gussa ek hi himmat ke grah ki nazar se judte hain",
+        "why": "Later readings add new points about the partner and career, using user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi 2027-2028 ke beech hone ka yog hai.",
+        "why": "Consistent time window provided throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap Mangal ke liye mangalwar se Hanuman Chalisa shuru kijiye",
+        "why": "Provides a specific remedy for the stated problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi aur career ka yog ek saath banta hai.",
+        "why": "Answers both marriage and career questions, connecting them."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Raaz videsh jane ka mauka hai",
+        "why": "Opens a specific further layer about foreign travel."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke shaadi aur career ke sawalo ka jawab maine de diya hai.",
+        "why": "No closing message, every reply carries reading or guidance."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke chart mein finance aur media jaise fields mein aage badhne ke mazboot sanket hain",
+        "why": "One of the last two messages contains a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke liye rishta aage jakar kisi janne wale ke zariye hi pakka hone ka yog hai.",
+        "why": "Uses simple, everyday language without technical jargon."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "reading"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "reading"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "question"
+      },
+      {
+        "idx": 22,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      },
+      {
+        "idx": 25,
+        "type": "reading"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      },
+      {
+        "idx": 27,
+        "type": "other"
+      },
+      {
+        "idx": 28,
+        "type": "other"
+      },
+      {
+        "idx": 29,
+        "type": "reading"
+      },
+      {
+        "idx": 30,
+        "type": "other"
+      }
+    ]
+  }
+}

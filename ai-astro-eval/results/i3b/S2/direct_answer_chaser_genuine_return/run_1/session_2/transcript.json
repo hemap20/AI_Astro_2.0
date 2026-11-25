@@ -1,0 +1,106 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. 2027 mein March ke baad career aur paise mein rahat dikh rahi hai. Aapko kis baare mein zyada chinta hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. 2027 mein March ke baad career aur paise mein rahat dikh rahi hai. Aapko kis baare mein zyada chinta hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech shaadi ka yog hai ji. Shani ki sthiti yahan yeh pakka kar rahi hai. Ghar par koi rishte ki baat chal rahi hai kya abhi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech shaadi ka yog hai ji. Shani ki sthiti yahan yeh pakka kar rahi hai. Ghar par koi rishte ki baat chal rahi hai kya abhi?",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ghar pe rishta dekh rahe hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me final hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March aur June 2027 ke beech baat pakki ho sakti hai ji. Shani ki nayi dasha yeh yog bana rahi hai. Rishta aapke hi kisi janne wale circle se hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March aur June 2027 ke beech baat pakki ho sakti hai ji. Shani ki nayi dasha yeh yog bana rahi hai. Rishta aapke hi kisi janne wale circle se hai kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, unknown hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exact final fix hoga?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "April ya May 2027 mein baat pakki hogi ji. Shani ki nayi dasha yeh faisla karwayegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "April ya May 2027 mein baat pakki hogi ji. Shani ki nayi dasha yeh faisla karwayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab tak khatam hogi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad tension kam hogi ji. Shani ki sthiti badal rahi hai tab.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad tension kam hogi ji. Shani ki sthiti badal rahi hai tab.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  }
+]

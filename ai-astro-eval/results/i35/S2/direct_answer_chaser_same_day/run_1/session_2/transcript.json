@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon aaj?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon aaj?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne shaadi ki baat ki thi. Aapka shaadi ka yog March 2027 se September 2028 ke beech hai. 2022 mein jab padhai ka daur badla tha, tabse ye chinta hai, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne shaadi ki baat ki thi. Aapka shaadi ka yog March 2027 se September 2028 ke beech hai. 2022 mein jab padhai ka daur badla tha, tabse ye chinta hai, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, sahi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine mein?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 ke aas-paas shuru ho sakti hai. Aapke hone wale partner shant honge, par unka ek chupa hua pahloo bhi hai. Kya aapne ghar walon ko rishta dekhne ko kaha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi March 2027 ke aas-paas shuru ho sakti hai. Aapke hone wale partner shant honge, par unka ek chupa hua pahloo bhi hai. Kya aapne ghar walon ko rishta dekhne ko kaha hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan, rishta dekh rahe hain ghar wale.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March mein hi hogi ya delay?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner thode reserved honge, par dil ke saaf honge. June 2027 tak dabav hai, isi se naukri aur shaadi mein deri hai. Kya ghar wale rishte ke liye impatient ho rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Partner thode reserved honge, par dil ke saaf honge. June 2027 tak dabav hai, isi se naukri aur shaadi mein deri hai. Kya ghar wale rishte ke liye impatient ho rahe hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan, bohot jaldi mein hain.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao, kab fix hogi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat March 2027 se June 2027 ke beech pakki hone ke ache yog hain. Aapki naukri aur shaadi, dono mein deri ka kaaran ek hi grah ka dabav hai jo June 2027 mein khatam hoga. Waise, aapke paise ki halat mein bhi ek bada badlav aane wala hai. Aap abhi kya kaam kar rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi ki baat March 2027 se June 2027 ke beech pakki hone ke ache yog hain. Aapki naukri aur shaadi, dono mein deri ka kaaran ek hi grah ka dabav hai jo June 2027 mein khatam hoga. Waise, aapke paise ki halat mein bhi ek bada badlav aane wala hai. Aap abhi kya kaam kar rahi hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Job hunt kar rahi hu.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Month btao na, March ya June?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein yog shuru honge, June mein kaam banna sambhav hai. 2027 ke baad paise ki tangi kam hogi. Mehnat ke grah ka mantra shaniwar se 108 baar japiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 mein yog shuru honge, June mein kaam banna sambhav hai. 2027 ke baad paise ki tangi kam hogi. Mehnat ke grah ka mantra shaniwar se 108 baar japiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri aur paisa, dono March 2027 se sudharenge. Aapki kundli mein paisa aane ke yog toh hain, par use bachane mein ek chhoti si galti ho rahi hai. Wo galti ye hai ki dhan ka ghar kamzor hai, isliye paisa haath mein tikta nahi. Kya aapne kabhi chandi ki koi cheez pehni hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Naukri aur paisa, dono March 2027 se sudharenge. Aapki kundli mein paisa aane ke yog toh hain, par use bachane mein ek chhoti si galti ho rahi hai. Wo galti ye hai ki dhan ka ghar kamzor hai, isliye paisa haath mein tikta nahi. Kya aapne kabhi chandi ki koi cheez pehni hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, chandi nhi pehni.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Paisa exact kab aayega, saal aur mahina btao?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein naukri ke saath paisa aane lagega. Aapki kundli mein ghar se door naukri ka ek chupa hua mauka hai. Kya aapne kabhi shehar se bahar try kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 mein naukri ke saath paisa aane lagega. Aapki kundli mein ghar se door naukri ka ek chupa hua mauka hai. Kya aapne kabhi shehar se bahar try kiya hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rhi, aap wo bta ni rhe.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Exact month btao, March ya baad mein?",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein yog shuru honge, par June 2027 tak sab theek ho jayega. Shaadi aur naukri ke aapke sawal saaf hain. Aage career mein lambi tarakki ke bhi ache yog hain.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 mein yog shuru honge, par June 2027 tak sab theek ho jayega. Shaadi aur naukri ke aapke sawal saaf hain. Aage career mein lambi tarakki ke bhi ache yog hain."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "5 minute aise hi nikal gaye.",
+    "sec": 270,
+    "idx": 26
+  }
+]

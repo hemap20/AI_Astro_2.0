@@ -1,0 +1,247 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 8,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 8,
+    "4.1": 1,
+    "4.3": 3
+  },
+  "gate_fail": [],
+  "overall": 5.94,
+  "shape": {
+    "M": 10,
+    "avg_words": 41.8,
+    "long_share": 0.8
+  },
+  "rep": {
+    "rep": 4,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli dekh kar main rishton ke baare mein samajh sakti hoon.",
+        "why": "Acknowledges the user's initial topic of love life."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap abhi kisi rishte mein hain ya shaadi ka soch rahi hain?",
+        "why": "No Type C questions, but questions are generic Type B."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User did not ask about a specific person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke yog March 2027 se shuru ho rahe hain",
+        "why": "Reading is about the future, specific, and new, but lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ke yog March 2027 se shuru ho rahe hain",
+        "why": "Clear direction given for the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mehnat ke grah ki kamzori se ghar mein tension hai",
+        "why": "One linked reading provided."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mehnat ke grah ki kamzori se ghar mein tension hai, par March 2027 mein naukri se sab theek hoga.",
+        "why": "Uses user's detail about father's shop and adds a new point."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke yog March 2027 se shuru ho rahe hain",
+        "why": "Consistent timeline provided."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukra ke liye Shukravar safed mithai daan kijiye.",
+        "why": "One remedy provided for the stated problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Career ka naya raasta main jald batati hoon.",
+        "why": "Returns to parked questions without being asked."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Unke baare mein ek khaas baat hai jo main thodi der mein batati hoon.",
+        "why": "Names a specific further thing about the concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap iske baare mein aur vistaar se jan-na chahti hain, toh chat ko abhi recharge kijiye",
+        "why": "Repeated pitches for recharge while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is par vistrit charcha chahti hain, toh chat ko abhi recharge kijiye",
+        "why": "Last messages are pitches for recharge."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mehnat ke grah ki kamzori se ghar mein tension hai",
+        "why": "Easy language used."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Woh naya raasta teaching, finance ya communication ka hai jo March 2027 mein khulega.",
+        "why": "Adapts to user's frustration by providing a concrete reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "reading"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "reading"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "reading"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "reading"
+      }
+    ]
+  }
+}

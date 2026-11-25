@@ -1,0 +1,212 @@
+[
+  {
+    "role": "USER",
+    "text": "meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 ke baad ho sakti hai ji. Shani AD shuru hone se ye yog ban raha hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 ke baad ho sakti hai ji. Shani AD shuru hone se ye yog ban raha hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "bihar",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke liye calm aur educated partner ka yog hai ji. Kundli milaan zaroori hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapke liye calm aur educated partner ka yog hai ji. Kundli milaan zaroori hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Par wo short tempered hai",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh gusse wali baat sach ho sakti hai ji. Kundli mein thoda Mangal ka asar hai, isliye dhyan rakhna padega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh gusse wali baat sach ho sakti hai ji. Kundli mein thoda Mangal ka asar hai, isliye dhyan rakhna padega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Mtlb?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab unka gussa thoda tez ho sakta hai ji. Aapki kundli ka Mangal usko trigger kar sakta hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Matlab unka gussa thoda tez ho sakta hai ji. Aapki kundli ka Mangal usko trigger kar sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta arranged lag raha hai ji. Known circles se baat ban sakti hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishta arranged lag raha hai ji. Known circles se baat ban sakti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kisse hogi",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Love ya arrange?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arranged match ka hi zyada yog hai ji. Known circles se rishta aane ki poori ummeed hai. Waise unka nature kaafi calm aur educated hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Arranged match ka hi zyada yog hai ji. Known circles se rishta aane ki poori ummeed hai. Waise unka nature kaafi calm aur educated hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shadi confirm ho sakti hai ji. In-laws thode traditional aur reserved rahenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad shadi confirm ho sakti hai ji. In-laws thode traditional aur reserved rahenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Job kaisa rahega",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job achhi chalegi ji. Teaching ya finance field mein fayda hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad job achhi chalegi ji. Teaching ya finance field mein fayda hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai ji. March 2027 ke Shani period se judi hui, foreign chance bhi ban raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai ji. March 2027 ke Shani period se judi hui, foreign chance bhi ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 270,
+    "idx": 28
+  }
+]

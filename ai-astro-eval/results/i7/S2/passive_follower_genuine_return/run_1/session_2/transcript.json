@@ -1,0 +1,186 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. March 2027 ke baad sab behtar hoga.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. March 2027 ke baad sab behtar hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, aapke hone wale jeevan sathi kaafi calm aur educated honge. Shani period se March 2027 ke baad baat pakki hone ka yog hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, aapke hone wale jeevan sathi kaafi calm aur educated honge. Shani period se March 2027 ke baad baat pakki hone ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rahe ghar pe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gharwale bilkul sahi disha mein hain, rishta arranged hi hoga. Guru aur Budh ke prabhav se rishta kisi jaane-maane circle mein pakka hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Gharwale bilkul sahi disha mein hain, rishta arranged hi hoga. Guru aur Budh ke prabhav se rishta kisi jaane-maane circle mein pakka hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega phir",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad karza utrega. 6th house mein Ketu rahat dega. 2028 mein apna ghar banega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad karza utrega. 6th house mein Ketu rahat dega. 2028 mein apna ghar banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein tension hai bohot",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension samajhti hoon ji. Mangal aur Shani ka asar hai. 2027 ke baad sab theek hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension samajhti hoon ji. Mangal aur Shani ka asar hai. 2027 ke baad sab theek hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Man ki shanti ke liye Somwar ka vrat rakhein. 2027 mein videsh yatra ka yog bhi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Man ki shanti ke liye Somwar ka vrat rakhein. 2027 mein videsh yatra ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya tech field mein tarakki pakki hai. Budh aur Guru ka poora yog hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Teaching ya tech field mein tarakki pakki hai. Budh aur Guru ka poora yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sasural wale thode traditional aur reserved honge ji. Ye baat Shani ke prabhav se hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sasural wale thode traditional aur reserved honge ji. Ye baat Shani ke prabhav se hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jeevan sathi lambe aur shant honge ji. Ye Dhanu rashi ka prabhav hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Jeevan sathi lambe aur shant honge ji. Ye Dhanu rashi ka prabhav hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab partner ka nature bohot shaant rahega. Ye kundli ki rashi ka asar hai ji. 2028 mein apna ghar lene ka yog hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Matlab partner ka nature bohot shaant rahega. Ye kundli ki rashi ka asar hai ji. 2028 mein apna ghar lene ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 23
+  }
+]

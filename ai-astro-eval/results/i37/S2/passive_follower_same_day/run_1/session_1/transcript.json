@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapke bhavishya ko dekh sakti hoon, par pehle yeh bataiye ki aap career ya shaadi mein se kis baare mein chintit hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapke bhavishya ko dekh sakti hoon, par pehle yeh bataiye ki aap career ya shaadi mein se kis baare mein chintit hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke rishte ke yog abhi saaf nahi hain, par shaadi arranged aur jaani-pehchani jagah hone ke zyada chances hain. Kya 2022 mein aapki padhai ya college life mein koi bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapke rishte ke yog abhi saaf nahi hain, par shaadi arranged aur jaani-pehchani jagah hone ke zyada chances hain. Kya 2022 mein aapki padhai ya college life mein koi bada badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Rishta dekh rahe h ghar wale.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale rishta dekh rahe hain, yeh achha hai kyunki kismat ka grah career aur shaadi dono ko prabhavit karta hai. Isliye kaam aur shaadi dono mein thoda samay lag raha hai. Kya aapne kabhi kisi aise vyakti ke baare mein socha hai jo padha-likha aur shant swabhav ka ho?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ghar wale rishta dekh rahe hain, yeh achha hai kyunki kismat ka grah career aur shaadi dono ko prabhavit karta hai. Isliye kaam aur shaadi dono mein thoda samay lag raha hai. Kya aapne kabhi kisi aise vyakti ke baare mein socha hai jo padha-likha aur shant swabhav ka ho?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dhan ke ghar kamzor hone se abhi tangi hai, par kamai ka grah majboot hai. Yeh pareshani shaadi ki chinta se judi hai. Ek khaas samay aa raha hai jab paise rukne lagenge. Kya aapne pehle kabhi naukri ya kaam ke liye badlav ki koshish ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Dhan ke ghar kamzor hone se abhi tangi hai, par kamai ka grah majboot hai. Yeh pareshani shaadi ki chinta se judi hai. Ek khaas samay aa raha hai jab paise rukne lagenge. Kya aapne pehle kabhi naukri ya kaam ke liye badlav ki koshish ki hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me bohot tension h",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh khaas samay March 2027 se September 2028 hai, jab paise aur ghar ki tension dono theek hone lagenge. Mangal ka asar kam karne ke liye 24 November se Hanuman Chalisa padhna shuru kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Woh khaas samay March 2027 se September 2028 hai, jab paise aur ghar ki tension dono theek hone lagenge. Mangal ka asar kam karne ke liye 24 November se Hanuman Chalisa padhna shuru kijiye."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak thik hoga",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab March 2027 se theek hoga, jab career ka grah majboot hoga. Aapki tension aur paise ki dikkat ek hi grah ke asar mein hai. Ek nayi jagah ka rasta khul sakta hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Sab March 2027 se theek hoga, jab career ka grah majboot hoga. Aapki tension aur paise ki dikkat ek hi grah ke asar mein hai. Ek nayi jagah ka rasta khul sakta hai."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh nayi jagah videsh ho sakti hai, jo 2027-2028 mein sambhav hai. Iske liye 20 November se Shukra ke mantra ka jaap karein, yeh aapke rishte aur bahar jaane ke raste dono kholega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Woh nayi jagah videsh ho sakti hai, jo 2027-2028 mein sambhav hai. Iske liye 20 November se Shukra ke mantra ka jaap karein, yeh aapke rishte aur bahar jaane ke raste dono kholega."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke sawalon ka jawab de diya hai. Aapke hone wale jeevansathi ke swabhav aur match-making ka ek khaas pehlu hai jo rishte ko majboot bana sakta hai. Chat recharge kijiye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapke sawalon ka jawab de diya hai. Aapke hone wale jeevansathi ke swabhav aur match-making ka ek khaas pehlu hai jo rishte ko majboot bana sakta hai. Chat recharge kijiye."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, kaise hain aap? Aaj bataiye kya pareshani hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, kaise hain aap? Aaj bataiye kya pareshani hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Theek hu. Future ka janna h.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Future ke baare mein sab dekhte hain ji. Aapki shaadi ho chuki hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Future ke baare mein sab dekhte hain ji. Aapki shaadi ho chuki hai kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi mummy papa rishta dekh rahe h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Samajh gayi ji. March 2027 se shaadi ka yog hai. Jaane-maane logon se hi rishta aayega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Samajh gayi ji. March 2027 se shaadi ka yog hai. Jaane-maane logon se hi rishta aayega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Paisa ka kya h?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur debt ki pareshani March 2027 se theek hone lagegi ji. 6th house mein Ketu hone se karza chukne lagta hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa aur debt ki pareshani March 2027 se theek hone lagegi ji. 6th house mein Ketu hone se karza chukne lagta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya? Samji nahi.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapko simple tarike se batati hoon ji. 6th house mein Ketu hai. Yehi karza utarne mein madad karega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapko simple tarike se batati hoon ji. 6th house mein Ketu hai. Yehi karza utarne mein madad karega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension h bohot.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka main reason Shani ka asar hai jo June 2027 tak rahega. Tab tak thoda patience rakhiye ji, sab theek hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension ka main reason Shani ka asar hai jo June 2027 tak rahega. Tab tak thoda patience rakhiye ji, sab theek hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Or kuch bataye.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein March 2027 se growth hai. Guru ki grace se tarakki pakki hai. Aur batau is baare mein ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Career mein March 2027 se growth hai. Guru ki grace se tarakki pakki hai. Aur batau is baare mein ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hone wala sathi lamba aur calm hoga. Unka nature padha-likha aur warm rahega. Ek aur cheez dikh rahi hai ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Hone wala sathi lamba aur calm hoga. Unka nature padha-likha aur warm rahega. Ek aur cheez dikh rahi hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 se apna ghar ka yog ban raha hai ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "October 2028 se apna ghar ka yog ban raha hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Ok.",
+    "sec": 270,
+    "idx": 18
+  }
+]

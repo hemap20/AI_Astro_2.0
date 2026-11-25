@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 8,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 4,
+    "2.6": 7,
+    "2.7": 8,
+    "3.1": 7,
+    "3.2": 7,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.0,
+  "shape": {
+    "M": 9,
+    "avg_words": 30.6,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension aur paise ki baat humne samajh li hai.",
+        "why": "The astrologer acknowledges the user's specific mention of tension at home."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya chana dal daan karne wala upay aapne shuru kiya tha?",
+        "why": "Most questions are generic life questions (Type B) rather than building on specific user input."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user did not ask about a specific named person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mann ke grah ke daur ki wajah se waha se rukaawat aayi thi.",
+        "why": "The reading is about the past, new to the user, specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Paisa tikna aur aana March 2027 se behtar hoga",
+        "why": "Provides a clear direction and time frame for the main question without needing a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Baat rukne ki wajah rishton ke grah par dushprabhav hai",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Wo rishta jaan-pehchan ke zariye hi aage badhega",
+        "why": "Later readings add new points and use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 4,
+        "quote": "March 2027 ke baad rishte pakke hone ka yog banega.",
+        "why": "Gives a specific date rather than a window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukrawaar se safed mithai baatiye, rukaawat kam hogi.",
+        "why": "Provides a remedy for the stated problem with a specific day."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar ki tension aur paise ki baat humne samajh li hai.",
+        "why": "Addresses both the money and home tension questions."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke aane wale jeevan sathi ke parivaar ka rawaiya kaisa rahega, yeh dekhna abhi baaki hai.",
+        "why": "Opens a specific next layer related to the marriage topic."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Is baat ko abhi poora janne ke liye chat recharge kar lijiye.",
+        "why": "No closing message, but the pitch is a soft close."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paisa tikna aur aana March 2027 se behtar hoga",
+        "why": "The last messages include a reading and a pitch."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mann ke grah ke daur ki wajah se waha se rukaawat aayi thi.",
+        "why": "Uses easy language with no formal or bookish sentences."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      }
+    ]
+  }
+}

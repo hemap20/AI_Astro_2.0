@@ -1,0 +1,215 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 1,
+    "2.1": 8,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 8,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.89,
+  "shape": {
+    "M": 6,
+    "avg_words": 39.7,
+    "long_share": 0.83
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke liye March 2027 se September 2028 ka samay achha hai.",
+        "why": "The astrologer acknowledges the user's specific question about marriage."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap abhi apne career ko lekar thode chintit rehte hain?",
+        "why": "The questions are Type B, as they could be asked to any user."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 1,
+        "quote": "",
+        "why": "The astrologer never asks for the partner's details."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ke liye March 2027 se September 2028 ka samay achha hai. Rishton ke grah ki kamzori se thodi der lag sakti hai.",
+        "why": "The reading is about the future, new, specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ke liye March 2027 se September 2028 ka samay achha hai.",
+        "why": "A clear direction is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah ki kamzori se thodi der lag sakti hai.",
+        "why": "Multiple linked readings are provided using plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Tension aur career ki pareshani judi hui hai, mann par mehnat ke grah ka dabav hai.",
+        "why": "The reading uses the user's detail about tension and adds a new point."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke liye March 2027 se September 2028 ka samay achha hai.",
+        "why": "A clear window is provided."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Iske liye aap Shukra ke mantra 'Om Shum Shukraya Namah' ka jaap 20 November se kijiye.",
+        "why": "A remedy is provided with how and when."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Tension aur career ki pareshani judi hui hai, mann par mehnat ke grah ka dabav hai.",
+        "why": "The astrologer addresses all questions (marriage, money, tension) in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke hone wale jeevansathi ke baare mein ek khas baat kundali mein hai, jo shayad aapko abhi pata nahi hai.",
+        "why": "The astrologer opens a specific further layer about the partner."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "",
+        "why": "No closing message is sent."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Tension aur career ki pareshani judi hui hai, mann par mehnat ke grah ka dabav hai.",
+        "why": "The last message contains a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ki kamzori",
+        "why": "The language is easy and uses no technical terms without explanation."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ke liye March 2027 se September 2028 ka samay achha hai.",
+        "why": "The astrologer adapts to the vague trigger by asking for a topic and then providing a reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      }
+    ]
+  }
+}

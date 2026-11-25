@@ -1,0 +1,224 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye March 2027 se September 2028 tak ka time achha hai. Ladka padha-likha, shaant aur thoda reserved nature ka hoga. Tumhe yeh ladka kaisa lagta hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ke liye March 2027 se September 2028 tak ka time achha hai. Ladka padha-likha, shaant aur thoda reserved nature ka hoga. Tumhe yeh ladka kaisa lagta hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi gussa ata h usko",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Thoda short tempered h",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein bhi wahi dikh raha hai, yeh Mangal ka asar hai. 24 November se Hanuman Chalisa shuru karo, sab theek hoga. Tumne yeh baat ghar pe batayi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kundli mein bhi wahi dikh raha hai, yeh Mangal ka asar hai. 24 November se Hanuman Chalisa shuru karo, sab theek hoga. Tumne yeh baat ghar pe batayi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 60,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta jaan-pehchaan se aayega aur in-laws thode traditional rahenge. Shaadi se pehle ek aur baat pakki karni hogi. Kya ghar wale is rishte se khush hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh rishta jaan-pehchaan se aayega aur in-laws thode traditional rahenge. Shaadi se pehle ek aur baat pakki karni hogi. Kya ghar wale is rishte se khush hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha sb khush h",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale khush hain toh yeh achhi baat hai ji. 20 November se Om Shum Shukraya Namah 108 baar shuru karo, white sweets donate karna, isse rishte mein mithaas bani rahegi. Tum dono ki aapas mein kitni baat hoti hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar wale khush hain toh yeh achhi baat hai ji. 20 November se Om Shum Shukraya Namah 108 baar shuru karo, white sweets donate karna, isse rishte mein mithaas bani rahegi. Tum dono ki aapas mein kitni baat hoti hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Zyada nhi",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi pakki ho jayegi. 2027 mein ek mahina aisa aayega jab decision dhyan se lena hoga. Kya ghar pe baat aage badhi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi pakki ho jayegi. 2027 mein ek mahina aisa aayega jab decision dhyan se lena hoga. Kya ghar pe baat aage badhi hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha baat chal rhi",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat chal rahi hai toh yeh badhiya hai ji. Partner kaafi samajhdaar aur calm nature ke honge. Unse roz baat hoti hai ya kabhi-kabhi?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Baat chal rahi hai toh yeh badhiya hai ji. Partner kaafi samajhdaar aur calm nature ke honge. Unse roz baat hoti hai ya kabhi-kabhi?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kabhi kabhi",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Future kaisa hoga",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi thoda stress chal raha hai, par February ke baad halat tezi se sudhrenge. Tum khud abhi job ya padhai ke liye kya plan kar rahi ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Abhi thoda stress chal raha hai, par February ke baad halat tezi se sudhrenge. Tum khud abhi job ya padhai ke liye kya plan kar rahi ho?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Job kr rhi hu",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance jaisi field tumhare liye bohot badiya hai. March 2027 ke baad kaam mein achhi tarakkhi milegi. Tum abhi kis field mein ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Teaching ya finance jaisi field tumhare liye bohot badiya hai. March 2027 ke baad kaam mein achhi tarakkhi milegi. Tum abhi kis field mein ho?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Finance mein hu",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "ASTRO",
+    "text": "Finance field tumhare liye ekdum perfect hai ji. 2027 ke beech mein ek turning point aayega jab promotion ka chance banega, par ek choti si galti sab rok sakti hai. Kya office mein abhi koi tension chal rahi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Finance field tumhare liye ekdum perfect hai ji. 2027 ke beech mein ek turning point aayega jab promotion ka chance banega, par ek choti si galti sab rok sakti hai. Kya office mein abhi koi tension chal rahi hai?"
+    },
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 270,
+    "idx": 29
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension nahi hai toh bohot badiya ji. 2027 ke baad finance mein ek aisa hidden turning point hai jo bada badlav la sakta hai, bas ek mahine ka dhyan rakhna hoga.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Tension nahi hai toh bohot badiya ji. 2027 ke baad finance mein ek aisa hidden turning point hai jo bada badlav la sakta hai, bas ek mahine ka dhyan rakhna hoga."
+    },
+    "idx": 30
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 31
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Jeevansathi samajhdaar aur warm nature ka hoga. 2023 se 2025 tak paise thode tight rahe the, hai na?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Jeevansathi samajhdaar aur warm nature ka hoga. 2023 se 2025 tak paise thode tight rahe the, hai na?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi, ye btaiye.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Wo short tempered lagta hai, shi rhega kya?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka mann aur unka gussa, dono Mangal ke prabhav mein hain. Is rishte mein ek khas badlav aane wala hai jo cheezein saaf kar dega. Kya aapne unse is baare mein baat ki?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapka mann aur unka gussa, dono Mangal ke prabhav mein hain. Is rishte mein ek khas badlav aane wala hai jo cheezein saaf kar dega. Kya aapne unse is baare mein baat ki?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi hai ya nahi? Spasht kijiye.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta achha hai kyunki shaadi ka ghar majboot hai. Unka gussa bas thode samay ka hai. Ek khaas baat hai ki in-laws traditional honge. Kya aapne unke parivar se baat ki?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta achha hai kyunki shaadi ka ghar majboot hai. Unka gussa bas thode samay ka hai. Ek khaas baat hai ki in-laws traditional honge. Kya aapne unke parivar se baat ki?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Mera future shi rahega uske sath ya nahi?",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, bhavishya mein sukh rahega. 7th ghar majboot hai, isliye rishta achha chalega. Ek bada decision aayega jo kismat badal dega. Mangalwar se Hanuman Chalisa shuru kijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, bhavishya mein sukh rahega. 7th ghar majboot hai, isliye rishta achha chalega. Ek bada decision aayega jo kismat badal dega. Mangalwar se Hanuman Chalisa shuru kijiye."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shadi 2027 me kaunse mahine me hogi?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "May ya June 2027 ka samay shaadi ke liye bahut achha hai. Tabhi ek badi khushi ka yog hai, par usse pehle ek chhota parivartan aayega. Kya ghar walon ko pata hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "May ya June 2027 ka samay shaadi ke liye bahut achha hai. Tabhi ek badi khushi ka yog hai, par usse pehle ek chhota parivartan aayega. Kya ghar walon ko pata hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan, pata hai.",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 18
+  }
+]

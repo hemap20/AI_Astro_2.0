@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle ek-do saal mein dheere-dheere halat badalenge aur 2027 ke baad kaam mein steady progress dikh rahi hai. Abhi life mein sabse zyada tension kis cheez ki hai, career ya personal life?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Agle ek-do saal mein dheere-dheere halat badalenge aur 2027 ke baad kaam mein steady progress dikh rahi hai. Abhi life mein sabse zyada tension kis cheez ki hai, career ya personal life?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Personal life.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb tak hogi.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "2022 mein tumhari life mein badlav aaya tha na? Shaadi 2027-2028 ke beech lag rahi hai, 7th ghar (shaadi ka) se jaan-pehchaan ka rishta dikh raha hai. Ghar pe koi baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2022 mein tumhari life mein badlav aaya tha na? Shaadi 2027-2028 ke beech lag rahi hai, 7th ghar (shaadi ka) se jaan-pehchaan ka rishta dikh raha hai. Ghar pe koi baat chal rahi hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha, mummy papa dekh rahe hain ek rishta.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2027 ya 2028? Exact month bataiye.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2027 ka samay strong hai. Shukra dab gaya hai, isliye 'Om Shum Shukraya Namah' shukravaar se shuru karo. Hone wale partner reserved honge, unhe pehchanna zaruri hai. Ladke ka kaam kya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2027 ka samay strong hai. Shukra dab gaya hai, isliye 'Om Shum Shukraya Namah' shukravaar se shuru karo. Hone wale partner reserved honge, unhe pehchanna zaruri hai. Ladke ka kaam kya hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Abhi toh baat shuru hui hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak ayega?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jab shaadi ke liye bataya tha, tabhi se paise ki dikkat kam hone lagegi kyunki tabhi kamai ka grah majboot hoga. Abhi 2nd ghar (paise ka) kamzor hai. Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' 19 Nov se shuru karo. Ek choti si galti hai jo tum bachat mein kar rahe ho, kya salary aate hi sab kharch kar dete ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jab shaadi ke liye bataya tha, tabhi se paise ki dikkat kam hone lagegi kyunki tabhi kamai ka grah majboot hoga. Abhi 2nd ghar (paise ka) kamzor hai. Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' 19 Nov se shuru karo. Ek choti si galti hai jo tum bachat mein kar rahe ho, kya salary aate hi sab kharch kar dete ho?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ho jata hai.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Stable kab tak hoga?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye 2nd ghar (paise ka) kamzor hone ka asar hai. March 2027 se halat sudhrenge. Hanuman Chalisa 24 Nov se shuru karo. Paisa bachane ka rule tumse miss ho raha hai, bataun?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ye 2nd ghar (paise ka) kamzor hone ka asar hai. March 2027 se halat sudhrenge. Hanuman Chalisa 24 Nov se shuru karo. Paisa bachane ka rule tumse miss ho raha hai, bataun?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bahut tension hai.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dono ka karan ek hai: mann ka grah par gusse aur rukavat wale grahon ki nazar hai. Paisa aate hi alag account mein daalo, warna ek bada kharcha bachat uda dega. Ghar mein jhagda aksar tumhare gusse par hota hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Dono ka karan ek hai: mann ka grah par gusse aur rukavat wale grahon ki nazar hai. Paisa aate hi alag account mein daalo, warna ek bada kharcha bachat uda dega. Ghar mein jhagda aksar tumhare gusse par hota hai kya?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha, gussa aata hai.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gusse aur mann ka grah dabav mein hain, isliye ghar mein jhagde hain. Mehnat ka grah rasta badlega tab tension khatam hogi. Ghar mein kaun tumhara gussa bhadka raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Gusse aur mann ka grah dabav mein hain, isliye ghar mein jhagde hain. Mehnat ka grah rasta badlega tab tension khatam hogi. Ghar mein kaun tumhara gussa bhadka raha hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Sabhi.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Time bataiye kab tak khatam hogi.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad mahaul shaant hone lagega. Tab tak Monday ka vrat karo, mann ko sukoon milega. Ghar mein ek purani baat baar-baar uth rahi hai, kya tumne socha hai wo kyu hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad mahaul shaant hone lagega. Tab tak Monday ka vrat karo, mann ko sukoon milega. Ghar mein ek purani baat baar-baar uth rahi hai, kya tumne socha hai wo kyu hoti hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "June 2027.",
+    "sec": 240,
+    "idx": 25
+  }
+]

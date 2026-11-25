@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bataiye, kya chal raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bataiye, kya chal raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, pichli baar maine career aur shaadi par baat ki thi. Aapka career aur shaadi dono 2027 ke baad behtar honge. Kya aapne wo mantra shuru kiya jo maine bataya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, pichli baar maine career aur shaadi par baat ki thi. Aapka career aur shaadi dono 2027 ke baad behtar honge. Kya aapne wo mantra shuru kiya jo maine bataya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe rishta dekh rhe h",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027-2028 mein hai. Career aur rishton ka dabaav ek hi phase ki wajah se hai. Ek khaas vyakti jald aane wala hai. Aap abhi kya mehsoos kar rahi hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027-2028 mein hai. Career aur rishton ka dabaav ek hi phase ki wajah se hai. Ek khaas vyakti jald aane wala hai. Aap abhi kya mehsoos kar rahi hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Darr lag rha h",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa 2027-2028 ke beech aana shuru hoga. Aapka career aur paisa, dono ek hi daur mein ruke hain. Career mein ek bada mauka aane wala hai, par ek galti se bachna hoga. Aapne aage ki padhai ke liye kya socha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa 2027-2028 ke beech aana shuru hoga. Aapka career aur paisa, dono ek hi daur mein ruke hain. Career mein ek bada mauka aane wala hai, par ek galti se bachna hoga. Aapne aage ki padhai ke liye kya socha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya galti",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension h",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar par tension aur career ki rukawat mid-2027 tak rahegi. Abhi koi bada financial faisla jaldbaazi mein na lein, yahi galti hai. Kya aapne ghar par apni career ki baat ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar par tension aur career ki rukawat mid-2027 tak rahegi. Abhi koi bada financial faisla jaldbaazi mein na lein, yahi galti hai. Kya aapne ghar par apni career ki baat ki hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka kya hoga",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi 2027-2028 mein arranged hogi. Aapki shaadi aur career ek hi mushkil daur mein hain. Rishta ek aayega jise pehchanna hoga. Kya ghar wale kisi rishte ki baat kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi 2027-2028 mein arranged hogi. Aapki shaadi aur career ek hi mushkil daur mein hain. Rishta ek aayega jise pehchanna hoga. Kya ghar wale kisi rishte ki baat kar rahe hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta h",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo rishta aage badh sakta hai, par 2027 se pehle jaldbaazi na karein. Rishton aur career ka grah ek saath sudhrega. Shukra ke liye shukravar se safed mithai ka daan kijiye. Kya ladke wale aapke parivar ko pehle se jaante hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Wo rishta aage badh sakta hai, par 2027 se pehle jaldbaazi na karein. Rishton aur career ka grah ek saath sudhrega. Shukra ke liye shukravar se safed mithai ka daan kijiye. Kya ladke wale aapke parivar ko pehle se jaante hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan door ke",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Sab thik hoga na",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, sab theek hoga. 2027 ke baad aapke career aur ghar ke halat dono sudhar jayenge. Is rishte ki compatibility aur jodi kaisi rahegi, ye main agle chat mein vistaar se dekhti hoon.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, sab theek hoga. 2027 ke baad aapke career aur ghar ke halat dono sudhar jayenge. Is rishte ki compatibility aur jodi kaisi rahegi, ye main agle chat mein vistaar se dekhti hoon."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 21
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, purani job ka sawal hai. Purani company ne kab chhoda tha, aur abhi kahin aur try kar rahe ho kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Haan ji, purani job ka sawal hai. Purani company ne kab chhoda tha, aur abhi kahin aur try kar rahe ho kya?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "3 mahine pehle",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ha interview hai next week",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Next week ke interview mein kaam banne ka poora chance hai ji. 2023 se 2025 ke beech mehnat zyada thi, par ab samay badal raha hai. Interview kis profile par hai ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Next week ke interview mein kaam banne ka poora chance hai ji. 2023 se 2025 ke beech mehnat zyada thi, par ab samay badal raha hai. Interview kis profile par hai ji?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Sales profile.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales ke is interview mein safalta ka yog hai ji. March 2027 tak career mein poori stability aa jayegi. Yeh interview purani company mein hai ya nayi jagah?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Sales ke is interview mein safalta ka yog hai ji. March 2027 tak career mein poori stability aa jayegi. Yeh interview purani company mein hai ya nayi jagah?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nayi jagah",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi jagah sales ka kaam tumhare liye aage chalkar bahut faida dega ji. Budh aur Guru ka samay chal raha hai, isliye nayi shuruat mein tarakkhi milti hai. Salary ya joining ki baat wahan kya tay hui hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Nayi jagah sales ka kaam tumhare liye aage chalkar bahut faida dega ji. Budh aur Guru ka samay chal raha hai, isliye nayi shuruat mein tarakkhi milti hai. Salary ya joining ki baat wahan kya tay hui hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi abhi to interview baki h",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Interview ke baad sab pata chal jayega ji. March 2027 tak nayi jagah pakki setting ho jayegi. Safalta ke liye Guruvaar ko Guru mantra shuru karna.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Interview ke baad sab pata chal jayega ji. March 2027 tak nayi jagah pakki setting ho jayegi. Safalta ke liye Guruvaar ko Guru mantra shuru karna."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar bhi galat hua",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, kabhi-kabhi samay thoda aage-peeche ho jata hai. March 2027 tak rasta pakka banega, kyunki kaam par se Shani ka bhaari asar khatam ho raha hai. Pehle bhi sales ka hi kaam kiya hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan ji, kabhi-kabhi samay thoda aage-peeche ho jata hai. March 2027 tak rasta pakka banega, kyunki kaam par se Shani ka bhaari asar khatam ho raha hai. Pehle bhi sales ka hi kaam kiya hai kya?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales ka purana tajurba is nayi jagah par poora kaam aayega ji. Budh grah communication ko majboot karta hai. Purane experience se is baar interview mein kya alag se bologe?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Sales ka purana tajurba is nayi jagah par poora kaam aayega ji. Budh grah communication ko majboot karta hai. Purane experience se is baar interview mein kya alag se bologe?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Apne pichle targets aur baat karne ka tareeqa acche se batana ji. Budh grah aapko sales mein safalta dilayega. Interview ki poori taiyaari ho gayi hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Apne pichle targets aur baat karne ka tareeqa acche se batana ji. Budh grah aapko sales mein safalta dilayega. Interview ki poori taiyaari ho gayi hai kya?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 240,
+    "idx": 20
+  }
+]

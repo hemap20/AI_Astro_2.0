@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arrey hello! Kaise ho? Batao, aaj kaunsi baat par charcha karni hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arrey hello! Kaise ho? Batao, aaj kaunsi baat par charcha karni hai."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne shaadi aur paise ki tention ki baat ki thi na. March 2027 ke baad halat tezi se sudhrenge, abhi bas thodi mehnat hai. Aaj batao, kis baare mein zyada vichar chal raha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne shaadi aur paise ki tention ki baat ki thi na. March 2027 ke baad halat tezi se sudhrenge, abhi bas thodi mehnat hai. Aaj batao, kis baare mein zyada vichar chal raha hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka pakka yog ban raha hai, rishta jaan-pehchaan se aayega. Ghar pe abhi is baare mein koi baat chal rahi hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka pakka yog ban raha hai, rishta jaan-pehchaan se aayega. Ghar pe abhi is baare mein koi baat chal rahi hai kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta dekh rhe.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli kehti hai ki hone wale partner kaafi calm aur samajhdar honge, thode traditional parivaar se. Tumhe khud kaise partner ki umeed hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli kehti hai ki hone wale partner kaafi calm aur samajhdar honge, thode traditional parivaar se. Tumhe khud kaise partner ki umeed hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao kaisa hoga.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lamba, calm aur padha-likha hoga, thoda shant swabhav ka. Iske liye Friday ko safed mithai baata karo aur Shukra ka mantr jap kiya karo, sab theek hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Partner lamba, calm aur padha-likha hoga, thoda shant swabhav ka. Iske liye Friday ko safed mithai baata karo aur Shukra ka mantr jap kiya karo, sab theek hoga."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa rukne lagega aur tangi dur hogi. Abhi kharche zyada hone ki wajah se pareshani hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa rukne lagega aur tangi dur hogi. Abhi kharche zyada hone ki wajah se pareshani hai kya?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur paise ki tangi dono ek hi samay ki wajah se hain, par June 2027 tak yeh bojh halka ho jayega. Tuesday se Hanuman Chalisa shuru karo, mann ko shanti milegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension aur paise ki tangi dono ek hi samay ki wajah se hain, par June 2027 tak yeh bojh halka ho jayega. Tuesday se Hanuman Chalisa shuru karo, mann ko shanti milegi."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad career mein bhi nayi shuruat aur achhi growth ke yog hain. Tumhara man kis field mein job karne ka hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad career mein bhi nayi shuruat aur achhi growth ke yog hain. Tumhara man kis field mein job karne ka hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance line mein koshish karke dekhna, waha achhe mauke milenge. March 2027 ke baad is disha mein rasta pakka khulega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Teaching ya finance line mein koshish karke dekhna, waha achhe mauke milenge. March 2027 ke baad is disha mein rasta pakka khulega."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Achaa.",
+    "sec": 270,
+    "idx": 22
+  }
+]

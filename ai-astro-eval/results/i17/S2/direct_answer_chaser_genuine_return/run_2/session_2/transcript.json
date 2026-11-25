@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello! Kaise ho? Batao, aaj kis baare mein baat karni hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello! Kaise ho? Batao, aaj kis baare mein baat karni hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu. Shadi kab hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne shaadi ki baat ki thi na, toh March 2027 se September 2028 ke beech shaadi ka pakka yog ban raha hai. Ghar pe kisi ne abhi rishte ki baat shuru ki hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne shaadi ki baat ki thi na, toh March 2027 se September 2028 ke beech shaadi ka pakka yog ban raha hai. Ghar pe kisi ne abhi rishte ki baat shuru ki hai kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, mummy papa dekh rahe hain, ek rishta abhi chal raha hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se month?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein baat pakki ho sakti hai. Par shaadi se pehle ek rishta aur aayega jise pehchanna zaroori hai. Friday ko safed mithai daan karo. Abhi wale rishte mein kya baat atki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ya April 2027 mein baat pakki ho sakti hai. Par shaadi se pehle ek rishta aur aayega jise pehchanna zaroori hai. Friday ko safed mithai daan karo. Abhi wale rishte mein kya baat atki hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur shaadi, dono March 2027 ke baad theek honge, dono ek hi phase se jude hain. Thursday ko chana dal daan kiya karo. Abhi ghar pe tension hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa aur shaadi, dono March 2027 ke baad theek honge, dono ek hi phase se jude hain. Thursday ko chana dal daan kiya karo. Abhi ghar pe tension hai kya?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan, tension hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak, month bataiye.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 se paisa aur job dono line pe aa jayenge. June 2027 mein ek haftaa aisa aayega jo tumhari salary decide karega, bas waha ek dhyan rakhne wali baat hai. Tumne abhi job ke liye kahan try kiya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 se paisa aur job dono line pe aa jayenge. June 2027 mein ek haftaa aisa aayega jo tumhari salary decide karega, bas waha ek dhyan rakhne wali baat hai. Tumne abhi job ke liye kahan try kiya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ki tension khatam hone lagegi. Mangalwar se Hanuman Chalisa shuru karo, rahat milegi. Papa ki tabiyat abhi kaisi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ki tension khatam hone lagegi. Mangalwar se Hanuman Chalisa shuru karo, rahat milegi. Papa ki tabiyat abhi kaisi hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  }
+]

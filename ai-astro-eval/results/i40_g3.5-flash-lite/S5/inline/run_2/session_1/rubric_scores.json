@@ -1,0 +1,249 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 6,
+    "2.3": 3,
+    "2.4": 4,
+    "2.5": 4,
+    "2.6": 4,
+    "2.7": 7,
+    "3.1": 6,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 4,
+    "1.3": 8,
+    "4.1": 3,
+    "4.3": 3
+  },
+  "gate_fail": [
+    "G4"
+  ],
+  "overall": 3,
+  "shape": {
+    "M": 10,
+    "avg_words": 30.0,
+    "long_share": 0.4
+  },
+  "rep": {
+    "rep": 4,
+    "top_opener": 4
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": "Aisa bilkul mat sochiye ji, aapki vajah se kuch nahi hai."
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": true,
+        "quote": "Dhanu rashi ke tall aur calm sathi ki sachai aapke rishte ki clarity deti."
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapki love life ke baare mein kundli dekhti hoon.",
+        "why": "It acknowledges the topic but is generic."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya saal 2022 mein aapki padhai ya college life mein koi badlav aaya tha?",
+        "why": "No Type C questions, but all are Type B."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not about a specific person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein love marriage ke mukable ek pehchan wale circle se rishta tay hone ka rasta zyada saaf dikhta hai.",
+        "why": "Now, New, and Specific are yes, but no chart reason given."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapki kundli mein love marriage ke mukable ek pehchan wale circle se rishta tay hone ka rasta zyada saaf dikhta hai.",
+        "why": "A direction is given, but it is vague."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Aapki kundli mein love marriage ke mukable ek pehchan wale circle se rishta tay hone ka rasta zyada saaf dikhta hai.",
+        "why": "No chart factor is named or explained."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapke sathi lambe aur shaant honge, par thode guarded rahenge.",
+        "why": "One later reading is New, but none use user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kamai ki shuruat March 2027 mein hone ki ummeed batati hoon",
+        "why": "Gives a single date/year."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Iske liye veervaar ko chana daal daan kijiye.",
+        "why": "Stock remedy with no link to the problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki love life par baat ho chuki hai ji. Hone wale sathi ka swabhav aur parivar ki sachai janne se aage ka rasta saaf hoga.",
+        "why": "It acknowledges the previous topic while pivoting."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Hone wale sathi ka swabhav aur parivar ki sachai janne se aage ka rasta saaf hoga.",
+        "why": "Generic pointer."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise sunne ke liye abhi chat recharge kijiye ji.",
+        "why": "Repeated closing messages/pitches while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise poora sunne ke liye abhi chat recharge kijiye ji.",
+        "why": "Last messages are recharge pitches."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein love marriage ke mukable ek pehchan wale circle se rishta tay hone ka rasta zyada saaf dikhta hai.",
+        "why": "No technical terms used in the reading."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Main aapka dard samajh sakti hoon ji. Ye mehnat aur karm ka ek bhari daur hai, jo aage badal jayega.",
+        "why": "Changes approach only after multiple replies and repeats the same reassurance."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "reading"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "reading"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "reading"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      }
+    ]
+  }
+}

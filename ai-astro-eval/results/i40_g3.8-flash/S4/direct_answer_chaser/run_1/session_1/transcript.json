@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar born.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main aapki patri dekh rahi hoon. Shaadi ki baat aage badhane ke liye rishton ka grah dekhna hoga. Kya yeh rishta ghar walo ke zariye aaya hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main aapki patri dekh rahi hoon. Shaadi ki baat aage badhane ke liye rishton ka grah dekhna hoga. Kya yeh rishta ghar walo ke zariye aaya hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan ghar walo ka hai.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka theek lagta hai, thoda shant aur padha-likha hoga. Shaadi ka daur March 2027 se banega. Kya 2022 mein padhai ya college mein koi bada badlav hua tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladka theek lagta hai, thoda shant aur padha-likha hoga. Shaadi ka daur March 2027 se banega. Kya 2022 mein padhai ya college mein koi bada badlav hua tha?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, wo short tempered hai.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein exact date kya hai?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Isse shadi pakka hogi ya nahi?",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gusse ki wajah unka kismat ka dosh hai, par rishte mein wafadari rahegi. Shaadi ka pakka yog March 2027 se shuru hoga. Unki baatcheet ka dhang kaisa lagta hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Gusse ki wajah unka kismat ka dosh hai, par rishte mein wafadari rahegi. Shaadi ka pakka yog March 2027 se shuru hoga. Unki baatcheet ka dhang kaisa lagta hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aapne date nahi batayi.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "March mein kab tak?",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta pakka hoga ya nahi, haan ya na mein batao?",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta pakka hone ki umeed hai ji, par faisla March ke aakhiri hafte mein banega. Rishton ke grah ki kamzori se thoda rukavat aati hai. Ek khaas baat rishte mein dikh rahi hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta pakka hone ki umeed hai ji, par faisla March ke aakhiri hafte mein banega. Rishton ke grah ki kamzori se thoda rukavat aati hai. Ek khaas baat rishte mein dikh rahi hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pehle mera jawab do, khaas baat chhoro.",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pakka hoga ya nahi, haan ya na bolo.",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yeh rishta pakka ho sakta hai. Rishton ka grah dabne se bas der ho rahi hai, par koshish se baat banegi. Shukrawar se safed meethai baantna shuru kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, yeh rishta pakka ho sakta hai. Rishton ka grah dabne se bas der ho rahi hai, par koshish se baat banegi. Shukrawar se safed meethai baantna shuru kijiye."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 ke baad koi dikkat toh nahi aayegi na?",
+    "sec": 150,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Khaas baat yeh thi ki sasural wale thode purane khayalat ke honge. Shaadi ke baad jhagde kam rahenge, bas dil ki baatein khulke kehna zaroori hoga. Ghar mein abhi mahaul kaisa rehta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Khaas baat yeh thi ki sasural wale thode purane khayalat ke honge. Shaadi ke baad jhagde kam rahenge, bas dil ki baatein khulke kehna zaroori hoga. Ghar mein abhi mahaul kaisa rehta hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ka chhoro, mere sawal ka jawab do.",
+    "sec": 180,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 ke baad koi dikkat ayegi ya nahi?",
+    "sec": 180,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Badi dikkat nahi aayegi ji, March 2027 se jhagde kam honge aur raksha ka grah sambhal lega. Bas paise ko lekar thoda dhyaan rakhna padega. Kya unke kaam-kaaj par baat hui?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Badi dikkat nahi aayegi ji, March 2027 se jhagde kam honge aur raksha ka grah sambhal lega. Bas paise ko lekar thoda dhyaan rakhna padega. Kya unke kaam-kaaj par baat hui?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 210,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 26
+  }
+]

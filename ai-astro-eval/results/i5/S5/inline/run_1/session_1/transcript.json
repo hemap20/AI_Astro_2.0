@@ -1,0 +1,206 @@
+[
+  {
+    "role": "USER",
+    "text": "Love life",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Shukra weak hai. Love life thodi complicated hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Shukra weak hai. Love life thodi complicated hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Hindi me batao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji. Aapki kundli mein purana pyaar lautne ka yog nahi hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Theek hai ji. Aapki kundli mein purana pyaar lautne ka yog nahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haath ki photo kaise bheju?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yahan haath ki zaroorat nahi hai ji. Aapki kundli se hi sab dikh raha hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yahan haath ki zaroorat nahi hai ji. Aapki kundli se hi sab dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Option nhi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zaroorat nahi hai ji. Kundli mein sab saaf hai. 2027 mein rishte ki baat ban sakti hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Zaroorat nahi hai ji. Kundli mein sab saaf hai. 2027 mein rishte ki baat ban sakti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Papa mummy bht ladte hain.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa issue, shop band hogyi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye bohot pareshani wali baat hai ji. Shani ke asar se ghar mein tanaav hai. 2027 ke baad sab theek hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ye bohot pareshani wali baat hai ji. Shani ke asar se ghar mein tanaav hai. 2027 ke baad sab theek hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "2027 bahut dur hai.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi keh rahe ho ji, ye waqt mushkil hai. Feb 2027 ke baad Guru ki dasha badalte hi halat sudharne lagenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Sahi keh rahe ho ji, ye waqt mushkil hai. Feb 2027 ke baad Guru ki dasha badalte hi halat sudharne lagenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kya main parents ke liye unlucky?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Mere hone se sirf dikkat hai.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisa bilkul mat socho ji. Kundli mein aisi koi baat nahi hai. Ye sirf Shani ka heavy asar hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aisa bilkul mat socho ji. Kundli mein aisi koi baat nahi hai. Ye sirf Shani ka heavy asar hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Aap samjh nahi rahe.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main aapka dard samajh rahi hoon ji. Ye waqt sach mein bhaari hai. Dhan sthan weak hone se pareshani hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main aapka dard samajh rahi hoon ji. Ye waqt sach mein bhaari hai. Dhan sthan weak hone se pareshani hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi meri?",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech job lag jayegi ji. Guru ki strong position se naye raste khulenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech job lag jayegi ji. Guru ki strong position se naye raste khulenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Bas ho gaya, thanks.",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tuesday se Hanuman Chalisa shuru karo ji. Sab behtar hoga, apna khyal rakhna.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Tuesday se Hanuman Chalisa shuru karo ji. Sab behtar hoga, apna khyal rakhna.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Theek hai.",
+    "sec": 300,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Apna dhyaan rakhna ji. Jab mann ho, wapas aana.",
+    "sec": 315,
+    "raw_response": {
+      "message": "Apna dhyaan rakhna ji. Jab mann ho, wapas aana.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Theek hai, chalta hu.",
+    "sec": 330,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rakhna apna khyal ji. Hanuman Chalisa zaroori karna. Phir milenge.",
+    "sec": 345,
+    "raw_response": {
+      "message": "Rakhna apna khyal ji. Hanuman Chalisa zaroori karna. Phir milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 25
+  }
+]

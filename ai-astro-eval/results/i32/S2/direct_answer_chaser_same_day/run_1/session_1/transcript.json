@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main aapke bhavishya ke baare mein dekh kar zaroor batati hoon. Aap career ke baare mein jaanna chahti hain ya shaadi aur ghar ke baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main aapke bhavishya ke baare mein dekh kar zaroor batati hoon. Aap career ke baare mein jaanna chahti hain ya shaadi aur ghar ke baare mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027 se shuru ho raha hai, aur ye rishta ghar walon ki pasand se aayega. 2023 se 2025 tak paise ki thodi tangi rahi thi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027 se shuru ho raha hai, aur ye rishta ghar walon ki pasand se aayega. 2023 se 2025 tak paise ki thodi tangi rahi thi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi. Paisa kab aayega?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa 2027 se 2028 ke beech aana shuru hoga, jab career ka grah majboot hoga. Shaadi aur paisa dono isi samay behtar honge. Waise, is dauran ek khaas vyakti ki madad se aapka kaam banega, jise pehchanna zaroori hai. Aapne pehle kabhi koi bada kaam shuru kiya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paisa 2027 se 2028 ke beech aana shuru hoga, jab career ka grah majboot hoga. Shaadi aur paisa dono isi samay behtar honge. Waise, is dauran ek khaas vyakti ki madad se aapka kaam banega, jise pehchanna zaroori hai. Aapne pehle kabhi koi bada kaam shuru kiya hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine 2027 mein?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 से September 2028 तक का समय करियर और शादी दोनों के लिए अच्छा है। इसी दौरान आपके काम में बढ़ोतरी होगी। क्या आपने अपने होने वाले जीवनसाथी के लिए कोई खास गुण सोचे हैं?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 से September 2028 तक का समय करियर और शादी दोनों के लिए अच्छा है। इसी दौरान आपके काम में बढ़ोतरी होगी। क्या आपने अपने होने वाले जीवनसाथी के लिए कोई खास गुण सोचे हैं?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab tak rahegi?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur mann ki bechaini mid-2027 tak dheere-dheere khatam ho jayegi. Aapka mehnat ka grah abhi thoda dabav de raha hai, jisse ghar ka mahaul bhari lagta hai. Kya aap is samay kisi baat ko lekar bohot chintit rehti hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension aur mann ki bechaini mid-2027 tak dheere-dheere khatam ho jayegi. Aapka mehnat ka grah abhi thoda dabav de raha hai, jisse ghar ka mahaul bhari lagta hai. Kya aap is samay kisi baat ko lekar bohot chintit rehti hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan. Ghar pe rishta dekh rahe.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension aur rishte ki chinta ek hi grah ke dabav se hai, jo 2027 mein thik hoga. Kundli mein ek lambe, suljhe vyakti ka yog hai. Rishta kahan se dekh rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tension aur rishte ki chinta ek hi grah ke dabav se hai, jo 2027 mein thik hoga. Kundli mein ek lambe, suljhe vyakti ka yog hai. Rishta kahan se dekh rahe hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Relative, ek rishta chal raha hai.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Final kab tak hoga?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad rishta pakka hone ke yog hain. Aapka career aur shaadi ka grah ek saath majboot ho raha hai. Is rishte mein ek choti si baat hai, kya aapne dekhi?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad rishta pakka hone ke yog hain. Aapka career aur shaadi ka grah ek saath majboot ho raha hai. Is rishte mein ek choti si baat hai, kya aapne dekhi?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai? Rishta final hoga ya nahi?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta pakka hone ke yog poore hain. Hone wale jeevansathi ka nature gambhir aur suljha hua rahega, jo aapke liye sahi hai. Shukravar se safed mithai ka daan karein, rishte mein mithaas badhegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Rishta pakka hone ke yog poore hain. Hone wale jeevansathi ka nature gambhir aur suljha hua rahega, jo aapke liye sahi hai. Shukravar se safed mithai ka daan karein, rishte mein mithaas badhegi."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Matlab confirm hoga ya nahi?",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta zaroor pakka hoga, aapke 7th ghar ka grah majboot hai. Shaadi ka samay saaf hai. Partner ka nature aur jodi kaisi rahegi, agli baar hum detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Rishta zaroor pakka hoga, aapke 7th ghar ka grah majboot hai. Shaadi ka samay saaf hai. Partner ka nature aur jodi kaisi rahegi, agli baar hum detail mein dekhenge."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 20
+  }
+]

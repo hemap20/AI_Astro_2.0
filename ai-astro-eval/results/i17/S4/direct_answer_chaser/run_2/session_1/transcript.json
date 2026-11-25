@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar born.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog shuru ho raha hai. Partner lamba, shant aur padha-likha hoga, par thoda reserve nature ka. Ye ladka tumhe kaise mila, kya ghar walo ki pasand hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog shuru ho raha hai. Partner lamba, shant aur padha-likha hoga, par thoda reserve nature ka. Ye ladka tumhe kaise mila, kya ghar walo ki pasand hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Wo shant nahi hai, gussa bahut karta hai.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye, ye btao.",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein partner samajhdaar hai, par ye gussa Mangal ke asar ki wajah se hai jo baad mein theek hoga. Shaadi se pehle ek aur rishta aane ka yog bhi ban raha hai. Kya tumne is bare mein ghar walo ko bataya hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kundli mein partner samajhdaar hai, par ye gussa Mangal ke asar ki wajah se hai jo baad mein theek hoga. Shaadi se pehle ek aur rishta aane ka yog bhi ban raha hai. Kya tumne is bare mein ghar walo ko bataya hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Seedha btao, ye ladka mere liye shi hai ya nahi?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, kundli ke hisab se ye rishta theek hai, bas gusse wali baat par thoda dhyan dena hoga. Kya is ladke ke ghar wale bhi razi hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan, kundli ke hisab se ye rishta theek hai, bas gusse wali baat par thoda dhyan dena hoga. Kya is ladke ke ghar wale bhi razi hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki ho jayegi. Shukra kamzor hone se thodi der hai, iske liye Friday ko safed mithaai daan kiya karo. Kya ghar wale is rishte ke liye poori tarah maan gaye hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki ho jayegi. Shukra kamzor hone se thodi der hai, iske liye Friday ko safed mithaai daan kiya karo. Kya ghar wale is rishte ke liye poori tarah maan gaye hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine me exact?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 ke aas-paas sabse zyada chance hai kyunki tabhi naya samay shuru ho raha hai. Kya is beech ghar pe aur koi baat chal rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March ya April 2027 ke aas-paas sabse zyada chance hai kyunki tabhi naya samay shuru ho raha hai. Kya is beech ghar pe aur koi baat chal rahi hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Uske ghar wale thode traditional aur strict ho sakte hain. March se pehle ek aisi baat samne aayegi jo tumhe pata honi chahiye. Kya unke parivar ke baare mein kuch aur bhi pata hai tumhe?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Uske ghar wale thode traditional aur strict ho sakte hain. March se pehle ek aisi baat samne aayegi jo tumhe pata honi chahiye. Kya unke parivar ke baare mein kuch aur bhi pata hai tumhe?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Pakka na?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, yog bilkul wahi ban raha hai, bas thoda sabar rakhna hoga. Kya ladke ki family se abhi koi final baat hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, yog bilkul wahi ban raha hai, bas thoda sabar rakhna hoga. Kya ladke ki family se abhi koi final baat hui hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad halat tezi se badlenge aur baat aage badhegi. Ek aur baat hai, in-laws ki taraf se thode niyam aur strictness ho sakti hai. Kya tumne kabhi is baare mein usse khul kar baat ki hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad halat tezi se badlenge aur baat aage badhegi. Ek aur baat hai, in-laws ki taraf se thode niyam aur strictness ho sakti hai. Kya tumne kabhi is baare mein usse khul kar baat ki hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai, aur kuch janna hai?",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "September 2028 tak sab kuch settle ho jayega aur in-laws ki taraf se bhi poora sahyog milne lagega. Yeh baat dhyan rakhna.",
+    "sec": 255,
+    "raw_response": {
+      "message": "September 2028 tak sab kuch settle ho jayega aur in-laws ki taraf se bhi poora sahyog milne lagega. Yeh baat dhyan rakhna."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 25
+  }
+]

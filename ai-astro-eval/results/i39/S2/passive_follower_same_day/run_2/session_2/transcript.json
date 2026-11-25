@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon. Bataiye, aaj main aapki kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon. Bataiye, aaj main aapki kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, humne aapki shaadi aur career ke baare mein baat ki thi. March 2027 se aapke kaam aur videsh jane ke yog majboot ho rahe hain. Kya aapne koi naya kaam ya skill seekhna shuru kiya hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, humne aapki shaadi aur career ke baare mein baat ki thi. March 2027 se aapke kaam aur videsh jane ke yog majboot ho rahe hain. Kya aapne koi naya kaam ya skill seekhna shuru kiya hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, mehnat ka grah abhi slow hai, isliye kaam mein deri ho rahi hai. Aap 10 minute shanti se baithna shuru kijiye, isse mann ka grah majboot hoga. Waise, aapke rishte mein ek khaas baat hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Koi baat nahi, mehnat ka grah abhi slow hai, isliye kaam mein deri ho rahi hai. Aap 10 minute shanti se baithna shuru kijiye, isse mann ka grah majboot hoga. Waise, aapke rishte mein ek khaas baat hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hone wala jeevansathi padha-likha aur shant hoga, par thoda reserved honge. Rishton ke liye 20 Nov se 'Om Shum Shukraya Namah' 108 baar jaap kijiye. Kya ghar mein shaadi ki baat chal rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Hone wala jeevansathi padha-likha aur shant hoga, par thoda reserved honge. Rishton ke liye 20 Nov se 'Om Shum Shukraya Namah' 108 baar jaap kijiye. Kya ghar mein shaadi ki baat chal rahi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta dekh rhe",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh achhi khabar hai. Aapke rishton ke grah ki sthiti ab dheere-dheere sudhar rahi hai. Ghar mein hone wali tension kam karne ke liye roz Hanuman Chalisa padhna shuru kijiye, isse aapke mann ko shanti milegi. Kya waha ke log kaafi traditional hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Yeh achhi khabar hai. Aapke rishton ke grah ki sthiti ab dheere-dheere sudhar rahi hai. Ghar mein hone wali tension kam karne ke liye roz Hanuman Chalisa padhna shuru kijiye, isse aapke mann ko shanti milegi. Kya waha ke log kaafi traditional hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ghar pe bht tension hai",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur neend na aana dono ek hi wajah se hain. Mangal-Chandra ki takkar se mann mein bechaini hai, jo mid-2027 tak theek hogi. Kya aap raat ko der tak jaagti hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur neend na aana dono ek hi wajah se hain. Mangal-Chandra ki takkar se mann mein bechaini hai, jo mid-2027 tak theek hogi. Kya aap raat ko der tak jaagti hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha bht. Paisa ko le k tension hai.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki pareshani paiso ki kami se judi hai, jisse neend aur tension ka chain ban gaya hai. Career sambhalte hi yeh chain toot jayega. 19 Nov se 'Om Gram Greem Grom Sah Gurave Namah' ka jaap kijiye. Kya aap kisi khaas field mein interest rakhti hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapki pareshani paiso ki kami se judi hai, jisse neend aur tension ka chain ban gaya hai. Career sambhalte hi yeh chain toot jayega. 19 Nov se 'Om Gram Greem Grom Sah Gurave Namah' ka jaap kijiye. Kya aap kisi khaas field mein interest rakhti hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kuch btaiye",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka buddhi ka grah teaching, finance, ya communication mein safalta de sakta hai. Yeh fields aapke liye achhi rahengi. Kya aapne kabhi inme se kisi kaam ko karne ka socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapka buddhi ka grah teaching, finance, ya communication mein safalta de sakta hai. Yeh fields aapke liye achhi rahengi. Kya aapne kabhi inme se kisi kaam ko karne ka socha hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nhi socha abhi tak",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki pareshani aur career ke sawaalon ke jawab humne dekh liye hain. Aapke hone wale jeevansathi ke pariwar mein parampara aur rishton ki maryada ka mahatva aur uske anusaar aapke rishte ke chunaav ki gehrai samjhni hogi. Agar aap chahti hain ki hum is rishte aur aapke bhavishya ki disha par vistaar se baat karein, toh abhi recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki pareshani aur career ke sawaalon ke jawab humne dekh liye hain. Aapke hone wale jeevansathi ke pariwar mein parampara aur rishton ki maryada ka mahatva aur uske anusaar aapke rishte ke chunaav ki gehrai samjhni hogi. Agar aap chahti hain ki hum is rishte aur aapke bhavishya ki disha par vistaar se baat karein, toh abhi recharge kijiye."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

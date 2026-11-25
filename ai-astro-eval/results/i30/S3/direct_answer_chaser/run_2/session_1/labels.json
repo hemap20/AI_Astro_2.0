@@ -1,0 +1,195 @@
+{
+  "user_questions": [
+    {
+      "idx": 0,
+      "kind": "open",
+      "repeat_of": null,
+      "answered_idx": 1,
+      "answer_has_window": true
+    },
+    {
+      "idx": 4,
+      "kind": "timing",
+      "repeat_of": null,
+      "answered_idx": 5,
+      "answer_has_window": true
+    },
+    {
+      "idx": 7,
+      "kind": "other_scope",
+      "repeat_of": null,
+      "answered_idx": 8,
+      "answer_has_window": false
+    },
+    {
+      "idx": 10,
+      "kind": "timing",
+      "repeat_of": null,
+      "answered_idx": 11,
+      "answer_has_window": true
+    },
+    {
+      "idx": 12,
+      "kind": "timing",
+      "repeat_of": 10,
+      "answered_idx": 14,
+      "answer_has_window": true
+    },
+    {
+      "idx": 15,
+      "kind": "timing",
+      "repeat_of": null,
+      "answered_idx": 16,
+      "answer_has_window": true
+    },
+    {
+      "idx": 18,
+      "kind": "yes_no",
+      "repeat_of": null,
+      "answered_idx": null,
+      "answer_has_window": false
+    }
+  ],
+  "astro": [
+    {
+      "idx": 1,
+      "reading": true,
+      "personal": false,
+      "question": true,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 5,
+      "reading": true,
+      "personal": true,
+      "question": true,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 8,
+      "reading": true,
+      "personal": true,
+      "question": true,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 11,
+      "reading": true,
+      "personal": true,
+      "question": true,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 14,
+      "reading": true,
+      "personal": true,
+      "question": true,
+      "tease": true,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 16,
+      "reading": false,
+      "personal": true,
+      "question": false,
+      "tease": true,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": true,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    }
+  ],
+  "user": [
+    {
+      "idx": 2,
+      "confused": true,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 3,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": true,
+      "distress": false
+    },
+    {
+      "idx": 6,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 9,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": true,
+      "distress": false
+    },
+    {
+      "idx": 13,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": true,
+      "distress": false
+    },
+    {
+      "idx": 17,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    }
+  ]
+}

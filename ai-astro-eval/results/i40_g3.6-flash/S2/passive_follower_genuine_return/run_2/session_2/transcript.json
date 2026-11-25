@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Aaj kis baat ko lekar pareshan hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Aaj kis baat ko lekar pareshan hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, pichli baar humne aapke rishte aur kaam ki pareshani par baat ki thi. Kya aapne Som Mantra shuru kiya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, pichli baar humne aapke rishte aur kaam ki pareshani par baat ki thi. Kya aapne Som Mantra shuru kiya tha?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji. Mann ka grah weak hone se kisi kaam mein mann lagna mushkil hota hai. Aap abhi shaadi ki chinta kar rahe hain ya job ki?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Koi baat nahi ji. Mann ka grah weak hone se kisi kaam mein mann lagna mushkil hota hai. Aap abhi shaadi ki chinta kar rahe hain ya job ki?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Gharwale rishta dekh rhe",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale rishta dekh rahe hain toh shaadi ka pakka yog March 2027 se September 2028 ke beech hai. Kya 2022 mein aapke padhai ya college mein koi badlav aaya tha?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar wale rishta dekh rahe hain toh shaadi ka pakka yog March 2027 se September 2028 ke beech hai. Kya 2022 mein aapke padhai ya college mein koi badlav aaya tha?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi hai ji. Aapke life partner ke nature ke baare mein kundali mein ek alag baat dikhi hai. Abhi tak ghar wale kitne rishte dekh chuke hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sahi hai ji. Aapke life partner ke nature ke baare mein kundali mein ek alag baat dikhi hai. Abhi tak ghar wale kitne rishte dekh chuke hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ek hi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka partner padha-likha aur shaant hoga, par apni baatein thoda chupakar rakhega. Shukravar se \"Om Shum Shukraya Namah\" ka jaap kijiye. Us rishte mein kya baat hui?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka partner padha-likha aur shaant hoga, par apni baatein thoda chupakar rakhega. Shukravar se \"Om Shum Shukraya Namah\" ka jaap kijiye. Us rishte mein kya baat hui?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Wo log abhi kuch bol nhi rhe",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah dabne se baat aage badhte-badhte atakk jaati hai. Abhi thoda sabr rakhiye, sahi rishta 2027 se hi aage badhega. Kya ghar wale jaan-pehchan mein rishta dhoondh rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Rishton ka grah dabne se baat aage badhte-badhte atakk jaati hai. Abhi thoda sabr rakhiye, sahi rishta 2027 se hi aage badhega. Kya ghar wale jaan-pehchan mein rishta dhoondh rahe hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ka grah majboot hai par bachat ka ghar kamzor hone se paisa tikta nahi hai. 2028 se paise ki halat achhi hogi. Kya abhi kharche bohot badh rahe hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kamai ka grah majboot hai par bachat ka ghar kamzor hone se paisa tikta nahi hai. 2028 se paise ki halat achhi hogi. Kya abhi kharche bohot badh rahe hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi aur paise ke baare mein maine sab bataya hai. Aapke hone wale sasural ke log bohot traditional aur kam bolne wale honge. Abhi recharge karke chat aage badhaiye taaki is par poori baat ho sake.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki shaadi aur paise ke baare mein maine sab bataya hai. Aapke hone wale sasural ke log bohot traditional aur kam bolne wale honge. Abhi recharge karke chat aage badhaiye taaki is par poori baat ho sake."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

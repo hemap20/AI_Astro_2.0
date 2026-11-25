@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein aapke kaam aur halat mein achha badlaav aayega. Bataiye ji, kis baare mein zyada fikar hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein aapke kaam aur halat mein achha badlaav aayega. Bataiye ji, kis baare mein zyada fikar hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka bataiye.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji. Family rishta dekh rahi hai ya koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji. Family rishta dekh rahi hai ya koi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Family rishta dekh rhi. Ek baat chal rhi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog banega ji. Shukra kamzor hone se thodi der lag rahi hai. Yeh baat kisi jaan-pehchaan ki hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog banega ji. Shukra kamzor hone se thodi der lag rahi hai. Yeh baat kisi jaan-pehchaan ki hai kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan jaan-pehchaan ki hi hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Range bahut badi hai, exact month bataiye.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas baat pakki hone ka time hai ji, kyunki tab naya samay shuru hota hai. Baaki raste 2028 tak khule rahenge. Jisse baat chal rahi hai, unka nature calm aur padha-likha hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas baat pakki hone ka time hai ji, kyunki tab naya samay shuru hota hai. Baaki raste 2028 tak khule rahenge. Jisse baat chal rahi hai, unka nature calm aur padha-likha hai kya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha, padhe likhe hain.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega mere paas? Job kab lagegi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, job aur paise ki baat hai. Padhai ke baad se abhi kahin interview chal raha hai ya break hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, job aur paise ki baat hai. Padhai ke baad se abhi kahin interview chal raha hai ya break hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Break hai. Job kab tak milegi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-2027 ke baad job milne ka yog ban raha hai ji. Shani ka dabav hatne se rukawat door hogi. Aap kaun se field mein try kar rahe hain ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mid-2027 ke baad job milne ka yog ban raha hai ji. Shani ka dabav hatne se rukawat door hogi. Aap kaun se field mein try kar rahe hain ji?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Mid-2027 bahut dur hai.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Isse pehle koi chance nahi hai kya?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, waqt thoda mushkil lagta hai, par March 2027 mein bada mauka aayega kyunki tab career ka planet poori tarah support karega. Aap Guruvaar ko mandir mein chana dal daan kijiye aur Guru ka mantra boliye, madad milegi. Aapne padhai kis field mein ki hai ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan ji, waqt thoda mushkil lagta hai, par March 2027 mein bada mauka aayega kyunki tab career ka planet poori tarah support karega. Aap Guruvaar ko mandir mein chana dal daan kijiye aur Guru ka mantra boliye, madad milegi. Aapne padhai kis field mein ki hai ji?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Bohot late hai. Kuch jaldi nahi ho sakta?",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, ghar ki tension jaldi theek hogi, thoda sabar rakhiye. Yeh pareshani kis baat ko lekar zyada hai, kharche ko ya kisi aur baat ko lekar?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan ji, ghar ki tension jaldi theek hogi, thoda sabar rakhiye. Yeh pareshani kis baat ko lekar zyada hai, kharche ko ya kisi aur baat ko lekar?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kharche ko lekar. Kab tak khatam hogi?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche 2028 tak dheere-dheere kam honge ji. Dhan sthaan kamzor hone se haath mein paisa rukta nahi hai. 2028 ka samay aate hi aapki saving banni shuru ho jayegi ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Kharche 2028 tak dheere-dheere kam honge ji. Dhan sthaan kamzor hone se haath mein paisa rukta nahi hai. 2028 ka samay aate hi aapki saving banni shuru ho jayegi ji."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Itna late? 2028 tak wait kaun kare.",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. 5 minute aise hi nikal gaye.",
+    "sec": 270,
+    "idx": 24
+  }
+]

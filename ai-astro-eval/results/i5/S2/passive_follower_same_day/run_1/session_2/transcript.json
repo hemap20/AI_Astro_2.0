@@ -1,0 +1,168 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. Aaj kya jaanna chahte hain aap?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. Aaj kya jaanna chahte hain aap?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ka yog hai ji. Kya ye aapki apni shaadi ki baat hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ka yog hai ji. Kya ye aapki apni shaadi ki baat hai?",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta dekh rahe ghar wale",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale bilkul sahi time dekh rahe. Aapki kundli mein arranged rishta hai. Partner kaafi calm aur educated hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ghar wale bilkul sahi time dekh rahe. Aapki kundli mein arranged rishta hai. Partner kaafi calm aur educated hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Guru ki drishti se partner samajhdaar hoga ji. In-laws thode traditional aur serious rahenge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Guru ki drishti se partner samajhdaar hoga ji. In-laws thode traditional aur serious rahenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya? Paisa kaisa rahega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa sudhrega ji. Mangal strong hone se debt bhi kam hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa sudhrega ji. Mangal strong hone se debt bhi kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya mangal? Ghar mein tension hai.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani ka asar hai ji, isliye ghar mein thodi tension hai. June 2027 ke baad ye sab theek ho jayega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shani ka asar hai ji, isliye ghar mein thodi tension hai. June 2027 ke baad ye sab theek ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Or kuch?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein nayi shuruaat hogi ji. February 2027 ke baad.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Career mein nayi shuruaat hogi ji. February 2027 ke baad.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Aur?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Videsh jane ka yog hai ji. 2027 aur 2028 ke beech.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Videsh jane ka yog hai ji. 2027 aur 2028 ke beech.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baad apna ghar banega ji. October 2028 se ye yog hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi ke baad apna ghar banega ji. October 2028 se ye yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Theek hai.",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein health aur neend ko lekar ek aur baat saaf hai, jo mid-2027 tak behtar hogi.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Kundli mein health aur neend ko lekar ek aur baat saaf hai, jo mid-2027 tak behtar hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 20
+  }
+]

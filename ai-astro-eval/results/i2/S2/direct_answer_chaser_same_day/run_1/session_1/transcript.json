@@ -1,0 +1,104 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Future ke baare mein kundli sab batati hai. Career ya shaadi, kis baare mein janna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Future ke baare mein kundli sab batati hai. Career ya shaadi, kis baare mein janna hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech yog hai ji. Shani ka prabhav isme madad karega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech yog hai ji. Shani ka prabhav isme madad karega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month mein?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi shuruat hogi ji. Shani ki chal wahan badlegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se hi shuruat hogi ji. Shani ki chal wahan badlegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa aane lagega ji. Mangal aur Ketu ki sthiti se debt bhi clear hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa aane lagega ji. Mangal aur Ketu ki sthiti se debt bhi clear hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension kam hogi ji. Shani ki sthiti tab badlegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke baad tension kam hogi ji. Shani ki sthiti tab badlegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pakka na?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, kundli mein yog pakka hai. Shani ka asar wahan badlega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan ji, kundli mein yog pakka hai. Shani ka asar wahan badlega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 12
+  }
+]

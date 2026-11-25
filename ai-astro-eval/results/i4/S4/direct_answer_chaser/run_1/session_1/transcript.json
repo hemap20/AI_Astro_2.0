@@ -1,0 +1,130 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ye ladka mere liye sahi hai ya nahi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar me paida hua hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi March 2027 ke baad hogi. Shani ki dasha se yog hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shadi March 2027 ke baad hogi. Shani ki dasha se yog hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi h ya nahi mere liye?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Yahi btao pehle.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke hisab se, wo shant aur padha-likha hoga. Guru ki vajah se thoda guarded nature ka bhi ho sakta hai ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kundli ke hisab se, wo shant aur padha-likha hoga. Guru ki vajah se thoda guarded nature ka bhi ho sakta hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Maine dekha hai, wo gussa bahut karta hai.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ye sahi hai ya nhi?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 fix hai ya change ho sakta hai?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki timing bilkul pakki hai ji. Gussa unke guarded nature ka hissa ho sakta hai. Thoda waqt dena padega ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ki timing bilkul pakki hai ji. Gussa unke guarded nature ka hissa ho sakta hai. Thoda waqt dena padega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein batao.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, wo aapke liye theek rahenge. Mangal ke prabhav se gussa aata hai. Hanuman Chalisa se ye shant hoga ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, wo aapke liye theek rahenge. Mangal ke prabhav se gussa aata hai. Hanuman Chalisa se ye shant hoga ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaun se mahine?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ki shuruwat mein hi Shani AD aayegi ji. Tabhi se ye yog ban raha hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March ki shuruwat mein hi Shani AD aayegi ji. Tabhi se ye yog ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 17
+  }
+]

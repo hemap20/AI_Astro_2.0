@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon aaj? Aapke man mein jo bhi sawaal hai, aap bejhijhak mujhse puch sakti hain.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon aaj? Aapke man mein jo bhi sawaal hai, aap bejhijhak mujhse puch sakti hain."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, maine bataya tha ki career aur shaadi ke yog March 2027 ke baad behtar honge. Tab tak ke liye humne kuch upay bhi soche the. Kya aapne unhe karna shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, maine bataya tha ki career aur shaadi ke yog March 2027 ke baad behtar honge. Tab tak ke liye humne kuch upay bhi soche the. Kya aapne unhe karna shuru kiya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, aap jab chahen tab shuru kar sakti hain. Waise, kya november 2022 mein aapke college ya padhai mein koi badlav aaya tha? Mere paas aapke career se judi ek aur khaas baat hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Koi baat nahi, aap jab chahen tab shuru kar sakti hain. Waise, kya november 2022 mein aapke college ya padhai mein koi badlav aaya tha? Mere paas aapke career se judi ek aur khaas baat hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, change hua tha.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke career mein teaching, finance ya media ke kshetra mein aage badhne ke acche chances hain. Guru ki kripa se ye field aapke liye kismat khol sakti hai. Iske liye guruwar ko chana dal daan kijiye aur 108 baar mantr jap kijiye. Kya aapne kabhi in fields mein koshish ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke career mein teaching, finance ya media ke kshetra mein aage badhne ke acche chances hain. Guru ki kripa se ye field aapke liye kismat khol sakti hai. Iske liye guruwar ko chana dal daan kijiye aur 108 baar mantr jap kijiye. Kya aapne kabhi in fields mein koshish ki hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke yog March 2027 se banenge. Rishton ka grah thoda kamzor hai, isliye shukravar se safed mithai daan aur mantr jap shuru kijiye. Kya ghar par rishte ki baat chal rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi ke yog March 2027 se banenge. Rishton ka grah thoda kamzor hai, isliye shukravar se safed mithai daan aur mantr jap shuru kijiye. Kya ghar par rishte ki baat chal rahi hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rhe",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte mein jo aap dekh rahi hain, unka nature calm aur educated hoga, jo aapke ghar ke traditional mahaul mein acche se fit ho jayega. Kya ghar ki chinta ki wajah se aap rishte ko lekar thoda stress mein hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rishte mein jo aap dekh rahi hain, unka nature calm aur educated hoga, jo aapke ghar ke traditional mahaul mein acche se fit ho jayega. Kya ghar ki chinta ki wajah se aap rishte ko lekar thoda stress mein hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha bohot tension hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Sab ladte ghar pe",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mujhe pata hai ghar ka mahaul aapko pareshan kar raha hai, par ye waqt jald hi badal jayega. Grahon ka dabav June 2027 tak kam ho jayega. Tab tak Hanuman Chalisa ka path shanti dega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mujhe pata hai ghar ka mahaul aapko pareshan kar raha hai, par ye waqt jald hi badal jayega. Grahon ka dabav June 2027 tak kam ho jayega. Tab tak Hanuman Chalisa ka path shanti dega."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab ayega",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai March 2027 se behtar hogi. Aapki himmat taqat hai, par mann ki chanchalta se paise ruk nahi paate. Har Mangalwar masoor ki daal daan kijiye. Kya aap abhi koi kaam kar rahi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kamai March 2027 se behtar hogi. Aapki himmat taqat hai, par mann ki chanchalta se paise ruk nahi paate. Har Mangalwar masoor ki daal daan kijiye. Kya aap abhi koi kaam kar rahi hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, padhai kar rhi hu",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke career aur paise se jude sawalon ke jawab maine de diye hain. March 2027 ke baad aapke chart mein videsh yatra ke yog bhi ban rahe hain. Is bare mein puri jankari ke liye chat abhi recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapke career aur paise se jude sawalon ke jawab maine de diye hain. March 2027 ke baad aapke chart mein videsh yatra ke yog bhi ban rahe hain. Is bare mein puri jankari ke liye chat abhi recharge kijiye."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

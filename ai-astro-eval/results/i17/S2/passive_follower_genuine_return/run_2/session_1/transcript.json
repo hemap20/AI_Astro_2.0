@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji! 2027 ka samay tumhare liye kaafi badlaav aur relief lekar aa raha hai, khaaskar mid ke baad cheezein settle hongi. Batao, abhi sabse zyada dhyan kahan hai - career, paise ki halat, ya shaadi-rishte par?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji! 2027 ka samay tumhare liye kaafi badlaav aur relief lekar aa raha hai, khaaskar mid ke baad cheezein settle hongi. Batao, abhi sabse zyada dhyan kahan hai - career, paise ki halat, ya shaadi-rishte par?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat ghar pe shuru ho gayi hai kya, ya koi aisi tension chal rahi hai? Tum khud kya chahte ho is baare mein?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat ghar pe shuru ho gayi hai kya, ya koi aisi tension chal rahi hai? Tum khud kya chahte ho is baare mein?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ke yog hain, rishta jaan-pehchaan se aayega. Saamne wale ka nature thoda reserved ho sakta hai. Kya woh abhi zyada khul ke baat nahi karte?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ke yog hain, rishta jaan-pehchaan se aayega. Saamne wale ka nature thoda reserved ho sakta hai. Kya woh abhi zyada khul ke baat nahi karte?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa hoga",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa rukta nahi hai kya, ya kharcha zyada ho raha hai? Ye tangi kab se mehsoos ho rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa rukta nahi hai kya, ya kharcha zyada ho raha hai? Ye tangi kab se mehsoos ho rahi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kharcha zyada hai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bhi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa na tikna aur tension ek hi purani wajah se hain. March 2027 ke baad halat sudhregi. 21 November se kaale til ka daan shuru karo, rahat milegi. Ghar pe is baare mein kisi se baat hui hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa na tikna aur tension ek hi purani wajah se hain. March 2027 ke baad halat sudhregi. 21 November se kaale til ka daan shuru karo, rahat milegi. Ghar pe is baare mein kisi se baat hui hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Akele hi sab mat jhelo ji, thoda ghar pe baat karo. 2027 ke shuru mein ek aisa mauka aayega jo income ko rasta dega. Kya tum abhi job ki soch rahi ho ya koi naya kaam?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Akele hi sab mat jhelo ji, thoda ghar pe baat karo. 2027 ke shuru mein ek aisa mauka aayega jo income ko rasta dega. Kya tum abhi job ki soch rahi ho ya koi naya kaam?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Job hi soch rahi hu",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se job ke raste khulenge aur paise ki tangi kam hogi. 19 November se chana dal daan karo. Pehle kahin apply kiya hai kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se job ke raste khulenge aur paise ki tangi kam hogi. 19 November se chana dal daan karo. Pehle kahin apply kiya hai kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad career mein aur stability aayegi. 2027 mein ek mahina aisa aayega jab ek sahi decision tumhari job pakki kar sakta hai, warna baat atak sakti hai. Interview ke liye taiyari kaisi chal rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad career mein aur stability aayegi. 2027 mein ek mahina aisa aayega jab ek sahi decision tumhari job pakki kar sakta hai, warna baat atak sakti hai. Interview ke liye taiyari kaisi chal rahi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Feb 2027 ke baad samay poori tarah badlega, tabhi asli mauka haath aayega. Usi time pata chalega ki foreign ka rasta khulta hai ya nahi. Tension mat lo, sab theek hoga.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Feb 2027 ke baad samay poori tarah badlega, tabhi asli mauka haath aayega. Usi time pata chalega ki foreign ka rasta khulta hai ya nahi. Tension mat lo, sab theek hoga."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

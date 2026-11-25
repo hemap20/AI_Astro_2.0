@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap aaj? Bataiye, aaj kis baare mein baat karni hai aapko?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap aaj? Bataiye, aaj kis baare mein baat karni hai aapko?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. Pichli baar aapne jo marriage aur expenses ki pareshani batayi thi, March 2027 ke baad wahan relief dikh raha hai. Bataiye, abhi ghar par rishte ki baat kahan tak pahunchi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. Pichli baar aapne jo marriage aur expenses ki pareshani batayi thi, March 2027 ke baad wahan relief dikh raha hai. Bataiye, abhi ghar par rishte ki baat kahan tak pahunchi hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta dekh rahe hain toh yeh March 2027 ke baad hi pakka hone ke yog ban rahe hain ji. Yeh rishta kisi pehchan ya known circle se lag raha hai, jahan partner kaafi calm aur educated ho sakte hain. Ye rishta kahan se aaya hai ji, kisi jaan-pehchan ke through?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta dekh rahe hain toh yeh March 2027 ke baad hi pakka hone ke yog ban rahe hain ji. Yeh rishta kisi pehchan ya known circle se lag raha hai, jahan partner kaafi calm aur educated ho sakte hain. Ye rishta kahan se aaya hai ji, kisi jaan-pehchan ke through?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha relative hai",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Relative se rishta hai toh gharwale thode traditional ho sakte hain ji. Shukra ko mazboot karne ke liye shukrawar se Om Shum Shukraya Namah ka jaap shuru karke safed mithaai daan karein. Kya inki taraf se koi final baat hui hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Relative se rishta hai toh gharwale thode traditional ho sakte hain ji. Shukra ko mazboot karne ke liye shukrawar se Om Shum Shukraya Namah ka jaap shuru karke safed mithaai daan karein. Kya inki taraf se koi final baat hui hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi abhi tak",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Final baat aage badhne mein thoda waqt lag sakta hai ji, 2028 ke shuru tak iska poora asar dikhega. Shani ka samay thoda dheere chalta hai isliye rishte ki baatein aaram se aage badhti hain. Kya gharwalein is rishte ko lekar kisi khas baat ka intezaar kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Final baat aage badhne mein thoda waqt lag sakta hai ji, 2028 ke shuru tak iska poora asar dikhega. Shani ka samay thoda dheere chalta hai isliye rishte ki baatein aaram se aage badhti hain. Kya gharwalein is rishte ko lekar kisi khas baat ka intezaar kar rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paison ki pareshani ka samay chal raha hai ji. Yeh bataiye ki paisa kahan atak raha hai, kharche zyada hain ya kamai kam hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paison ki pareshani ka samay chal raha hai ji. Yeh bataiye ki paisa kahan atak raha hai, kharche zyada hain ya kamai kam hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kharche zyada hai",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche zyada hone ki wajah se pareshani mid-2027 ke baad kam honi shuru hogi ji. Kundli mein dhan ke sthaan par thoda dabav hai, isliye haath mein paisa rukta nahi hai. Kya yeh kharche ghar ki zarooraton par ho rahe hain ya kahin aur?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kharche zyada hone ki wajah se pareshani mid-2027 ke baad kam honi shuru hogi ji. Kundli mein dhan ke sthaan par thoda dabav hai, isliye haath mein paisa rukta nahi hai. Kya yeh kharche ghar ki zarooraton par ho rahe hain ya kahin aur?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ghar ki tension hai",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki yeh tension aur kharche ka bojh mid-2027 ke baad dheere-dheere kam hone lagega ji. Graho ki sthiti aisi hai ki abhi thoda mental pressure aur zimmedariyan zyada lag rahi hain. Yeh tension kis baare mein hai zyadatar, aapas ke talmel ko lekar ya kisi aur baat par?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki yeh tension aur kharche ka bojh mid-2027 ke baad dheere-dheere kam hone lagega ji. Graho ki sthiti aisi hai ki abhi thoda mental pressure aur zimmedariyan zyada lag rahi hain. Yeh tension kis baare mein hai zyadatar, aapas ke talmel ko lekar ya kisi aur baat par?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Bas ghar ki situation",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki situation jaldi hi behtar honi shuru hogi ji. Mid-2027 ke baad yeh saara mental pressure aur ghar ka bojh dheere-dheere hatne lagega, bas thoda sa sabr rakhiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki situation jaldi hi behtar honi shuru hogi ji. Mid-2027 ke baad yeh saara mental pressure aur ghar ka bojh dheere-dheere hatne lagega, bas thoda sa sabr rakhiye."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ji theek hai",
+    "sec": 270,
+    "idx": 22
+  }
+]

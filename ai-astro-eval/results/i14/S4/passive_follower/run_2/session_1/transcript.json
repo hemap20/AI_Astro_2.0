@@ -1,0 +1,203 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 aur September 2028 ke beech tay hogi ji. Ladka shant aur samajhdar hoga, par ek baar kundli zaroor milwa lein. Yeh rishta kahan se aaya hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 aur September 2028 ke beech tay hogi ji. Ladka shant aur samajhdar hoga, par ek baar kundli zaroor milwa lein. Yeh rishta kahan se aaya hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Par wo gusse wala hai",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Mujhe toh gussa lga uska",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, unka yeh gussa thoda Mangal ke asar ki wajah se ho sakta hai. Kundli milan mein yeh cheez pehle hi dekh li jati hai. Kya aapki unse aam taur par lambi baat hoti hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, unka yeh gussa thoda Mangal ke asar ki wajah se ho sakta hai. Kundli milan mein yeh cheez pehle hi dekh li jati hai. Kya aapki unse aam taur par lambi baat hoti hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya mangal?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mangal yaani gusse wala grah, jo kundli mein thoda asar dikhata hai ji. Yeh aam baat hai aur milan se theek ho jata hai. Yeh rishta ghar walon ne dekha hai ya aapki aapas mein baat hui hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Mangal yaani gusse wala grah, jo kundli mein thoda asar dikhata hai ji. Yeh aam baat hai aur milan se theek ho jata hai. Yeh rishta ghar walon ne dekha hai ya aapki aapas mein baat hui hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar walo ne",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Career kaisa hoga",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career ki baat karte hain ji. Aap abhi kahin job kar rahe hain ya naya try kar rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Career ki baat karte hain ji. Aap abhi kahin job kar rahe hain ya naya try kar rahe hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Naya try kr rhi hu",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad naya kaam milne ke poore yog hain ji. Career sthaan par Shani ka bhari asar ab kam ho raha hai. Aap kis field mein koshish kar rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke baad naya kaam milne ke poore yog hain ji. Career sthaan par Shani ka bhari asar ab kam ho raha hai. Aap kis field mein koshish kar rahi hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Private job",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shukravaar 20 November se 'Om Shum Shukraya Namah' 108 baar jaap karein ji. March 2027 ke baad shaadi ka yog pakka banega. Kya ghar wale is rishte mein jaldi mein hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shukravaar 20 November se 'Om Shum Shukraya Namah' 108 baar jaap karein ji. March 2027 ke baad shaadi ka yog pakka banega. Kya ghar wale is rishte mein jaldi mein hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale jaldi mein hain toh baat aage badhegi aur jaan-pehchaan ke zariye hi yeh rishta pakka hoga ji. Kya unke ghar walon se aapki pehle se jaan-pehchaan hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar wale jaldi mein hain toh baat aage badhegi aur jaan-pehchaan ke zariye hi yeh rishta pakka hoga ji. Kya unke ghar walon se aapki pehle se jaan-pehchaan hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke baad paisa rukne aur savings sudharne ke yog hain ji. Yeh samay aamdani ke liye kaafi behtar rahega. Kya aapka ghar se door ya abroad jaane ka irada hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "2027 ke baad paisa rukne aur savings sudharne ke yog hain ji. Yeh samay aamdani ke liye kaafi behtar rahega. Kya aapka ghar se door ya abroad jaane ka irada hai?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, waqt aane par sab pata chal jayega. October 2028 ke aas-paas apna ghar aur sthirta ka bada yog banega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi baat nahi ji, waqt aane par sab pata chal jayega. October 2028 ke aas-paas apna ghar aur sthirta ka bada yog banega."
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khtm ho raha hai",
+    "sec": 270,
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 28
+  }
+]

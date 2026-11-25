@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon. Aap bhavishya ke baare mein pooch rahi hain, main samajh sakti hoon. Kya aap mujhe bata sakti hain ki abhi aapke mann mein sabse badi chinta kya hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon. Aap bhavishya ke baare mein pooch rahi hain, main samajh sakti hoon. Kya aap mujhe bata sakti hain ki abhi aapke mann mein sabse badi chinta kya hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 se September 2028 ke beech hone ke yog hain. Rishton ka grah thoda kamzor hai, isliye deri hai, par achha partner milega. Kya November 2022 mein aapki padhai mein badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 se September 2028 ke beech hone ke yog hain. Rishton ka grah thoda kamzor hai, isliye deri hai, par achha partner milega. Kya November 2022 mein aapki padhai mein badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. 2027 me kaunse mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad se shaadi ke yog shuru ho jaate hain. Rishton ka grah abhi thoda dabe hue prabhav mein hai, par tab tak aapko ek aise vyakti ke baare mein pata chalega jo kafi samajhdar hain. Kya aapko raat ko aksar neend aane mein pareshani hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad se shaadi ke yog shuru ho jaate hain. Rishton ka grah abhi thoda dabe hue prabhav mein hai, par tab tak aapko ek aise vyakti ke baare mein pata chalega jo kafi samajhdar hain. Kya aapko raat ko aksar neend aane mein pareshani hoti hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bataiye.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shaadi ke yog sabse majboot hain. Aapko milne wale partner lambe aur shaant honge, par thode gambhir rahenge. Shukra grah ke liye 20 Nov se 'Om Shum Shukraya Namah' 108 baar japiye. Career mein abhi kya pareshani hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 mein shaadi ke yog sabse majboot hain. Aapko milne wale partner lambe aur shaant honge, par thode gambhir rahenge. Shukra grah ke liye 20 Nov se 'Om Shum Shukraya Namah' 108 baar japiye. Career mein abhi kya pareshani hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se aana shuru hoga jab career mein badlav aayega. Himmat aur kamai ka grah tab majboot hoga. Ek khaas kshetra se dhan mil sakta hai, jiska raaz jald kholungi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa March 2027 se aana shuru hoga jab career mein badlav aayega. Himmat aur kamai ka grah tab majboot hoga. Ek khaas kshetra se dhan mil sakta hai, jiska raaz jald kholungi."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh kshetra finance ya communication ka hai, jo aapke kaam aur paise dono ko jodta hai. Guru grah ke liye 19 Nov se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japiye aur chana dal daan karein. Kya aap abhi inmein se kisi kshetra mein kaam kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Yeh kshetra finance ya communication ka hai, jo aapke kaam aur paise dono ko jodta hai. Guru grah ke liye 19 Nov se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japiye aur chana dal daan karein. Kya aap abhi inmein se kisi kshetra mein kaam kar rahi hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani June 2027 tak dheere-dheere kam hogi. Mann ka grah jab tak kamzor hai, tab tak stress rehta hai, lekin mehnat aur karm ke grah ka asar badalne wala hai. Agli baar dhyan rakhein ki jab bhi tension ho, toh thoda waqt akeli bitayein. Kya aapke parivaar mein koi aisa hai jisse aap sab baatein keh sakti hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki pareshani June 2027 tak dheere-dheere kam hogi. Mann ka grah jab tak kamzor hai, tab tak stress rehta hai, lekin mehnat aur karm ke grah ka asar badalne wala hai. Agli baar dhyan rakhein ki jab bhi tension ho, toh thoda waqt akeli bitayein. Kya aapke parivaar mein koi aisa hai jisse aap sab baatein keh sakti hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Mummy papa rishta dekh rahe hai, wo kab tak final hoga.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta March 2027 se September 2028 ke beech final hoga. Hone wale partner reserved honge, bilkul aapki tarah. Inke gharwale kaafi paramparik honge, jiska ek khaas asar aap par padega. Kya aap unse mili hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Rishta March 2027 se September 2028 ke beech final hoga. Hone wale partner reserved honge, bilkul aapki tarah. Inke gharwale kaafi paramparik honge, jiska ek khaas asar aap par padega. Kya aap unse mili hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, abhi baat chal rahi hai.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 20
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas aana mushkil hai ji. Shani ke asar se wahan baat nahi banegi. March 2027 ke baad naye mauke milenge.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas aana mushkil hai ji. Shani ke asar se wahan baat nahi banegi. March 2027 ke baad naye mauke milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Itna wait?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wait thoda lamba hai ji. Shani ki slow chaal chal rahi hai. Tab tak skills par dhyan dein ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Wait thoda lamba hai ji. Shani ki slow chaal chal rahi hai. Tab tak skills par dhyan dein ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa aayega ji. Mangal ki taakat se aamdani sudharegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa aayega ji. Mangal ki taakat se aamdani sudharegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, abhi 2nd house kamzor hai. Isliye paisa haath mein nahi rukta. March ke baad Mangal se sudhaar aayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan ji, abhi 2nd house kamzor hai. Isliye paisa haath mein nahi rukta. March ke baad Mangal se sudhaar aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar bhi date galat thi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka shak bilkul jayaz hai ji. Shani ki slow chaal se delay hota hai. March ke baad ruka paisa aayega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka shak bilkul jayaz hai ji. Shani ki slow chaal se delay hota hai. March ke baad ruka paisa aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kahi aur interview hai next week",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Next week interview ki koshish acchi hai ji. Guru ki energy se baat aage badhegi. Thoda dhairya rakhein, raste khul rahe hain.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Next week interview ki koshish acchi hai ji. Guru ki energy se baat aage badhegi. Thoda dhairya rakhein, raste khul rahe hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech. Shani ke badalte asar se yog banega ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech. Shani ke badalte asar se yog banega ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Itna late?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Der thodi zaroori hai ji. Shukra ki kamzori se samay lagta hai. Partner calm aur padhe-likhe milenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Der thodi zaroori hai ji. Shukra ki kamzori se samay lagta hai. Partner calm aur padhe-likhe milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji. Aapki kundli mein shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Theek hai ji. Aapki kundli mein shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

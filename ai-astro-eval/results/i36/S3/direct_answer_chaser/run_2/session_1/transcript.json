@@ -1,0 +1,128 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future. Career aur paisa kaisa rahega is saal?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi career mein thodi dheemi gati hai, par 2027 se halat badal jayenge. 2023 se 2025 tak paise thode tight rahe, hai na?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Abhi career mein thodi dheemi gati hai, par 2027 se halat badal jayenge. 2023 se 2025 tak paise thode tight rahe, hai na?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan tight tha. Is saal 2024 me paisa kab aayega?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2024 mein tangi thi kyunki career aur paisa dono grah dheeme hain. Career mein ek bada mauka 2027 mein aayega, jiske baare mein aapne socha nahi. Aap abhi kis field mein hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2024 mein tangi thi kyunki career aur paisa dono grah dheeme hain. Career mein ek bada mauka 2027 mein aayega, jiske baare mein aapne socha nahi. Aap abhi kis field mein hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Matlab is saal kuch nahi hoga?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisa nahi hai, chhote mauke zaroor milenge. Wo bada mauka teaching ya media field se juda hai, jiske baare mein aapne socha nahi tha. Guru ka mantra guruvaar se shuru kijiye; kya aapne in fields mein kabhi try kiya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aisa nahi hai, chhote mauke zaroor milenge. Wo bada mauka teaching ya media field se juda hai, jiske baare mein aapne socha nahi tha. Guru ka mantra guruvaar se shuru kijiye; kya aapne in fields mein kabhi try kiya hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi try kiya. Paisa kab tak aayega is saal?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal badi raashi ki ummeed kam hai, par chhote-mote kaam se paisa aata rahega. Paise ke liye kundli mein ek chhoti si galti dikh rahi hai, jis wajah se paise rukte nahi. Aap abhi kya kaam kar rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Is saal badi raashi ki ummeed kam hai, par chhote-mote kaam se paisa aata rahega. Paise ke liye kundli mein ek chhoti si galti dikh rahi hai, jis wajah se paise rukte nahi. Aap abhi kya kaam kar rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao kab tak.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nov-Dec mein paisa aane ke yog hain. Wo galti ye hai ki paise ka ghar kamzor hai isliye paisa tikta nahi. Somvaar vrat aur mantra 23 Nov se shuru kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Nov-Dec mein paisa aane ke yog hain. Wo galti ye hai ki paise ka ghar kamzor hai isliye paisa tikta nahi. Somvaar vrat aur mantra 23 Nov se shuru kijiye."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Meh kitne number ki hu?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai, jo buddhi aur tezi ka prateek hai. Wese, vivah ko lekar ek aisa yog hai jo jald hi zindagi badal sakta hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka number 5 hai, jo buddhi aur tezi ka prateek hai. Wese, vivah ko lekar ek aisa yog hai jo jald hi zindagi badal sakta hai."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Vivah kab tak? Month batao.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein career-shaadi badlenge. Shaadi March 2027-Sept 2028 mein hogi. Wo baat ye hai ki jeevansathi lambe-shaant honge. 20 Nov se safed mithai daan kijiye; koi rishta aaya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027 mein career-shaadi badlenge. Shaadi March 2027-Sept 2028 mein hogi. Wo baat ye hai ki jeevansathi lambe-shaant honge. 20 Nov se safed mithai daan kijiye; koi rishta aaya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaun sa mahina exact?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi yog shuru ho jate hain, toh March ya April mein hi baat banti dikhti hai. Aapke career aur shaadi, dono isi samay ke baad sudhrenge, kyunki kismat ka grah dono ko ek saath prabhavit karta hai. Aapne ghar walon se is baare mein baat ki hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se hi yog shuru ho jate hain, toh March ya April mein hi baat banti dikhti hai. Aapke career aur shaadi, dono isi samay ke baad sudhrenge, kyunki kismat ka grah dono ko ek saath prabhavit karta hai. Aapne ghar walon se is baare mein baat ki hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 16
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job wapas milna mushkil hai ji. March 2027 ke baad naya mauka aayega. Guru grah nayi shuruwat karwayega.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job wapas milna mushkil hai ji. March 2027 ke baad naya mauka aayega. Guru grah nayi shuruwat karwayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 me kaunse month se?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruwati dino se hi. Shani AD shuru hone wala hai. Tabhi naye raste khulenge ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke shuruwati dino se hi. Shani AD shuru hone wala hai. Tabhi naye raste khulenge ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Agle hafte interview hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Usme hoga selection?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle hafte selection mushkil hai ji. Shani ki transit abhi rok rahi hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Agle hafte selection mushkil hai ji. Shani ki transit abhi rok rahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "\"Mushkil hai\" ka kya matlab?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Hoga ya nahi? Saaf bataiye.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo batate ho vesa hota nahi.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar bhi galat hua.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa aana bilkul jayaz hai ji. Shani ka asar abhi sakht hai. Isliye faisla thoda ruk raha hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Gussa aana bilkul jayaz hai ji. Shani ka asar abhi sakht hai. Isliye faisla thoda ruk raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Selection hoga ya nahi, haan ya na?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa bilkul sahi hai ji. Seedhe shabdon mein, abhi na hai. Shani ki transit abhi rukaavat daal rahi hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka gussa bilkul sahi hai ji. Seedhe shabdon mein, abhi na hai. Shani ki transit abhi rukaavat daal rahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 15
+  }
+]

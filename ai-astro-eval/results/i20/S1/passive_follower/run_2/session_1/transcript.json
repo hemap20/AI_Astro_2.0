@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani jagah wapas bulane ke chances kam hain, par March 2027 ke baad naye mauke zaroor aayenge. Tum khud wahi jana chahte ho ya naya try karna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani jagah wapas bulane ke chances kam hain, par March 2027 ke baad naye mauke zaroor aayenge. Tum khud wahi jana chahte ho ya naya try karna hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Wahi jana hai",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wahan wapas jana thoda mushkil lag raha hai kyunki abhi samay naye raste kholne ka hai. March 2027 ke baad career mein naya mod aayega, jahan aur behtar mauke milenge. 2027 mein ek mahina aisa aayega jab ek chhota sa effort tumhein wahan ya usse achhi jagah set kar sakta hai. Us company mein kisi se abhi bhi contact mein ho kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Wahan wapas jana thoda mushkil lag raha hai kyunki abhi samay naye raste kholne ka hai. March 2027 ke baad career mein naya mod aayega, jahan aur behtar mauke milenge. 2027 mein ek mahina aisa aayega jab ek chhota sa effort tumhein wahan ya usse achhi jagah set kar sakta hai. Us company mein kisi se abhi bhi contact mein ho kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha manager se baat",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Manager se baat hai toh koshish rakho, par March 2027 ke baad hi asli rasta khulega. Kisi bhi Guruwar ko chana daal daan karo, career ke raste aasan honge. Manager ka rukh positive lag raha hai ya wo time mang rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Manager se baat hai toh koshish rakho, par March 2027 ke baad hi asli rasta khulega. Kisi bhi Guruwar ko chana daal daan karo, career ke raste aasan honge. Manager ka rukh positive lag raha hai ya wo time mang rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Time mang rahe",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bata do",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke mahine mein hi wo window khul rahi hai jab manager ki taraf se positive news aa sakti hai. Tab tak sabr rakho, umeed hai na?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke mahine mein hi wo window khul rahi hai jab manager ki taraf se positive news aa sakti hai. Tab tak sabr rakho, umeed hai na?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar bhi galat hua",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisa ho jata hai, kabhi-kabhi halat badalne mein thoda time lagta hai. Abhi mehnat ka phal thoda der se mil raha hai. Ghar pe is baare mein kisi se baat hoti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aisa ho jata hai, kabhi-kabhi halat badalne mein thoda time lagta hai. Abhi mehnat ka phal thoda der se mil raha hai. Ghar pe is baare mein kisi se baat hoti hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se mehnat bohot lag rahi hai. 2027 mein ek mahina aisa aayega jab ek decision job pakki kar sakta hai. Finance ya tech mein socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "2023 se mehnat bohot lag rahi hai. 2027 mein ek mahina aisa aayega jab ek decision job pakki kar sakta hai. Finance ya tech mein socha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Tech m",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Agli week interview hai wese",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tech field tumhare liye sahi hai, yahi yog kundli mein bhi hain. Agle hafte ke interview mein puri mehnat rakhna. Interview kis role ke liye hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Tech field tumhare liye sahi hai, yahi yog kundli mein bhi hain. Agle hafte ke interview mein puri mehnat rakhna. Interview kis role ke liye hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Developer role",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Developer role ke liye tech field bohot sahi hai, ye kundli mein bhi dikhta hai. 2027 ke baad ek aisa mauka ban sakta hai jo tumhe aur bade raste dikhaye. Interview ki taiyaari poori hai na?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Developer role ke liye tech field bohot sahi hai, ye kundli mein bhi dikhta hai. 2027 ke baad ek aisa mauka ban sakta hai jo tumhe aur bade raste dikhaye. Interview ki taiyaari poori hai na?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Thodi baki hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Taiyaari puri kar lo, tension mat lo. 2027 mein ek mahina aisa aayega jab yehi skill ek bada badlav layega. Interview ke liye koi mock test kiya kya?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Taiyaari puri kar lo, tension mat lo. 2027 mein ek mahina aisa aayega jab yehi skill ek bada badlav layega. Interview ke liye koi mock test kiya kya?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Bas ho jae kisi tarah",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ho jayega, tension mat lo. 2027 mein ek aisi date aayegi jo poora career badal degi, bas ye interview nikalna hai. Koi aur jagah baat chal rahi hai kya?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ho jayega, tension mat lo. 2027 mein ek aisi date aayegi jo poora career badal degi, bas ye interview nikalna hai. Koi aur jagah baat chal rahi hai kya?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Nhi, bas wahi",
+    "sec": 300,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 25
+  }
+]

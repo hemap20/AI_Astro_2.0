@@ -1,0 +1,172 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, wapas swagat hai. Bataiye, aaj kya baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, wapas swagat hai. Bataiye, aaj kya baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 aur September 2028 ke beech hogi ji. Shani Antardasha shuru hone par ye yog ban raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 aur September 2028 ke beech hogi ji. Shani Antardasha shuru hone par ye yog ban raha hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru se yog hai ji. Shani AD aate hi rishte ki baat chalegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke shuru se yog hai ji. Shani AD aate hi rishte ki baat chalegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rahe hain, ek baat chal rahi hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya wo isi ladke se hogi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat chalna bilkul theek hai ji. Ye rishta known circle ka lagta hai. March 2027 ke baad hi faisla hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Baat chalna bilkul theek hai ji. Ye rishta known circle ka lagta hai. March 2027 ke baad hi faisla hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Toh kya isi se fix hogi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, chance poora lagta hai. Wo known circle ka hi hai. March 2027 ke baad baat pakki hogi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, chance poora lagta hai. Wo known circle ka hi hai. March 2027 ke baad baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Career aur paise ka kya hai? Kab tak set hoga?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career set hoga ji. Guru aur Mangal majboot ho rahe hain.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se career set hoga ji. Guru aur Mangal majboot ho rahe hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunse mahine?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Usse pehle kuch nahi hoga kya?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuru se hi badlav dikhega ji. Usse pehle thoda stress aur slow progress rahegi, kyunki Shani ka asar 10th house par hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March ke shuru se hi badlav dikhega ji. Usse pehle thoda stress aur slow progress rahegi, kyunki Shani ka asar 10th house par hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension kam hogi ji. Shani ka transit shift hote hi ghar mein shanti aayegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad tension kam hogi ji. Shani ka transit shift hote hi ghar mein shanti aayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Sab note kar liya.",
+    "sec": 240,
+    "idx": 22
+  }
+]

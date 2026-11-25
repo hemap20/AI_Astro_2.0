@@ -1,0 +1,126 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! March 2027 se halaat badlenge. Aaj kya janna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! March 2027 se halaat badlenge. Aaj kya janna hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech hogi ji. Shani ki nayi dasha ka asar hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech hogi ji. Shani ki nayi dasha ka asar hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month tak pakka samjhu?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aaspaas pakka samjho. Shani ki chal wahan strong hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke aaspaas pakka samjho. Shani ki chal wahan strong hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Parents ek rishta dekh rhe hain. Usme baat banegi?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, baat pakki hone ka yog hai. Guru aur Budh ka asar hai. Rishta arranged hi dikh raha hai ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, baat pakki hone ka yog hai. Guru aur Budh ka asar hai. Rishta arranged hi dikh raha hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Konse month mein confirm hoga?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2027 ke beech pakka hoga. Shani ki dasha se ye yog hai. Waise partner ke calm aur educated hone ki bhi baat dikh rahi hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March se May 2027 ke beech pakka hoga. Shani ki dasha se ye yog hai. Waise partner ke calm aur educated hone ki bhi baat dikh rahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kb badhega?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial halaat sudhrenge ji. Mangal ki strong position se debt kam hoga. Vaise shaadi ke baad apne ghar ka yog bhi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad financial halaat sudhrenge ji. Mangal ki strong position se debt kam hoga. Vaise shaadi ke baad apne ghar ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kb khatam hogi?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak ghar ki tension door hogi ji. Shani ka pressure wahan kam ho jayega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 tak ghar ki tension door hogi ji. Shani ka pressure wahan kam ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 15
+  }
+]

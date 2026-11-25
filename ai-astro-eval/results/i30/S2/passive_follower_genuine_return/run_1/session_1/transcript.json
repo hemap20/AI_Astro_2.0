@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Future mein career, shaadi ya paise, kis baare mein main aapki madad karun?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Future mein career, shaadi ya paise, kis baare mein main aapki madad karun?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027 se 2028 ke beech banta hai, aur ye rishta zyada tar ghar walon ke zariye hi hoga. 2023 se 2025 tak aapne career mein kaafi mehnat ki, kya ab ghar pe shaadi ki baat chali hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027 se 2028 ke beech banta hai, aur ye rishta zyada tar ghar walon ke zariye hi hoga. 2023 se 2025 tak aapne career mein kaafi mehnat ki, kya ab ghar pe shaadi ki baat chali hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, baat chali hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah aur kismat ka grah 2027 mein shaadi ka yog bana rahe hain. Hone wale partner ke baare mein ek khaas baat kundli mein hai, kya koi rishta final hua hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishton ka grah aur kismat ka grah 2027 mein shaadi ka yog bana rahe hain. Hone wale partner ke baare mein ek khaas baat kundli mein hai, kya koi rishta final hua hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi abhi nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, rishton ka grah thoda kamzor hai isliye deri ho rahi hai. Partner ka nature kaafi calm hoga, par unki pehchan mein ek dikkat aa sakti hai. Aap abhi kaise jeevansathi ki ummeed rakhte hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Koi baat nahi, rishton ka grah thoda kamzor hai isliye deri ho rahi hai. Partner ka nature kaafi calm hoga, par unki pehchan mein ek dikkat aa sakti hai. Aap abhi kaise jeevansathi ki ummeed rakhte hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka btaiye",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki dikkat 2027 mein kam hogi jab karz utarna aasaan hoga. Aapka bachat ka ghar kamzor hai, isliye paisa tikta nahi. Abhi aap koi job kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki dikkat 2027 mein kam hogi jab karz utarna aasaan hoga. Aapka bachat ka ghar kamzor hai, isliye paisa tikta nahi. Abhi aap koi job kar rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, karm ka grah abhi 10th ghar se guzar raha hai, isliye kaam mein deri hai. 2027 mein career mein acche badlav aayenge. Aap kis field mein naukri dhund rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Koi baat nahi, karm ka grah abhi 10th ghar se guzar raha hai, isliye kaam mein deri hai. 2027 mein career mein acche badlav aayenge. Aap kis field mein naukri dhund rahe hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Admin",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bht tension hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Himmat aur karm ke grah aapke mann par nazar daal rahe hain, isliye ghar mein stress hai. 24 November se mangalwar ko Hanuman Chalisa padhein, shanti milegi. Ye tension ghar mein kis se hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Himmat aur karm ke grah aapke mann par nazar daal rahe hain, isliye ghar mein stress hai. 24 November se mangalwar ko Hanuman Chalisa padhein, shanti milegi. Ye tension ghar mein kis se hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta pressure",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka dabaav rishton aur karm ke grahon ke asar se hai, jo 2027 tak kam ho jayega. Agli baar hum aapke hone wale jeevansathi ke nature par vistaar se baat karenge?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ka dabaav rishton aur karm ke grahon ke asar se hai, jo 2027 tak kam ho jayega. Agli baar hum aapke hone wale jeevansathi ke nature par vistaar se baat karenge?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai. Aapke partner kaafi samajhdaar aur calm honge, ye kundli mein saaf hai. Agli baar hum unke nature aur aapki jodi ke baare mein vistaar se baat karenge. Namaste.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Theek hai. Aapke partner kaafi samajhdaar aur calm honge, ye kundli mein saaf hai. Agli baar hum unke nature aur aapki jodi ke baare mein vistaar se baat karenge. Namaste."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

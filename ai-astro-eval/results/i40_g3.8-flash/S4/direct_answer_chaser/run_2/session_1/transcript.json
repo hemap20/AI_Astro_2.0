@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai, time nhi pta.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Main aapki kundali dekh kar samajh sakti hoon. Kya yeh rishta ghar walon ke zariye aaya hai ya aap pehle se jaanti hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Main aapki kundali dekh kar samajh sakti hoon. Kya yeh rishta ghar walon ke zariye aaya hai ya aap pehle se jaanti hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar walon ne dekha hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi, ye bataiye.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta theek dikhta hai, bas thoda samay lekar aage badhein. Kismat ke grah ki wajah se ladka samajhdar aur shaant hoga. Kya 2022 mein aapki padhai mein badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Rishta theek dikhta hai, bas thoda samay lekar aage badhein. Kismat ke grah ki wajah se ladka samajhdar aur shaant hoga. Kya 2022 mein aapki padhai mein badlav aaya tha?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Shaant nahi hai, bahut gussa karta hai.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Rishta pakka karun ya nahi, ye bataiye.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gusse ki wajah mann ke grah par himmat ke grah ki nazar hai. Thoda rukna behtar hai, jaldbaazi mein pakka mat kijiye. Unke gusse ke alawa kya koi aur baat pareshan karti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Gusse ki wajah mann ke grah par himmat ke grah ki nazar hai. Thoda rukna behtar hai, jaldbaazi mein pakka mat kijiye. Unke gusse ke alawa kya koi aur baat pareshan karti hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Sirf ye btaiye, rishta pakka karu ya nhi?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Yes or No.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi ke liye na kijiye, thoda waqt lijiye. Rishton ka grah kamzor hone se thoda dabav banta hai. Aapke chart mein ek aisi baat bhi hai jo aage rasta kholegi. Kya abhi ghar se bohot zyada dabav hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Abhi ke liye na kijiye, thoda waqt lijiye. Rishton ka grah kamzor hone se thoda dabav banta hai. Aapke chart mein ek aisi baat bhi hai jo aage rasta kholegi. Kya abhi ghar se bohot zyada dabav hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka accha yoga March 2027 se September 2028 ke beech banta hai. Pichle sanket ka matlab tha ki rishta jaanke circles se aayega. Shukravar se safed meethai daan kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapki shaadi ka accha yoga March 2027 se September 2028 ke beech banta hai. Pichle sanket ka matlab tha ki rishta jaanke circles se aayega. Shukravar se safed meethai daan kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saal 2027 mein March aur April ke mahine sabse acche rahenge ji. Karm ke grah ka asar yaha naye raste banayega. Kya aapke mann mein kisi khaas umar tak shaadi karne ki baat chal rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Saal 2027 mein March aur April ke mahine sabse acche rahenge ji. Karm ke grah ka asar yaha naye raste banayega. Kya aapke mann mein kisi khaas umar tak shaadi karne ki baat chal rahi hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "To ye rishta kbhi sahi nhi hoga?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is rishte mein jhagde aage chalkar thode kam honge, par dhang se baat tabhi banegi jab samay milega. Kundali mein ek khaas raste ka mod bhi dikh raha hai. Kya ladke ke ghar wale bohot purane vicharon ke hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Is rishte mein jhagde aage chalkar thode kam honge, par dhang se baat tabhi banegi jab samay milega. Kundali mein ek khaas raste ka mod bhi dikh raha hai. Kya ladke ke ghar wale bohot purane vicharon ke hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Sidha jawab dijiye, rishta sahi hai ya nahi?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sidha jawab hai na, abhi yeh rishta theek nahi hai. Pichle sanket ka matlab tha ki aage ek lamba aur accha rasta khulega. Mangalwar se Hanuman Chalisa padhna shuru kijiye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sidha jawab hai na, abhi yeh rishta theek nahi hai. Pichle sanket ka matlab tha ki aage ek lamba aur accha rasta khulega. Mangalwar se Hanuman Chalisa padhna shuru kijiye."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 24
+  }
+]

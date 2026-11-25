@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Zindagi ke baare mein main aapki kundli dekh kar batati hoon. Aap sabse pehle career ke baare mein jaanna chahti hain ya shaadi ke baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Zindagi ke baare mein main aapki kundli dekh kar batati hoon. Aap sabse pehle career ke baare mein jaanna chahti hain ya shaadi ke baare mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Career",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein abhi thodi rukawat hai, par 2027 se achha waqt shuru hoga. Pichle dedh saal se kaam-kaaj mein stress aur susti rahi hai, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Career mein abhi thodi rukawat hai, par 2027 se achha waqt shuru hoga. Pichle dedh saal se kaam-kaaj mein stress aur susti rahi hai, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha bohot tension",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, kyunki mehnat aur karm ka grah abhi mann ke grah se aathve ghar mein hai, jo tension deta hai. 2023 se 2025 ke beech paise ko lekar kafi mehnat karni padi thi, kya wahi samay se dikkat shuru hui?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, kyunki mehnat aur karm ka grah abhi mann ke grah se aathve ghar mein hai, jo tension deta hai. 2023 se 2025 ke beech paise ko lekar kafi mehnat karni padi thi, kya wahi samay se dikkat shuru hui?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Grahon ki chal se abhi career mein rukawat hai, par 2027 se achha samay aayega. 2023 se 2025 ke beech paise ki tangi thi na, wahi tension abhi badh gayi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Grahon ki chal se abhi career mein rukawat hai, par 2027 se achha samay aayega. 2023 se 2025 ke beech paise ki tangi thi na, wahi tension abhi badh gayi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha, paisa ko le k",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, wahi samay se tangi hai. Career aur kamai dono March 2027 se sudhrenge. Videsh se kamai ka ek mauka hai, par wo kaise milega, ye agle baar bataungi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, wahi samay se tangi hai. Career aur kamai dono March 2027 se sudhrenge. Videsh se kamai ka ek mauka hai, par wo kaise milega, ye agle baar bataungi."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka ank 2 hai, kyunki aapke lagna ka swami Chandra hai. Ye mann aur bhavnaon ka hota hai, isliye aap chinta jaldi karti hain. Career mein iska kya asar hai, wo bataun?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka ank 2 hai, kyunki aapke lagna ka swami Chandra hai. Ye mann aur bhavnaon ka hota hai, isliye aap chinta jaldi karti hain. Career mein iska kya asar hai, wo bataun?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Bataiye",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kyunki aapka ank 2 hai, aap mann se kaam leti hain. Isliye kaam ka stress jaldi haavi hota hai, jo 2027 tak rahega. Aap teaching ya finance mein career dekh rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kyunki aapka ank 2 hai, aap mann se kaam leti hain. Isliye kaam ka stress jaldi haavi hota hai, jo 2027 tak rahega. Aap teaching ya finance mein career dekh rahi hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ji, finance",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Finance aapke liye behtareen hai, kyunki buddhi aur gyaan ke grah ka asar hai. Bas 2027 tak dherya rakhein. Kya aapne kabhi sarkari naukri ke liye try kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Finance aapke liye behtareen hai, kyunki buddhi aur gyaan ke grah ka asar hai. Bas 2027 tak dherya rakhein. Kya aapne kabhi sarkari naukri ke liye try kiya hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sarkari naukri ke badle finance mein private sector aapke liye behtar hai. Guru ka daan, jaise chana dal, 19 November se shuru karein, career mein madad milegi. Shaadi aur partner ka nature agle baar dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sarkari naukri ke badle finance mein private sector aapke liye behtar hai. Guru ka daan, jaise chana dal, 19 November se shuru karein, career mein madad milegi. Shaadi aur partner ka nature agle baar dekhenge."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

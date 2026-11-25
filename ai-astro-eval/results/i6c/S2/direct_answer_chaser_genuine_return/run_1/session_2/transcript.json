@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! March 2027 ke baad career mein relief dikh raha hai. Aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! March 2027 ke baad career mein relief dikh raha hai. Aaj kis baare mein baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi pakki ho sakti hai. Shani antardasha shuru hone se ye rasta banega ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi pakki ho sakti hai. Shani antardasha shuru hone se ye rasta banega ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok, par 2027 me kaunse month?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ki shuruwat se hi rasta khulega ji. Shani antardasha aate hi baat pakki ho sakti hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ki shuruwat se hi rasta khulega ji. Shani antardasha aate hi baat pakki ho sakti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Abhi jo rishta aa raha hai, kya wahi final hai?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi wala rishta final nahi lag raha ji. Shukra kamzor hone se thodi rukawat aa sakti hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Abhi wala rishta final nahi lag raha ji. Shukra kamzor hone se thodi rukawat aa sakti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Theek hai. Paisa kab tak badhega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech paisa aur debt theek hoga ji. Mangal strong hone se ye raahat milegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech paisa aur debt theek hoga ji. Mangal strong hone se ye raahat milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Konse month?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi shuru hoga ji. Mangal strong hone se raahat milegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se hi shuru hoga ji. Mangal strong hone se raahat milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch March 2027 hi batate ho kya? Kuch exact bataiye.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh sawaal bilkul theek hai ji. Feb 2027 mein Guru ka period badlega. Tabhi asli rasta saaf hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh sawaal bilkul theek hai ji. Feb 2027 mein Guru ka period badlega. Tabhi asli rasta saaf hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Exact date? Ya sirf mahine ka andaza hai?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein exact din nahi, grah ki dasha ka samay dikhta hai ji. March ke pehle hafte se hi Shani ka prabhav shuru ho jayega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kundli mein exact din nahi, grah ki dasha ka samay dikhta hai ji. March ke pehle hafte se hi Shani ka prabhav shuru ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab tak rahegi?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension khatam hogi ji. Shani ka prabhav tab badlega. Aapki kundli mein partner ka swabhav bhi dikh raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke baad tension khatam hogi ji. Shani ka prabhav tab badlega. Aapki kundli mein partner ka swabhav bhi dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 18
+  }
+]

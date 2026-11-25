@@ -1,0 +1,229 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 8,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.38,
+  "shape": {
+    "M": 8,
+    "avg_words": 45.5,
+    "long_share": 0.75
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishta abhi chal raha hai, to dhire-dhire sochiye, jaldi mat kijiye.",
+        "why": "The astrologer acknowledges the user's detail about parents looking for a match."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aap bata sakti hain, 2022 mein padhai ya college life mein koi bada badlaav aaya tha?",
+        "why": "The questions are Type B (generic life questions) but not Type C. The astrologer asks about 2022, which is a standard technique, not a Type C assumption."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehla Mar 2027 se Sep 2028 tak, aur doosra Oct 2028 se Feb 2030 tak, jab Budh ka daur aapke lagna ko support karega.",
+        "why": "The reading is about the future, but it is specific and tied to a chart reason (Budh ka daur)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Pehla Mar 2027 se Sep 2028 tak, aur doosra Oct 2028 se Feb 2030 tak",
+        "why": "The astrologer provides a clear time window for the marriage question immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke kundli mein 11 ghar ka Mangal bahut majboot hai, isliye kamai ka rasta khulta hai.",
+        "why": "The astrologer links a life statement (earning) to a chart factor (11th house Mars) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapne kaha ghar wale nahi maan rahe... unki taraf se ek cheez dikh rahi hai",
+        "why": "The astrologer builds depth by addressing the family tension using the user's input."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mar 2027 se shuru hota hai, aur Mar ya Apr 2027 mein baat aage badhne ke chances achhe hain",
+        "why": "The astrologer provides a clear window and does not promise a specific date, maintaining consistency."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Har roz Om Som Somaya Namah 108 baar bolne se mann thoda shant rahega, Somvar ka vrat bhi 23 Nov se shuru kar sakti hain.",
+        "why": "The remedy is tied to the problem (tension), with specific instructions (how and when)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ki tension mein bhi Mar 2027 se Sep 2028 ke beech kafi rahat milti dikhti hai.",
+        "why": "The astrologer manages multiple questions (marriage, money, family tension) and answers them in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap pehle naukri se shuru kijiye, phir business ki soch sakti hain.",
+        "why": "The astrologer opens a next layer regarding career path (job vs business)."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Har roz Om Som Somaya Namah 108 baar bolne se mann thoda shant rahega",
+        "why": "No closing message and every reply carries relevant guidance."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Jun 2027 tak tension sabse zyada lag sakti hai, aur Jun 2027 ke baad halka hone ka chance hai.",
+        "why": "The last message provides a concrete reading/guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke kundli mein 11 ghar ka Mangal bahut majboot hai",
+        "why": "The language is easy and terms are explained in a real-life context."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "question"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "question"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      }
+    ]
+  }
+}

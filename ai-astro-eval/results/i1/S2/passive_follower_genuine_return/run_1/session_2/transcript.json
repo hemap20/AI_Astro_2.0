@@ -1,0 +1,174 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, kaise hain aap? Bataiye aaj kya pareshan kar raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, kaise hain aap? Bataiye aaj kya pareshan kar raha hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. March 2027 ke baad shadi ke yog hain aur finances bhi settle honge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. March 2027 ke baad shadi ke yog hain aur finances bhi settle honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke partner tall aur calm honge. Ghar ki tension ka remedy chahiye?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapke partner tall aur calm honge. Ghar ki tension ka remedy chahiye?",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe rishta dekh rhe",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta arranged hi aayega ji. In-laws kaafi traditional aur reserved honge. Har Tuesday Hanuman Chalisa zaroor padhein.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta arranged hi aayega ji. In-laws kaafi traditional aur reserved honge. Har Tuesday Hanuman Chalisa zaroor padhein.",
+      "marital_status": "unmarried"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa rukta nahi hai ji. Second house weak hai isliye. March 2027 ke baad debt kam hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa rukta nahi hai ji. Second house weak hai isliye. March 2027 ke baad debt kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab paise aate hain par rukte nahi ji. Second house weak hone se savings nahi hoti.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Matlab paise aate hain par rukte nahi ji. Second house weak hone se savings nahi hoti.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok aur ghar ki tension",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension Shani ki wajah se hai ji. June 2027 ke baad yeh kam hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension Shani ki wajah se hai ji. June 2027 ke baad yeh kam hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani Chandra se 8th house mein hai. Isliye ghar ka mahaul thoda bhari rehta hai ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shani Chandra se 8th house mein hai. Isliye ghar ka mahaul thoda bhari rehta hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aasan bhasha mein, grah thode bhaari hain ji. Time thoda kam reh gaya hai — aapke kundli mein ek khaas cheez dikh rahi hai October 2028 ke apne ghar ke yog ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aasan bhasha mein, grah thode bhaari hain ji. Time thoda kam reh gaya hai — aapke kundli mein ek khaas cheez dikh rahi hai October 2028 ke apne ghar ke yog ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 se February 2030 ke beech apna ghar banega ji. Budh 4th lord hai iska.",
+    "sec": 285,
+    "raw_response": {
+      "message": "October 2028 se February 2030 ke beech apna ghar banega ji. Budh 4th lord hai iska.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 21
+  }
+]

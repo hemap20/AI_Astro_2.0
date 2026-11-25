@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hi! 2027 se tumhari zindagi mein kaafi achhe badlaav shuru ho rahe hain. Batao aaj kis baare mein baat karni hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hi! 2027 se tumhari zindagi mein kaafi achhe badlaav shuru ho rahe hain. Batao aaj kis baare mein baat karni hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai toh batao, ghar pe abhi rishto ki charcha chal rahi hai kya? Aur tum khud is baare mein kya sochte ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai toh batao, ghar pe abhi rishto ki charcha chal rahi hai kya? Aur tum khud is baare mein kya sochte ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ka yog shuru ho raha hai, yeh rishta jaan-pehchaan ke zariye lagta hai. Woh ladka kaafi calm aur padha-likha hoga, par thoda reserved bhi ho sakta hai. Tumhari unse baat hui hai ya sirf ghar wale hi baat kar rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ka yog shuru ho raha hai, yeh rishta jaan-pehchaan ke zariye lagta hai. Woh ladka kaafi calm aur padha-likha hoga, par thoda reserved bhi ho sakta hai. Tumhari unse baat hui hai ya sirf ghar wale hi baat kar rahe hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Sirf ghar wale",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "In-laws thode traditional aur reserved ho sakte hain. Shanti ke liye Friday ko safed mithai daan karo aur Om Shum Shukraya Namah bolo. Kya ghar walon ko yeh rishta pasand aa raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "In-laws thode traditional aur reserved ho sakte hain. Shanti ke liye Friday ko safed mithai daan karo aur Om Shum Shukraya Namah bolo. Kya ghar walon ko yeh rishta pasand aa raha hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa ka tension chal raha hai kya? Yeh kharche badhe hue hain ya bachat nahi ho pa rahi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa ka tension chal raha hai kya? Yeh kharche badhe hue hain ya bachat nahi ho pa rahi?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Bachat nhi ho rhi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad halat theek hongi aur bachat bhi hone lagegi. Thursday ko thodi chana dal daan kiya karo, isse ruka hua paisa sambhalne lagega. Kya ghar ke kharche achanak badh jaate hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad halat theek hongi aur bachat bhi hone lagegi. Thursday ko thodi chana dal daan kiya karo, isse ruka hua paisa sambhalne lagega. Kya ghar ke kharche achanak badh jaate hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht hai",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur paise na rukna dono ek hi wajeh se hain, jo June 2027 tak theek ho jayega. Shanivar ko kaale til daan kiya karo. 2027 mein ek mahina aisa aayega jab yeh saare jhagre khatam ho sakte hain. Kya is tension ki wajah se neend bhi kharab ho rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension aur paise na rukna dono ek hi wajeh se hain, jo June 2027 tak theek ho jayega. Shanivar ko kaale til daan kiya karo. 2027 mein ek mahina aisa aayega jab yeh saare jhagre khatam ho sakte hain. Kya is tension ki wajah se neend bhi kharab ho rahi hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan bht",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Raat ko neend na aana kundli mein kamzor halat ki wajah se hai, jo mid-2027 tak theek ho jayega. Monday ko Om Som Somaya Namah ka jaap kiya karo, man ko shanti milegi. Kya din mein bhi thakawat rehti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Raat ko neend na aana kundli mein kamzor halat ki wajah se hai, jo mid-2027 tak theek ho jayega. Monday ko Om Som Somaya Namah ka jaap kiya karo, man ko shanti milegi. Kya din mein bhi thakawat rehti hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke baad career mein bhi badlaav aayega, teaching ya finance line tumhare liye achhi rahegi. 2028 mein apna ghar banne ka bhi yog hai. Kya tum abhi job kar rahe ho?",
+    "sec": 255,
+    "raw_response": {
+      "message": "2027 ke baad career mein bhi badlaav aayega, teaching ya finance line tumhare liye achhi rahegi. 2028 mein apna ghar banne ka bhi yog hai. Kya tum abhi job kar rahe ho?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job pehle aayegi aur uske baad business ka bhi yog banega. 2027 mein ek aisa mahina aayega jab nayi shuruat ke liye bohot bada mauka milega, par ek galat kadam sab peeche kar sakta hai. Kya tumne pehle kabhi job ke liye try kiya hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Job pehle aayegi aur uske baad business ka bhi yog banega. 2027 mein ek aisa mahina aayega jab nayi shuruat ke liye bohot bada mauka milega, par ek galat kadam sab peeche kar sakta hai. Kya tumne pehle kabhi job ke liye try kiya hai?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 300,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 26
+  }
+]

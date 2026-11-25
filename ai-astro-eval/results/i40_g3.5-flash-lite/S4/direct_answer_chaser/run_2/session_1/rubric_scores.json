@@ -1,0 +1,179 @@
+{
+  "scores": {
+    "1.1": 3,
+    "1.2": 6,
+    "1.4": 1,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.56,
+  "shape": {
+    "M": 8,
+    "avg_words": 28.2,
+    "long_share": 0.38
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Main is rishte ko chart mein dekhti hoon, jaha partner calm aur educated nazar aate hain.",
+        "why": "The user asked if the boy is right for her. The astrologer's first message ignores the user's specific question/worry and jumps straight into a reading about the partner's traits."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap dono ki aapas mein khul kar baat hoti hai?",
+        "why": "Most questions are Type B (generic life questions) rather than Type A (building on specific user details)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 1,
+        "quote": "",
+        "why": "The astrologer never asked for the boy's name or details to perform a proper matching or reading, despite the user asking about a specific person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main is rishte ko chart mein dekhti hoon, jaha partner calm aur educated nazar aate hain.",
+        "why": "The reading is about the present, new to the user, and specific, but lacks a chart-based reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Haan, yeh rishta aage chal sakta hai, par thoda samay lagega.",
+        "why": "A clear direction is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Gussa thoda dikh sakta hai kyunki rishton ke grah par dabav hai.",
+        "why": "Multiple readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Gussa thoda dikh sakta hai kyunki rishton ke grah par dabav hai.",
+        "why": "Later readings build on the user's input (the boy's anger) and add new points."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shadi March 2027 se September 2028 ke beech ho sakti hai.",
+        "why": "A consistent time window is provided throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Iske sudhaar ke liye har Shukrawar safed mithai daan kijiye.",
+        "why": "A practical remedy is provided for the stated problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Haan, yeh rishta aage chal sakta hai, par thoda samay lagega.",
+        "why": "The astrologer answers the main question about the relationship and then addresses the timing question."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "In-laws traditional aur reserved ho sakte hain",
+        "why": "The astrologer opens a new layer regarding the in-laws."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "",
+        "why": "No closing message was sent; the astrologer kept the conversation going."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "In-laws traditional aur reserved ho sakte hain",
+        "why": "The last message provides a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "rishton ke grah par dabav hai",
+        "why": "Easy language is used throughout."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka samay poori tarah clear ho gaya hai. In-laws traditional aur reserved ho sakte hain",
+        "why": "The user pushed for certainty, and the astrologer responded with a reading rather than arguing or defending."
+      }
+    },
+    "labels": [
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "reading"
+      }
+    ]
+  }
+}

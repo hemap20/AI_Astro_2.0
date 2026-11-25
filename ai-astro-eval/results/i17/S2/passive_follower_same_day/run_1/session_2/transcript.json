@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hi ji! 2027 ka saal tumhare liye kaafi behtar hone wala hai, career aur shaadi dono jagah acchi khabar milegi. Batao, aaj sabse zyada kis baat ki tension hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hi ji! 2027 ka saal tumhare liye kaafi behtar hone wala hai, career aur shaadi dono jagah acchi khabar milegi. Batao, aaj sabse zyada kis baat ki tension hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kisse hogi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke hisaab se partner padhe-likhe, shaant aur samajhdaar honge, rishta kisi jaan-pehchaan se aane ke poore chances hain. Shaadi se pehle ek rishta aur aayega jise thoda dhyan se dekhna padega. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kundli ke hisaab se partner padhe-likhe, shaant aur samajhdaar honge, rishta kisi jaan-pehchaan se aane ke poore chances hain. Shaadi se pehle ek rishta aur aayega jise thoda dhyan se dekhna padega. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan baat chal rhi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh jaan-pehchaan se hi pakka hoga, March 2027 ke baad waqt achha hai. Is Friday safed mithai daan karo. Tumhe ye ladka kaisa lag raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh jaan-pehchaan se hi pakka hoga, March 2027 ke baad waqt achha hai. Is Friday safed mithai daan karo. Tumhe ye ladka kaisa lag raha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangee kab se chal rahi hai, kharche zyada ho rahe hain kya? Savings nahi ho pa rahi ya koi aur baat hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki tangee kab se chal rahi hai, kharche zyada ho rahe hain kya? Savings nahi ho pa rahi ya koi aur baat hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Savings nhi ho rhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ka na tikna aur yeh saari tension ek hi phase ki wajah se hain, par March 2027 ke baad halat badlegi. Monday ko Shiv ji ko jal chadhaya karo, bachat hone lagegi. Kya ye sab 2023 se hi zyada ho gaya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ka na tikna aur yeh saari tension ek hi phase ki wajah se hain, par March 2027 ke baad halat badlegi. Monday ko Shiv ji ko jal chadhaya karo, bachat hone lagegi. Kya ye sab 2023 se hi zyada ho gaya hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha tabhi se",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension h",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi ye sab shuru hua hai. Paise na tikna aur ghar ka jhagda dono ek hi wajah se hain, jo March 2027 ke baad badal jayega. Mummy ke sath kis baat pe behas hoti hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "2023 se hi ye sab shuru hua hai. Paise na tikna aur ghar ka jhagda dono ek hi wajah se hain, jo March 2027 ke baad badal jayega. Mummy ke sath kis baat pe behas hoti hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Rishte ko leke",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy ke sath yeh behas March 2027 ke baad bilkul kam ho jayegi kyunki tab ghar ka mahaul badlega. 2027 mein ek mahina aisa aayega jab sabki raaye ek ho jayegi. Tumhe kya lagta hai, yeh rishta aage badhana chahiye ya thoda sochna chahiye?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mummy ke sath yeh behas March 2027 ke baad bilkul kam ho jayegi kyunki tab ghar ka mahaul badlega. 2027 mein ek mahina aisa aayega jab sabki raaye ek ho jayegi. Tumhe kya lagta hai, yeh rishta aage badhana chahiye ya thoda sochna chahiye?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sochna chahiye",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi soch rahi ho, kyunki kundli mein hai ki hone wale partner ka ek thoda reserved nature bhi hoga. Kya unse kabhi akele mein baat hui hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sahi soch rahi ho, kyunki kundli mein hai ki hone wale partner ka ek thoda reserved nature bhi hoga. Kya unse kabhi akele mein baat hui hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bina baat kiye jaldi mat karna, 2027 ke shuru mein ek din aayega jab yeh baat pakki karne ka bohot dabav hoga. Kya ghar pe is baare mein roz behas hoti hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Bina baat kiye jaldi mat karna, 2027 ke shuru mein ek din aayega jab yeh baat pakki karne ka bohot dabav hoga. Kya ghar pe is baare mein roz behas hoti hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Haan, roz",
+    "sec": 270,
+    "idx": 20
+  }
+]

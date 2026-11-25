@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. 2027 mein career mein rahat milegi. Bataiye, kya pareshan kar raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. 2027 mein career mein rahat milegi. Bataiye, kya pareshan kar raha hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, March 2027 se Shani period shuru ho raha hai. Isse debt kam hoga aur rishte ki baat chalegi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, March 2027 se Shani period shuru ho raha hai. Isse debt kam hoga aur rishte ki baat chalegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, mummy papa dekh rhe hai.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi yog hai. Mummy papa ke through hi rishta aayega. Partner bohot shant aur padhe-likhe honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi yog hai. Mummy papa ke through hi rishta aayega. Partner bohot shant aur padhe-likhe honge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya hai?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad debt dheere-dheere kam hoga ji. Mangal aur Ketu ki sthiti se paise mein sudhar aayega. Lekin 2nd house weak hone ki wajah se abhi bachat mushkil hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad debt dheere-dheere kam hoga ji. Mangal aur Ketu ki sthiti se paise mein sudhar aayega. Lekin 2nd house weak hone ki wajah se abhi bachat mushkil hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bht tension hai",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension bilkul sach hai ji. Shani aur Mangal ke asar se hai ye. Sab mid-2027 tak theek ho jayega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension bilkul sach hai ji. Shani aur Mangal ke asar se hai ye. Sab mid-2027 tak theek ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab ghar mein bina baat ke stress hai ji. Ye Shani aur Mangal ka asar hai, jo mid-2027 tak theek ho jayega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Matlab ghar mein bina baat ke stress hai ji. Ye Shani aur Mangal ka asar hai, jo mid-2027 tak theek ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027-2028 mein bahar jaane ka yog hai. Rahu aur Shukra ye mauka denge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027-2028 mein bahar jaane ka yog hai. Rahu aur Shukra ye mauka denge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baad apna ghar bhi banega ji. October 2028 se ye yog shuru hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaadi ke baad apna ghar bhi banega ji. October 2028 se ye yog shuru hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein teaching ya finance mein achhi growth dikh rahi hai ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki kundli mein teaching ya finance mein achhi growth dikh rahi hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 270,
+    "idx": 24
+  }
+]

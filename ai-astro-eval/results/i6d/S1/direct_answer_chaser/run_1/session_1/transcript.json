@@ -1,0 +1,116 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas mushkil hai ji. March 2027 ke baad naya mauka milega.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas mushkil hai ji. March 2027 ke baad naya mauka milega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Purani job ka koi chance nahi hai bilkul?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani jagah wapas jana theek nahi ji. Shani ka asar wahan ruka hua hai. Nayi field mein try karna behtar rahega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Purani jagah wapas jana theek nahi ji. Shani ka asar wahan ruka hua hai. Nayi field mein try karna behtar rahega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Matlab purani job nahi milegi? Haan ya na.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na ji, purani job ke chances nahi hain. March 2027 ke baad hi naya rasta khulega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Na ji, purani job ke chances nahi hain. March 2027 ke baad hi naya rasta khulega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Agle hafte interview hai, wahan selection hoga?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na ji, agle hafte selection mushkil hai. Shani ki sthiti abhi thodi slow hai. March 2027 ke baad asli yog ban raha hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Na ji, agle hafte selection mushkil hai. Shani ki sthiti abhi thodi slow hai. March 2027 ke baad asli yog ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Is saal kuch nahi hoga kya?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa hona bilkul sahi hai ji. Shani ki sthiti ki wajah se abhi der ho rahi hai. Lekin mid-2027 se situation badal jayegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka gussa hona bilkul sahi hai ji. Shani ki sthiti ki wajah se abhi der ho rahi hai. Lekin mid-2027 se situation badal jayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Is saal job milegi ya nahi, haan ya na?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na ji, is saal nahi milegi. Shani ki sthiti abhi aisi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Na ji, is saal nahi milegi. Shani ki sthiti abhi aisi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. 2027 tak kon wait karega.",
+    "sec": 180,
+    "idx": 14
+  }
+]

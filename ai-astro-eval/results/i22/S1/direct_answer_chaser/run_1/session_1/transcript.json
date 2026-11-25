@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas bulane ke chances kam hi hain. March 2027 ke baad naye mauke milenge jab career wali jagah par halat badlegi. Tumne wahan se kab chhodha tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas bulane ke chances kam hi hain. March 2027 ke baad naye mauke milenge jab career wali jagah par halat badlegi. Tumne wahan se kab chhodha tha?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "3 mahine pehle.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "2027 bohot door hai, kuch jaldi nahi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "3 mahine pehle chhodha tha, isliye abhi vakt bhaari lag raha hai. February 2027 se pehle hi naye mauke ke liye rasta banne lagega. Tumne beech mein kahin aur try kiya kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "3 mahine pehle chhodha tha, isliye abhi vakt bhaari lag raha hai. February 2027 se pehle hi naye mauke ke liye rasta banne lagega. Tumne beech mein kahin aur try kiya kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, next week interview hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Par purani wali company se call aayega ya nahi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani company se call aane ki ummeed kam hai, kyunki career ka naya daur shuru ho raha hai. Next week ke interview mein ek din tumhare liye bohot lucky rahega. Interview ki taiyaari kaisi chal rahi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Purani company se call aane ki ummeed kam hai, kyunki career ka naya daur shuru ho raha hai. Next week ke interview mein ek din tumhare liye bohot lucky rahega. Interview ki taiyaari kaisi chal rahi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Next week wale interview me select hounga ya nahi?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Selection ke ache chance hain. Next week ek khas din hai jab interview doge toh baat pakki ho sakti hai. Ye interview kis field ke liye hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Selection ke ache chance hain. Next week ek khas din hai jab interview doge toh baat pakki ho sakti hai. Ye interview kis field ke liye hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Software job.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Select hounga ya nhi, haan ya na?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, select hone ke poore chance hain kyunki tech field ke liye samay abhi sath de raha hai. Interview mein ek sawaal aisa aayega jo tumhara result decide karega, uska jawab soch samajh kar dena. Is field mein pehle kitna anubhav hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, select hone ke poore chance hain kyunki tech field ke liye samay abhi sath de raha hai. Interview mein ek sawaal aisa aayega jo tumhara result decide karega, uska jawab soch samajh kar dena. Is field mein pehle kitna anubhav hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "2 saal ka experience hai.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Offer letter kab tak aayega?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Offer letter March 2027 tak mil jayegi. Abhi career wali jagah thodi dheemi chaal chal rahi hai jo June ke baad badlegi. Kya ghar pe is interview ke baare mein sabko pata hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Offer letter March 2027 tak mil jayegi. Abhi career wali jagah thodi dheemi chaal chal rahi hai jo June ke baad badlegi. Kya ghar pe is interview ke baare mein sabko pata hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Next week interview ka result kab tak aayega?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, kabhi-kabhi time aage-peeche ho jata hai, main samajhti hoon. Result jald hi aayega, bas abhi career wali jagah par thoda dheema daur chal raha hai. Tayaari poori hai na?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, kabhi-kabhi time aage-peeche ho jata hai, main samajhti hoon. Result jald hi aayega, bas abhi career wali jagah par thoda dheema daur chal raha hai. Tayaari poori hai na?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, result ki exact date ya week kya hai?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "December ke pehle hafte mein result aane ka poora chance hai kyunki abhi yahi tez daur chal raha hai. Interview ke baad family mein kisne support kiya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "December ke pehle hafte mein result aane ka poora chance hai kyunki abhi yahi tez daur chal raha hai. Interview ke baad family mein kisne support kiya?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  }
+]

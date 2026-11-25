@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Mere liye ye ladka sahi hai ya nahi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hiii! Rishte ki baat hai toh soch-samajh ke kadam uthana sahi hai. Tum dono ki pehchan kaise hui aur ghar pe baat chali hai kya, ya abhi bas tumhari taraf se hi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hiii! Rishte ki baat hai toh soch-samajh ke kadam uthana sahi hai. Tum dono ki pehchan kaise hui aur ghar pe baat chali hai kya, ya abhi bas tumhari taraf se hi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe baat hui hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi mere liye?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari kundli mein tall aur calm partner ka yog hai, jo thode reserve hote hain. Par unke parivaar ka swabhav tumhare liye alag ho sakta hai. Kya wo nature mein shaant hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Tumhari kundli mein tall aur calm partner ka yog hai, jo thode reserve hote hain. Par unke parivaar ka swabhav tumhare liye alag ho sakta hai. Kya wo nature mein shaant hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, wo short-tempered lagte hain.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi mere liye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unka gussa Mangal ki wajah se hai. Rishta final karne se pehle kundli milan zaroor karwana. Hanuman Chalisa roz padhna, isse kafi fark padega. Ghar walon ne milan karwaya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Unka gussa Mangal ki wajah se hai. Rishta final karne se pehle kundli milan zaroor karwana. Hanuman Chalisa roz padhna, isse kafi fark padega. Ghar walon ne milan karwaya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Milan baad ki baat hai.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ye batao, mere liye sahi hai ya nahi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agar wo gusse wale hain, toh shayad ye sahi match nahi hai. Meri kundli mein ek calm aur warm partner ka yog hai jo tumhare swabhav se match karega. 2027 mein sahi rishta aane ka chance sabse zyada hai, kya tab tak wait kar sakti ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Agar wo gusse wale hain, toh shayad ye sahi match nahi hai. Meri kundli mein ek calm aur warm partner ka yog hai jo tumhare swabhav se match karega. 2027 mein sahi rishta aane ka chance sabse zyada hai, kya tab tak wait kar sakti ho?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Toh ye ladka nahi karna chahiye?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aur shadi kab tak hogi meri?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gusse wale insaan se rishta mushkil hoga, isliye mat karo. Tumhari shaadi March 2027 se September 2028 ke beech hone ke strong chances hain. Ek baat aur, rishta kisi jaani-pehchani jagah se hi aayega, jise pehchanna hoga. Kya tumne pehle bhi kisi rishte ke liye mana kiya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Gusse wale insaan se rishta mushkil hoga, isliye mat karo. Tumhari shaadi March 2027 se September 2028 ke beech hone ke strong chances hain. Ek baat aur, rishta kisi jaani-pehchani jagah se hi aayega, jise pehchanna hoga. Kya tumne pehle bhi kisi rishte ke liye mana kiya hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine mein hogi?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aaspas, khaas kar mid-saal mein achha yog hai. Rishton ka grah thoda dab gaya hai, isliye Friday ko safed mithai baantna shuru karo, isse baat jaldi banegi. Ghar-parivaar ke liye kundli mein ek aisi cheez hai jo shaadi ke baad badal sakti hai, kya tumne socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke aaspas, khaas kar mid-saal mein achha yog hai. Rishton ka grah thoda dab gaya hai, isliye Friday ko safed mithai baantna shuru karo, isse baat jaldi banegi. Ghar-parivaar ke liye kundli mein ek aisi cheez hai jo shaadi ke baad badal sakti hai, kya tumne socha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Exact date batao.",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date batana mushkil hai kyunki ye grahon ke khel par hai, par March 2027 ka pehla hafta kaafi majboot dikh raha hai. Tab tak shanti rakho aur apna dhyan rakho. Wese, kya tumne apne career ke baare mein bhi socha hai, ya abhi pura focus sirf shaadi par hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Exact date batana mushkil hai kyunki ye grahon ke khel par hai, par March 2027 ka pehla hafta kaafi majboot dikh raha hai. Tab tak shanti rakho aur apna dhyan rakho. Wese, kya tumne apne career ke baare mein bhi socha hai, ya abhi pura focus sirf shaadi par hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi hai. Waise tumhare career mein bhi ek bada badlav aane wala hai jo tumhari financial halat sudhar sakta hai. Agle saal ek aisa decision lena hoga jo future ki growth fix karega. Kya tum abhi kisi job ya padhai ke liye try kar rahi ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sahi hai. Waise tumhare career mein bhi ek bada badlav aane wala hai jo tumhari financial halat sudhar sakta hai. Agle saal ek aisa decision lena hoga jo future ki growth fix karega. Kya tum abhi kisi job ya padhai ke liye try kar rahi ho?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 25
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "Ladke ka dob 26/1/1995 hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein shadi ka yog hai ji. Rahu Saturn dasha chal raha hai abhi. 2026 se 2028 beech main window hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Kundli mein shadi ka yog hai ji. Rahu Saturn dasha chal raha hai abhi. 2026 se 2028 beech main window hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact month batana mushkil hai ji. Saturn transit se 2027 strong lag raha. Rahu Saturn dasha mein yog banega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Exact month batana mushkil hai ji. Saturn transit se 2027 strong lag raha. Rahu Saturn dasha mein yog banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke 7th lord Ashwini nakshatra mein hain ji. Partner dynamic, independent aur fast-moving nature ka hoga. D9 mein Jupiter Cancer mein hone se caring bhi rahenge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapke 7th lord Ashwini nakshatra mein hain ji. Partner dynamic, independent aur fast-moving nature ka hoga. D9 mein Jupiter Cancer mein hone se caring bhi rahenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Matlab ladka shi h ya galat?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka theek hai ji. Saturn ke karan thoda serious rahenge. Galat nahi hain bilkul.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ladka theek hai ji. Saturn ke karan thoda serious rahenge. Galat nahi hain bilkul.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Vo thoda gusse wale lagte hai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh gussa bilkul natural hai ji. 8th house mein Mars ka aspect hai. Thodi sharp speech ho sakti hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Yeh gussa bilkul natural hai ji. 8th house mein Mars ka aspect hai. Thodi sharp speech ho sakti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ji kb tk hogi shadi phir",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rahu Saturn dasha mein abhi Mercury antar dasha chal rahi hai ji. Isme baat aage badhne ke pure chances hain.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rahu Saturn dasha mein abhi Mercury antar dasha chal rahi hai ji. Isme baat aage badhne ke pure chances hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Koi year toh bataiye",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein Shani transit hai ji. Ye saal commitment ke liye hai. Ek aur baat batau kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027 mein Shani transit hai ji. Ye saal commitment ke liye hai. Ek aur baat batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pehle month batao",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mercury sub-period abhi active hai ji. 2027 ka second half strong hai. Ek aur baat batau kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mercury sub-period abhi active hai ji. 2027 ka second half strong hai. Ek aur baat batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine me pakka?",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact month kundli mein fix nahi hota ji. Mercury antardasha jab peak pe hogi, tab date nikal aayegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Exact month kundli mein fix nahi hota ji. Mercury antardasha jab peak pe hogi, tab date nikal aayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghabrao mat ji, sab theek hoga. Mercury dasha mein rasta banega.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ghabrao mat ji, sab theek hoga. Mercury dasha mein rasta banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Faltu",
+    "sec": 300,
+    "idx": 21
+  }
+]

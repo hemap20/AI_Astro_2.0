@@ -1,0 +1,130 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi aur ladka sahi hai ya nahi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai woh.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 ke baad pakki dikh rahi hai ji. Partner calm aur educated hoga kundli ke hisaab se.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi March 2027 ke baad pakki dikh rahi hai ji. Partner calm aur educated hoga kundli ke hisaab se.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Par wo toh short tempered lag rha hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunsa mahina, exact date?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Guarded nature thoda strict lag sakta hai ji. March 2027 se Shani period shuru ho raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Guarded nature thoda strict lag sakta hai ji. March 2027 se Shani period shuru ho raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi mere liye?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Chart talk mat karo, seedha batao.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Rishta karu ya nahi?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi haan mat bolo ji. Unka gussa aage problem dega. Thoda aur waqt lo sochne ke liye.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Abhi haan mat bolo ji. Unka gussa aage problem dega. Thoda aur waqt lo sochne ke liye.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai, par shadi kab tak hogi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Exact saal aur mahina batao.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech yog hai ji. Shani AD shuru hone par baat aage badhegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech yog hai ji. Shani AD shuru hone par baat aage badhegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kaunse mahine mein sabse strong chances hai?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 shuru hote hi sabse strong chance hai ji. Shani AD aane se baat pakki hogi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 shuru hote hi sabse strong chance hai ji. Shani AD aane se baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 17
+  }
+]

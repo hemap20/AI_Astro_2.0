@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki pareshaniyon ko samajh sakti hoon. Bataiye, aaj kya chal raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki pareshaniyon ko samajh sakti hoon. Bataiye, aaj kya chal raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Humne shaadi aur paise par baat ki thi. 2023 se 2025 tak mehnat aur paise ki tangi rahi, hai na? Kya ab ghar mein rishte ki baat aage badhi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Humne shaadi aur paise par baat ki thi. 2023 se 2025 tak mehnat aur paise ki tangi rahi, hai na? Kya ab ghar mein rishte ki baat aage badhi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, mummy papa ladka dekh rahe hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta chal raha hai abhi.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi final kab tak hogi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech mein hai. Aapke ghar ka mahaul aur shaadi dono 2027 se sudhrenge, kyunki shaadi ka ghar abhi strong hai. Kya aapko ye rishta pasand aaya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech mein hai. Aapke ghar ka mahaul aur shaadi dono 2027 se sudhrenge, kyunki shaadi ka ghar abhi strong hai. Kya aapko ye rishta pasand aaya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan, theek-thaak hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Par 2027 me kaun se mahine tak confirm hoga?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 sabse achha hai. Shaadi aur ghar ki shanti isi samay judenge. Rishte mein ek badlav aane wala hai jo aapke liye achha hoga. Kya aapne ladke se baat ki?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 sabse achha hai. Shaadi aur ghar ki shanti isi samay judenge. Rishte mein ek badlav aane wala hai jo aapke liye achha hoga. Kya aapne ladke se baat ki?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak stable hoga?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur shaadi, dono mein badlav March 2027 se shuru hoga. Aapka career ka grah aur shaadi ka ghar ek saath behtar ho rahe hain. Ek aur mauka hai jo aapki kamai mein bada badlav layega, kya aapne uske baare mein socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa aur shaadi, dono mein badlav March 2027 se shuru hoga. Aapka career ka grah aur shaadi ka ghar ek saath behtar ho rahe hain. Ek aur mauka hai jo aapki kamai mein bada badlav layega, kya aapne uske baare mein socha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pehle mera jawab do.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Paisa exact kab tak stable hoga?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paisa stable ho jayega. Aapka kamai ka grah tab majboot hoga, jo shaadi ke baad rahat dega. Career mein ek bada mauka hai, kya aap janti hain wo kya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se paisa stable ho jayega. Aapka kamai ka grah tab majboot hoga, jo shaadi ke baad rahat dega. Career mein ek bada mauka hai, kya aap janti hain wo kya hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension June 2027 tak khatam hogi. Shaadi, paisa aur ghar ki tension, teeno ek hi grah se jude hain. Ghar mein shanti laane wala koi khaas hai, kya aapne unhe pehchana?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Tension June 2027 tak khatam hogi. Shaadi, paisa aur ghar ki tension, teeno ek hi grah se jude hain. Ghar mein shanti laane wala koi khaas hai, kya aapne unhe pehchana?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 20
+  }
+]

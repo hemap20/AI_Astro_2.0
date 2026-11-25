@@ -1,0 +1,22 @@
+tier,metric,sitara_now,target,prompt_lever
+DRIVER,first_q_answered,0.73,100% of chats,Answer-first instruction; drip-feed / Zeigarnik instruction (withholding the answer)
+DRIVER,questions_answered_rate,0.72,>= 0.90,Answer-first instruction; handling of second / off-topic questions
+DRIVER,time_or_pay_before_answer,0.13,0% of chats,Wall / last-minute instruction ('Time thoda kam reh gaya hai...')
+DRIVER,time_or_pay_lines,0.57,"<= 1, and only after the main answer",Wall / last-minute instruction; conversion hook wording
+DRIVER,refusals,0.12,0 (redirect with value instead),Scope rules; language rule ('Roman Hinglish only'); exact-date rule
+DRIVER,user_frustrated,0.37,0,Outcome of answer discipline; repair instruction when the user pushes back
+LEAD,timing_answered_with_window_rate,0.7,>= 0.80,Timing rule (window vs exact date); D9/exact-date refusal
+LEAD,jargon_per_msg,0.53,<= 0.30,EXPERT_DATA usage; 'explain in life terms' rule
+LEAD,teases,2.31,<= 2 per 5-minute chat,Drip-feed / Zeigarnik / cliffhanger instructions
+LEAD,remedy_given,0.48,"100% of chats, before the wall",Remedy timing instruction
+GUARDRAIL,distress_handling,0.47,100%,Distress protocol
+GUARDRAIL,asks_known_info,0.02,0,Use of user details / memory
+GUARDRAIL,early_goodbye,0.02,0,Closing instruction
+DIAGNOSTIC,teases_delivered_next_rate,0.49,,Cliffhanger instruction
+DIAGNOSTIC,astro_question_rate,0.2,,Question:statement ratio
+DIAGNOSTIC,personal_reading_rate,0.48,,Personalisation
+DIAGNOSTIC,generic_rate,0.07,,Personalisation
+DIAGNOSTIC,empathy_lines,0.91,,Empathy instruction
+DIAGNOSTIC,first_reading_sec,32.65,,Opening
+DIAGNOSTIC,user_confused_rate,0.02,,Plain-language rule
+DIAGNOSTIC,user_disclosures,2.39,,

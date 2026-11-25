@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai mera career aur paisa, kab tak set hoga?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paise mein sudhaar March 2027 se September 2028 ke beech aayega. Kya 2023 se 2025 ke beech aapne skills par mehnat ki thi, par paise ki tangi thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Career aur paise mein sudhaar March 2027 se September 2028 ke beech aayega. Kya 2023 se 2025 ke beech aapne skills par mehnat ki thi, par paise ki tangi thi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Haan sahi.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Is saal ka kya scene hai?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Stress aur neend ki dikkat hai kyunki mann ka grah dabav mein hai. Jab mann shaant nahi, kaam ruk jata hai. Ek nayi field aapki kismat badal sakti hai; kya aapne teaching ya finance mein socha hai? Monday ko 'Om Som Somaya Namah' japiye.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Stress aur neend ki dikkat hai kyunki mann ka grah dabav mein hai. Jab mann shaant nahi, kaam ruk jata hai. Ek nayi field aapki kismat badal sakti hai; kya aapne teaching ya finance mein socha hai? Monday ko 'Om Som Somaya Namah' japiye."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Is saal 2024 me job lagegi ya nahi?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job mushkil hai, par 2027 mein badlav aayenge. Aapke liye door kaam ka mauka hai. Guru ke liye chana dal daan kijiye. Kya aapne door jane ki sochi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Job mushkil hai, par 2027 mein badlav aayenge. Aapke liye door kaam ka mauka hai. Guru ke liye chana dal daan kijiye. Kya aapne door jane ki sochi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Socha hai.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai, jo buddhi aur hunar ke grah se aata hai. Yeh dikhata hai ki aapke paas nayi cheezein seekhne ki taqat hai jo stress ko kam kar sakti hai. Jab aap door jati hain, toh kya aapko ghabrahat hoti hai ya akelepan mein kaam par zyada dhyan de pati hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapka number 5 hai, jo buddhi aur hunar ke grah se aata hai. Yeh dikhata hai ki aapke paas nayi cheezein seekhne ki taqat hai jo stress ko kam kar sakti hai. Jab aap door jati hain, toh kya aapko ghabrahat hoti hai ya akelepan mein kaam par zyada dhyan de pati hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Akelepan me dhyan lagta hai.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Is saal 2024 me paisa aayega ya nahi?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa abhi thoda tang rahega kyunki kamai ka grah abhi kamzor hai. Akelepan mein dhyan lagana aapki taqat hai; kismat mein shaadi ka ek aisa raaz hai jisse ghar basna aur paisa dono jude hain. Karm ke grah ke liye kale til ka daan kijiye, isse tangi mein rahat milegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa abhi thoda tang rahega kyunki kamai ka grah abhi kamzor hai. Akelepan mein dhyan lagana aapki taqat hai; kismat mein shaadi ka ek aisa raaz hai jisse ghar basna aur paisa dono jude hain. Karm ke grah ke liye kale til ka daan kijiye, isse tangi mein rahat milegi."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Matlab 2024 mein kuch nahi hoga?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein bataiye.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nahi, is saal bade badlav ki sambhavna kam hai. Par yahi waqt hai jab aap apni taiyari majboot kar sakti hain, taaki 2027 mein jab mauke aayen, aap taiyar rahen.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Nahi, is saal bade badlav ki sambhavna kam hai. Par yahi waqt hai jab aap apni taiyari majboot kar sakti hain, taaki 2027 mein jab mauke aayen, aap taiyar rahen."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab se aana shuru hoga?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aana March 2027 se shuru hoga, jab career mein naya mod aayega. Is dauran purani pareshaniyan khatam hongi. Kya aapne kabhi kisi naye kaam mein nivesh karne ka socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa aana March 2027 se shuru hoga, jab career mein naya mod aayega. Is dauran purani pareshaniyan khatam hongi. Kya aapne kabhi kisi naye kaam mein nivesh karne ka socha hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaun se date?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sitare koi ek fix din nahi, balki us mahine se shuru hone wala ek bada badlav dikhate hain. Iske baad se aapke kaam aur kamai mein rasta saaf hone lagega. Kya aapne socha hai ki aapke ghar wale aapke career ke faislon mein kitna sath denge?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sitare koi ek fix din nahi, balki us mahine se shuru hone wala ek bada badlav dikhate hain. Iske baad se aapke kaam aur kamai mein rasta saaf hone lagega. Kya aapne socha hai ki aapke ghar wale aapke career ke faislon mein kitna sath denge?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "5 minute aise hi nikal gaye.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 25
+  }
+]

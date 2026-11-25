@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Is saal career aur paisa kaisa rahega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Is saal kaam aur paise mein thodi rukawat rahegi kyunki mehnat aur mann ke grah abhi thode dabav mein hain. Agle saal se halat sudharni shuru hogi. Abhi aap kya kaam kar rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Is saal kaam aur paise mein thodi rukawat rahegi kyunki mehnat aur mann ke grah abhi thode dabav mein hain. Agle saal se halat sudharni shuru hogi. Abhi aap kya kaam kar rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Student hu",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Agle saal kaunse month se sudhregi?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad halat sudhregi, kyunki kismat aur gyaan ke grah ka asar badhega. 2023 se 2025 tak paison ki dikkat rahi thi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad halat sudhregi, kyunki kismat aur gyaan ke grah ka asar badhega. 2023 se 2025 tak paison ki dikkat rahi thi, hai na?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai, buddhi aur baat-cheet ka grah. Career mein ek aisa mod aayega jahan sirf dimaag kaam aayega, par ek faisla sab badal sakta hai. Aage kya padhne ka socha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapka number 5 hai, buddhi aur baat-cheet ka grah. Career mein ek aisa mod aayega jahan sirf dimaag kaam aayega, par ek faisla sab badal sakta hai. Aage kya padhne ka socha hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "MBA",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi exact?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Iske baad se September 2028 tak job milne ka yog hai. Videsh ka mauka bhi isi daur mein aayega, par uske liye ek khas rasta chunna hoga. College chuna kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Iske baad se September 2028 tak job milne ka yog hai. Videsh ka mauka bhi isi daur mein aayega, par uske liye ek khas rasta chunna hoga. College chuna kya?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok, konse month se shuru?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Abhi college nahi chuna.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se job ka yog shuru ho raha hai. MBA mein finance ya communication jaisa field chunna aapke liye kismat ke grah ke hisaab se behtar rahega. Upaay janna chahenge?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se job ka yog shuru ho raha hai. MBA mein finance ya communication jaisa field chunna aapke liye kismat ke grah ke hisaab se behtar rahega. Upaay janna chahenge?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna hai ye upaay?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "19 November 2026 se shuru karke 108 baar mantra japen, jab tak kaam mein sudhar na aaye. Guruwar ko chana dal daan karein. Shaadi ka yog aur jodi kaisi rahegi, agli baar baat karenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "19 November 2026 se shuru karke 108 baar mantra japen, jab tak kaam mein sudhar na aaye. Guruwar ko chana dal daan karein. Shaadi ka yog aur jodi kaisi rahegi, agli baar baat karenge."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kaam ho jayega na?",
+    "sec": 180,
+    "idx": 18
+  }
+]

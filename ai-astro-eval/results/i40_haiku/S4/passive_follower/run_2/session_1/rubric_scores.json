@@ -1,0 +1,255 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 4,
+    "1.4": 9,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 9,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 7.06,
+  "shape": {
+    "M": 10,
+    "avg_words": 43.6,
+    "long_share": 0.8
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka sawal samajh gayi.",
+        "why": "Acknowledges the user's question about marriage timing."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya aap confirm kar sakti hain ki aapka Chandra ka daur Nov 2022 se shuru hua tha?",
+        "why": "Contains one Type C question (asking for data the user doesn't know/technical guess)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ladke ki kundli mila kar hi pakka kahna theek rahega.",
+        "why": "Uses the provided details to offer a reading about the match."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ke liye Mar 2027 se Sep 2028 ke beech ka samay achha dikh raha hai.",
+        "why": "First reading is Now, New, and Specific, but lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ke liye Mar 2027 se Sep 2028 ke beech ka samay achha dikh raha hai.",
+        "why": "Provides a clear direction and time window for the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki kundli mein Mangal, jo himmat aur gussa dikhata hai, ka asar ghar aur rishton par padta hai.",
+        "why": "Provides two linked readings with chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapne sahi dekha. Aapki kundli mein Mangal, jo himmat aur gussa dikhata hai, ka asar ghar aur rishton par padta hai.",
+        "why": "Uses user's detail (short tempered) and adds a new point."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se Sep 2028 ke beech ka samay achha dikh raha hai.",
+        "why": "Provides a consistent time window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kundli mein Shukra kamzor hai, isliye rishte mein thoda dhairya chahiye. Abhi ek chhota kaam kijiye: subah \"Om Shum Shukraya Namah\" 108 baar bolna shuru kijiye",
+        "why": "Remedy is tied to the cause (Shukra) and includes how/when."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "shaadi ki sabse achhi khidki Mar 2027 se Sep 2028 ke beech dikhti hai",
+        "why": "Answers the repeated question clearly."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke rishte mein Shukra kamzor hai",
+        "why": "Names a specific further thing about the concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka sawal ka jawab yeh hai ki Mar 2027 se Sep 2028 ke beech rishta pakka hone ki sambhavna achhi hai.",
+        "why": "No early close, every reply carries value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka sawal ka jawab yeh hai ki Mar 2027 se Sep 2028 ke beech rishta pakka hone ki sambhavna achhi hai.",
+        "why": "Last message is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein Mangal, jo himmat aur gussa dikhata hai, ka asar ghar aur rishton par padta hai.",
+        "why": "Uses easy language with explanations for chart terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka sawal ka jawab yeh hai ki Mar 2027 se Sep 2028 ke beech rishta pakka hone ki sambhavna achhi hai.",
+        "why": "Adapts to the user's push for time by providing a summary reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "question"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "question"
+      },
+      {
+        "idx": 25,
+        "type": "both"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

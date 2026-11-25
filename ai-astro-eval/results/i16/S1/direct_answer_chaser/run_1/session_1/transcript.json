@@ -1,0 +1,119 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas bulane ka chance kam hai, par March 2027 ke baad career mein naye raste zaroor khulenge.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas bulane ka chance kam hai, par March 2027 ke baad career mein naye raste zaroor khulenge."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak confirm hai ki nahi bulayenge?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Interview hai next week dusri jagah, waha hoga kya?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Next week interview mein thoda delay ho sakta hai kyunki abhi samay dheema chal raha hai. March 2027 ke baad hi naye job ka pakka yog hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Next week interview mein thoda delay ho sakta hai kyunki abhi samay dheema chal raha hai. March 2027 ke baad hi naye job ka pakka yog hai."
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Usse pehle koi chance nahi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein konsi date?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuru ke hafton mein hi naye raste khulne lagenge, June tak naya mauka pakka mil sakta hai. Usse pehle thoda sabr rakho.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ke shuru ke hafton mein hi naye raste khulne lagenge, June tak naya mauka pakka mil sakta hai. Usse pehle thoda sabr rakho."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 mein kaunsa week?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ke doosre hafte ke baad woh rukawat poori tarah hat jayegi. Waise 2027 mein hi videsh ya door ki job ka bhi ek naya yog hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "June ke doosre hafte ke baad woh rukawat poori tarah hat jayegi. Waise 2027 mein hi videsh ya door ki job ka bhi ek naya yog hai."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar bhi galat hua.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Purani job ka kuch nahi hai kya?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan yaar, kabhi-kabhi time upar-neeche ho jata hai tension mat lo. Purani job ka yog nahi hai, par tech ya finance line mein naye raste ban rahe hain.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan yaar, kabhi-kabhi time upar-neeche ho jata hai tension mat lo. Purani job ka yog nahi hai, par tech ya finance line mein naye raste ban rahe hain."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "5 minute aise hi nikal gaye.",
+    "sec": 150,
+    "idx": 16
+  }
+]

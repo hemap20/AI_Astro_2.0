@@ -1,0 +1,197 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat ghar pe shuru ho gayi hai kya? Kisi ko khud pasand kiya hai ya sab ghar walo par chhod rakha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ki baat ghar pe shuru ho gayi hai kya? Kisi ko khud pasand kiya hai ya sab ghar walo par chhod rakha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha ghar pe baat chal rhi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai. Rishta jaan-pehchaan se hi aane ka chance hai. Kya yeh ladka tumhari pasand ka hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai. Rishta jaan-pehchaan se hi aane ka chance hai. Kya yeh ladka tumhari pasand ka hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nhi ghar wale dekh rahe",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka calm, padha-likha aur warm hoga, par uska ek guarded side bhi milega. Uske ghar wale traditional aur thode reserved type ke hain. Kya ladke ki job ya background ke baare mein ghar walo ne kuch bataya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ladka calm, padha-likha aur warm hoga, par uska ek guarded side bhi milega. Uske ghar wale traditional aur thode reserved type ke hain. Kya ladke ki job ya background ke baare mein ghar walo ne kuch bataya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nhi gussa bht hai",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein thoda anger ka asar hai jo 2027 ke baad theek hoga. Ek aur baat hai jo is rishte mein dekhni hai, kya kundli milwayi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli mein thoda anger ka asar hai jo 2027 ke baad theek hoga. Ek aur baat hai jo is rishte mein dekhni hai, kya kundli milwayi hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mangal ka thoda asar hai par wo mild hai, bas kundli milwa lena zaroori rahega. Tuesday se Hanuman Chalisa shuru kar do, isseafi rath rahat milegi. Kya tumne ladke ki details mangwayi hain kundli milwane ke liye?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Mangal ka thoda asar hai par wo mild hai, bas kundli milwa lena zaroori rahega. Tuesday se Hanuman Chalisa shuru kar do, isseafi rath rahat milegi. Kya tumne ladke ki details mangwayi hain kundli milwane ke liye?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 se February 2030 ke beech bhi bada yog hai. Friday se Om Shum Shukraya Namah 108 baar shuru karo, rasta saaf hoga. Kya ladke ke parivaar ki taraf se koi shart hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "October 2028 se February 2030 ke beech bhi bada yog hai. Friday se Om Shum Shukraya Namah 108 baar shuru karo, rasta saaf hoga. Kya ladke ke parivaar ki taraf se koi shart hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka lambi height ka aur kaafi samajhdaar hoga. Par ek baat aur hai, is rishte mein aage chal kar in-laws ki taraf se thode niyam rhenge. Kya ladke ki koi photo dekhi hai tumne?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ladka lambi height ka aur kaafi samajhdaar hoga. Par ek baat aur hai, is rishte mein aage chal kar in-laws ki taraf se thode niyam rhenge. Kya ladke ki koi photo dekhi hai tumne?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Option nhi hai",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ha dekha hai",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Thoda gussa krta hai wo",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agar uski rashi Dhanu ya Tula hui, toh ye gussa sambhal jayega kyunki kundli mein aisi matching hi behtar rehti hai. Kya tumhe ladke ki rashi pata hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Agar uski rashi Dhanu ya Tula hui, toh ye gussa sambhal jayega kyunki kundli mein aisi matching hi behtar rehti hai. Kya tumhe ladke ki rashi pata hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rashi nahi pata toh koi baat nahi, kundli milwate waqt sab pata chal jayega. Par shadi ke baad in-laws ke sath paise ya adjustment ko lekar ek aisi situation aayegi jise pehle se sambhalna zaroori hoga.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Rashi nahi pata toh koi baat nahi, kundli milwate waqt sab pata chal jayega. Par shadi ke baad in-laws ke sath paise ya adjustment ko lekar ek aisi situation aayegi jise pehle se sambhalna zaroori hoga."
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 27
+  }
+]

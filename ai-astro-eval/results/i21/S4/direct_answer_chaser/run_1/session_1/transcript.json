@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi aur ladka shi h ya nhi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se hi aayega. Kya is ladke se pehle se baat chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se hi aayega. Kya is ladke se pehle se baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, 2 baar mile hain.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo calm, padhe-likhe aur warm hain, par thode guarded bhi hain. Shaadi se pehle unke parivar ke baare mein ek aur baat pata chalegi. Kya unhone ghar pe baat ki hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Wo calm, padhe-likhe aur warm hain, par thode guarded bhi hain. Shaadi se pehle unke parivar ke baare mein ek aur baat pata chalegi. Kya unhone ghar pe baat ki hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Par wo short-tempered lagte hain.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo andar se calm aur padhe-likhe hain, par unke gharwale thode traditional aur reserved hain, shayad isliye thode strict lagte hain. Kya unke ghar pe sabko pata hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Wo andar se calm aur padhe-likhe hain, par unke gharwale thode traditional aur reserved hain, shayad isliye thode strict lagte hain. Kya unke ghar pe sabko pata hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi ye bataiye.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, ye rishta theek ho sakta hai kyuki woh calm aur educated hain. Bas thoda time dena padega unhe samajhne ke liye. Kya tumne unki kundli match karwai hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, ye rishta theek ho sakta hai kyuki woh calm aur educated hain. Bas thoda time dena padega unhe samajhne ke liye. Kya tumne unki kundli match karwai hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kundli baad mein, seedha batao sahi h ya nahi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein jawab do.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai ki ye theek rahega kyuki woh educated aur warm nature ke hain. Kya unhone shadi ki baat aage badhai hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Zyada chance hai ki ye theek rahega kyuki woh educated aur warm nature ke hain. Kya unhone shadi ki baat aage badhai hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaunse mahine mein hogi?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas ka samay sabse strong lag raha hai kyuki tabhi naya phase shuru hoga. Shaadi se pehle ek chhoti si baat pe misunderstanding ho sakti hai. Kya ghar walon ne abhi tak ladke ke parivar se baat ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas ka samay sabse strong lag raha hai kyuki tabhi naya phase shuru hoga. Shaadi se pehle ek chhoti si baat pe misunderstanding ho sakti hai. Kya ghar walon ne abhi tak ladke ke parivar se baat ki hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 final samjhu?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2027 ka time sabse strong hai, baaki window toh September 2028 tak open hai kyuki tabhi naya phase shuru ho raha hai. Kya is baare mein ghar pe koi final baat hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March se May 2027 ka time sabse strong hai, baaki window toh September 2028 tak open hai kyuki tabhi naya phase shuru ho raha hai. Kya is baare mein ghar pe koi final baat hui hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 21
+  }
+]

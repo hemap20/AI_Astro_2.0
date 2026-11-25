@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, bataiye aaj aapke mann mein kya sawal hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, bataiye aaj aapke mann mein kya sawal hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Humne shaadi ke yog aur ghar ki pareshaniyon par baat ki thi. Maine Shukra aur Guru ke liye kuch upay bataye the, kya aapne unhe shuru kiya ya koi sawal hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Humne shaadi ke yog aur ghar ki pareshaniyon par baat ki thi. Maine Shukra aur Guru ke liye kuch upay bataye the, kya aapne unhe shuru kiya ya koi sawal hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nhi kiya",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rhe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ke grah kamzor hain, isliye upay zaroori hain. Waise, aapke liye likha jeevansathi aapki soch se thoda alag hai. Kya aapne socha hai wo kaisa hoga?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishton ke grah kamzor hain, isliye upay zaroori hain. Waise, aapke liye likha jeevansathi aapki soch se thoda alag hai. Kya aapne socha hai wo kaisa hoga?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jeevansathi lambe, shant aur padhe-likhe honge, par thode reserved rahenge. Paise ki tangi Feb 2027 ke baad kam hogi, tab tak naukri par dhyan dein. Shukravar ko safed mithai baantiye. Kya aap abhi kaam dhundh rahi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jeevansathi lambe, shant aur padhe-likhe honge, par thode reserved rahenge. Paise ki tangi Feb 2027 ke baad kam hogi, tab tak naukri par dhyan dein. Shukravar ko safed mithai baantiye. Kya aap abhi kaam dhundh rahi hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur naukri ki pareshani ek hi grah ke asar se hai, jo mann ko bhari rakhta hai. Agle kuch mahino mein ek naya kshetra khulega jo aapki mushkilen kam karega. Kya aapne teaching ya finance mein try kiya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension aur naukri ki pareshani ek hi grah ke asar se hai, jo mann ko bhari rakhta hai. Agle kuch mahino mein ek naya kshetra khulega jo aapki mushkilen kam karega. Kya aapne teaching ya finance mein try kiya hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi try kiya",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance try kijiye. Ghar ki tension aur naukri ki pareshani judi hain. Ek jagah badalne ka yog hai, kya aapne door jane ka socha hai? Guru ke liye chana dal daan kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Teaching ya finance try kijiye. Ghar ki tension aur naukri ki pareshani judi hain. Ek jagah badalne ka yog hai, kya aapne door jane ka socha hai? Guru ke liye chana dal daan kijiye."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance mein career 2027 se majboot hoga, tabhi bahar jane ke raste khulenge. Shani ki rukawat hatane ke liye 'Om Sham Shanaishcharaya Namah' 108 baar padhiye, isse tension kam hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Teaching ya finance mein career 2027 se majboot hoga, tabhi bahar jane ke raste khulenge. Shani ki rukawat hatane ke liye 'Om Sham Shanaishcharaya Namah' 108 baar padhiye, isse tension kam hogi."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak hoga ye sab?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad sab sudhar jayega, kyunki mehnat aur karm ka grah tab apna asar badal lega. Mangalwar ko Hanuman Chalisa padhiye, kya aapko aksar neend mein dikkat hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad sab sudhar jayega, kyunki mehnat aur karm ka grah tab apna asar badal lega. Mangalwar ko Hanuman Chalisa padhiye, kya aapko aksar neend mein dikkat hoti hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Bohot tension hoti hai",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Somvar ka vrat aur 'Om Som Somaya Namah' 108 baar karein, neend aur tension mein rahat milegi. Rishte aur jeevansathi ke swabhav se judi ankahee baaton ki puri jankari ke liye recharge karke baat karein.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Somvar ka vrat aur 'Om Som Somaya Namah' 108 baar karein, neend aur tension mein rahat milegi. Rishte aur jeevansathi ke swabhav se judi ankahee baaton ki puri jankari ke liye recharge karke baat karein."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

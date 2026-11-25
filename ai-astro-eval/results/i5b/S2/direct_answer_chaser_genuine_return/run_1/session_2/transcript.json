@@ -1,0 +1,168 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! White sweets wale remedies shuru kiye?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! White sweets wale remedies shuru kiye?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan kiye. Shadi kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi pakki hogi ji. Shani ki nayi dasha iska yog bana rahi hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi pakki hogi ji. Shani ki nayi dasha iska yog bana rahi hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me kaun se mahine me?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi baat aage badhegi ji. Shani ki nayi dasha tabhi shuru hoti hai. Partner kaafi calm aur samajhdar honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se hi baat aage badhegi ji. Shani ki nayi dasha tabhi shuru hoti hai. Partner kaafi calm aur samajhdar honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Shadi hogi ya sirf baat? Mummy papa rishta dekh rahe hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sirf baat nahi, shaadi hi pakki hogi ji. Mummy-papa jo rishta dekh rahe hain, wahi final hoga. Aapke parivaar ke through hi yeh yog ban raha hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Sirf baat nahi, shaadi hi pakki hogi ji. Mummy-papa jo rishta dekh rahe hain, wahi final hoga. Aapke parivaar ke through hi yeh yog ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 confirm hai?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, March 2027 pakka hai. Shani ki nayi chal yeh yog banati hai. In-laws thode traditional mil sakte hain.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, March 2027 pakka hai. Shani ki nayi chal yeh yog banati hai. In-laws thode traditional mil sakte hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial sthirta aayegi ji. Mangal ki strong position income badhayegi. Karz bhi dheere dheere khatam hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad financial sthirta aayegi ji. Mangal ki strong position income badhayegi. Karz bhi dheere dheere khatam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Isse pehle kuch nahi hoga kya?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Feb 2027 tak thoda tight rahega ji. Guru ki dasha badalte hi halat sudhrenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Feb 2027 tak thoda tight rahega ji. Guru ki dasha badalte hi halat sudhrenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka mahaul theek hoga ji. Shani ka dabav hatne se shanti milegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka mahaul theek hoga ji. Shani ka dabav hatne se shanti milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Itna wait? Kuch jaldi nahi ho sakta?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sabr rakhna mushkil hai ji. Mangal ke badlaav se jaldi rahat milegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sabr rakhna mushkil hai ji. Mangal ke badlaav se jaldi rahat milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Aapne koi date nahi di, sirf gol-gol ghuma rahe ho.",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa theek hai ji. March ki dus tareekh ke baad hi Shani apna kaam shuru karega.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Aapka gussa theek hai ji. March ki dus tareekh ke baad hi Shani apna kaam shuru karega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 300,
+    "idx": 20
+  }
+]

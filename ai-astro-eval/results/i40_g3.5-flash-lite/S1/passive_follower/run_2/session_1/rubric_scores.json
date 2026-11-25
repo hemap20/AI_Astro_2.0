@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 9,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 7.33,
+  "shape": {
+    "M": 9,
+    "avg_words": 31.6,
+    "long_share": 0.78
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Samajh sakti hoon ji ki intezaar lamba lagta hai.",
+        "why": "The astrologer acknowledges the user's frustration with the long wait time mentioned in the previous turn."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aapko pehle padhane ya likhne mein shauk tha?",
+        "why": "The question is Type B (could be asked to anyone), but there are no Type C questions. The astrologer asks relevant questions throughout."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par vapas aane ke yog hain",
+        "why": "The user asks about a specific job/place. The astrologer addresses the possibility of returning to that specific place."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Job jaane se paise ki tangi isliye hai kyunki mann ka grah kamzor hai aur doosra ghar bhi kamzor hai.",
+        "why": "The reading is about the present, adds new information (mann ka grah, doosra ghar), is specific to the user's situation, and provides a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main dekhti hoon ki purani jagah se bulawa mushkil hai, par naya mauka milega.",
+        "why": "The astrologer gives a clear direction (it is difficult to return) before any counter-question, answering the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Job jaane se paise ki tangi isliye hai kyunki mann ka grah kamzor hai aur doosra ghar bhi kamzor hai.",
+        "why": "The astrologer links the life situation (job loss/money trouble) to chart factors (mann ka grah, doosra ghar) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Woh naya rasta padhai ya communication ke field mein hai, aur kismat ka grah wahan madad karega.",
+        "why": "The astrologer adds new layers (new career path, communication field) and uses the user's context (interview, job loss) to build depth."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main dekhti hoon ki paise ki tangi agle saal ke baad kam hogi",
+        "why": "The astrologer provides a window (agle saal ke baad) and maintains consistency throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Subah thoda tahla kijiye.",
+        "why": "The astrologer provides a practical step (walking) for the stated problem (sleep issues/stress), with a clear 'how' (morning)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main dekhti hoon ki purani jagah se bulawa mushkil hai, par naya mauka milega.",
+        "why": "The astrologer addresses the main question (old job) while also answering the new questions about money and the interview."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ek naya career ka rasta aapke liye banne wala hai, jiska waqt kareeb hai.",
+        "why": "The astrologer opens a new layer regarding a new career path after addressing the initial job concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main dekhti hoon ki purani jagah se bulawa mushkil hai, par naya mauka milega.",
+        "why": "No closing message is used, and every reply carries a reading or relevant question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main dekhti hoon ki paise ki tangi agle saal ke baad kam hogi, kyunki kamai ka grah bohot majboot hai.",
+        "why": "The last message provides a real reading about the user's concern (money)."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Job jaane se paise ki tangi isliye hai kyunki mann ka grah kamzor hai aur doosra ghar bhi kamzor hai.",
+        "why": "The language is easy, uses no technical terms without explanation, and is not formal."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main aapki baat samajhti hoon ji. Woh naya rasta padhai ya communication ke field mein hai, aur kismat ka grah wahan madad karega.",
+        "why": "The user pushed back saying the astrologer's dates are wrong. The astrologer accepted the feedback without defending and immediately provided a new reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 24,
+        "type": "both"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Kaise ho aap? Jo baatein humne pehle ki thi, kya uske baad se kuch badla hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Kaise ho aap? Jo baatein humne pehle ki thi, kya uske baad se kuch badla hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Sab thik hai. Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Shaadi ka ghar aur kismat ka grah tab majboot rahenge. Ghar par rishton ki baat aage badhi kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Shaadi ka ghar aur kismat ka grah tab majboot rahenge. Ghar par rishton ki baat aage badhi kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta dekh rhe hain.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak final hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas baat pakki hone ke zyada chance hain. Tab shaadi aur kismat ke grah acche yog bana rahe hain. Waise, jisse baat chal rahi hai, unka nature kaisa hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas baat pakki hone ke zyada chance hain. Tab shaadi aur kismat ke grah acche yog bana rahe hain. Waise, jisse baat chal rahi hai, unka nature kaisa hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur naukri mein sudhaar usi samay se shuru hoga, kyunki tabse kismat aur kaam ka grah majboot ho rahe hain. Tab tak mehnat aur karm ke grah ka prabhav rahega. 2023 se 2025 tak paise ki tangi rahi, kya tab career mein zyada mehnat karni padi thi?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa aur naukri mein sudhaar usi samay se shuru hoga, kyunki tabse kismat aur kaam ka grah majboot ho rahe hain. Tab tak mehnat aur karm ke grah ka prabhav rahega. 2023 se 2025 tak paise ki tangi rahi, kya tab career mein zyada mehnat karni padi thi?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bahut mehnat thi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa exact kab tak aayega? 2027 se pehle kuch nhi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se pehle badlav mushkil hai, kyunki mehnat aur karm ke grah dabav bana rahe hain. Ek khas baat—jivan-saathi ki kismat se paise ki halat sudhregi. Kya aapne ye rishte mein dekha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2027 se pehle badlav mushkil hai, kyunki mehnat aur karm ke grah dabav bana rahe hain. Ek khas baat—jivan-saathi ki kismat se paise ki halat sudhregi. Kya aapne ye rishte mein dekha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahaul mid-2027 tak dheere-dheere theek hoga, jab pareshani dene wale grah ka asar kam hoga. Shukra ke liye har Shukravar 'Om Shum Shukraya Namah' ka 108 baar jaap karein, isse ghar mein shanti aayegi. Aapne is tension ke baare mein ghar mein khul kar baat ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ka mahaul mid-2027 tak dheere-dheere theek hoga, jab pareshani dene wale grah ka asar kam hoga. Shukra ke liye har Shukravar 'Om Shum Shukraya Namah' ka 108 baar jaap karein, isse ghar mein shanti aayegi. Aapne is tension ke baare mein ghar mein khul kar baat ki hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, baat nahi ki.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Mid-2027 matlab exact kaunsa mahina?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka mahaul halka ho jayega, kyunki mehnat aur karm ke grah ka dabav tab khatam hoga. Partner ka nature kaisa hoga, agli baar baat karenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka mahaul halka ho jayega, kyunki mehnat aur karm ke grah ka dabav tab khatam hoga. Partner ka nature kaisa hoga, agli baar baat karenge."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 17
+  }
+]

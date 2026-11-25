@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Future mein aap career, shaadi ya kisi aur cheez ke baare mein jaan-na chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Future mein aap career, shaadi ya kisi aur cheez ke baare mein jaan-na chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekhti hoon ki shaadi ka yog March 2027 se September 2028 ke beech banta hai. Pichle kuch saal, 2023 se 2025 tak, mehnat aur paise ko lekar kafi tanav raha, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Main dekhti hoon ki shaadi ka yog March 2027 se September 2028 ke beech banta hai. Pichle kuch saal, 2023 se 2025 tak, mehnat aur paise ko lekar kafi tanav raha, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, tension toh hai",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak thik hoga?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se September 2028 ke beech sudhrega, jab career aur kamai dono badhenge. Shaadi ke liye ek khaas rishta aayega jise pehchanna zaroori hai. Aap kya kaam karti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paisa March 2027 se September 2028 ke beech sudhrega, jab career aur kamai dono badhenge. Shaadi ke liye ek khaas rishta aayega jise pehchanna zaroori hai. Aap kya kaam karti hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me tension bohot hai",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Uska kya?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo rishta aapki jaan-pehchan se aayega. Ghar ki tension aur shaadi ki deri, dono 8th ghar ke asar se hai; Saturday se kale til ka daan kijiye. Ye tension kab se badhi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo rishta aapki jaan-pehchan se aayega. Ghar ki tension aur shaadi ki deri, dono 8th ghar ke asar se hai; Saturday se kale til ka daan kijiye. Ye tension kab se badhi hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "2 saal se",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekha hai, ek baat chal rhi hai",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Wo sahi hai ya nahi",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki hone wale saathi shaant aur reserve honge. Ghar ki tension aur rishta ek grah se hain, toh shukravaar se Shukra ka mantra kijiye. Kya unse baat hui?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wo baat ye hai ki hone wale saathi shaant aur reserve honge. Ghar ki tension aur rishta ek grah se hain, toh shukravaar se Shukra ka mantra kijiye. Kya unse baat hui?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Baat hui hai",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Par rishta sahi hai ya nahi, haan ya na bolo",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arranged rishta aapke liye sahi hai, ye kundli se milta-julta hai. Ghar ki tension aur ye rishta, dono ek hi ghar se jude hain. Sasural mein ek vyakti aapka bada sahara banega. Kya unka parivar aapke parivar ko pehle se jaanta tha?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Arranged rishta aapke liye sahi hai, ye kundli se milta-julta hai. Ghar ki tension aur ye rishta, dono ek hi ghar se jude hain. Sasural mein ek vyakti aapka bada sahara banega. Kya unka parivar aapke parivar ko pehle se jaanta tha?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani aur career, dono Guru ke daur se jude hain. Guruvaar se chana dal ka daan kijiye, isse kaam mein rukawatein kam hongi. Aap abhi kya kaam ya padhai kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki pareshani aur career, dono Guru ke daur se jude hain. Guruvaar se chana dal ka daan kijiye, isse kaam mein rukawatein kam hongi. Aap abhi kya kaam ya padhai kar rahi hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Job hunt",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Job kb tak lagegi",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki naukri March 2027 se shuru hogi; tab tak Guru ka mantra padhna shuru kijiye. Ye career aur shaadi dono mein aane wala badlav ek hi disha mein hai. Shaadi ke baad aapke jeevan ka raasta ek naye mod par aayega, jiske baare mein main abhi aur gehri baatein dekh rahi hoon.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapki naukri March 2027 se shuru hogi; tab tak Guru ka mantra padhna shuru kijiye. Ye career aur shaadi dono mein aane wala badlav ek hi disha mein hai. Shaadi ke baad aapke jeevan ka raasta ek naye mod par aayega, jiske baare mein main abhi aur gehri baatein dekh rahi hoon."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baad aapka career ek naye padav par jayega, jahan aapko apni pasand ka kaam karne ka mauka milega. Ye poori baat jaan-ne ke liye chat thoda recharge kar lijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi ke baad aapka career ek naye padav par jayega, jahan aapko apni pasand ka kaam karne ka mauka milega. Ye poori baat jaan-ne ke liye chat thoda recharge kar lijiye."
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 26
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Phir se baat karke accha laga. Bataiye, aaj main aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Phir se baat karke accha laga. Bataiye, aaj main aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, main wahi batati hoon. Aapke career aur shaadi dono ka yog 2027-2028 mein ek saath ban raha hai. Kya aapne wo chana dal daan karne wala upay shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, main wahi batati hoon. Aapke career aur shaadi dono ka yog 2027-2028 mein ek saath ban raha hai. Kya aapne wo chana dal daan karne wala upay shuru kiya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi arranged hogi, shayad jaankaron ke beech se. Hone wale partner tall, suljhe hue aur samajhdaar honge. Kya aapne ghar par apni pasand ke baare mein kuch baat ki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi arranged hogi, shayad jaankaron ke beech se. Hone wale partner tall, suljhe hue aur samajhdaar honge. Kya aapne ghar par apni pasand ke baare mein kuch baat ki hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe rishta aaya",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh toh acchi baat hai. Kundli mein 2027 se pehle ke rishte mein thoda dabav dikh raha hai, isliye jaldbazi mat karna. Kya aapne ladke ke parivar aur swabhav ke baare mein kuch jaana?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Yeh toh acchi baat hai. Kundli mein 2027 se pehle ke rishte mein thoda dabav dikh raha hai, isliye jaldbazi mat karna. Kya aapne ladke ke parivar aur swabhav ke baare mein kuch jaana?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k kya hoga",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa abhi tang rahega kyunki paison wala ghar kamzor hai. March 2027 se naukri milne par tangi khatam hogi. Tab ek badlav aayega, kya aapne job ke liye resume update kiya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa abhi tang rahega kyunki paison wala ghar kamzor hai. March 2027 se naukri milne par tangi khatam hogi. Tab ek badlav aayega, kya aapne job ke liye resume update kiya?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension karm ke grah se hai, jo mid-2027 tak rahega. Career mein sthirta aate hi ghar ka mahaul theek hoga. Kya aapne job ke liye koi aur koshish ki?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension karm ke grah se hai, jo mid-2027 tak rahega. Career mein sthirta aate hi ghar ka mahaul theek hoga. Kya aapne job ke liye koi aur koshish ki?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sab kab thik hoga",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab kuch March 2027 se theek hoga. Karm ke grah ka asar career aur ghar dono par hai, isliye naukri milte hi mahaul badal jayega. Kya Hanuman Chalisa padhna shuru kiya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Sab kuch March 2027 se theek hoga. Karm ke grah ka asar career aur ghar dono par hai, isliye naukri milte hi mahaul badal jayega. Kya Hanuman Chalisa padhna shuru kiya?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Bahut tension hai",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye waqt thoda mushkil hai, par aapki galti nahi, ye bas ek daur hai jo mid-2027 mein khatam ho jayega. Mangal ke liye Hanuman Chalisa padhna shuru kariye, isse man ko shanti milegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye waqt thoda mushkil hai, par aapki galti nahi, ye bas ek daur hai jo mid-2027 mein khatam ho jayega. Mangal ke liye Hanuman Chalisa padhna shuru kariye, isse man ko shanti milegi."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Kaha se shuru kru",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani dev ke liye 'Om Sham Shanaishcharaya Namah' ka jaap 21 November se shuru kariye. Isse tension kam hogi. Agli baar hum aapki career ki disha aur usse jude grahon ko aur detail mein samajh sakte hain, toh phir baat karenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shani dev ke liye 'Om Sham Shanaishcharaya Namah' ka jaap 21 November se shuru kariye. Isse tension kam hogi. Agli baar hum aapki career ki disha aur usse jude grahon ko aur detail mein samajh sakte hain, toh phir baat karenge."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

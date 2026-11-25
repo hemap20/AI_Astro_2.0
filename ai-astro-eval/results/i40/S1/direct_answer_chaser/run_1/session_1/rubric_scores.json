@@ -1,0 +1,207 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 8,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 4,
+    "2.7": 8,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 4,
+    "4.2": 7,
+    "5.1": 1,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.35,
+  "shape": {
+    "M": 6,
+    "avg_words": 40.0,
+    "long_share": 1.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Wapas purani job milna mushkil hai, kyunki career mein abhi rukavat ka daur hai.",
+        "why": "The astrologer directly addresses the user's question about the old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya 2023 se 2025 ke beech aapko paise ki tension hui thi?",
+        "why": "The questions asked are Type B; they are relevant to the topic but could be asked to any user with career concerns."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Wapas purani job milna mushkil hai, kyunki career mein abhi rukavat ka daur hai.",
+        "why": "The reading is about the present, adds new information, is specific, and provides a chart-based reason (career rukavat)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Seedha jawab kahun toh nahi, purani job wapas milna abhi nahi likha hai.",
+        "why": "The astrologer gives a clear 'no' to the main question without needing the user to repeat it."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "mehnat ka grah abhi slow chal raha hai",
+        "why": "The astrologer links the life situation (job difficulty) to a chart factor (mehnat ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Agli hafte ka interview mushkil lag raha hai, kyunki aapka career progress abhi March 2027 tak dheere chalega.",
+        "why": "The astrologer adds new points (interview, hunar) and uses details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Naye behtar mauke March 2027 ke baad milenge.",
+        "why": "The astrologer provides a consistent time window throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aap Guru ka mantra shuru kijiye",
+        "why": "The remedy is a stock suggestion (mantra) not clearly linked to the specific cause of the problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Agli hafte ka interview mushkil lag raha hai",
+        "why": "The astrologer answers the new question about the interview while maintaining the context of the previous discussion."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise aapke chart mein ek khaas hunar chupa hai jo bhavishya mein aapko bahut maan-samman dilayega.",
+        "why": "The astrologer introduces a new, specific layer (hunar) related to the user's career."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Agli hafte ka interview mushkil lag raha hai, kyunki aapka career progress abhi March 2027 tak dheere chalega.",
+        "why": "The astrologer continues to provide readings and relevant content without closing the chat prematurely."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Waise aapke chart mein in-laws ko lekar ek khaas baat hai.",
+        "why": "The last message pivots to an irrelevant topic (in-laws) rather than providing a reading or guidance on the user's concern."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Wapas purani job milna mushkil hai",
+        "why": "The language is simple, conversational, and uses no unexplained technical terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Waise aapke chart mein in-laws ko lekar ek khaas baat hai.",
+        "why": "When the user expresses frustration and challenges the accuracy, the astrologer pivots to an irrelevant topic (in-laws) instead of addressing the user's feedback or providing a concrete reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      }
+    ]
+  }
+}

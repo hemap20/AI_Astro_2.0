@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, aap bataiye main aapki kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, aap bataiye main aapki kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, humne aapke rishte aur paise ki pareshani par baat ki thi. Woh padhai mein badlav jo Nov 2022 mein hua, wahi se ye sab shuru hua. Upay karne shuru kiye kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, humne aapke rishte aur paise ki pareshani par baat ki thi. Woh padhai mein badlav jo Nov 2022 mein hua, wahi se ye sab shuru hua. Upay karne shuru kiye kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nhi kiye",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Papa rishta dekh rhe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se shuru ho raha hai. Financial pareshani aur deri tabhi theek hongi. Jeevansathi ke swabhaav ko lekar ek khaas baat dikh rahi hai, kya aap janna chahengi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se shuru ho raha hai. Financial pareshani aur deri tabhi theek hongi. Jeevansathi ke swabhaav ko lekar ek khaas baat dikh rahi hai, kya aap janna chahengi?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke hone wale saathi kaafi shant aur padhe-likhe honge, par wo thode reserve rahenge. Rishton ki deri door karne ke liye is shukravar se safed mithai ka daan shuru kijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke hone wale saathi kaafi shant aur padhe-likhe honge, par wo thode reserve rahenge. Rishton ki deri door karne ke liye is shukravar se safed mithai ka daan shuru kijiye."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paise ki sthiti sudhregi aur karz kam hone lagega. Jab mann shaant rehta hai, tabhi bachat bhi rukti hai. Is guruvar se chana dal ka daan shuru kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se paise ki sthiti sudhregi aur karz kam hone lagega. Jab mann shaant rehta hai, tabhi bachat bhi rukti hai. Is guruvar se chana dal ka daan shuru kijiye."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bhot tension hai",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Himmat aur karm ke grah mann par asar daal rahe hain, jisse ghar mein heaviness hai. Har Mangalwar Hanuman Chalisa padhni shuru kijiye. Career mein ek naya raasta khulne wala hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Himmat aur karm ke grah mann par asar daal rahe hain, jisse ghar mein heaviness hai. Har Mangalwar Hanuman Chalisa padhni shuru kijiye. Career mein ek naya raasta khulne wala hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kaisa",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein teaching, finance ya media ka raasta khulega, jo aapki kamai aur ghar ki tension dono sambhal lega. Guru ke mantra ka jaap kijiye aur Guruwar ko chana dal daan kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Career mein teaching, finance ya media ka raasta khulega, jo aapki kamai aur ghar ki tension dono sambhal lega. Guru ke mantra ka jaap kijiye aur Guruwar ko chana dal daan kijiye."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh sab samay ke saath theek ho jayega, bas thoda dhiraj rakhiye. Kya aapko lagta hai ki aap ab is aane wale badlav ke liye puri tarah taiyaar hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Yeh sab samay ke saath theek ho jayega, bas thoda dhiraj rakhiye. Kya aapko lagta hai ki aap ab is aane wale badlav ke liye puri tarah taiyaar hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke sawaalon ka jawab mil gaya hai. Aapke hone wale saathi ke parivar aur rishton ke tareeke se judi kuch baatein aur bhi hain jo bhavishya mein aapke ghar ke mahaul ko behtar bana sakti hain. Aap recharge karke mujhse dobara jud sakti hain taaki hum is par vistaar se baat kar sakein.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapke sawaalon ka jawab mil gaya hai. Aapke hone wale saathi ke parivar aur rishton ke tareeke se judi kuch baatein aur bhi hain jo bhavishya mein aapke ghar ke mahaul ko behtar bana sakti hain. Aap recharge karke mujhse dobara jud sakti hain taaki hum is par vistaar se baat kar sakein."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

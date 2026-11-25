@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale ek do saal mein career aur paise ki halat mein sudhaar aayega ji. Aapko sabse zyada tension kis cheez ki hai, career ki ya family ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aane wale ek do saal mein career aur paise ki halat mein sudhaar aayega ji. Aapko sabse zyada tension kis cheez ki hai, career ki ya family ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "1-2 saal me kaunse mahine?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Aur meri shaadi kab hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career ke liye March 2027 se rasta banega ji. Shaadi ki baat karein, toh family rishta dekh rahi hai ya koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Career ke liye March 2027 se rasta banega ji. Shaadi ki baat karein, toh family rishta dekh rahi hai ya koi pasand hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents dekh rahe, ek rishta chal raha.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak fix hogi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki hogi ji. Shukra kamzor hone ki wajah se thoda samay lag raha hai. Ye rishta jaan-pehchaan ka hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki hogi ji. Shukra kamzor hone ki wajah se thoda samay lag raha hai. Ye rishta jaan-pehchaan ka hai kya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan, family friend.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunse mahine?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke pehle mahine mein hi baat banne ka yog hai ji, jab Shani ka naya samay shuru hoga. Baaki poora saal khula rahega agar thoda samay aur laga. Kya ladke wale thode serious aur traditional nature ke hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke pehle mahine mein hi baat banne ka yog hai ji, jab Shani ka naya samay shuru hoga. Baaki poora saal khula rahega agar thoda samay aur laga. Kya ladke wale thode serious aur traditional nature ke hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha serious hain.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, ghar ki tension se aap pareshan hain. Ye tension ghar ke karcho ko lekar hai ya kisi baat par aapas mein anban chal rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, ghar ki tension se aap pareshan hain. Ye tension ghar ke karcho ko lekar hai ya kisi baat par aapas mein anban chal rahi hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Anban hai.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak khatam hogi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "February 2027 ke baad ghar ka mahaul dheere-dheere shant hone lagega ji. Purana tanaav ab kam hoga. Aap Mangalwar se Hanuman Chalisa shuru karein, isse anban mein rahat milegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "February 2027 ke baad ghar ka mahaul dheere-dheere shant hone lagega ji. Purana tanaav ab kam hoga. Aap Mangalwar se Hanuman Chalisa shuru karein, isse anban mein rahat milegi."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak asar dikhega?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "February 2027 ka samay aate hi asar dikhne lagega ji. Mangal ka asar halka hone se ghar ka mahaul badlega. Kya aapne Hanuman Chalisa shuru kar di hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "February 2027 ka samay aate hi asar dikhne lagega ji. Mangal ka asar halka hone se ghar ka mahaul badlega. Kya aapne Hanuman Chalisa shuru kar di hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Abhi nahi.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Asar pakka dikhega?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, poora asar dikhega jab aap isko roz karenge. Mangal ka samay badalte hi ghar ki shanti laut aayegi. Kya aap aaj se shuru kar sakti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan ji, poora asar dikhega jab aap isko roz karenge. Mangal ka samay badalte hi ghar ki shanti laut aayegi. Kya aap aaj se shuru kar sakti hain?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 22
+  }
+]

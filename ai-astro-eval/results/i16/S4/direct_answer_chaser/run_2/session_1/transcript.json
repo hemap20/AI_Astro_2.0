@@ -1,0 +1,119 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi? Aur ladka shi h ya nhi mere liye.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari shaadi March 2027 se September 2028 ke beech ho sakti hai, rishta jaan-pehchaan se aayega. Ladka thoda shaant, padha-likha aur samajhdar type ka lag raha hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Tumhari shaadi March 2027 se September 2028 ke beech ho sakti hai, rishta jaan-pehchaan se aayega. Ladka thoda shaant, padha-likha aur samajhdar type ka lag raha hai."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Par wo short-tempered hai, kya ye shi hai?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse month me?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein March se June ke beech baat pakki hone ka sabse zyada chance hai. Kundli mein ladka calm aur padha-likha dikh raha hai, jo gussa lag raha hai wo shayad unka serious nature ho.",
+    "sec": 45,
+    "raw_response": {
+      "message": "2027 mein March se June ke beech baat pakki hone ka sabse zyada chance hai. Kundli mein ladka calm aur padha-likha dikh raha hai, jo gussa lag raha hai wo shayad unka serious nature ho."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi hai ya nahi, ye clear batao.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension mat lo, timing thoda aage-peeche ho sakti hai. Kundli ke hisaab se ladka padha-likha aur samajhdar hai, bas thoda reserved nature ki wajah se gussa lag sakta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Tension mat lo, timing thoda aage-peeche ho sakti hai. Kundli ke hisaab se ladka padha-likha aur samajhdar hai, bas thoda reserved nature ki wajah se gussa lag sakta hai."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ye sab chodo, bas haan ya na bolo.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ladka mere liye shi hai ya nhi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, kundli ke hisaab se ladka theek hai, woh padha-likha aur samajhdar hai. Bas thoda waqt do ek dusre ko samajhne ke liye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, kundli ke hisaab se ladka theek hai, woh padha-likha aur samajhdar hai. Bas thoda waqt do ek dusre ko samajhne ke liye."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Confirm, March 2027 me hi hoga?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuruwat ka time sabse strong lag raha hai kyunki naya phase tabhi baithta hai, baaki window September 2028 tak khuli hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se shuruwat ka time sabse strong lag raha hai kyunki naya phase tabhi baithta hai, baaki window September 2028 tak khuli hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 16
+  }
+]

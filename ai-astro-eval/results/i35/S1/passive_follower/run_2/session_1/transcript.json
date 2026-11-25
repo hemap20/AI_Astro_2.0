@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani naukri par wapas jana mushkil lag raha hai, par usse behtar mauke 2027 ke beech mein aayenge. 2023 se 2025 tak paise tight rahe, hai na?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani naukri par wapas jana mushkil lag raha hai, par usse behtar mauke 2027 ke beech mein aayenge. 2023 se 2025 tak paise tight rahe, hai na?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri mein March 2027 se raasta khulega, kyunki career ka ghar tab majboot hoga. Career mein ek mauka aayega jise aap abhi nahi dekh pa rahi hain. Abhi aap kya kar rahi hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Naukri mein March 2027 se raasta khulega, kyunki career ka ghar tab majboot hoga. Career mein ek mauka aayega jise aap abhi nahi dekh pa rahi hain. Abhi aap kya kar rahi hain?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Job chuta 3 mahine pehle",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance mein career rang layega, yahi wo mauka hai. Career aur paise ki dikkat 10th ghar se hai, naya karz na lein. Guruvaar se Guru ka mantra shuru kijiye. Kya tayari kar rahi hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Teaching ya finance mein career rang layega, yahi wo mauka hai. Career aur paise ki dikkat 10th ghar se hai, naya karz na lein. Guruvaar se Guru ka mantra shuru kijiye. Kya tayari kar rahi hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Agle hafte interview hai",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Interview ke liye shubhkaamnayen, par abhi mehnat ka grah thoda dheema hai, isliye ummeed banaye rakhein. Agle saal career mein badi badlav aayegi. Hanuman Chalisa padhna shuru kijiye, isse himmat milegi. Interview kis role ke liye hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Interview ke liye shubhkaamnayen, par abhi mehnat ka grah thoda dheema hai, isliye ummeed banaye rakhein. Agle saal career mein badi badlav aayegi. Hanuman Chalisa padhna shuru kijiye, isse himmat milegi. Interview kis role ke liye hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Sales role",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales aapke liye sahi hai. Naukri aur paise ki pareshani 10th ghar se judi hai. Aapke hone wale partner ke baare mein ek khaas baat dikh rahi hai. Kya shaadi ka socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sales aapke liye sahi hai. Naukri aur paise ki pareshani 10th ghar se judi hai. Aapke hone wale partner ke baare mein ek khaas baat dikh rahi hai. Kya shaadi ka socha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki aapke hone wale partner thode kam bolne wale honge, par dil ke saaf aur samajhdaar honge. Rishton ke grah Shukra ke liye Shukravar se 'Om Shum Shukraya Namah' ka jaap kijiye. Kya ghar par kabhi is baare mein charcha hui hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Wo baat ye hai ki aapke hone wale partner thode kam bolne wale honge, par dil ke saaf aur samajhdaar honge. Rishton ke grah Shukra ke liye Shukravar se 'Om Shum Shukraya Namah' ka jaap kijiye. Kya ghar par kabhi is baare mein charcha hui hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar bhi galat hua",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, kabhi-kabhi grahon ka asar thoda alag dikhta hai. Aapke career ka naya mod aur shaadi ka yog, dono ek hi grah ke daur se jude hain. Kya abhi kuch badlaav mehsoos ho raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, kabhi-kabhi grahon ka asar thoda alag dikhta hai. Aapke career ka naya mod aur shaadi ka yog, dono ek hi grah ke daur se jude hain. Kya abhi kuch badlaav mehsoos ho raha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Sab wesa hi h",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rukawat mid-2027 tak hi hai, kyunki career aur mann ki bechaini ek hi grah ke dabav se hain. Aapke liye ghar ka ek naya yog bhi ban raha hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye rukawat mid-2027 tak hi hai, kyunki career aur mann ki bechaini ek hi grah ke dabav se hain. Aapke liye ghar ka ek naya yog bhi ban raha hai."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi March 2027 se dheere-dheere kam hone lagegi, kyunki tabhi se kamai ka yog mazboot hai. 2nd ghar kamzor hone se paisa rukta nahi, Somvar ka vrat shuru kijiye. Aapke sawal ka jawab mil gaya hai, aur aapki kundli mein ghar ki sukh-shanti ke baare mein bhi kaafi kuch likha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paise ki tangi March 2027 se dheere-dheere kam hone lagegi, kyunki tabhi se kamai ka yog mazboot hai. 2nd ghar kamzor hone se paisa rukta nahi, Somvar ka vrat shuru kijiye. Aapke sawal ka jawab mil gaya hai, aur aapki kundli mein ghar ki sukh-shanti ke baare mein bhi kaafi kuch likha hai."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

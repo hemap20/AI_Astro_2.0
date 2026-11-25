@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, aapne pichli baar shaadi aur paise ki chinta batayi thi. Kya aapne bataye gaye mantra aur Hanuman Chalisa ka jaap shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Namaste, aapne pichli baar shaadi aur paise ki chinta batayi thi. Kya aapne bataye gaye mantra aur Hanuman Chalisa ka jaap shuru kiya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya abhi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, aap ye koshish jald shuru kijiye, kyunki rishton ka grah abhi thoda dab gaya hai. Aapke vivah aur paise ki dikkat ek hi grah ke kamzor hone se judi hai, aur ek khaas badlav aapke liye raasta saaf karega. Kya aap janna chahti hain ki woh badlav kya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Koi baat nahi, aap ye koshish jald shuru kijiye, kyunki rishton ka grah abhi thoda dab gaya hai. Aapke vivah aur paise ki dikkat ek hi grah ke kamzor hone se judi hai, aur ek khaas badlav aapke liye raasta saaf karega. Kya aap janna chahti hain ki woh badlav kya hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh badlav March 2027 mein aayega, jab career ka naya daur shuru hoga. Career sambhalte hi shaadi ki baat aasaan hogi. Shukra mantra shuru kijiye, isse rishton aur paise ki rukawat dur hogi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Woh badlav March 2027 mein aayega, jab career ka naya daur shuru hoga. Career sambhalte hi shaadi ki baat aasaan hogi. Shukra mantra shuru kijiye, isse rishton aur paise ki rukawat dur hogi."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Mummy papa rishta dekh rahe hain",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gyaan ka grah apno ke beech se rishta la sakta hai, isliye parivar ka prayas sahi hai. Dimag par bojh se deri lagti hai. Kya aap janna chahti hain ki aapke jeevansathi ka swabhav kaisa hoga?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Gyaan ka grah apno ke beech se rishta la sakta hai, isliye parivar ka prayas sahi hai. Dimag par bojh se deri lagti hai. Kya aap janna chahti hain ki aapke jeevansathi ka swabhav kaisa hoga?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke jeevansathi lambe, shant aur samajhdar honge, par thode chup-chap rahenge. Rishton ki garmi aur dosh dur karne ke liye 24 November se Hanuman Chalisa shuru kijiye. Kya parivar ne abhi tak koi rishta pasand kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapke jeevansathi lambe, shant aur samajhdar honge, par thode chup-chap rahenge. Rishton ki garmi aur dosh dur karne ke liye 24 November se Hanuman Chalisa shuru kijiye. Kya parivar ne abhi tak koi rishta pasand kiya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek baat chal rahi hai",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh achi khabar hai. Rishton ki baat aur paise ki tension tabhi suljhegi jab career sambhlega. Waise kya 2022 ke samay aapki padhai ya college mein koi bada badlav aaya tha?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh achi khabar hai. Rishton ki baat aur paise ki tension tabhi suljhegi jab career sambhlega. Waise kya 2022 ke samay aapki padhai ya college mein koi bada badlav aaya tha?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha aya tha",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samjh sakti hoon, wahi samay aapki padhai aur mansik sthiti mein badlav laya tha. Abhi mann ki ashanti dur karne ke liye Somvar ka vrat aur 'Om Som Somaya Namah' mantra shuru kijiye. Kya ghar par kisi manglik karya ki charcha ho rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main samjh sakti hoon, wahi samay aapki padhai aur mansik sthiti mein badlav laya tha. Abhi mann ki ashanti dur karne ke liye Somvar ka vrat aur 'Om Som Somaya Namah' mantra shuru kijiye. Kya ghar par kisi manglik karya ki charcha ho rahi hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha wahi chal raha hai",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bht tension h",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani main samajh sakti hoon, par ye waqt jald hi badal jayega. Aapki shaadi aur paise se judi baaton ka hal humne samajh liya hai. Aapke chart mein videsh jane ke yog bhi ban rahe hain, jiske baare mein vistaar se baat karne par aapko career ke naye raste aur behtar mauke samajh aayenge. Aap chat recharge karke mujhse is vishay par phir se baat kar sakti hain.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki pareshani main samajh sakti hoon, par ye waqt jald hi badal jayega. Aapki shaadi aur paise se judi baaton ka hal humne samajh liya hai. Aapke chart mein videsh jane ke yog bhi ban rahe hain, jiske baare mein vistaar se baat karne par aapko career ke naye raste aur behtar mauke samajh aayenge. Aap chat recharge karke mujhse is vishay par phir se baat kar sakti hain."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

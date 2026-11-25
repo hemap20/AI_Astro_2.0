@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 se tumhara time kaafi behtar hone laga hai, especially career aur finances mein relief milega. Batao, sabse zyada kis cheez ki tension hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 se tumhara time kaafi behtar hone laga hai, especially career aur finances mein relief milega. Batao, sabse zyada kis cheez ki tension hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 tak paise tight rahe aur mehnat bohot lagi, hai na? March 2027 se debt dheere-dheere kam hone lagega. Abhi koi job dekh rahe ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 tak paise tight rahe aur mehnat bohot lagi, hai na? March 2027 se debt dheere-dheere kam hone lagega. Abhi koi job dekh rahe ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pehle job pakki hogi, fir hi business ka sochna. Guruwar ko thoda chana dal daan kiya karo, rukaawat hategi. Kis field mein try kar rahe ho?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Pehle job pakki hogi, fir hi business ka sochna. Guruwar ko thoda chana dal daan kiya karo, rukaawat hategi. Kis field mein try kar rahe ho?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Private job",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Communication ya finance field mein try karo, waha growth ke acche chance hain. 2027 mein ek mahina aisa aayega jab ek sahi decision tumhari job pakki kar sakta hai. Abhi kis profile ke liye apply kar rahe ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Communication ya finance field mein try karo, waha growth ke acche chance hain. 2027 mein ek mahina aisa aayega jab ek sahi decision tumhari job pakki kar sakta hai. Abhi kis profile ke liye apply kar rahe ho?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Admin",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Admin ke liye communication skills achhi honi chahiye, wahi tumhari strength banegi. June ke baad career ki speed aur behtar ho jayegi. Interview ke time pe sabse zyada kya tension hoti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Admin ke liye communication skills achhi honi chahiye, wahi tumhari strength banegi. June ke baad career ki speed aur behtar ho jayegi. Interview ke time pe sabse zyada kya tension hoti hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab yeh ki interview mein kya sochte ho, ki selection hoga ya nahi? Batao, abhi kahan interviews chal rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Matlab yeh ki interview mein kya sochte ho, ki selection hoga ya nahi? Batao, abhi kahan interviews chal rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kahi nhi",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhara number 5 hai kyunki tumhara lagna lord Budh hai, isliye admin aur communication mein dimag achha chalta hai. Aage kahan apply karne ka socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Tumhara number 5 hai kyunki tumhara lagna lord Budh hai, isliye admin aur communication mein dimag achha chalta hai. Aage kahan apply karne ka socha hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main yeh bol rahi thi ki kundli ke hisab se tumhara dimag tez hai. Tumne padhai kis field mein ki hai ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main yeh bol rahi thi ki kundli ke hisab se tumhara dimag tez hai. Tumne padhai kis field mein ki hai ji?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Commerce",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Commerce toh best hai kyunki finance mein growth ka yog hai. Budh aur Guru ki vajah se is field mein sabse jaldi tarakki milti hai. Kya accounting ya office management mein zyada interest hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Commerce toh best hai kyunki finance mein growth ka yog hai. Budh aur Guru ki vajah se is field mein sabse jaldi tarakki milti hai. Kya accounting ya office management mein zyada interest hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tabhi finance aur office management mein tarakki pakki hai. 2028 ke baad apni khud ki property ka yog bhi shuru hoga. Ghar pe ye sab kis se share karti ho?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Tabhi finance aur office management mein tarakki pakki hai. 2028 ke baad apni khud ki property ka yog bhi shuru hoga. Ghar pe ye sab kis se share karti ho?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

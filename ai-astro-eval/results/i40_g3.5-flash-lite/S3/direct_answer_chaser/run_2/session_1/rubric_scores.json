@@ -1,0 +1,177 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": null,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.47,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.8,
+    "long_share": 0.44
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki career aur paise ki baaton ko main aapki kundli mein dekhti hoon.",
+        "why": "The astrologer acknowledges the user's career and money concerns from the first message."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya is tension se aapki neend par asar padta hai?",
+        "why": "The astrologer asks questions that build on the user's previous statements (e.g., about tension/money). No Type C questions found."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No specific other person mentioned."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Is saal paise ki thodi tangi rahegi, par aage halat sudhrenge.",
+        "why": "The reading is about the present/future, adds new info, is specific enough to be verified, and is tied to the user's query."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "April 2027 ke aaspaas job milne ke yog hain",
+        "why": "The astrologer provides a clear direction (job) and a time window (April 2027) without needing the user to repeat the question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka number paanch hai, jo aapki buddhi ke grah ka hai.",
+        "why": "The astrologer links a chart factor (number 5/buddhi grah) to the user's life (intelligence/decision making)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehle aapko job hi milegi, uske baad hi business ki taraf rukh hoga.",
+        "why": "The astrologer adds a new point about job vs business, using the user's previous context."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "April 2027 ke aaspaas job milne ke yog hain",
+        "why": "The astrologer provides a window (April 2027) as what the chart shows, without promising a specific date."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Guruvaar ko chana dal daan kijiye.",
+        "why": "A practical remedy is given for the stated problem (money/career) with a specific day."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Pehle aapko job hi milegi, uske baad hi business ki taraf rukh hoga.",
+        "why": "The astrologer answers both the job and business questions in a logical order without needing a reminder."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "October 2028 se February 2030 ke beech ka samay aur waha ke badlaav.",
+        "why": "The astrologer points to a future period (2028-2030) as a next layer of information."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aapke career aur paise ki baatein ho chuki hain. October 2028 se February 2030 ke beech ka samay aur waha ke badlaav. Agar aap abhi aur janna chahti hain, toh chat ko abhi recharge kijiye.",
+        "why": "The astrologer closes the chat with a recharge pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap abhi aur janna chahti hain, toh chat ko abhi recharge kijiye.",
+        "why": "The last message is a recharge pitch/close, leaving the user with no reason to return."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No trigger condition met."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      }
+    ]
+  }
+}

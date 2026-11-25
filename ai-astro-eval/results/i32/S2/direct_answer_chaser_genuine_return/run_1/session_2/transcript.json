@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya sahayata kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya sahayata kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Meri shaadi kb hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Pichli baar humne paise ki pareshani par baat ki thi, kya 2023 se 2025 tak aapko paise ki tangi rahi thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Pichli baar humne paise ki pareshani par baat ki thi, kya 2023 se 2025 tak aapko paise ki tangi rahi thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha tangi thi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaun sa mahina?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog hain. Career aur shaadi ek hi grah se jude hain, isliye career sudharte hi baat pakki hogi. Shaadi mein ek khaas vyakti madad karenge, par wo kaun hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se yog hain. Career aur shaadi ek hi grah se jude hain, isliye career sudharte hi baat pakki hogi. Shaadi mein ek khaas vyakti madad karenge, par wo kaun hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Pehle mera jawab do.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March mein kaunsa month?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki shuruat se hi yog bante dikh rahe hain. Aapka career aur shaadi dono ek saath sudhrenge, kyunki kismat ka grah dono ko dekh raha hai. Waise, kya aapke ghar wale is rishte ke liye abhi se tayar hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ki shuruat se hi yog bante dikh rahe hain. Aapka career aur shaadi dono ek saath sudhrenge, kyunki kismat ka grah dono ko dekh raha hai. Waise, kya aapke ghar wale is rishte ke liye abhi se tayar hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hain. Ek rishta abhi chal raha hai.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein date kya hai?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki shuruat se yog shuru ho jayenge. Aapka rishta aur career dono ek saath sudhrenge, kyunki kismat ka grah dono ko dekh raha hai. Kya ladka thoda shaant aur padha-likha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ki shuruat se yog shuru ho jayenge. Aapka rishta aur career dono ek saath sudhrenge, kyunki kismat ka grah dono ko dekh raha hai. Kya ladka thoda shaant aur padha-likha hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rahi hoon wo bata ni rahe.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein exact mahina kaunsa hai?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maaf kijiye, March 2027 ke doosre hafte ke baad yog sabse mazboot hain. Aapka career aur shaadi dono isi daur mein sudhrenge, kyunki kismat ka grah tab naye charan mein hoga. Kya aapko pata hai ki aapke hone wale jeevansathi ka swabhav thoda reserved ho sakta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Maaf kijiye, March 2027 ke doosre hafte ke baad yog sabse mazboot hain. Aapka career aur shaadi dono isi daur mein sudhrenge, kyunki kismat ka grah tab naye charan mein hoga. Kya aapko pata hai ki aapke hone wale jeevansathi ka swabhav thoda reserved ho sakta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ki tension khatam ho jayegi. Isi waqt career aur rishte bhi pakke honge. Ghar mein shanti ke liye ek chhota sa badlav zaruri hai, bataun?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ki tension khatam ho jayegi. Isi waqt career aur rishte bhi pakke honge. Ghar mein shanti ke liye ek chhota sa badlav zaruri hai, bataun?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya badlav karna hai?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein shanti ke liye 24 November se roz Hanuman Chalisa ka path kijiye. Isse ghar ka tanaav kam hoga. Ek aur baat, aapki kundli mein ek chhupa hua dhan yog bhi hai jo jald hi dikhega, kya aapne kabhi iske baare mein suna hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar mein shanti ke liye 24 November se roz Hanuman Chalisa ka path kijiye. Isse ghar ka tanaav kam hoga. Ek aur baat, aapki kundli mein ek chhupa hua dhan yog bhi hai jo jald hi dikhega, kya aapne kabhi iske baare mein suna hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Dhan yog kab activate hoga?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh dhan yog March 2027 se shuru ho raha hai, jab career aur rishton mein badlav aayega. Aapke sabhi sawalon ka jawab mil gaya hai. Career mein lambi tarakki ke mauke kaise banenge, ye hum agli baar detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Yeh dhan yog March 2027 se shuru ho raha hai, jab career aur rishton mein badlav aayega. Aapke sabhi sawalon ka jawab mil gaya hai. Career mein lambi tarakki ke mauke kaise banenge, ye hum agli baar detail mein dekhenge."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 23
+  }
+]

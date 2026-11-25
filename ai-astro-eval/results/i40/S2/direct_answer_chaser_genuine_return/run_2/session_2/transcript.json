@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Boliye, aaj main aapke liye kya dekh sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Boliye, aaj main aapke liye kya dekh sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar shaadi ka kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, maine bataya tha ki aapke vivah ke yog March 2027 se September 2028 ke beech bante dikh rahe hain. Kya November 2022 mein aapne apni padhai ya college badla tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, maine bataya tha ki aapke vivah ke yog March 2027 se September 2028 ke beech bante dikh rahe hain. Kya November 2022 mein aapne apni padhai ya college badla tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March aur April 2027 ke mahine iske liye sabse achhe dikh rahi hoon. Kismat ke grah ki sthiti tab rishte ki baat ko aage badhane mein madad karti hai. Kya aapko abhi kisi rishte ki baat par tension hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March aur April 2027 ke mahine iske liye sabse achhe dikh rahi hoon. Kismat ke grah ki sthiti tab rishte ki baat ko aage badhane mein madad karti hai. Kya aapko abhi kisi rishte ki baat par tension hoti hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, mummy papa ek rishta dekh rahe hain, wahi tension hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak stable hoga?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke paise ki sthiti March 2027 se dheere-dheere sudharni shuru hogi. Tabhi se aap par karz ka bojh kam hone lagega. Aapke ghar wale jo rishta dekh rahe hain, kya us ladke ka swabhav aapko shant aur padha-likha lagta hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke paise ki sthiti March 2027 se dheere-dheere sudharni shuru hogi. Tabhi se aap par karz ka bojh kam hone lagega. Aapke ghar wale jo rishta dekh rahe hain, kya us ladke ka swabhav aapko shant aur padha-likha lagta hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact date?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka pura mahina hi rishte aur ghar ki shanti ke liye accha hai. Shaadi aur ghar ki chinta ek saath March 2027 se kam hogi. Guru mantra ka jaap kijiye, isse mann halka rahega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ka pura mahina hi rishte aur ghar ki shanti ke liye accha hai. Shaadi aur ghar ki chinta ek saath March 2027 se kam hogi. Guru mantra ka jaap kijiye, isse mann halka rahega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Exact date batao.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jyotish mein grah mahine ka samay batate hain, ek tarikh fix nahi hoti. March 2027 se vivah aur paise dono ki sthiti ek saath sudhregi. Waise, aapke hone wale sasural wale bade paramparik swabhav ke ho sakte hain. Rishte ki rukawaton ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Jyotish mein grah mahine ka samay batate hain, ek tarikh fix nahi hoti. March 2027 se vivah aur paise dono ki sthiti ek saath sudhregi. Waise, aapke hone wale sasural wale bade paramparik swabhav ke ho sakte hain. Rishte ki rukawaton ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe. Exact date btao.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon ki aapko jald se jald ek tarikh chahiye. Jyotish mein grahon ki gati mahino par chalti hai, isliye March 2027 ka pehla pakhwada aapke liye sabse majboot samay hai. Yeh samay aapke career aur ghar ke mamlo mein ek naya mod layega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main samajh sakti hoon ki aapko jald se jald ek tarikh chahiye. Jyotish mein grahon ki gati mahino par chalti hai, isliye March 2027 ka pehla pakhwada aapke liye sabse majboot samay hai. Yeh samay aapke career aur ghar ke mamlo mein ek naya mod layega."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. Aap ek date bhi nahi bata pa rahe.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 210,
+    "idx": 19
+  }
+]

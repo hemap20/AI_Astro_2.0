@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! Main Sitara hoon. Tumhare aane wale 2 saal mein career aur ghar-parivaar ki cheezein kaafi behtar hone wali hain. Batao, abhi sabse zyada kya pareshan kar raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! Main Sitara hoon. Tumhare aane wale 2 saal mein career aur ghar-parivaar ki cheezein kaafi behtar hone wali hain. Batao, abhi sabse zyada kya pareshan kar raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023-25 mein mehnat zyada rahi, hai na? Shaadi ka yog March 2027-28 mein hai. Rishta aayega jise pehchanna zaroori hai. Ghar pe abhi kya baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023-25 mein mehnat zyada rahi, hai na? Shaadi ka yog March 2027-28 mein hai. Rishta aayega jise pehchanna zaroori hai. Ghar pe abhi kya baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hain, ek baat chal rahi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jaan-pehchaan ke circle se lag raha hai, jahan ladka kaafi samajhdaar par thoda shant aur reserved nature ka hoga. Shukra ke liye har Friday thodi white sweets baantna shuru karo, isse baat jaldi aage badhegi. Tumhare ghar wale kya keh rahe hain is rishte ke baare mein?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta jaan-pehchaan ke circle se lag raha hai, jahan ladka kaafi samajhdaar par thoda shant aur reserved nature ka hoga. Shukra ke liye har Friday thodi white sweets baantna shuru karo, isse baat jaldi aage badhegi. Tumhare ghar wale kya keh rahe hain is rishte ke baare mein?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale haan bol rahe hain. 2027 me kaun sa month pakka?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein yog bohot majboot hai, kyunki tabhi se kismat aur gyaan ka grah career ke saath rishton ke liye bhi naye raaste kholega. Baaki pura saal bhi open hai, par ye do mahine kaafi important hain. Ek baat aur hai, is rishte mein hone wale sasural ka nature thoda traditional aur reserved ho sakta hai, jise samajhna zaroori hoga. Tumhe kya lagta hai, tumhare ghar wale is rishte ko lekar kitne sure hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ya April 2027 mein yog bohot majboot hai, kyunki tabhi se kismat aur gyaan ka grah career ke saath rishton ke liye bhi naye raaste kholega. Baaki pura saal bhi open hai, par ye do mahine kaafi important hain. Ek baat aur hai, is rishte mein hone wale sasural ka nature thoda traditional aur reserved ho sakta hai, jise samajhna zaroori hoga. Tumhe kya lagta hai, tumhare ghar wale is rishte ko lekar kitne sure hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak stable hoga?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur paisa dono March 2027 se ek saath badalne wale hain. Tumhare paise ka ghar thoda kamzor hai isliye bachat nahi ho paati, par kamai ka grah majboot hai, bas abhi ka daur dheema hai. Hanuman Chalisa padhna shuru karo, ye tumhari financial rukawat door karne mein madad karega. Waise, kya ghar mein paise ko lekar tension ki wajah se jhagde zyada hote hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi aur paisa dono March 2027 se ek saath badalne wale hain. Tumhare paise ka ghar thoda kamzor hai isliye bachat nahi ho paati, par kamai ka grah majboot hai, bas abhi ka daur dheema hai. Hanuman Chalisa padhna shuru karo, ye tumhari financial rukawat door karne mein madad karega. Waise, kya ghar mein paise ko lekar tension ki wajah se jhagde zyada hote hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha, hoti hai.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab tak khatam hogi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur ghar ki tension ka connection ek hi hai, tumhara mann ka grah abhi thoda bhaari hai, isliye choti baaton par bhi ghar mein jhagda ho jaata hai. Ye sab June 2027 tak dheere-dheere khatam hone lagega. Monday ko fast rakhna shuru karo, isse mann ko bohot shaanti milegi. Waise, tumhare mummy-papa ke saath tumhara rishta kaisa hai, kya wo tumhari baat samajhte hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa aur ghar ki tension ka connection ek hi hai, tumhara mann ka grah abhi thoda bhaari hai, isliye choti baaton par bhi ghar mein jhagda ho jaata hai. Ye sab June 2027 tak dheere-dheere khatam hone lagega. Monday ko fast rakhna shuru karo, isse mann ko bohot shaanti milegi. Waise, tumhare mummy-papa ke saath tumhara rishta kaisa hai, kya wo tumhari baat samajhte hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Normal hai.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab normal hai toh achha hai, bas thoda dhiraj rakho. Agle saal ek job promotion ka mauka aayega jo tumhari financial halat puri tarah badal dega. Apna dhyaan rakhna, aur jab bhi mann bhaari lage, baat kar lena.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Sab normal hai toh achha hai, bas thoda dhiraj rakho. Agle saal ek job promotion ka mauka aayega jo tumhari financial halat puri tarah badal dega. Apna dhyaan rakhna, aur jab bhi mann bhaari lage, baat kar lena."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Agle saal kab tak promotion?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Promotion March 2027 se September 2028 ke beech hai. Finance ya communication field tumhare liye best hai. Ek mahina bohot bada change layega. Apply shuru kiya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Promotion March 2027 se September 2028 ke beech hai. Finance ya communication field tumhare liye best hai. Ek mahina bohot bada change layega. Apply shuru kiya?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya abhi.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exact?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka mahina sabse strong hai, tab kismat ka grah career mein naye raaste kholega. Ek aur baat, promotion ke liye ek specific decision lena hoga jo tumhe March se pehle hi tay karna hai, warna chance miss ho sakta hai. Kya tumne abhi se koi nayi skill ya course join kiya hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 ka mahina sabse strong hai, tab kismat ka grah career mein naye raaste kholega. Ek aur baat, promotion ke liye ek specific decision lena hoga jo tumhe March se pehle hi tay karna hai, warna chance miss ho sakta hai. Kya tumne abhi se koi nayi skill ya course join kiya hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 23
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Aap kaise hain? Batayiye, aaj aap kis baat ko lekar pareshan hain.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Aap kaise hain? Batayiye, aaj aap kis baat ko lekar pareshan hain."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, shaadi ka sawal aapke liye bahut zaroori lagta hai. Kya aap abhi tak kisi rishte ke liye taiyar hain, ya ghar wale rishte dhoondh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, shaadi ka sawal aapke liye bahut zaroori lagta hai. Kya aap abhi tak kisi rishte ke liye taiyar hain, ya ghar wale rishte dhoondh rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale dekh rahe hain. Ek rishta chal raha hai. Kab tak hogi shaadi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapki shaadi ke liye Mar 2027 se Sep 2028 ke beech ka samay achha dikhta hai. Shukra, jo rishton ka grah hai, abhi thoda kamzor hai, isliye dhire chalega. Kya aap bata sakti hain, aapki pichhli padhai ya college life kab se badli thi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, aapki shaadi ke liye Mar 2027 se Sep 2028 ke beech ka samay achha dikhta hai. Shukra, jo rishton ka grah hai, abhi thoda kamzor hai, isliye dhire chalega. Kya aap bata sakti hain, aapki pichhli padhai ya college life kab se badli thi?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak confirm hoga? 2027 me?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, 2027 mein Mar se May ke beech baat pakki hone ki sambhavna zyada dikhti hai. Mangal aur Shani ka asar Chandra par hai, isliye pehle thoda intezaar lag sakta hai. Kya aap bata sakti hain, Nov 2022 ke aas-paas aapki padhai ya college life mein badlav aaya tha?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, 2027 mein Mar se May ke beech baat pakki hone ki sambhavna zyada dikhti hai. Mangal aur Shani ka asar Chandra par hai, isliye pehle thoda intezaar lag sakta hai. Kya aap bata sakti hain, Nov 2022 ke aas-paas aapki padhai ya college life mein badlav aaya tha?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan, hua tha.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega? Job kab lagegi?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, achha hai ki Nov 2022 ka badlav aapko yaad hai. Job aur kamai ke liye Mar 2027 se Sep 2028 ka samay achha hai. Mehnat ka grah Shani abhi dheere chal raha hai, isliye Jun 2027 ke baad rahat zyada milegi. Kya aap bata sakti hain ki abhi aap job ke liye kis tarah ki kaam ki talash kar rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, achha hai ki Nov 2022 ka badlav aapko yaad hai. Job aur kamai ke liye Mar 2027 se Sep 2028 ka samay achha hai. Mehnat ka grah Shani abhi dheere chal raha hai, isliye Jun 2027 ke baad rahat zyada milegi. Kya aap bata sakti hain ki abhi aap job ke liye kis tarah ki kaam ki talash kar rahi hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Jun 2027 fix hai kya? Kaunse mahine tak?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, Jun 2027 ke aas-paas Shani ka dabav kam hona shuru hoga, par ye pakka din nahi hai. Isliye Jun se Aug 2027 tak rahat badhne ki ummeed rakhiye. Kya aap batayengi ki abhi ghar mein sabse zyada jhagda kis baat par hota hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, Jun 2027 ke aas-paas Shani ka dabav kam hona shuru hoga, par ye pakka din nahi hai. Isliye Jun se Aug 2027 tak rahat badhne ki ummeed rakhiye. Kya aap batayengi ki abhi ghar mein sabse zyada jhagda kis baat par hota hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Rishte aur career ki vajah se.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ka tension Jun 2027 ke baad dheere dheere kam hona chahiye. Shani, jo mehnat aur karm ka grah hai, aapke Chandra par asar daal raha hai, isliye ye daur bhari lagta hai. Kya aap bata sakti hain ki jhagda zyada tar kaun karta hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, ghar ka tension Jun 2027 ke baad dheere dheere kam hona chahiye. Shani, jo mehnat aur karm ka grah hai, aapke Chandra par asar daal raha hai, isliye ye daur bhari lagta hai. Kya aap bata sakti hain ki jhagda zyada tar kaun karta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sab karte hain.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Koi exact date batao, 2027 bohot door hai.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, sabse nazdeeki pakka mauka Mar 2027 ka hai, jab Guru ka asar aapki kismat aur kamai par chalega. Guru ka daur Feb 2027 mein khatam hoga, isliye us se pehle kaam ki baat aage badh sakti hai. Kya aap bata sakti hain ki aap ek hi baat par kyon jhagdi hain, ya kai baaton par?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, sabse nazdeeki pakka mauka Mar 2027 ka hai, jab Guru ka asar aapki kismat aur kamai par chalega. Guru ka daur Feb 2027 mein khatam hoga, isliye us se pehle kaam ki baat aage badh sakti hai. Kya aap bata sakti hain ki aap ek hi baat par kyon jhagdi hain, ya kai baaton par?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch 2027 hi hai kya? Kuch jaldi ka btao.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, Nov 2026 se Feb 2027 ke beech kuch chhote kaam aur baat-cheet ke mauke bhi ban sakte hain. Mangal, jo himmat aur kamai ka grah hai, Nov-Dec 2026 mein majboot hai. Kya aap bata sakti hain ki abhi aap kaunsa kaam ya skill sabse achhi karti hain?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, Nov 2026 se Feb 2027 ke beech kuch chhote kaam aur baat-cheet ke mauke bhi ban sakte hain. Mangal, jo himmat aur kamai ka grah hai, Nov-Dec 2026 mein majboot hai. Kya aap bata sakti hain ki abhi aap kaunsa kaam ya skill sabse achhi karti hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nov 2026 me confirm job lagegi kya?",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, Nov 2026 mein pakki job lagne ki sambhavna kam dikhti hai. Mangal Nov-Dec 2026 mein majboot hai, isliye chhote mauke aa sakte hain. Kya aap confirm kar sakti hain ki Nov 2022 mein padhai ya college ka badlav aapke saath hua tha?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ji, Nov 2026 mein pakki job lagne ki sambhavna kam dikhti hai. Mangal Nov-Dec 2026 mein majboot hai, isliye chhote mauke aa sakte hain. Kya aap confirm kar sakti hain ki Nov 2022 mein padhai ya college ka badlav aapke saath hua tha?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 300,
+    "idx": 23
+  }
+]

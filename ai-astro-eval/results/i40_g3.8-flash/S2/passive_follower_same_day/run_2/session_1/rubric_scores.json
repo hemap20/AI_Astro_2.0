@@ -1,0 +1,231 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 8,
+    "1.4": 1,
+    "2.1": 8,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 7.12,
+  "shape": {
+    "M": 8,
+    "avg_words": 29.9,
+    "long_share": 0.62
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User shared no worry, feeling or story in the window, only a topic."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kya 2025 ke aakhir se shaadi ki charcha zyada tezi se shuru hui thi?",
+        "why": "No Type C questions; most questions are Type A, building on user input."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 1,
+        "quote": "",
+        "why": "Never asks for or uses the other person's details."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kismat aur gyaan ke grah ki wajah se rishta arranged hone ke acche yog hain.",
+        "why": "First reading is Now, New, Specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kismat aur gyaan ke grah ki wajah se rishta arranged hone ke acche yog hain.",
+        "why": "Clear direction given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kismat aur gyaan ke grah ki wajah se rishta arranged hone ke acche yog hain.",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Rishton ka grah thoda daba hone se baat banne mein samay lag raha hai.",
+        "why": "Two later readings are each New and Uses user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "",
+        "why": "No timing given, facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kharche aur ghar ki bahas dono chhati jagah par asar ki wajah se hain. Mangalwar se Hanuman Chalisa padhiye aur laal daal ka daan kijiye.",
+        "why": "Remedy tied to the cause, with how and when, plus a real-life step."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kharche aur ghar ki tension dono ek saath hain kyunki himmat ke grah ka asar mann par hai.",
+        "why": "Both questions get a full answer, in a stated order, with no reminder needed."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aage chalkar aamdani ka ek naya rasta khulega.",
+        "why": "Names one specific further thing about their concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "",
+        "why": "No closing message and none at all."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kharche aur ghar ki bahas dono chhati jagah par asar ki wajah se hain. Mangalwar se Hanuman Chalisa padhiye aur laal daal ka daan kijiye.",
+        "why": "One of the last two messages is real reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "",
+        "why": "U is 0 and F is 0."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji, main Sitara hoon. Main aapka aage ka samay zaroor dekh sakti hoon. Aap sabse pehle career ke baare mein jaanna chahte hain ya shaadi ke?",
+        "why": "Changes approach within two replies and gives a concrete reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      }
+    ]
+  }
+}

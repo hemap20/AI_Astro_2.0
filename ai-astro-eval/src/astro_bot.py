@@ -20,6 +20,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from src.gemini_client import generate_json, MODEL_CONVERSATIONAL
+from src import claude_client
 
 BOT_RESPONSE_SCHEMA_HINT = """
 {
@@ -45,6 +46,19 @@ BOT_RESPONSE_JSON_SCHEMA = {
     "required": ["message", "marital_status"],
 }
 
+
+# Prompts that no longer ask for marital_status in their JSON (i8+) reply with
+# the message only.
+MESSAGE_ONLY_SCHEMA_HINT = """
+{
+  "message": "<chat reply text, following the persona's style rules>"
+}
+"""
+MESSAGE_ONLY_JSON_SCHEMA = {
+    "type": "object",
+    "properties": {"message": {"type": "string"}},
+    "required": ["message"],
+}
 
 class _SafeFormatDict(dict):
     """
@@ -105,6 +119,7 @@ class AstroBot:
         self.user_profile = user_profile or {}
         self.temperature = temperature
         self.marital_status = "unknown"
+        self._asks_marital_status = '"marital_status"' in self.prompt_template
         self.last_raw_response = None
         self._history = []  # from the bot's POV: role "user" = the human, "model" = the bot
         self.assembled_system_prompt = self._assemble_prompt()  # logged as of session start
@@ -144,6 +159,7 @@ class AstroBot:
             # was handled. Override via user_profile if a test case ever needs
             # to specifically exercise that branch.
             time_running_out=self.user_profile.get("time_running_out", "False"),
+            elapsed_time=self.user_profile.get("elapsed_time", "unknown"),
         )
         return self.prompt_template.format_map(values)
 
@@ -154,13 +170,16 @@ class AstroBot:
         # the previous turn, and the prompt's Step 2 behavior depends on it.
         self.assembled_system_prompt = self._assemble_prompt()
 
-        result = generate_json(
+        generate = claude_client.generate_json if MODEL_CONVERSATIONAL.startswith("claude") else generate_json
+        extra = {} if MODEL_CONVERSATIONAL.startswith("claude") else {"role": "astro"}
+        result = generate(
             system_prompt=self.assembled_system_prompt,
             messages=self._history,
-            schema_hint=BOT_RESPONSE_SCHEMA_HINT,
+            schema_hint=BOT_RESPONSE_SCHEMA_HINT if self._asks_marital_status else MESSAGE_ONLY_SCHEMA_HINT,
             temperature=self.temperature,
             model=MODEL_CONVERSATIONAL,
-            response_schema=BOT_RESPONSE_JSON_SCHEMA,
+            **extra,
+            response_schema=BOT_RESPONSE_JSON_SCHEMA if self._asks_marital_status else MESSAGE_ONLY_JSON_SCHEMA,
         )
         message_text = result.get("message", "")
         new_status = result.get("marital_status")

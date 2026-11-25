@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Aap apne bhavishya ke baare mein jan-na chahte hain, main samajh sakti hoon. Kya aap career ya kisi aur khaas vishay par pehle baat karna chahenge?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Aap apne bhavishya ke baare mein jan-na chahte hain, main samajh sakti hoon. Kya aap career ya kisi aur khaas vishay par pehle baat karna chahenge?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi paise ki tangi rahegi, par maart 2027 ke baad halat sudharne lagenge. Dhan ka bhav kamzor hai aur mann ka grah dabav mein hai, isliye paise tikte nahi. Kya 2023 se 2025 ke beech aapne paise ki tangi mehsoos ki thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Abhi paise ki tangi rahegi, par maart 2027 ke baad halat sudharne lagenge. Dhan ka bhav kamzor hai aur mann ka grah dabav mein hai, isliye paise tikte nahi. Kya 2023 se 2025 ke beech aapne paise ki tangi mehsoos ki thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan bahut",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo waqt mushkil tha, ab Guru badlav layega. Ek khas kshetra ka yog ban raha hai jaha se kismat palat sakti hai. Kya aap abhi kaam kar rahe hain ya padhai mein?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Wo waqt mushkil tha, ab Guru badlav layega. Ek khas kshetra ka yog ban raha hai jaha se kismat palat sakti hai. Kya aap abhi kaam kar rahe hain ya padhai mein?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kar rhi hu",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai aur career mein shikshan ya finance ka kshetra aapke liye kismat chamka sakta hai. Yeh wahi khas rasta hai jo aapke paise ki pareshani door karega. Guru ke liye chana dal ka daan kijiye, isse padhai mein rukawat kam hogi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Padhai aur career mein shikshan ya finance ka kshetra aapke liye kismat chamka sakta hai. Yeh wahi khas rasta hai jo aapke paise ki pareshani door karega. Guru ke liye chana dal ka daan kijiye, isse padhai mein rukawat kam hogi."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai ke saath ghar ki zimmedari aur bhavishya ki chinta aapko thoda pareshan karti hai. Aage chalkar ek aisa badlav aayega jo aapki mehnat ka sahi fal dilayega. Kya aap jan-na chahti hain ki wo kya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Padhai ke saath ghar ki zimmedari aur bhavishya ki chinta aapko thoda pareshan karti hai. Aage chalkar ek aisa badlav aayega jo aapki mehnat ka sahi fal dilayega. Kya aap jan-na chahti hain ki wo kya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh badlav aapke career mein nayi shuruat hai. Aapka number 5 hai, jo buddhi aur baat-cheet ka prateek hai. Budh ke liye budhwar ko emerald pehenna shubh rahega. Kya aapne kabhi ratn pehne hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Woh badlav aapke career mein nayi shuruat hai. Aapka number 5 hai, jo buddhi aur baat-cheet ka prateek hai. Budh ke liye budhwar ko emerald pehenna shubh rahega. Kya aapne kabhi ratn pehne hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ratn pehenne se pehle kisi visheshagya se salah lena zaroori hota hai. Kya aapki padhai mein abhi koi khaas chinta chal rahi hai ya aap naye career ke liye taiyari kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ratn pehenne se pehle kisi visheshagya se salah lena zaroori hota hai. Kya aapki padhai mein abhi koi khaas chinta chal rahi hai ya aap naye career ke liye taiyari kar rahi hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi tension h",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann aur neend isliye prabhavit hain kyunki karm ka grah dabav bana raha hai. Somwar ko 'Om Som Somaya Namah' ka jap kijiye. Kya aap ghar aur settle hone ka yog janna chahti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mann aur neend isliye prabhavit hain kyunki karm ka grah dabav bana raha hai. Somwar ko 'Om Som Somaya Namah' ka jap kijiye. Kya aap ghar aur settle hone ka yog janna chahti hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi 2027 ke baad aur ghar 2028 ke ant tak mil sakta hai. Aapke paise ke sawal mein dhan ke sthayi hone ke naye raaste hain. Vistaar mein jan-ne ke liye chat recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi 2027 ke baad aur ghar 2028 ke ant tak mil sakta hai. Aapke paise ke sawal mein dhan ke sthayi hone ke naye raaste hain. Vistaar mein jan-ne ke liye chat recharge kijiye."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

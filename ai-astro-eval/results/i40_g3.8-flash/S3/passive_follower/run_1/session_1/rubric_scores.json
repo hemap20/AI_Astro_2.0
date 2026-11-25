@@ -1,0 +1,227 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 8,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.0,
+  "shape": {
+    "M": 9,
+    "avg_words": 26.8,
+    "long_share": 0.11
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "User shared no specific worry, feeling or story in the first message, only a general request for a reading."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap sabse pehle career ke baare mein janna chahte hain ya shaadi ke baare mein?",
+        "why": "No Type C questions, and at least half are Type A (building on user input)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "User is not asking about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Karm ke grah ki dheemi chaal se rukaawat hai, par baat banegi. Kya 2023 se 2025 ke beech mehnat zyada aur paise ki tangi rahi thi?",
+        "why": "The reading is relatable, new, specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Paise ki halat March 2027 se September 2028 ke beech theek hogi.",
+        "why": "A clear direction with a time window is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Karm ke grah ki dheemi chaal se rukaawat hai",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Buddhi aur gyaan ke grah saath hain, accounts ya office line mein rasta khulega.",
+        "why": "Two later readings are each New and Uses user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paise ki halat March 2027 se September 2028 ke beech theek hogi.",
+        "why": "A clear window is provided as what the chart shows, with no promise."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Guruvar ko chana dal daan kijiye.",
+        "why": "Remedy is tied to the cause, with how and when, plus a real-life step."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "User did not change topic or ask a second question."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein aage chal kar videsh jaane ka ek yog bhi ban raha hai.",
+        "why": "Names one specific further thing about their concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Isko pura samajhne ke liye abhi recharge karke chat aage badhaiye.",
+        "why": "The astrologer ends the session with a pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Isko pura samajhne ke liye abhi recharge karke chat aage badhaiye.",
+        "why": "The last message is a pressure pitch."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Karm ke grah ki dheemi chaal se rukaawat hai",
+        "why": "No technical terms used without explanation and no formal/bookish sentences."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap sabse pehle career ke baare mein janna chahte hain ya shaadi ke baare mein?",
+        "why": "Changes approach within two replies and gives a concrete reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "reading"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "reading"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      }
+    ]
+  }
+}

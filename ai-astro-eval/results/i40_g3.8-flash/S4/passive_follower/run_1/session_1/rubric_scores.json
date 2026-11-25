@@ -1,0 +1,181 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 6.12,
+  "shape": {
+    "M": 10,
+    "avg_words": 30.4,
+    "long_share": 0.3
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ki baat pakki hone ka achha yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "The astrologer acknowledges the user's main question about marriage timing, but does not name the user's feeling."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2022 ke aaspas aapki padhai ya college mein koi bada badlav aaya tha?",
+        "why": "The question is Type A (builds on the user's life context), and there are no Type C questions."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Partner ka gusse wala nature aur unki kundli ka milan kaisa rahega, yeh jaanna zaroori hai.",
+        "why": "The astrologer asks for details and explains why (compatibility), but does not use the name or specific birth details of the partner in the reading."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ki baat pakki hone ka achha yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "The reading is about the future (not present/past), but it is specific and tied to a chart reason (implied)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ki baat pakki hone ka achha yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "A clear direction (time window) is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Gussa himmat ke grah ke asar se hai",
+        "why": "One linked reading is provided (anger linked to 'himmat ke grah')."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Sasural ke log purane khayalat ke honge.",
+        "why": "The reading adds a new point about the in-laws, using the user's detail that the family chose the match."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech banta hai.",
+        "why": "A clear window is provided, and the facts remain consistent throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ko theek rakhne ke liye shukrawar se safed mithaai daan karna shuru kijiye.",
+        "why": "One remedy is provided for the stated problem (relationship issues) with a specific day (Friday)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka sawal humne dekh liya hai ji.",
+        "why": "The astrologer acknowledges the marriage question when the user asks for more, maintaining the thread."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Parivaar ko lekar bhi ek baat dikh rahi hai.",
+        "why": "The astrologer opens a new layer regarding the family, which is specific to the user's situation."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise abhi poora janne ke liye chat recharge kijiye.",
+        "why": "The astrologer closes the chat with a pitch while time remains, which is an early close."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise abhi poora janne ke liye chat recharge kijiye.",
+        "why": "The last message is a pitch to recharge, not a reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Gussa himmat ke grah ke asar se hai",
+        "why": "The language is easy and uses common terms, with no formal or bookish sentences."
+      }
+    },
+    "labels": [
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 24,
+        "type": "reading"
+      },
+      {
+        "idx": 26,
+        "type": "reading"
+      }
+    ]
+  }
+}

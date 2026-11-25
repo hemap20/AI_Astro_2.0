@@ -1,0 +1,192 @@
+[
+  {
+    "role": "USER",
+    "text": "meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "bihar ka hai",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 mein pakki hogi ji. Aapki kundli mein yahi yog hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi March 2027 mein pakki hogi ji. Aapki kundli mein yahi yog hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka shant aur padha-likha hoga ji. Kundli mein woh calm dikhega. Matching ek baar check karwa lena.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladka shant aur padha-likha hoga ji. Kundli mein woh calm dikhega. Matching ek baar check karwa lena.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "pr wo gussa bhot krta h",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "maine dekha h",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh sochna bilkul sahi hai ji. Unka woh guarded side andar ke stress ki wajah se dikhta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh sochna bilkul sahi hai ji. Unka woh guarded side andar ke stress ki wajah se dikhta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Okk",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gharwale thode traditional aur reserved rahenge. Shani ka asar wahan dikhta hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Gharwale thode traditional aur reserved rahenge. Shani ka asar wahan dikhta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya mtlb shani ka",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani ka matlab discipline aur strictness hai ji. Isse gharwale thode purane vichar ke lagte hain.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shani ka matlab discipline aur strictness hai ji. Isse gharwale thode purane vichar ke lagte hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye gusse wali baat thik ho jayegi ji. March 2027 ke baad rishte mein rahat aayegi. Mangal ke asar ke liye Hanuman Chalisa padhna sahi rahega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye gusse wali baat thik ho jayegi ji. March 2027 ke baad rishte mein rahat aayegi. Mangal ke asar ke liye Hanuman Chalisa padhna sahi rahega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta pehchan ke logon se aayega ji. Guru aur Budh ka yog yehi batata hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh rishta pehchan ke logon se aayega ji. Guru aur Budh ka yog yehi batata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab rishta kisi jaan-pehchan ke zariye aayega. Yeh Guru ka asar hai ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Matlab rishta kisi jaan-pehchan ke zariye aayega. Yeh Guru ka asar hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein ek baat aur hai. 2028 ke baad nayi shuruwat dikh rahi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Kundli mein ek baat aur hai. 2028 ke baad nayi shuruwat dikh rahi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khtm ho rha h",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein shaadi ke baare mein ek aur baat hai, March 2027 ke Shani period se judi hui.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Aapki kundli mein shaadi ke baare mein ek aur baat hai, March 2027 ke Shani period se judi hui.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 24
+  }
+]

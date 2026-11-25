@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! 2027 se tumhari life mein kaafi acche badlav aane wale hain, specially career aur settle hone ke mamle mein. Batao, aaj kis baare mein baat karein, ghar ke tension ya future ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! 2027 se tumhari life mein kaafi acche badlav aane wale hain, specially career aur settle hone ke mamle mein. Batao, aaj kis baare mein baat karein, ghar ke tension ya future ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne final year aur ghar ki tension ki baat ki thi. 2027 se career aur finance mein kafi relief milne wala hai. Batao abhi sabse zyada kis cheez ki fikar hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne final year aur ghar ki tension ki baat ki thi. 2027 se career aur finance mein kafi relief milne wala hai. Batao abhi sabse zyada kis cheez ki fikar hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ke pakke yog ban rahe hain, rishta jaan-pehchaan se aayega aur partner kaafi calm aur educated hoga. Par shuru mein ek aisa rishta aayega jisse bachna padega, kundli mein iski warning hai. Ghar pe is baare mein abhi kya chal raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ke pakke yog ban rahe hain, rishta jaan-pehchaan se aayega aur partner kaafi calm aur educated hoga. Par shuru mein ek aisa rishta aayega jisse bachna padega, kundli mein iski warning hai. Ghar pe is baare mein abhi kya chal raha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "In-laws thode purane vichar ke ho sakte hain, par partner kaafi calm aur samajhdar hoga. Friday ko white sweets donate kiya karo, isse baat aage badhegi. Kya ghar wale tumhari pasand bhi puchte hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "In-laws thode purane vichar ke ho sakte hain, par partner kaafi calm aur samajhdar hoga. Friday ko white sweets donate kiya karo, isse baat aage badhegi. Kya ghar wale tumhari pasand bhi puchte hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi puchte",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ke na rukne ki wajah bachat ki kamzori hai, par March 2027 se halat sudhregi. Thursday ko chana dal donate karo. 2028 ke baad apna ghar lene ke yog hain, par ek financial galti se bachna zaroori hai. Pehle job ka plan hai ya business ka?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ke na rukne ki wajah bachat ki kamzori hai, par March 2027 se halat sudhregi. Thursday ko chana dal donate karo. 2028 ke baad apna ghar lene ke yog hain, par ek financial galti se bachna zaroori hai. Pehle job ka plan hai ya business ka?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Job",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension ka kya",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka ye heavy mahol June 2027 tak rahega, isliye tension mat lo ji. Mangalwar ko Hanuman Chalisa padha karo, man ko shanti milegi. Kya papa se apni baat rakhne ki koshish ki kabhi?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ka ye heavy mahol June 2027 tak rahega, isliye tension mat lo ji. Mangalwar ko Hanuman Chalisa padha karo, man ko shanti milegi. Kya papa se apni baat rakhne ki koshish ki kabhi?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Darr lagta hai",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darr lagna natural hai ji. 2027 ke mid mein ek aisi baat banegi jo papa ka nazariya badlegi. Kya mummy thoda support karti hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Darr lagna natural hai ji. 2027 ke mid mein ek aisi baat banegi jo papa ka nazariya badlegi. Kya mummy thoda support karti hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan thoda",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy ka thoda support bhi bada sahara hai. Raat ki neend aur stress June 2027 ke baad theek ho jayega. Kya abhi final year ke exams ki tension hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mummy ka thoda support bhi bada sahara hai. Raat ki neend aur stress June 2027 ke baad theek ho jayega. Kya abhi final year ke exams ki tension hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Okk",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Haan thodi",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exam ke sath career ki tension bhi natural hai ji. 2027 ke shuru mein ek aisi field ka mauka aayega jo tumhare liye sabse best rahegi, par waha ek choti si baat dhyan rakhni hogi. Tumhara interest kis field mein jane ka hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Exam ke sath career ki tension bhi natural hai ji. 2027 ke shuru mein ek aisi field ka mauka aayega jo tumhare liye sabse best rahegi, par waha ek choti si baat dhyan rakhni hogi. Tumhara interest kis field mein jane ka hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Kuch b job",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance wali job tumhare liye sabse best rahegi ji. 2027 ke shuru mein ek bada mauka aayega, par ek mahina aisa hoga jab decision bohot dhyan se lena hoga. Kya college mein inme se kisi cheez ki padhai ki hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Teaching ya finance wali job tumhare liye sabse best rahegi ji. 2027 ke shuru mein ek bada mauka aayega, par ek mahina aisa hoga jab decision bohot dhyan se lena hoga. Kya college mein inme se kisi cheez ki padhai ki hai?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 300,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 26
+  }
+]

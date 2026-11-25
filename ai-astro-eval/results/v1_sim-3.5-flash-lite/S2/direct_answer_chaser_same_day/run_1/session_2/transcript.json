@@ -1,0 +1,168 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji, welcome back. Aap unmarried hain na abhi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji, welcome back. Aap unmarried hain na abhi?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji, note kar liya. Kundli mein Saturn ka dasha hai. Yeh marriage ka khas time hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Theek hai ji, note kar liya. Kundli mein Saturn ka dasha hai. Yeh marriage ka khas time hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, partner ke baare mein tha. Aapke 7th house mein Pisces sign hai. Partner kaafi sensitive aur caring honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, partner ke baare mein tha. Aapke 7th house mein Pisces sign hai. Partner kaafi sensitive aur caring honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ji kb tk hogi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rahu-Saturn ki dasha chal rahi hai. 2026 aur 2028 ke beech yog hai. Ek aur baat bataau is baare mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rahu-Saturn ki dasha chal rahi hai. 2026 aur 2028 ke beech yog hai. Ek aur baat bataau is baare mein?",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pehle mera jawab do",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maaf kijiye, seedha batati hoon ji. Saturn aur Jupiter sath baithe hain. Yeh transit jaldi hi rishta pakka karega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Maaf kijiye, seedha batati hoon ji. Saturn aur Jupiter sath baithe hain. Yeh transit jaldi hi rishta pakka karega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact month fix nahi hota ji. Rahu-Saturn ki dasha chal rahi hai. Late 2026 ya 2027 mein pakka yog hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Exact month fix nahi hota ji. Rahu-Saturn ki dasha chal rahi hai. Late 2026 ya 2027 mein pakka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Family ki involvement bhi rahegi ji. Love-cum-arranged marriage ka yog hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Family ki involvement bhi rahegi ji. Love-cum-arranged marriage ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Rishta aa rha h kya parents dekh rhe h",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, parents ki taraf se koshish chal rahi hai. Saturn aur Jupiter ka milna yahi dikhata hai ki family hi rishta layegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan ji, parents ki taraf se koshish chal rahi hai. Saturn aur Jupiter ka milna yahi dikhata hai ki family hi rishta layegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me baat banegi",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact month batana mushkil hai ji. Mercury ki choti dasha chal rahi hai. Friends ya network se baat banegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Exact month batana mushkil hai ji. Mercury ki choti dasha chal rahi hai. Friends ya network se baat banegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Koi to mahina hoga",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajhti hoon aapki chinta ji. Lekin exact month fix nahi hota. 2026 ke end mein yog strong hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Main samajhti hoon aapki chinta ji. Lekin exact month fix nahi hota. 2026 ke end mein yog strong hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied",
+    "sec": 300,
+    "idx": 20
+  }
+]

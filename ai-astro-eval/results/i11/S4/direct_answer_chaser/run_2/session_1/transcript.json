@@ -1,0 +1,233 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ye ladka shi h ya nhi mere liye.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapki shaadi ke liye March 2027 se September 2028 ka samay sabse behtar dikh raha hai. 2023 se 2025 ke beech mehnat bohot zyada rahi hogi ji. Jaisa kundli mein hai, ladka shaant aur padha-likha hoga.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Ji, aapki shaadi ke liye March 2027 se September 2028 ka samay sabse behtar dikh raha hai. 2023 se 2025 ke beech mehnat bohot zyada rahi hogi ji. Jaisa kundli mein hai, ladka shaant aur padha-likha hoga."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Par wo gusse wala hai, aapne shaant kaise bola?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month btao.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki shuruat mein hi naya samay aate hi baat pakki hone ke yog banenge ji. Aur gusse ki jo baat hai, kundli mein unka ek guarded ya thoda alag swabhav bhi hai jo shuru mein mehsoos hota hai. Ek chhota sa upay karenge toh aage ki raah aur aasan ho jayegi ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ki shuruat mein hi naya samay aate hi baat pakki hone ke yog banenge ji. Aur gusse ki jo baat hai, kundli mein unka ek guarded ya thoda alag swabhav bhi hai jo shuru mein mehsoos hota hai. Ek chhota sa upay karenge toh aage ki raah aur aasan ho jayegi ji."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Maine usse do baar meet kiya hai, wo kaafi short-tempered hai.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aapne bola shaant hai, ye contradiction kyun?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi mere liye? Direct bolo.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, agar wo gusse wale lag rahe hain toh wo unka wahi guarded swabhav hai jo kundli mein dikhta hai. Rishta chal sakta hai ji, par shuruat mein thoda adjustment zaroori hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, agar wo gusse wale lag rahe hain toh wo unka wahi guarded swabhav hai jo kundli mein dikhta hai. Rishta chal sakta hai ji, par shuruat mein thoda adjustment zaroori hoga."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "To shaadi kar lu ya nahi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Saaf bataiye, haan ya na.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yeh rishta aage badh sakta hai. Unke ghar ka mahol thoda traditional aur anushasit ho sakta hai ji. Aap Shukra ki shanti ke liye is Friday se Om Shum Shukraya Namah ka jaap shuru kar dein.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan ji, yeh rishta aage badh sakta hai. Unke ghar ka mahol thoda traditional aur anushasit ho sakta hai ji. Aap Shukra ki shanti ke liye is Friday se Om Shum Shukraya Namah ka jaap shuru kar dein."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shadi 2027 mein kaun se mahine mein hogi?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao.",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruat mein hi baat banne ke sabse zyada chance hain ji, kyunki tabhi naya samay shuru hota hai. Baaki poora window open hai ji. 2027-2028 mein videsh jaane ka yog bhi ban sakta hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke shuruat mein hi baat banne ke sabse zyada chance hain ji, kyunki tabhi naya samay shuru hota hai. Baaki poora window open hai ji. 2027-2028 mein videsh jaane ka yog bhi ban sakta hai."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok, March 2027.",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Rishte mein koi bada khatra toh nahi?",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bada khatra ya divorce jaisi baat nahi hai ji. Bas Shukra kamzor hone se shuru mein bhavnaon ko samajhne mein thodi mehnat pad sakti hai. In-laws thode traditional aur reserved swabhav ke ho sakte hain ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Bada khatra ya divorce jaisi baat nahi hai ji. Bas Shukra kamzor hone se shuru mein bhavnaon ko samajhne mein thodi mehnat pad sakti hai. In-laws thode traditional aur reserved swabhav ke ho sakte hain ji."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Traditional matlab kya?",
+    "sec": 180,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Kuch aur problem toh nahi hogi is rishte mein?",
+    "sec": 180,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Traditional ka matlab hai ki unke ghar mein parivar ke niyam aur purane reet-riwaaz bohot maane jate hain ji. Koi badi pareshani nahi hai, bas shuruat mein thoda adjust karna padega. Shaadi ke baad aapke career mein bhi ek naya badlaav aane ka yog hai ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Traditional ka matlab hai ki unke ghar mein parivar ke niyam aur purane reet-riwaaz bohot maane jate hain ji. Koi badi pareshani nahi hai, bas shuruat mein thoda adjust karna padega. Shaadi ke baad aapke career mein bhi ek naya badlaav aane ka yog hai ji."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Career ka nahi pucha maine.",
+    "sec": 210,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Traditional matlab restrictions honge kya? Haan ya na.",
+    "sec": 210,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai.",
+    "sec": 210,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, thodi pabandiyan aur parivar ke niyam reh sakte hain, kyunki in-laws ka swabhav thoda anushasit hota hai ji. Shaadi ke baad bacho ke aane mein bhi thodi dheemi shuruat ho sakti hai ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan ji, thodi pabandiyan aur parivar ke niyam reh sakte hain, kyunki in-laws ka swabhav thoda anushasit hota hai ji. Shaadi ke baad bacho ke aane mein bhi thodi dheemi shuruat ho sakti hai ji."
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Bahar jaane denge ya restrictions honge?",
+    "sec": 240,
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Exact bataiye.",
+    "sec": 240,
+    "idx": 30
+  },
+  {
+    "role": "ASTRO",
+    "text": "Videsh jaane ka mauka 2027 se 2028 ke beech ban sakta hai ji, par in-laws ki taraf se thodi pabandiyan reh sakti hain. October 2028 ke baad sthiti aur bhi zyada saaf hogi ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Videsh jaane ka mauka 2027 se 2028 ke beech ban sakta hai ji, par in-laws ki taraf se thodi pabandiyan reh sakti hain. October 2028 ke baad sthiti aur bhi zyada saaf hogi ji."
+    },
+    "idx": 31
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 32
+  },
+  {
+    "role": "USER",
+    "text": "Faltu ki baatein band karo.",
+    "sec": 270,
+    "idx": 33
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Pichli baar shaadi aur finances par baat hui thi. Aaj bataiye, kya chal raha hai man mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Pichli baar shaadi aur finances par baat hui thi. Aaj bataiye, kya chal raha hai man mein?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka puchna tha.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se shuru hoga ji. Shani ki chal ki wajah se thodi der hai. Rishta kisi apne hi circle se aane ka strong yog hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se shuru hoga ji. Shani ki chal ki wajah se thodi der hai. Rishta kisi apne hi circle se aane ka strong yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, family ke through hi rishta pakka hoga. Partner kaafi calm aur educated nature ke honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, family ke through hi rishta pakka hoga. Partner kaafi calm aur educated nature ke honge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Acha. Paisa?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se money relief milegi ji. Ketu ki chal debt clear karegi. Own house ka yog 2028 mein hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se money relief milegi ji. Ketu ki chal debt clear karegi. Own house ka yog 2028 mein hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bohot tension hai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahol thoda heavy hai ji. Shani ki chal yahan asar karti hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ka mahol thoda heavy hai ji. Shani ki chal yahan asar karti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Samji nhi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab Shani ka prabhav ghar par hai ji. June 2027 ke baad yeh tension khatam ho jayegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Matlab Shani ka prabhav ghar par hai ji. June 2027 ke baad yeh tension khatam ho jayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Okk",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani ke asar ko halka karne ke liye, Saturdays ko kaale til ka daan karein ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Shani ke asar ko halka karne ke liye, Saturdays ko kaale til ka daan karein ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kaha pe karna hai?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kisi paas wale Shani mandir mein de sakte hain ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kisi paas wale Shani mandir mein de sakte hain ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Okk. Or kuch bataye?",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, March 2027 ke baad promotion se judi hui ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, March 2027 ke baad promotion se judi hui ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kya promotion",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Guru maharaj ki kripa se naye mauke milenge ji. March 2027 ke baad promotion pakki hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Guru maharaj ki kripa se naye mauke milenge ji. March 2027 ke baad promotion pakki hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

@@ -1,0 +1,235 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 6,
+    "2.2": 6,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 7,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.82,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.9,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pichli baar humne shaadi ki baat aur ghar ke jhagdo par charcha ki thi.",
+        "why": "The astrologer acknowledges the user's prompt about the previous session by referencing the specific topics discussed."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya wo rishte wali baat aage badhi ya abhi ruki hui hai?",
+        "why": "The questions are relevant and build on the conversation flow, with no Type C questions."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya unka nature thoda shant lagta hai?",
+        "why": "The astrologer asks about the partner's nature with a reason (to understand the relationship dynamics)."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kismat aur gyaan ke grah ke asar se baat aage badh rahi hai.",
+        "why": "It is about the present and uses chart terms, but is generic and could apply to many users."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kharche zyada aur bachat kam rehna dusre ghar ke kamzor hone se hai.",
+        "why": "The direction on money comes after the user specifically asks about it, rather than being offered proactively."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kharche zyada aur bachat kam rehna dusre ghar ke kamzor hone se hai. Himmat aur kamai ka grah majboot hai",
+        "why": "Multiple readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Pichle kuch dino se neend theek aa rahi hai?",
+        "why": "The astrologer builds depth by using the user's specific inputs (job, tension, sleep) in subsequent readings."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kharche zyada aur bachat kam rehna dusre ghar ke kamzor hone se hai.",
+        "why": "The facts remain consistent throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Somwar se Om Som Somaya Namah ka 108 baar jaap kijiye.",
+        "why": "A practical remedy is given for the stated problem (sleep/anxiety) with instructions."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ka grah majboot hai, par ghar aur mann ke grah par dabav se tension rehti hai.",
+        "why": "The astrologer addresses the money question and then the tension question, keeping the thread."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke liye aage chal kar in-laws ke sath तालमेल kaisa rahega, yeh dekhna zaroori hai.",
+        "why": "The astrologer opens a specific next layer regarding in-laws."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Is baare mein pura jaanane ke liye abhi chat recharge karein.",
+        "why": "No closing message, and the chat remains active until the pitch."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke liye aage chal kar in-laws ke sath तालमेल kaisa rahega, yeh dekhna zaroori hai.",
+        "why": "The last message provides a reading/guidance point."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kharche zyada aur bachat kam rehna dusre ghar ke kamzor hone se hai.",
+        "why": "Uses simple, everyday language with no formal or bookish tone."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger present."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      }
+    ]
+  }
+}

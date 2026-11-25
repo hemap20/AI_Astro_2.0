@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas bulaye jaane ke chances kam hain, par usse behtar naukri 2027 mein milegi. Mar 2025 se jo career mein stress raha, kya wahi wajah thi job chhodne ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas bulaye jaane ke chances kam hain, par usse behtar naukri 2027 mein milegi. Mar 2025 se jo career mein stress raha, kya wahi wajah thi job chhodne ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech naya kaam milne ke yog hain. 2023 se 2025 tak paise ki jo tangi rahi thi, kya wahi darr aapko abhi bhi pareshan karta hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech naya kaam milne ke yog hain. 2023 se 2025 tak paise ki jo tangi rahi thi, kya wahi darr aapko abhi bhi pareshan karta hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career aur paisa, dono mein sudhaar shuru ho jayega. Ghar wale shayad jald hi aapke liye kisi rishte ki baat shuru karein. Aap khud shaadi ke liye kya sochti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se career aur paisa, dono mein sudhaar shuru ho jayega. Ghar wale shayad jald hi aapke liye kisi rishte ki baat shuru karein. Aap khud shaadi ke liye kya sochti hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paisa aana shuru ho jayega, kyunki kamai ka ghar majboot hoga. Shaadi ke liye ek rishta aapke parivaar ke jariye aayega. Kya ghar wale abhi is baare mein soch rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se paisa aana shuru ho jayega, kyunki kamai ka ghar majboot hoga. Shaadi ke liye ek rishta aapke parivaar ke jariye aayega. Kya ghar wale abhi is baare mein soch rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Date galat hoti hai, pichli baar bhi.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, kabhi-kabhi grahon ki gati ka anuman lagana mushkil hota hai. Career mein ek aisa naya raasta hai jo 2027 se pehle bhi khul sakta hai, par use pehchanna hoga. Kya aapne kisi aur field mein try kiya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, kabhi-kabhi grahon ki gati ka anuman lagana mushkil hota hai. Career mein ek aisa naya raasta hai jo 2027 se pehle bhi khul sakta hai, par use pehchanna hoga. Kya aapne kisi aur field mein try kiya?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha interview hai next week",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki teaching ya finance se juda koi naya raasta aapke liye khul sakta hai, jo abhi aapne socha nahi hoga. Agle hafte ka interview achha rahega, bas thoda confidence rakhiye. Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' ka jaap shuru kijiye, isse career mein madad milegi. Interview ki taiyari kaisi chal rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Wo baat ye hai ki teaching ya finance se juda koi naya raasta aapke liye khul sakta hai, jo abhi aapne socha nahi hoga. Agle hafte ka interview achha rahega, bas thoda confidence rakhiye. Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' ka jaap shuru kijiye, isse career mein madad milegi. Interview ki taiyari kaisi chal rahi hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Jaap kahan likha hai",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataiye",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaap 108 baar padhiye, career mein badlav aayega. Aapke jeevansathi bahut shant honge. Shaadi ke baad sasural mein ek insaan aapka sahara banega, par ek baat ka dhyan rakhna padega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Jaap 108 baar padhiye, career mein badlav aayega. Aapke jeevansathi bahut shant honge. Shaadi ke baad sasural mein ek insaan aapka sahara banega, par ek baat ka dhyan rakhna padega."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sasural wale paramparik aur reserved honge, isliye wahan sambhal kar rehna. Shukravar se 'Om Shum Shukraya Namah' ka jaap kijiye. Career mein 2027 ke baad ek aisa naya raasta khulega jo kismat badal dega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sasural wale paramparik aur reserved honge, isliye wahan sambhal kar rehna. Shukravar se 'Om Shum Shukraya Namah' ka jaap kijiye. Career mein 2027 ke baad ek aisa naya raasta khulega jo kismat badal dega."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 22
+  }
+]

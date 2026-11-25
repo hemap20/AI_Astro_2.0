@@ -1,0 +1,247 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 6
+  },
+  "gate_fail": [],
+  "overall": 5.88,
+  "shape": {
+    "M": 10,
+    "avg_words": 41.4,
+    "long_share": 0.9
+  },
+  "rep": {
+    "rep": 2,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": "Ji, aapko aisa lag raha hai, aur ye bojh akela uthana bahut bhari hai."
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aap love life ke baare mein kya jaanna chahti hain, shaadi, kisi ke saath rishta, ya koi purani baat?",
+        "why": "The astrologer acknowledges the topic but does not repeat any specific detail from the user's very brief initial prompt."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aapki Nov 2022 ke aas-paas padhai ya college life mein badlav aaya tha?",
+        "why": "No Type C questions, but more than half are Type B (generic life questions)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User did not ask about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapke chart mein shaadi ka samay Mar 2027 se Sep 2028 ke beech dikhta hai.",
+        "why": "The first reading speaks only about the future, not the present or past."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke chart mein shaadi ka samay Mar 2027 se Sep 2028 ke beech dikhta hai.",
+        "why": "Clear direction given without counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke chart mein Nov 2022 se Chandra ki daur shuru hui, jo mann aur padhai ka grah hai.",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke chart mein Mangal himmat aur kamai ka grah hai, jo ab dheere dheere sambhal raha hai.",
+        "why": "Two later readings are each New and Uses user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke chart mein shaadi ka samay Mar 2027 se Sep 2028 ke beech dikhta hai.",
+        "why": "A window is provided and facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi bas apni neend aur khane ka dhyan rakhiye.",
+        "why": "One practical step given for the stated problem."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User stayed on one main thread."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein rishton ka grah Shukra abhi kamzor hai, isliye dhyan se chalna achha rahega.",
+        "why": "Names a specific further thing about the concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ji, theek hai, aapki baat sun li hai. Aap bahut kuch akeli uthati rahi hain, isliye apne liye thoda waqt zaroor nikaliye.",
+        "why": "Closing message sent while time remained and user had not asked to leave."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ji, aapke sawaal ka jawab de diya hai, shaadi ka samay Mar 2027 se Sep 2028 ke beech dikhta hai.",
+        "why": "The last message is a closing message."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke chart mein Nov 2022 se Chandra ki daur shuru hui, jo mann aur padhai ka grah hai.",
+        "why": "No technical terms used without explanation and no formal language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ji, aapko aisa lag raha hai, aur ye bojh akela uthana bahut bhari hai. Aapke chart mein ye phase ek samay ka hai, jo Mar 2027 ke baad dheere dheere halka hota dikhta hai.",
+        "why": "Adapts to the user's frustration in the very next reply with a reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "reading"
+      }
+    ]
+  }
+}

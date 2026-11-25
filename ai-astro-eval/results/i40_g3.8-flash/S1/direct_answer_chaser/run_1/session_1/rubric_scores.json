@@ -1,0 +1,197 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 4,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 8,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.65,
+  "shape": {
+    "M": 8,
+    "avg_words": 26.5,
+    "long_share": 0.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par wapas bulane ke aasaar abhi thode kam dikhte hain.",
+        "why": "The astrologer acknowledges the user's specific concern about the old job in the first reply."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya waha kaam chhootne se aapki neend par asar pada hai?",
+        "why": "Most questions are Type B (generic life questions) rather than Type A (building on user input)."
+      },
+      "1.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "",
+        "why": "Q is 0, T is 7. The astrologer gets to the reading immediately."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par wapas bulane ke aasaar abhi thode kam dikhte hain.",
+        "why": "The reading is about the present, new, and specific, but lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Saaf kahu toh waha wapas nahi bulayenge.",
+        "why": "Provides a clear direction before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Karm ke grah par rukawat hai",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Waha se wapas bulana bohot mushkil hai, par nayi jagah behtar raste khulenge.",
+        "why": "Later readings are New and Uses details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Nov se Dec ke dauran pakki khabar aane ke aasaar hain.",
+        "why": "Provides a clear two-month window based on the chart."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Guruwar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar padhiye.",
+        "why": "A stock remedy with no stated link to the specific problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Saaf kahu toh waha wapas nahi bulayenge.",
+        "why": "Both questions (old job and new interview) are answered clearly."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kismat ka mod yeh hai ki agle saal videsh ya nayi jagah ka rasta banega.",
+        "why": "Names a specific further thing about the user's career concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "",
+        "why": "No closing message and no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kismat aur mehnat ka asar dekh kar aage ke saal mein taraqqi ke raste bante dikh rahe hain.",
+        "why": "The last message contains a real reading."
+      },
+      "4.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "",
+        "why": "8 messages in 5 minutes, no long messages."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "",
+        "why": "No technical terms used without explanation and no formal language."
+      },
+      "4.3": {
+        "skipped": false,
+        "score": 10,
+        "quote": "",
+        "why": "No repetition found."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Saaf kahu toh waha wapas nahi bulayenge.",
+        "why": "Adapts to the user's push for clarity in the very next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      }
+    ]
+  }
+}

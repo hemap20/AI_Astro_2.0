@@ -1,0 +1,110 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad career aur paise mein rahat milegi ji. Abhi sabse zyada kis cheez ki fikar hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 ke baad career aur paise mein rahat milegi ji. Abhi sabse zyada kis cheez ki fikar hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Shaadi kb hogi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai ji. Shani ki dasha ka asar hai. Kya family ne rishta dekhna shuru kiya hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai ji. Shani ki dasha ka asar hai. Kya family ne rishta dekhna shuru kiya hai?",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta chal raha hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Usme se kab tak final hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad baat pakki hogi ji. Shani aur Guru ka yog ban raha hai. Partner kaafi calm aur educated honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad baat pakki hogi ji. Shani aur Guru ka yog ban raha hai. Partner kaafi calm aur educated honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month mein?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke aas-paas final ho sakta hai ji. In-laws thode traditional aur reserved rahenge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "June 2027 ke aas-paas final ho sakta hai ji. In-laws thode traditional aur reserved rahenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension kam hogi ji. Shani ka dhabav tab kam hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke baad tension kam hogi ji. Shani ka dhabav tab kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "June ya July?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ke baad July mein hi pakki rahat milegi ji. Shani ka rukh badlega tab.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June ke baad July mein hi pakki rahat milegi ji. Shani ka rukh badlega tab.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Thanks.",
+    "sec": 180,
+    "idx": 13
+  }
+]

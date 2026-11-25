@@ -1,0 +1,248 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog ban raha hai ji. Partner calm aur educated hoga ji.",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se yog ban raha hai ji. Partner calm aur educated hoga ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Mene use dekha hai, wo gussa bahut karta hai.",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Aap keh rhe calm hoga, ye kaise?",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka observation bilkul sahi hai ji. Kundli mein ek guarded aur intense side bhi hai. Bahar se calm par andar thoda gussa ho sakta hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapka observation bilkul sahi hai ji. Kundli mein ek guarded aur intense side bhi hai. Bahar se calm par andar thoda gussa ho sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "To ye rishta sahi hai ya nahi?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein batao.",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, rishta thik hai ji. Par gusse ko handle karne ke liye thodi samajh chahiye.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan, rishta thik hai ji. Par gusse ko handle karne ke liye thodi samajh chahiye.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Konse month?",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuru hoga ji. Shani AD ka asar hai ye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se shuru hoga ji. Shani AD ka asar hai ye.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 pakka?",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Aur koi problem toh nahi hogi?",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, March 2027 pakka window hai. Shukra ki kamzori se shuru mein thodi rukawat aa sakti hai. In-laws thode traditional aur reserved ho sakte hain ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, March 2027 pakka window hai. Shukra ki kamzori se shuru mein thodi rukawat aa sakti hai. In-laws thode traditional aur reserved ho sakte hain ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Traditional matlab?",
+    "sec": 150,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Koi aur dikkat toh nahi hogi?",
+    "sec": 150,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purane vichar wale log hain ji. Shuru mein thode paise in-laws ke sath ulajh sakte hain.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Purane vichar wale log hain ji. Shuru mein thode paise in-laws ke sath ulajh sakte hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Paise ka kya issue hoga?",
+    "sec": 180,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Koi aur major problem hai kya?",
+    "sec": 180,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Thoda paisa in-laws ke sath block ho sakta hai, par dheere-dheere theek ho jayega ji. 2027 ke mid tak neend ya stress ki problem bhi aa sakti hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Thoda paisa in-laws ke sath block ho sakta hai, par dheere-dheere theek ho jayega ji. 2027 ke mid tak neend ya stress ki problem bhi aa sakti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ye paise ka block kitna bada hoga?",
+    "sec": 210,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Aur stress ka kya?",
+    "sec": 210,
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Koi upaay hai iska?",
+    "sec": 210,
+    "idx": 28
+  },
+  {
+    "role": "ASTRO",
+    "text": "Chota sa temporary phase hoga ji. Shanivar ko kale til daan karein. Shani mantra se stress kam hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Chota sa temporary phase hoga ji. Shanivar ko kale til daan karein. Shani mantra se stress kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna h ye til wala upaay?",
+    "sec": 240,
+    "idx": 30
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai.",
+    "sec": 240,
+    "idx": 31
+  },
+  {
+    "role": "ASTRO",
+    "text": "Har Shanivar ko regular kijiye ji. Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, March 2027 ke Shani period se judi hui.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Har Shanivar ko regular kijiye ji. Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, March 2027 ke Shani period se judi hui.",
+      "marital_status": "unchanged"
+    },
+    "idx": 32
+  },
+  {
+    "role": "USER",
+    "text": "Time nikal raha hai, career ka baad me.",
+    "sec": 270,
+    "idx": 33
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 34
+  }
+]

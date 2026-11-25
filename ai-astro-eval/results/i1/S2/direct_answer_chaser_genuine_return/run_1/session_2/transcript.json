@@ -1,0 +1,136 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi. Shadi kab hogi meri?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 mein shadi ka yoga hai ji. Shani ke prabhav se thodi der hui hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 mein shadi ka yoga hai ji. Shani ke prabhav se thodi der hui hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse mahine mein confirm?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke starting mein yoga ban raha hai ji. Tab Shani AD shuru hota hai. Partner kaisa hoga, bataau?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke starting mein yoga ban raha hai ji. Tab Shani AD shuru hota hai. Partner kaisa hoga, bataau?",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa aur job ka batao.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job March 2027 se September 2028 ke beech confirm hai ji. Guru ki majboot sthiti isme madad karegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Job March 2027 se September 2028 ke beech confirm hai ji. Guru ki majboot sthiti isme madad karegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Exact date batao job ki.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date toh nahi hoti ji. March 2027 ke shuru mein yog hai. Guru ki kripa se baat banegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Exact date toh nahi hoti ji. March 2027 ke shuru mein yog hai. Guru ki kripa se baat banegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, koi date toh hogi.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact day calendar se nahi, grahon se chalta hai ji. Shani abhi 10th house par hai, isliye March 2027 ka shuru hi pakka samjho.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Exact day calendar se nahi, grahon se chalta hai ji. Shani abhi 10th house par hai, isliye March 2027 ka shuru hi pakka samjho.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki baat samajh aati hai ji. Grah exact date nahi, time window dete hain. March 2027 ka pehla hafta pakka hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki baat samajh aati hai ji. Grah exact date nahi, time window dete hain. March 2027 ka pehla hafta pakka hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-2027 ke baad ghar mein shanti aayegi ji. Mangal ki sthiti sudharne se yeh tension door hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mid-2027 ke baad ghar mein shanti aayegi ji. Mangal ki sthiti sudharne se yeh tension door hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "June ya July?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ka last hafta samajhiye ji. Mangal ka prabhav wahan kam hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June ka last hafta samajhiye ji. Mangal ka prabhav wahan kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 16
+  }
+]

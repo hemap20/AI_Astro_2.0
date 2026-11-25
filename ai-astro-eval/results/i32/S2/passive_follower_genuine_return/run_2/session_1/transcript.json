@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bhavishya mein sab accha hoga, bas thoda dhairya rakhein. Aap abhi career ya shaadi, kis vishay ko lekar sabse zyada chintit hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bhavishya mein sab accha hoga, bas thoda dhairya rakhein. Aap abhi career ya shaadi, kis vishay ko lekar sabse zyada chintit hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog 2027 se shuru hoga, rishta kisi jaani-pehchani jagah se aane ke acche yog hain. 2023 se 2025 ke beech aapki mehnat zyada rahi aur paise ki tangi hui, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog 2027 se shuru hoga, rishta kisi jaani-pehchani jagah se aane ke acche yog hain. 2023 se 2025 ke beech aapki mehnat zyada rahi aur paise ki tangi hui, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki mehnat ka grah abhi thoda dheema hai, isliye shaadi aur career dono mein deri dikh rahi hai. 2027 se dono mein badlav aayega, par ek khaas insaan aapke jeevan mein aane wala hai jiska intezaar rahega. Ghar pe kya rishte ki koi baat chali hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki mehnat ka grah abhi thoda dheema hai, isliye shaadi aur career dono mein deri dikh rahi hai. 2027 se dono mein badlav aayega, par ek khaas insaan aapke jeevan mein aane wala hai jiska intezaar rahega. Ghar pe kya rishte ki koi baat chali hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rhe",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa hoga",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jahan se dekh rahe hain, wahi se aage chalkar paisa behtar hoga. 2027 se kamai ka grah majboot hoga, aur ek khaas insaan aapki madad karega. Aap abhi kya kaam karte hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta jahan se dekh rahe hain, wahi se aage chalkar paisa behtar hoga. 2027 se kamai ka grah majboot hoga, aur ek khaas insaan aapki madad karega. Aap abhi kya kaam karte hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nhi filhal",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bohot hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani aur naukri na milna, dono ek hi grah ke asar se hai. Karm ka grah abhi thoda dheema hai. Ek mauka jald aayega jise pehchanna hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki pareshani aur naukri na milna, dono ek hi grah ke asar se hai. Karm ka grah abhi thoda dheema hai. Ek mauka jald aayega jise pehchanna hoga."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka career shuru hote hi shaadi ka rasta khul jayega, kyunki dono ek hi grah se judey hain. Naukri lagte hi in-laws bhi acche milenge. Kya aapne kisi khaas field mein socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka career shuru hote hi shaadi ka rasta khul jayega, kyunki dono ek hi grah se judey hain. Naukri lagte hi in-laws bhi acche milenge. Kya aapne kisi khaas field mein socha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aap teaching, finance ya communication try karein. Career mein ek bada mauka aayega jo tension khatam karega, par ek taiyari abhi se karni hogi. Kya aapne inmein se kuch seekha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aap teaching, finance ya communication try karein. Career mein ek bada mauka aayega jo tension khatam karega, par ek taiyari abhi se karni hogi. Kya aapne inmein se kuch seekha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kya karna hai",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' ka 108 baar jaap shuru kijiye. Isse naukri ke raste khulenge. Agli baar hum career ki sahi disha detail mein dekhenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' ka 108 baar jaap shuru kijiye. Isse naukri ke raste khulenge. Agli baar hum career ki sahi disha detail mein dekhenge."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur career ka rasta saaf hai, maine aapke sawalon ka jawab de diya hai. Partner ka nature aur jodi kaisi rahegi, ye bhi kundli mein dikh raha hai; agli baar wo detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi aur career ka rasta saaf hai, maine aapke sawalon ka jawab de diya hai. Partner ka nature aur jodi kaisi rahegi, ye bhi kundli mein dikh raha hai; agli baar wo detail mein dekhenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. Aaj bataiye, kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. Aaj bataiye, kis baare mein baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. March 2027 se shaadi ka yog shuru ho raha hai. Shani period aate hi rishte ki baat pakki hogi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. March 2027 se shaadi ka yog shuru ho raha hai. Shani period aate hi rishte ki baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month kya?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekhna start kar diya hai, baat chal rahi hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi Shani AD lag rahi hai ji. Parents ki koshish bilkul sahi samay par hai. Partner calm aur educated milne ke yog hain.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se hi Shani AD lag rahi hai ji. Parents ki koshish bilkul sahi samay par hai. Partner calm aur educated milne ke yog hain.",
+      "marital_status": "unmarried"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "March fix hai ya delay hoga?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuruat pakki hai ji. Shani AD aate hi rukaavat hat jayegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se shuruat pakki hai ji. Shani AD aate hi rukaavat hat jayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega job me?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa achha aayega ji. Mangal ki strong position financial relief degi. 2027-28 mein videsh ka yog bhi hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa achha aayega ji. Mangal ki strong position financial relief degi. 2027-28 mein videsh ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Salary hike kab tak hogi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech hike pakki hai ji. Guru strong hone se growth milegi. 2028 mein apne ghar ka yog bhi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech hike pakki hai ji. Guru strong hone se growth milegi. 2028 mein apne ghar ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Specific month bataiye hike ka?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein hi. Guru aur Shani ka badlaav.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein hi. Guru aur Shani ka badlaav.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ki shanti laut aayegi ji. Shani ka asar tab kam hoga. Iske baad property ka yog bhi ban raha hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ki shanti laut aayegi ji. Shani ka asar tab kam hoga. Iske baad property ka yog bhi ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "2028 me kaun se month?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 se yog shuru hai ji. Budh grah ki sthiti ghar ke liye bahut shubh hai. Aapki kundli mein iske baad ek aur bada mauka hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "October 2028 se yog shuru hai ji. Budh grah ki sthiti ghar ke liye bahut shubh hai. Aapki kundli mein iske baad ek aur bada mauka hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 22
+  }
+]

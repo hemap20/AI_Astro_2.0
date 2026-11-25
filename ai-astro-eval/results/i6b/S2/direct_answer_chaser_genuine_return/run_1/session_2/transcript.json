@@ -1,0 +1,154 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, bataiye aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, bataiye aaj kis baare mein baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Meri shaadi kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 aur September 2028 ke beech pakki lag rahi hai. Shani ke prabhav se ye yog ban raha hai ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 aur September 2028 ke beech pakki lag rahi hai. Shani ke prabhav se ye yog ban raha hai ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "June-July 2027 mein baat pakki hone ka yog hai ji. Guru aur Shani ki chal se ye tay ho raha hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "June-July 2027 mein baat pakki hone ka yog hai ji. Guru aur Shani ki chal se ye tay ho raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech job pakki hai ji. Guru grah ki majbooti se ye mauka milega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech job pakki hai ji. Guru grah ki majbooti se ye mauka milega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki pareshani kab khatam hogi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 ke baad ghar mein shanti aayegi ji. Shani ki chal badalne se ye hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "July 2027 ke baad ghar mein shanti aayegi ji. Shani ki chal badalne se ye hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Abhi jo rishta chal raha hai, wo final hai kya?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi wala rishta pakka hone mein thoda waqt lagega ji. Shukra ki sthiti se baat June-July 2027 ke aas-paas hi banegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Abhi wala rishta pakka hone mein thoda waqt lagega ji. Shukra ki sthiti se baat June-July 2027 ke aas-paas hi banegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Matlab rishta pakka ho jayega ya nahi?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, baat pakka hone ka poora chance hai ji. Guru aur Budh ke yog se rishta tay hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, baat pakka hone ka poora chance hai ji. Guru aur Budh ke yog se rishta tay hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Wo ladka sahi hai na?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, wo kaafi calm aur educated honge. Dhanu rashi ke prabhav se unka nature warm aur thoda guarded rahega ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan ji, wo kaafi calm aur educated honge. Dhanu rashi ke prabhav se unka nature warm aur thoda guarded rahega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  }
+]

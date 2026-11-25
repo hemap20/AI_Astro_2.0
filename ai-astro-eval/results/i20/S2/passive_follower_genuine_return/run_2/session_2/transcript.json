@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hi! 2027 se tumhari life mein kaafi acchi cheezein shuru hone wali hain. Batao, abhi sabse zyada tension kis baat ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hi! 2027 se tumhari life mein kaafi acchi cheezein shuru hone wali hain. Batao, abhi sabse zyada tension kis baat ki hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne shaadi ki deri aur paise ki tension ke baare mein bataya tha na? Wahi se aage baat karte hain, abhi ghar pe rishte ki baat kahan tak pahuchi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne shaadi ki deri aur paise ki tension ke baare mein bataya tha na? Wahi se aage baat karte hain, abhi ghar pe rishte ki baat kahan tak pahuchi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein March 2027 ke baad shaadi ka bohot accha yog ban raha hai, rishta jaan-pehchaan se hi aayega. Jo rishta dekh rahe ho, wahan ladka thoda calm aur padha-likha lag raha hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli mein March 2027 ke baad shaadi ka bohot accha yog ban raha hai, rishta jaan-pehchaan se hi aayega. Jo rishta dekh rahe ho, wahan ladka thoda calm aur padha-likha lag raha hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli match ho rahi hai kyunki partner calm aur educated hi dikh raha hai. Par ek cheez aur hai, unke ghar wale thode traditional ho sakte hain jiska pata jaldi chalega. Kya unke parivaar se abhi baat aage badhi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli match ho rahi hai kyunki partner calm aur educated hi dikh raha hai. Par ek cheez aur hai, unke ghar wale thode traditional ho sakte hain jiska pata jaldi chalega. Kya unke parivaar se abhi baat aage badhi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k tension hai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se paise ki tangi kamzor Chandra ki wajah se hai, jo March 2027 ke baad badlega. Kundli mein ek aisi cheez hai jo paise rokne nahi de rahi. Kya savings bilkul nahi ho pati?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2023 se paise ki tangi kamzor Chandra ki wajah se hai, jo March 2027 ke baad badlega. Kundli mein ek aisi cheez hai jo paise rokne nahi de rahi. Kya savings bilkul nahi ho pati?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nhi ho pati",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise na tikna aur ghar ka tanaav, dono ek hi wajah se hai: kamzor Chandra, tumhari galti nahi hai. March 2027 ke baad isme rahat milegi. Har Monday 'Om Som Somaya Namah' 108 baar jaap karo. Kya ye jhagda kisi ek khaas baat par hota hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paise na tikna aur ghar ka tanaav, dono ek hi wajah se hai: kamzor Chandra, tumhari galti nahi hai. March 2027 ke baad isme rahat milegi. Har Monday 'Om Som Somaya Namah' 108 baar jaap karo. Kya ye jhagda kisi ek khaas baat par hota hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, bina baat ke bhi ghar ka mahaul bhari lagta hai. 2027 ke shuru mein ek aisa waqt aayega jab yeh sab theek hoga. Raat ko neend theek se aati hai kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Koi baat nahi, bina baat ke bhi ghar ka mahaul bhari lagta hai. 2027 ke shuru mein ek aisa waqt aayega jab yeh sab theek hoga. Raat ko neend theek se aati hai kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Neend na aana aur stress, ye sab us kamzor Chandra ki wajah se hai. Mid-2027 tak isme rahat milegi. 2027 mein ek mahina aisa aayega jab yeh bojh achanak kam hoga. Kya din mein bhi achanak gussa aata hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Neend na aana aur stress, ye sab us kamzor Chandra ki wajah se hai. Mid-2027 tak isme rahat milegi. 2027 mein ek mahina aisa aayega jab yeh bojh achanak kam hoga. Kya din mein bhi achanak gussa aata hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh gussa Mangal ke asar se hai, tumhari galti nahi. Har Tuesday Hanuman Chalisa padha karo. 2027 mein ek mahina aisa hai jab yeh stress achanak theek hoga. Kya ghar pe koi tumhari side leta hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Yeh gussa Mangal ke asar se hai, tumhari galti nahi. Har Tuesday Hanuman Chalisa padha karo. 2027 mein ek mahina aisa hai jab yeh stress achanak theek hoga. Kya ghar pe koi tumhari side leta hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Koi nhi",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh akelepan ka daur June 2027 ke baad badal jayega. 2027 ke mid mein ek bada turning point aane wala hai jo career ki direction hi badal dega. Kya tumhara kabhi ghar se door jaane ka plan raha hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Yeh akelepan ka daur June 2027 ke baad badal jayega. 2027 ke mid mein ek bada turning point aane wala hai jo career ki direction hi badal dega. Kya tumhara kabhi ghar se door jaane ka plan raha hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 300,
+    "idx": 22
+  }
+]

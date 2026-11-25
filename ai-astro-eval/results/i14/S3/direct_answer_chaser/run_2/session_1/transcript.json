@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai mera future, career kab set hoga?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Future aur career ki chinta sabko hoti hai ji. Pichle kuch mahino mein kaam mein thoda pressure raha hoga. Aap abhi padhai kar rahe hain ya kahin job ki koshish kar rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Future aur career ki chinta sabko hoti hai ji. Pichle kuch mahino mein kaam mein thoda pressure raha hoga. Aap abhi padhai kar rahe hain ya kahin job ki koshish kar rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Job try kr rhi. Kab tak set hoga?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech job pakki set hogi ji. June 2027 tak Shani ki vajah se thoda intzaar rahega. Aap kis field mein koshish kar rahi hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech job pakki set hogi ji. June 2027 tak Shani ki vajah se thoda intzaar rahega. Aap kis field mein koshish kar rahi hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me exact month bataiye.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka mahina sabse zaroori rahega ji, jab naya samay shuru hoga. Tab career ka grah poori tarah strong ho jayega. Kis field ke liye koshish kar rahi hain aap?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ka mahina sabse zaroori rahega ji, jab naya samay shuru hoga. Tab career ka grah poori tarah strong ho jayega. Kis field ke liye koshish kar rahi hain aap?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Software field. Paisa kaisa rahega is saal?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Software mein mehnat acchi rahegi ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Software mein mehnat acchi rahegi ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kamai me. Is saal paisa kaisa rhega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal kamai thodi dheemi rahegi ji, par 2027 se haalat sudharne lagegi. Chandra weak hone ki wajah se paisa ruk kar aata hai. Iske liye Somvaar ko Som ka mantra japein aur daan karein.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Is saal kamai thodi dheemi rahegi ji, par 2027 se haalat sudharne lagegi. Chandra weak hone ki wajah se paisa ruk kar aata hai. Iske liye Somvaar ko Som ka mantra japein aur daan karein."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai ji, jo aapke lagna ke malik Budh ka hai. Yeh aapko software field mein tez banata hai. Coding mein zyada dhyan hai ya kisi aur cheez mein?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka number 5 hai ji, jo aapke lagna ke malik Budh ka hai. Yeh aapko software field mein tez banata hai. Coding mein zyada dhyan hai ya kisi aur cheez mein?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Coding hi hai. Puri saal kaisa hoga?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh saal mehnat aur intzaar ka rahega ji. Shani ke asar se kaam dheema chal raha hai. 2027 mein door ya videsh jaane ka rasta ban sakta hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh saal mehnat aur intzaar ka rahega ji. Shani ke asar se kaam dheema chal raha hai. 2027 mein door ya videsh jaane ka rasta ban sakta hai."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Koi month batao jisme improvement dikhe?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 mein halat mein saaf sudhar dikhega ji. Tab kaam aur tabiyat par se Shani ka bhaari asar hat jayega. Raat ko neend theek se aati hai kya aajkal?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 mein halat mein saaf sudhar dikhega ji. Tab kaam aur tabiyat par se Shani ka bhaari asar hat jayega. Raat ko neend theek se aati hai kya aajkal?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok. June 2027 se pehle kuch acha nahi hoga?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi acche din shuru ho jayenge ji, tabhi job ka rasta khulega. Us samay career ke grah strong ho jayenge. March ke baad paise ki tangi bhi dheere-dheere theek hone lagegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 se hi acche din shuru ho jayenge ji, tabhi job ka rasta khulega. Us samay career ke grah strong ho jayenge. March ke baad paise ki tangi bhi dheere-dheere theek hone lagegi."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 se pehle kuch nahi?",
+    "sec": 270,
+    "idx": 18
+  }
+]

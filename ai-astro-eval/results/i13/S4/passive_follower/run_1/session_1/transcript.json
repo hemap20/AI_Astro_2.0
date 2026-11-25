@@ -1,0 +1,200 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji. Yeh ladka aapki apni pasand hai ya family ne dekha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji. Yeh ladka aapki apni pasand hai ya family ne dekha hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "family ne dekha hai",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat March 2027 se September 2028 ke beech pakki lagti hai ji. Yeh rishta family ke zariye hi theek hoga. Ladke ka job aur nature kaisa bataya ghar walo ne?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat March 2027 se September 2028 ke beech pakki lagti hai ji. Yeh rishta family ke zariye hi theek hoga. Ladke ka job aur nature kaisa bataya ghar walo ne?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Thoda gussa hai",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa thoda ho sakta hai ji, par woh andar se samajhdaar aur warm hain. Unka nature thoda serious ya guarded rehta hai. Aapki unse phone par abhi baat hoti hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Gussa thoda ho sakta hai ji, par woh andar se samajhdaar aur warm hain. Unka nature thoda serious ya guarded rehta hai. Aapki unse phone par abhi baat hoti hai kya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sirf 2 baar mili hu",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sirf do baar milna theek hai ji, woh andar se calm aur padhe-likhe hain. Gusse ki shanti ke liye Tuesday se Hanuman Chalisa padhna shuru kariye ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Sirf do baar milna theek hai ji, woh andar se calm aur padhe-likhe hain. Gusse ki shanti ke liye Tuesday se Hanuman Chalisa padhna shuru kariye ji."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Sahi rhega na",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yeh rishta aapke liye kaafi theek rahega. Unka calm swabhav aapko aage khushi dega. Manglik matching karwa li hai kya family ne?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, yeh rishta aapke liye kaafi theek rahega. Unka calm swabhav aapko aage khushi dega. Manglik matching karwa li hai kya family ne?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab kundli milana ji, woh family ne karwaya hai ya nahi? Mangal ka halka asar hai toh yeh dekhna zaroori hai. Pandit ji ko kundli dikhayi kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Matlab kundli milana ji, woh family ne karwaya hai ya nahi? Mangal ka halka asar hai toh yeh dekhna zaroori hai. Pandit ji ko kundli dikhayi kya?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi wapis btaiye",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech hi pakki hogi ji. Ghar wale thode traditional aur reserved ho sakte hain. Abhi aage ki baat kab tak karne ko bola hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech hi pakki hogi ji. Ghar wale thode traditional aur reserved ho sakte hain. Abhi aage ki baat kab tak karne ko bola hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, baat aage badhegi. Shukra kamzor hone se thoda waqt lagta hai ji. Iske liye Friday se Shukra ka mantra shuru kariye ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi ji, baat aage badhegi. Shukra kamzor hone se thoda waqt lagta hai ji. Iske liye Friday se Shukra ka mantra shuru kariye ji."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Samji nhi",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab yeh ji, ki grah dheeme hone se baat aage khiskati hai. June 2027 ke baad rishte ki baat mein tezi aayegi ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Matlab yeh ji, ki grah dheeme hone se baat aage khiskati hai. June 2027 ke baad rishte ki baat mein tezi aayegi ji."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khtm ho raha hai",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pareshan mat hoiye ji, sab theek hoga. October 2028 ke baad rishte ki agli badi khabar par nazar rakhna ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Pareshan mat hoiye ji, sab theek hoga. October 2028 ke baad rishte ki agli badi khabar par nazar rakhna ji."
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 27
+  }
+]

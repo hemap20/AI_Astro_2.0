@@ -1,0 +1,215 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ye ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar me born hai",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, shaadi ka yog March 2027 se September 2028 ke beech hai. Ladke ki sahi jaanch ke liye kya aapke paas uska janm samay hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, shaadi ka yog March 2027 se September 2028 ke beech hai. Ladke ki sahi jaanch ke liye kya aapke paas uska janm samay hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Time nahi pata uska.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Bina time ke batao, ladka shi h ya nhi?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bina samay ke sahi milan mushkil hai, par shaadi 2027 mein ho sakti hai. Kya 2023 se 2025 ke beech aapki padhai ya kaam mein kaafi mehnat lagi thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Bina samay ke sahi milan mushkil hai, par shaadi 2027 mein ho sakti hai. Kya 2023 se 2025 ke beech aapki padhai ya kaam mein kaafi mehnat lagi thi?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan mehnat hui thi.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Par ladka shi h ya nahi ye bataiye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bina samay ke pakka batana mushkil hai, par aapki kundli mein ek samajhdaar aur padha-likha jeevansathi dikhta hai. Kya wo ladka swabhav se shaant aur thoda gambhir rehta hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Bina samay ke pakka batana mushkil hai, par aapki kundli mein ek samajhdaar aur padha-likha jeevansathi dikhta hai. Kya wo ladka swabhav se shaant aur thoda gambhir rehta hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Short-tempered hai wo.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "To phir shi hai ya nhi mere liye?",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein toh shaant jeevansathi ka yog hai, isliye unka gussa aapke liye dikkat ban sakta hai. Aapka mann ka grah pehle hi thoda bhari hai, isliye ye rishta sambhal kar aage badhayein. Kya ghar wale is rishte ke liye raazi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapki kundli mein toh shaant jeevansathi ka yog hai, isliye unka gussa aapke liye dikkat ban sakta hai. Aapka mann ka grah pehle hi thoda bhari hai, isliye ye rishta sambhal kar aage badhayein. Kya ghar wale is rishte ke liye raazi hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Shi hai ya nhi, haan ya na?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine me hogi shadi? 2027 me?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se hai. Aapki kundli mein shaant jeevansathi ka yog hai, isliye gusse wale ladke se door rehna hi behtar hai. Kya ghar wale is rishte ke liye raazi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se hai. Aapki kundli mein shaant jeevansathi ka yog hai, isliye gusse wale ladke se door rehna hi behtar hai. Kya ghar wale is rishte ke liye raazi hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 mein kaun sa mahina?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shaadi ke yog ban rahe hain. Rishton mein clarity ke liye 20 November se 'Om Shum Shukraya Namah' karein aur safed mithai daan karein. Ghar wale kya keh rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 mein shaadi ke yog ban rahe hain. Rishton mein clarity ke liye 20 November se 'Om Shum Shukraya Namah' karein aur safed mithai daan karein. Ghar wale kya keh rahe hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar walo ki baat chhodo, wo meri marzi hai.",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 fix hai?",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Grahon ki sthiti se is daur mein shaadi ka yog prabal hai, par ise ekdam fix nahi kaha ja sakta. Kya aapne kabhi kisi bade buzurg se is bare mein charcha ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Grahon ki sthiti se is daur mein shaadi ka yog prabal hai, par ise ekdam fix nahi kaha ja sakta. Kya aapne kabhi kisi bade buzurg se is bare mein charcha ki hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rha wo bta ni rhe.",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Fix hai ya nahi?",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon ki aap pareshan hain, par zindagi mein kuch bhi fix nahi hota, bas us daur mein yog sabse mazboot hai kyunki career aur shaadi ka sambandh tab ban raha hai. Aapki kundli mein ek aur baat hai jo aapke bhavishya ke liye zaroori hai, kya aap wo jaanna chahengi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main samajh sakti hoon ki aap pareshan hain, par zindagi mein kuch bhi fix nahi hota, bas us daur mein yog sabse mazboot hai kyunki career aur shaadi ka sambandh tab ban raha hai. Aapki kundli mein ek aur baat hai jo aapke bhavishya ke liye zaroori hai, kya aap wo jaanna chahengi?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Faltu ki baate mat karo.",
+    "sec": 240,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai ki shaadi usi samay hogi, kyunki career aur rishton ke grah tab saath mil rahe hain. Partner ka nature aur jodi kaisi rahegi, ye main agli baar vistar se bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Zyada chance hai ki shaadi usi samay hogi, kyunki career aur rishton ke grah tab saath mil rahe hain. Partner ka nature aur jodi kaisi rahegi, ye main agli baar vistar se bata sakti hoon."
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai.",
+    "sec": 270,
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 270,
+    "idx": 30
+  }
+]

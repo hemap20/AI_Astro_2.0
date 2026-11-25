@@ -1,0 +1,122 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Purani job ki baat aapke liye zaroori hai, ye main samajh sakti hoon. Kya wahan se pehle bhi aapko koi aisi umeed di gayi thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Purani job ki baat aapke liye zaroori hai, ye main samajh sakti hoon. Kya wahan se pehle bhi aapko koi aisi umeed di gayi thi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan, manager ne bola tha.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "To kab tak wapas bulayenge?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job mein wapas aane ka yog agle saal mid-2027 ke aas-paas ban raha hai. Kya 2023 mein aapki skills aur mehnat par zyada zor raha tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Purani job mein wapas aane ka yog agle saal mid-2027 ke aas-paas ban raha hai. Kya 2023 mein aapki skills aur mehnat par zyada zor raha tha?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bata do.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki shuruat mein bulane ka yog hai, kyunki kismat aur kaam ka grah majboot ho raha hai. Kya us samay ghar par bhi thodi tension rehti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ki shuruat mein bulane ka yog hai, kyunki kismat aur kaam ka grah majboot ho raha hai. Kya us samay ghar par bhi thodi tension rehti hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 pakka hai?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aise samay mein thoda badlaav ho sakta hai ji, kyunki mehnat aur karm ka grah thoda samay leta hai. Aapke paas kis field ka sabse accha anubhav hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aise samay mein thoda badlaav ho sakta hai ji, kyunki mehnat aur karm ka grah thoda samay leta hai. Aapke paas kis field ka sabse accha anubhav hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, March me hoga ya nahi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon aapko pakka bharosa chahiye ji. Kismat aur kaam ke grah ka asar hi wahan rasta banata hai. Aapko apne kaam mein sabse zyada kya pasand hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Main samajh sakti hoon aapko pakka bharosa chahiye ji. Kismat aur kaam ke grah ka asar hi wahan rasta banata hai. Aapko apne kaam mein sabse zyada kya pasand hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein bataiye, March mein job milegi ya nahi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki narazgi main samajh sakti hoon ji. March mein kismat aur gyaan ka grah majboot hokar rasta banata hai. Kya aapne wahan dubara baat ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki narazgi main samajh sakti hoon ji. March mein kismat aur gyaan ka grah majboot hokar rasta banata hai. Kya aapne wahan dubara baat ki hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. 5 minute aise hi nikal gaye.",
+    "sec": 180,
+    "idx": 16
+  }
+]

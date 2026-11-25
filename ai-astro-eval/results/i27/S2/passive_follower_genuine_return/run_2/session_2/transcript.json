@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hiii, kaise ho aap? 😊 Sab badhiya? Batao aaj kya mann mein hai ya kis cheez ki tension hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hiii, kaise ho aap? 😊 Sab badhiya? Batao aaj kya mann mein hai ya kis cheez ki tension hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bas thik hu.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bas thik? Lagta hai andar kuch chal raha hai. 2023 se 2025 ke beech tumne padhai aur paison ko lekar kaafi utaar-chadhav dekhe the na? Kya wahi cheezein abhi bhi pareshan kar rahi hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Bas thik? Lagta hai andar kuch chal raha hai. 2023 se 2025 ke beech tumne padhai aur paison ko lekar kaafi utaar-chadhav dekhe the na? Kya wahi cheezein abhi bhi pareshan kar rahi hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, thoda tension h.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise aur career ki dikkat ek hi wajah se hai, tumhara mann ka grah kamzor hai. 2027 se halat badlenge. Pichli baar shaadi ke pressure ki baat ki thi, wahi tension hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paise aur career ki dikkat ek hi wajah se hai, tumhara mann ka grah kamzor hai. 2027 se halat badlenge. Pichli baar shaadi ke pressure ki baat ki thi, wahi tension hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta dekh rhe gharwale.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gharwale dekh rahe hain toh achha hai, par jaldbazi mat karo. Rishta jaan-pehchaan ke circle se aayega aur ladka kafi samajhdaar aur shant nature ka hoga. Kya ghar pe abhi koi baat aage badhi hai ya bas charcha ho rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Gharwale dekh rahe hain toh achha hai, par jaldbazi mat karo. Rishta jaan-pehchaan ke circle se aayega aur ladka kafi samajhdaar aur shant nature ka hoga. Kya ghar pe abhi koi baat aage badhi hai ya bas charcha ho rahi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Baat aage badh gyi h",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab ayega?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat aage badh gayi hai toh dhyaan se decide karna, tumhari kismat ka grah abhi career aur shaadi dono ko ek saath prabhavit kar raha hai. Paisa aur job ka daur March 2027 se September 2028 ke beech sudhregi. Tab tak har Guruvar chana dal ka daan karo, career mein rukawat kam hogi. Ek baat aur, tumhari kundli mein ghar ke paise aur khud ki kamai ka ek gehra link hai, jo shaadi ke baad hi saaf hoga. Kya ladke walon ne koi specific date ya time mangi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Baat aage badh gayi hai toh dhyaan se decide karna, tumhari kismat ka grah abhi career aur shaadi dono ko ek saath prabhavit kar raha hai. Paisa aur job ka daur March 2027 se September 2028 ke beech sudhregi. Tab tak har Guruvar chana dal ka daan karo, career mein rukawat kam hogi. Ek baat aur, tumhari kundli mein ghar ke paise aur khud ki kamai ka ek gehra link hai, jo shaadi ke baad hi saaf hoga. Kya ladke walon ne koi specific date ya time mangi hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi date nhi mangi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka mukhya karan tumhare mann ke grah par padne wali bhari nazar hai, ye tumhari galti nahi. Hanuman Chalisa ka paath Tuesday se shuru karo, mahaul shant hoga. Ek baat aur, kundli mein shaadi ke baad ghar badalne ka yog hai, kya aisi koi baat chal rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension ka mukhya karan tumhare mann ke grah par padne wali bhari nazar hai, ye tumhari galti nahi. Hanuman Chalisa ka paath Tuesday se shuru karo, mahaul shant hoga. Ek baat aur, kundli mein shaadi ke baad ghar badalne ka yog hai, kya aisi koi baat chal rahi hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar badalne ka yog hai, kyunki in-laws traditional honge. Shaadi ke baad ek yog paisa rok dega, par uske liye ek khaas dhyan rakhna hoga. Kya ladke walon se paise ki baat hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar badalne ka yog hai, kyunki in-laws traditional honge. Shaadi ke baad ek yog paisa rok dega, par uske liye ek khaas dhyan rakhna hoga. Kya ladke walon se paise ki baat hui hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi hui",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya dhyan rakhna hai",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baad apne paise alag rakhna. 2028 mein ek khaas investment tumhari bachat pakki kar dega. Monday ko 'Om Som Somaya Namah' japna, mann aur paisa sambhlega. Kya tumne koi saving scheme li hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaadi ke baad apne paise alag rakhna. 2028 mein ek khaas investment tumhari bachat pakki kar dega. Monday ko 'Om Som Somaya Namah' japna, mann aur paisa sambhlega. Kya tumne koi saving scheme li hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi li.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, abhi scheme mat lo. Shaadi ke baad ek insaan tumhare paise ke faisle lene ki koshish karega, wahan savdhan rehna. Kya tumne abhi kahin job ke liye apply kiya hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi baat nahi, abhi scheme mat lo. Shaadi ke baad ek insaan tumhare paise ke faisle lene ki koshish karega, wahan savdhan rehna. Kya tumne abhi kahin job ke liye apply kiya hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya abhi.",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste! Main Sitara hoon. Aap kaise hain aur aaj kis baare mein baat karna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste! Main Sitara hoon. Aap kaise hain aur aaj kis baare mein baat karna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu. Future kaisa h?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aage ka time kafi badlav wala hai. Pichli baar humne aapke rishte aur paise ko lekar baat ki thi, kya aapne Friday wala upay shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aage ka time kafi badlav wala hai. Pichli baar humne aapke rishte aur paise ko lekar baat ki thi, kya aapne Friday wala upay shuru kiya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya. Kaisa upay?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shukra yaani rishton ke grah ke liye 'Om Shum Shukraya Namah' mantra bataya tha. Kya 2022 ke aaspas aapki padhai ya college mein bada badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shukra yaani rishton ke grah ke liye 'Om Shum Shukraya Namah' mantra bataya tha. Kya 2022 ke aaspas aapki padhai ya college mein bada badlav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha. College khatam hua.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tabhi se aapke mann ke grah ki dasha shuru hui thi. Aapke hone wale sathi ke swabhav mein ek khas cheez dikh rahi hai. Abhi shaadi ki chinta hai ya job ki?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Tabhi se aapke mann ke grah ki dasha shuru hui thi. Aapke hone wale sathi ke swabhav mein ek khas cheez dikh rahi hai. Abhi shaadi ki chinta hai ya job ki?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi. Mummy rishta dekh rhi h",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke pati lambe, shant aur padhe-likhe honge, par apni baatein thodi chhipakar rakhenge. Upay ke liye Guruwar se chana dal daan karein. Kya abhi koi rishta chal raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapke pati lambe, shant aur padhe-likhe honge, par apni baatein thodi chhipakar rakhenge. Upay ke liye Guruwar se chana dal daan karein. Kya abhi koi rishta chal raha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta hai",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta jaan-pehchan mein hone ke chances hain. March 2027 se September 2028 ke beech shaadi ka kafi majboot yog hai. Kya dono parivar ki baat ho chuki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Yeh rishta jaan-pehchan mein hone ke chances hain. March 2027 se September 2028 ke beech shaadi ka kafi majboot yog hai. Kya dono parivar ki baat ho chuki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha, baat chal rhi hai.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paise ki sthiti achhi ho jayegi. Abhi dusre ghar ki kamzori se paisa tikta nahi hai. Kya abhi savings bilkul nahi ho pa rahi?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad paise ki sthiti achhi ho jayegi. Abhi dusre ghar ki kamzori se paisa tikta nahi hai. Kya abhi savings bilkul nahi ho pa rahi?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Haa bilkul nhi hoti.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein tension rhti h.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur paise ka na tikna, dono mann ke grah ke kamzor hone se hain. Somwar ko Shivji ki puja kijiye. Kya raat ko overthinking bhi hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension aur paise ka na tikna, dono mann ke grah ke kamzor hone se hain. Somwar ko Shivji ki puja kijiye. Kya raat ko overthinking bhi hoti hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha bht hoti h",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi aur paise par baat ho gayi hai. Hone wale sasural ke log reserved honge, unse aapki kaise banegi yeh jaan sakte hain. Abhi recharge karke chat continue kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki shaadi aur paise par baat ho gayi hai. Hone wale sasural ke log reserved honge, unse aapki kaise banegi yeh jaan sakte hain. Abhi recharge karke chat continue kijiye."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "role": "USER",
+    "text": "Shadi kb hogi meri",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar mein born h",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aapki shaadi ka yog March 2027 se September 2028 ke beech bohot majboot hai. Kya 2022 ke aaspas aapki padhai ya life mein koi bada badlaav aaya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aapki shaadi ka yog March 2027 se September 2028 ke beech bohot majboot hai. Kya 2022 ke aaspas aapki padhai ya life mein koi bada badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Lekin ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 wala ladka",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matching ke hisab se rishta accha hai, bas Manglik milaap zaroori hai. Unka nature calm aur samjhdar hoga, par ek chhipi hui baat bhi hai. Unki kaun si baat aapko pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Matching ke hisab se rishta accha hai, bas Manglik milaap zaroori hai. Unka nature calm aur samjhdar hoga, par ek chhipi hui baat bhi hai. Unki kaun si baat aapko pasand hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Mujhe toh woh short tempered laga.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi ye batao.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh thode reserved hain, isliye gussa lagta hai, par dil ke acche hain. Friday 20 Nov se 'Om Shum Shukraya Namah' jaapein. Kya unke ghar walon se baat hui?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Woh thode reserved hain, isliye gussa lagta hai, par dil ke acche hain. Friday 20 Nov se 'Om Shum Shukraya Namah' jaapein. Kya unke ghar walon se baat hui?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, ye batao pehle.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Rishta pakka karu ya nahi?",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta sahi hai, aap aage baat badha sakti hain. Bas milan mein halka Manglik dosha dekhna zaroori hai. Kya yeh rishta ghar walon ke zariye aaya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta sahi hai, aap aage baat badha sakti hain. Bas milan mein halka Manglik dosha dekhna zaroori hai. Kya yeh rishta ghar walon ke zariye aaya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha ghar se aaya hai.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Par shadi ka exact month batao.",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaunsa mahina?",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se May 2027 ke beech shaadi ka sabse accha yog hai. Iss dauran baat pakki hona tay lagta hai. Kya ghar wale abhi se tayyari kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se May 2027 ke beech shaadi ka sabse accha yog hai. Iss dauran baat pakki hona tay lagta hai. Kya ghar wale abhi se tayyari kar rahe hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 18
+  }
+]

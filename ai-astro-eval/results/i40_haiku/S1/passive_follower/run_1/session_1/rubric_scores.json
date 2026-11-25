@@ -1,0 +1,233 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": null,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 6
+  },
+  "gate_fail": [],
+  "overall": 7.31,
+  "shape": {
+    "M": 10,
+    "avg_words": 42.0,
+    "long_share": 1.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 5
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Samajh sakti hoon, job chhodne ke baad mann thoda ulajhan mein rehta hai.",
+        "why": "It is a caring line that acknowledges the user's situation but is somewhat generic."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aap is interview ke liye pehle se taiyari kar rahe hain?",
+        "why": "No Type C questions, and at least half are Type A (building on user input)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Purani job wapas milne ki baat chart mein saaf nahi dikhti, par career ke liye Guru ki majboot position dikh rahi hai.",
+        "why": "The reading is about the present, adds new information, is specific, and is tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Purani job wapas milne ki baat chart mein saaf nahi dikhti",
+        "why": "A clear direction is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Guru ka asar 10 number ghar par majboot hai, jo kaam aur naukri se judi baat karta hai.",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Guru ka asar 10 number ghar par majboot hai, to interview mein aapki baat sun li jayegi.",
+        "why": "Multiple later readings are both New and Uses details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "job badalne ka window Mar 2027 se Sep 2028 ke beech dikh raha hai.",
+        "why": "A window is provided with consistent facts."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Roz Guru mantra \"Om Gram Greem Grom Sah Gurave Namah\" 108 baar bolna, 19 Nov se shuru kijiye.",
+        "why": "Tied to the cause, with how and when, plus a practical step."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kya aapki purani job wali baat is interview se judi hai?",
+        "why": "Both questions (old job and new interview) are addressed in a logical flow."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Guru ka asar 10 number ghar par majboot hai, jo kaam aur naukri se judi baat karta hai.",
+        "why": "Names a specific further thing about their concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Achha ji, dusri naukri ke liye bhi Guru ka saath hai, to aapka raasta khul raha hai.",
+        "why": "No closing message and every reply carries a reading or question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki nayi naukri kis tarah ki hai, jisme aapko sabse zyada mann lagta hai?",
+        "why": "One of the last messages is a relevant question/reading."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aap sahi keh rahi hain ji, pichli baar ki baat ka bharosa mushkil hota hai. Main is baar sirf chart ke saaf lines par baat karungi.",
+        "why": "Adapts to the user's pushback in the very next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "reading"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, kaise hain aap? Pichli baar wali baatein yaad hain. Aaj kya janna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, kaise hain aap? Pichli baar wali baatein yaad hain. Aaj kya janna chahte hain?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arranged match hoga circle se. Partner tall aur calm rahenge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Arranged match hoga circle se. Partner tall aur calm rahenge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, baat aage badhegi. March 2027 ke baad pakki hogi. In-laws thode traditional milenge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, baat aage badhegi. March 2027 ke baad pakki hogi. In-laws thode traditional milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner padhe-likhe aur warm honge. Shani AD aane do, sab theek hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Partner padhe-likhe aur warm honge. Shani AD aane do, sab theek hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se Shani period shuru hoga ji. Tabhi aapki baat pakki hone ke poore yog hain.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se Shani period shuru hoga ji. Tabhi aapki baat pakki hone ke poore yog hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Paisa kaisa hoga?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Debt dheere-dheere clear hoga 2027 mein. Ketu debt hatane mein madad karega. Lekin savings thodi kam hi rahegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Debt dheere-dheere clear hoga 2027 mein. Ketu debt hatane mein madad karega. Lekin savings thodi kam hi rahegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension hai",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani ka prabhav hai ji. June ke baad tension hategi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Shani ka prabhav hai ji. June ke baad tension hategi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shanivar ko kale til chadhao mandir mein. Thodi shanti milegi ghar mein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shanivar ko kale til chadhao mandir mein. Thodi shanti milegi ghar mein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kab",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension poori tarah hategi ji. Har Shanivar kale til chadhao. Time thoda kam reh gaya hai — aapke kundli mein ek khaas cheez dikh rahi hai 10L Guru ke career shift ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke baad tension poori tarah hategi ji. Har Shanivar kale til chadhao. Time thoda kam reh gaya hai — aapke kundli mein ek khaas cheez dikh rahi hai 10L Guru ke career shift ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad Guru strong hoga ji. Career mein promotion ka poora yog hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "March 2027 ke baad Guru strong hoga ji. Career mein promotion ka poora yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 21
+  }
+]

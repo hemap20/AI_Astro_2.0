@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Main Sitara hoon. Kahiye, aaj kis baat ko lekar mann mein pareshani chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Main Sitara hoon. Kahiye, aaj kis baat ko lekar mann mein pareshani chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar shaadi ke baare mein baat ho rhi thi, uska kya?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne shaadi aur ghar ke kharche par baat ki thi ji. Rishton ke grah par dabav hone se baat aage badhne mein thodi deri dikhti hai. Jo rishta chal raha tha, kya usme aage koi baat hui?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne shaadi aur ghar ke kharche par baat ki thi ji. Rishton ke grah par dabav hone se baat aage badhne mein thodi deri dikhti hai. Jo rishta chal raha tha, kya usme aage koi baat hui?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rhe ghar wale, ek baat chal rhi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi, mahina bataiye.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ke grah ke asar se March 2027 se September 2028 ke beech pakka yog banta hai, khaaskar March ka mahina bohot accha hai. Kya 2022 mein padhai ya college ko lekar koi bada badlav hua tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kismat ke grah ke asar se March 2027 se September 2028 ke beech pakka yog banta hai, khaaskar March ka mahina bohot accha hai. Kya 2022 mein padhai ya college ko lekar koi bada badlav hua tha?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsa date?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tareekh rishte ke pakke hone par tay hoti hai ji, par March ke doosre hafte mein baat banne ke yog sabse majboot hain. Waise aapke hone wale jeevansathi ke nature ko lekar ek bohot khas baat dikh rahi hai. Kya ghar wale ladke se baat aage badha rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Tareekh rishte ke pakke hone par tay hoti hai ji, par March ke doosre hafte mein baat banne ke yog sabse majboot hain. Waise aapke hone wale jeevansathi ke nature ko lekar ek bohot khas baat dikh rahi hai. Kya ghar wale ladke se baat aage badha rahe hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan, baat chal rahi hai.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya khas baat hai?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ke grah ke asar se wo lambe, shaant aur kafi padhe-likhe honge, bas thode sharmile nature ke honge. Rishton ke grah ko theek karne ke liye 20 November se har shukrawar safed mithai daan kijiye. Ladke ka kaam-kaaj kaisa hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kismat ke grah ke asar se wo lambe, shaant aur kafi padhe-likhe honge, bas thode sharmile nature ke honge. Rishton ke grah ko theek karne ke liye 20 November se har shukrawar safed mithai daan kijiye. Ladke ka kaam-kaaj kaisa hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "IT job hai.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak banega mera?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Himmat aur kamai ke grah ke majboot hone se karz aur tangi 2027 tak dheere-dheere kam hogi. Waise aane wale time mein aapke khud ke kaam ko lekar ek accha rasta banta dikh raha hai. Abhi aap koi job kar rahi hain ya ghar par hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Himmat aur kamai ke grah ke majboot hone se karz aur tangi 2027 tak dheere-dheere kam hogi. Waise aane wale time mein aapke khud ke kaam ko lekar ek accha rasta banta dikh raha hai. Abhi aap koi job kar rahi hain ya ghar par hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Job search mein.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab se aana shuru hoga, mahina batao.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Karm aur mehnat ke grah ke asar se June 2027 se acchi kamai ka rasta khulta dikhta hai. Kaam ke kshetra mein teaching ya media ka rasta bohot falega. Kya abhi kisi interview ki tayari kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Karm aur mehnat ke grah ke asar se June 2027 se acchi kamai ka rasta khulta dikhta hai. Kaam ke kshetra mein teaching ya media ka rasta bohot falega. Kya abhi kisi interview ki tayari kar rahi hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ke grah par dusre grahon ki nazar se ghar mein khichav banta hai, par mid-2027 tak sukoon aayega. 23 November se har somwar Om Som Somaya Namah ka jaap kijiye. Kya neend mein bhi pareshani aati hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mann ke grah par dusre grahon ki nazar se ghar mein khichav banta hai, par mid-2027 tak sukoon aayega. 23 November se har somwar Om Som Somaya Namah ka jaap kijiye. Kya neend mein bhi pareshani aati hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Mid-2027 matlab June ya July?",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Karm ke grah ke hisaab se June 2027 tak ghar ka tanaav theek hone ka yog poora ban gaya hai. Aapki shaadi ke hisaab se partner ki rashi Mesha ya Dhanu hone par aapas mein kaisa taalmel baithega, yeh dekhna zaroori hai. Is bare mein poori baat janne ke liye abhi chat recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Karm ke grah ke hisaab se June 2027 tak ghar ka tanaav theek hone ka yog poora ban gaya hai. Aapki shaadi ke hisaab se partner ki rashi Mesha ya Dhanu hone par aapas mein kaisa taalmel baithega, yeh dekhna zaroori hai. Is bare mein poori baat janne ke liye abhi chat recharge kijiye."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Recharge nahi karna.",
+    "sec": 270,
+    "idx": 26
+  }
+]

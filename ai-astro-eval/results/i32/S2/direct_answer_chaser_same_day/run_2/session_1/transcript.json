@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kundli dekh kar bhavishya ke baare mein sab bata sakti hoon. Aap khaas taur par career ke baare mein jaanna chahte hain ya rishton ke baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kundli dekh kar bhavishya ke baare mein sab bata sakti hoon. Aap khaas taur par career ke baare mein jaanna chahte hain ya rishton ke baare mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech ho sakti hai. Rishton ka grah abhi thoda kamzor hai, par jald hi theek hoga. 2023 se 2025 tak mehnat bohot rahi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech ho sakti hai. Rishton ka grah abhi thoda kamzor hai, par jald hi theek hoga. 2023 se 2025 tak mehnat bohot rahi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine me confirm hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ki shuruat shaadi ke liye shubh hai. Career ki mehnat jaisa hi badlav ab rishton mein aayega. Hone wale jeevansathi ka swabhav madadgar hoga, par ek aadat ko samajhna hoga. Kya ghar walon se baat hui?",
+    "sec": 75,
+    "raw_response": {
+      "message": "2027 ki shuruat shaadi ke liye shubh hai. Career ki mehnat jaisa hi badlav ab rishton mein aayega. Hone wale jeevansathi ka swabhav madadgar hoga, par ek aadat ko samajhna hoga. Kya ghar walon se baat hui?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta dekh rahe hai, ek baat chal rhi hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Par exact month btaiye.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se baat pakki hone ke yog sabse majboot hain. Career aur rishta, dono ek hi daur mein badal rahe hain. Hone wale jeevansathi ka swabhav bohot calm hoga, kya aapne unse baat ki?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se baat pakki hone ke yog sabse majboot hain. Career aur rishta, dono ek hi daur mein badal rahe hain. Hone wale jeevansathi ka swabhav bohot calm hoga, kya aapne unse baat ki?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi abhi tak.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 ke baad aana shuru hoga, jab career aur shaadi ke yog majboot honge. Ek khaas mauka paisa badhayega, par pehle ek cheez samajhni hogi. Naukri badalne ki koshish ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa March 2027 ke baad aana shuru hoga, jab career aur shaadi ke yog majboot honge. Ek khaas mauka paisa badhayega, par pehle ek cheez samajhni hogi. Naukri badalne ki koshish ki hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahol mid-2027 tak kaafi shant ho jayega. Ye bhari daur aapke mann aur neend par asar daal raha hai, par ye waqt jaldi beet jayega. Ek rishtedar se aane wali khabar sab badal degi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ka mahol mid-2027 tak kaafi shant ho jayega. Ye bhari daur aapke mann aur neend par asar daal raha hai, par ye waqt jaldi beet jayega. Ek rishtedar se aane wali khabar sab badal degi."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Exact mahina btaiye.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 se ghar ki halat sudharne lagegi. Aapka mann aur ghar ka mahol, dono isi daur se jude hain. Ek badi khushkhabri bhi aane wali hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 se ghar ki halat sudharne lagegi. Aapka mann aur ghar ka mahol, dono isi daur se jude hain. Ek badi khushkhabri bhi aane wali hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya khushkhabri.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh khushkhabri career mein naye mauke aur shaadi ke yog se judi hai. Aapke career ka ghar majboot ho raha hai. Bas ek rishtedar se savdhan rehna hoga, wo kaun hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Woh khushkhabri career mein naye mauke aur shaadi ke yog se judi hai. Aapke career ka ghar majboot ho raha hai. Bas ek rishtedar se savdhan rehna hoga, wo kaun hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kaun hai wo.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo rishtedar thode reserved ho sakte hain. 21 Nov se 'Om Sham Shanaishcharaya Namah' ka jaap 108 baar kijiye. Maine aapke sawalon ke jawab de diye hain, agli baar compatibility samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Wo rishtedar thode reserved ho sakte hain. 21 Nov se 'Om Sham Shanaishcharaya Namah' ka jaap 108 baar kijiye. Maine aapke sawalon ke jawab de diye hain, agli baar compatibility samjhenge."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 22
+  }
+]

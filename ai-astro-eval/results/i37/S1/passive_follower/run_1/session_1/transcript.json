@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas bulaya jana mushkil hai. Abhi ka samay naye raste khulne ka hai. Kya November 2022 mein aapki padhai mein bade badlav aaye the?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas bulaya jana mushkil hai. Abhi ka samay naye raste khulne ka hai. Kya November 2022 mein aapki padhai mein bade badlav aaye the?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naya mauka March 2027-28 mein aayega. 2022 jaisi hi badha ab kaam mein hai, par aapke kaam mein chupi hui shakti hai. Guru ke liye chana dal daan kijiye. Kya aap naye kaam mein hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Naya mauka March 2027-28 mein aayega. 2022 jaisi hi badha ab kaam mein hai, par aapke kaam mein chupi hui shakti hai. Guru ke liye chana dal daan kijiye. Kya aap naye kaam mein hain?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bata do",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Interview hai next week",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Interview mein safalta ke liye March 2027 zyada majboot hai. Abhi mehnat ke grah ka dabav hai. 24 November se Hanuman Chalisa shuru kijiye, himmat ke grah ki halat sudhregi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Interview mein safalta ke liye March 2027 zyada majboot hai. Abhi mehnat ke grah ka dabav hai. 24 November se Hanuman Chalisa shuru kijiye, himmat ke grah ki halat sudhregi."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main aapki chinta samajhti hoon. Mehnat ke grah ka dabav juni 2027 tak hai, isliye kaam mein rukavat lag rahi hai. Shanti ke liye shaniwar se kale til ka daan kijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Main aapki chinta samajhti hoon. Mehnat ke grah ka dabav juni 2027 tak hai, isliye kaam mein rukavat lag rahi hai. Shanti ke liye shaniwar se kale til ka daan kijiye."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k kya halat hai",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi paise ki tangi hai kyunki himmat ke grah aur mehnat ke grah ka asar hai. Par 2027 ke baad se halat badlenge aur paisa judne lagega. Ek khas mauka aapke ghar ke sapne se juda hai, jo abhi ban raha hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Abhi paise ki tangi hai kyunki himmat ke grah aur mehnat ke grah ka asar hai. Par 2027 ke baad se halat badlenge aur paisa judne lagega. Ek khas mauka aapke ghar ke sapne se juda hai, jo abhi ban raha hai."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh ghar ka sapna 2028 ke ant tak sach hone ka yog hai. Iske liye budhwar ko chandi mein panna pehniye, par pehle kisi visheshagya se pooch kar hi kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Yeh ghar ka sapna 2028 ke ant tak sach hone ka yog hai. Iske liye budhwar ko chandi mein panna pehniye, par pehle kisi visheshagya se pooch kar hi kijiye."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kisse hogi",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi kisi jaan-pehchan ke zariye aur vyavasthit tarike se hogi. Hone wale jeevansathi lambe, shant aur padhe-likhe honge. Kya aapne kabhi rishte ke liye baat aage badhayi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapki shaadi kisi jaan-pehchan ke zariye aur vyavasthit tarike se hogi. Hone wale jeevansathi lambe, shant aur padhe-likhe honge. Kya aapne kabhi rishte ke liye baat aage badhayi hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke vivah aur career ke sawalon ka jawab maine de diya hai. Shiksha, finance ya media ke kshetr mein kaam ke aise yoga hain, jo aage chalkar aapko achhi safalta aur sthayitv denge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapke vivah aur career ke sawalon ka jawab maine de diya hai. Shiksha, finance ya media ke kshetr mein kaam ke aise yoga hain, jo aage chalkar aapko achhi safalta aur sthayitv denge."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  }
+]

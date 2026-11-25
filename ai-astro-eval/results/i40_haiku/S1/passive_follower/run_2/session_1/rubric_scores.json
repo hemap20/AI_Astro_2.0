@@ -1,0 +1,177 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 4,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 7,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": null,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": null,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 6
+  },
+  "gate_fail": [],
+  "overall": 6.73,
+  "shape": {
+    "M": 9,
+    "avg_words": 43.7,
+    "long_share": 0.89
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 4
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par wapas jaane ka sawal hai",
+        "why": "The astrologer acknowledges the user's specific question about returning to their old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya aap bata sakti hain, pichli baar kaun si date aapko batayi gayi thi?",
+        "why": "The astrologer asks for information (a date) that the user already indicated they did not know in message [7], making it a Type C question."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not applicable."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Abhi aapke chart mein career ka grah Guru majboot hai, to kaam ke mauke ban sakte hain.",
+        "why": "The reading is about the present and uses a chart reason, but the statement about Guru being strong is generic and could apply to almost anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "wapas bulaye jaane mein samay lag sakta hai.",
+        "why": "The astrologer provides a clear direction regarding the user's main question without needing the user to repeat it."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shani ka daur mehnat ke kaam par dheere chalta hai",
+        "why": "The astrologer provides multiple linked readings, connecting life situations (work, interview) to chart factors (Shani, Budh) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke chart mein Shani ka daur mehnat ke kaam par dheere chalta hai, isliye wapas bulaye jaane mein samay lag sakta hai.",
+        "why": "The astrologer adds new points in later readings (Shani, Budh) and uses details provided by the user (nikaal diya, interview, data entry)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mar 2027 se Sep 2028 ka samay sirf ek sambhavit daur hai, pakka din nahi.",
+        "why": "The astrologer provides a clear time window and maintains consistency, explicitly stating it is not a promise."
+      },
+      "2.6": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No remedy given."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par wapas jaane ka sawal hai",
+        "why": "The astrologer maintains the thread of the user's concerns throughout the conversation."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Guru majboot hai, to naya mauka zarur banega.",
+        "why": "The astrologer points to a further possibility (a new opportunity) based on the chart."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Achha ji, data entry ka 3 saal ka anubhav interview mein kaam aayega.",
+        "why": "No closing message was sent, and every reply carried relevant content."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Achha ji, data entry ka 3 saal ka anubhav interview mein kaam aayega.",
+        "why": "The last message provides a relevant reading."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki baat sahi hai ji, pichle anuman se aapko takleef hui, is liye maafi chahti hoon.",
+        "why": "The astrologer accepts the user's pushback regarding previous incorrect predictions and clarifies the nature of the current prediction in the very next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      }
+    ]
+  }
+}

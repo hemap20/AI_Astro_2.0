@@ -1,0 +1,197 @@
+[
+  {
+    "role": "USER",
+    "text": "meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji, aur aapne jo ladke ka DOB diya hai usko bhi dekhte hain. Yeh bataiye, yeh rishta family ne dhoondha hai ya aapki apni pasand hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji, aur aapne jo ladke ka DOB diya hai usko bhi dekhte hain. Yeh bataiye, yeh rishta family ne dhoondha hai ya aapki apni pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Family ne",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Family wala yeh rishta aapke liye theek lag raha hai ji, woh calm aur educated honge. Chart ke anusar unka swabhav warm hai, bas thoda reserved ho sakte hain. Kya aapki abhi unse baat hui hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Family wala yeh rishta aapke liye theek lag raha hai ji, woh calm aur educated honge. Chart ke anusar unka swabhav warm hai, bas thoda reserved ho sakte hain. Kya aapki abhi unse baat hui hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan do baar mile",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Par wo short tempered lge",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unka gussa thoda guarded nature ki wajah se lag sakta hai ji, aur yeh rishta March 2027 ke baad aur aage badhega. Isliye aap Friday ko Om Shum Shukraya Namah ka jaap karein. Kya yeh baat kisi choti baat par hui thi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Unka gussa thoda guarded nature ki wajah se lag sakta hai ji, aur yeh rishta March 2027 ke baad aur aage badhega. Isliye aap Friday ko Om Shum Shukraya Namah ka jaap karein. Kya yeh baat kisi choti baat par hui thi?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha choti baat thi",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Choti baaton par shuru mein aisa lagta hai ji, baad mein baatcheet se sab settle ho jayega. Chart mein unka swabhav andar se samajhdar aur warm hai. Kya aage ki baat ke liye ghar mein koi aur meeting rakhi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Choti baaton par shuru mein aisa lagta hai ji, baad mein baatcheet se sab settle ho jayega. Chart mein unka swabhav andar se samajhdar aur warm hai. Kya aage ki baat ke liye ghar mein koi aur meeting rakhi hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech aapki shaadi ka pakka yog ban raha hai ji. Guru aur budh ka sanyog batata hai ki yeh arranged match aage badhega. Kya is rishte ke liye ghar wale kisi date par baat kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech aapki shaadi ka pakka yog ban raha hai ji. Guru aur budh ka sanyog batata hai ki yeh arranged match aage badhega. Kya is rishte ke liye ghar wale kisi date par baat kar rahe hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rhega future me",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ke baare mein sochna zaroori hai ji. Yeh bataiye, paisa kahan atak raha hai, aapke kharche zyada ho rahe hain ya kamai mein thodi pareshani hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paise ke baare mein sochna zaroori hai ji. Yeh bataiye, paisa kahan atak raha hai, aapke kharche zyada ho rahe hain ya kamai mein thodi pareshani hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kharche zyada hai",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche thode time mein control mein aane lagenge ji, aur 2028 ke baad paisa rukne bhi lagega. Chart mein dhan sthaan par thoda dabav hone ki wajah se haath se paisa jaldi nikalta hai. Kya aapne abhi koi saving shuru ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kharche thode time mein control mein aane lagenge ji, aur 2028 ke baad paisa rukne bhi lagega. Chart mein dhan sthaan par thoda dabav hone ki wajah se haath se paisa jaldi nikalta hai. Kya aapne abhi koi saving shuru ki hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke mid ke baad paise ki sthiti mein sudhar aane lagega ji, aur savings bhi shuru ho jayengi. Ketu ke prabhav se kharche aur dabav dheere-dheere kam honge. Kya aap abhi koi job ya kaam kar rahe hain ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "2027 ke mid ke baad paise ki sthiti mein sudhar aane lagega ji, aur savings bhi shuru ho jayengi. Ketu ke prabhav se kharche aur dabav dheere-dheere kam honge. Kya aap abhi koi job ya kaam kar rahe hain ji?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, aage job ya kaam ki shuruat ke liye March 2027 se September 2028 ke beech ka samay bahut ahem rahega. Tabhi se aamdani ke naye raste khulenge aur halat behtar honge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi baat nahi ji, aage job ya kaam ki shuruat ke liye March 2027 se September 2028 ke beech ka samay bahut ahem rahega. Tabhi se aamdani ke naye raste khulenge aur halat behtar honge."
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 27
+  }
+]

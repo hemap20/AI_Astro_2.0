@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji, welcome back. Kahiye, aaj kya discuss karein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji, welcome back. Kahiye, aaj kya discuss karein?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. March 2027 se Shani Antardasha aayegi. Isse job aur marriage pakki hogi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. March 2027 se Shani Antardasha aayegi. Isse job aur marriage pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok, toh shadi kab tak hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi March 2027 se September 2028 ke beech pakki hai ji. Shani AD shuru hone se ye hoga. Partner tall aur calm honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shadi March 2027 se September 2028 ke beech pakki hai ji. Shani AD shuru hone se ye hoga. Partner tall aur calm honge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak exactly?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani maharaj March se asar dikhayenge. Mid-2027 tak baat pakki hogi ji. Ek aur baat bataun kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shani maharaj March se asar dikhayenge. Mid-2027 tak baat pakki hogi ji. Ek aur baat bataun kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pehle mera jawab do, kaunsa mahina?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein exact ek din nahi hota ji. March ke baad mid-2027 strong lag raha hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kundli mein exact ek din nahi hota ji. March ke baad mid-2027 strong lag raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, June ya July?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ya July mein yog ban raha hai. Shani ki chal tabhi tez hogi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June ya July mein yog ban raha hai. Shani ki chal tabhi tez hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 ke baad aayega. Ketu aur Mangal debt hatayenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa March 2027 ke baad aayega. Ketu aur Mangal debt hatayenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak exactly?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 mein debt clear hoga ji. Ketu ki grace tabhi milti hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 mein debt clear hoga ji. Ketu ki grace tabhi milti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension hategi ji. Shani ki dasha tab badlegi. Time thoda kam reh gaya hai — aapke kundli mein foreign travel ka yog hai, thoda aur time hoga toh wo bhi bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke baad tension hategi ji. Shani ki dasha tab badlegi. Time thoda kam reh gaya hai — aapke kundli mein foreign travel ka yog hai, thoda aur time hoga toh wo bhi bata sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 18
+  }
+]

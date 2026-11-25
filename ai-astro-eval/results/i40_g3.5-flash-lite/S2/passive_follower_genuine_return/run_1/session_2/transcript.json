@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, pichli baar aapne career aur ghar ki tension ki baat ki thi. Abhi thoda behtar lag raha hai aapko?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, pichli baar aapne career aur ghar ki tension ki baat ki thi. Abhi thoda behtar lag raha hai aapko?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, kismat aur gyaan ka grah majboot hone se March 2027 ke baad career mein sudhaar aayega. Aise mein neend theek se aati hai kya aapko?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, kismat aur gyaan ka grah majboot hone se March 2027 ke baad career mein sudhaar aayega. Aise mein neend theek se aati hai kya aapko?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Bahut tension h ghar pe.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah kamzor hone se ghar mein aisi tension rehti hai, par mid-2027 tak halat sudhar jayegi ji. Jab ghar mein jhagda ho, toh aap chup rehti hain ya gussa aata hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Mann ka grah kamzor hone se ghar mein aisi tension rehti hai, par mid-2027 tak halat sudhar jayegi ji. Jab ghar mein jhagda ho, toh aap chup rehti hain ya gussa aata hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Chup rehti hu.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jab aap chup rehti hain, toh mann ka grah kamzor hone ki wajah se sara gussa andar hi dab jata hai. Kya iski wajah se kaam mein bhi dhyan nahi lagta?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jab aap chup rehti hain, toh mann ka grah kamzor hone ki wajah se sara gussa andar hi dab jata hai. Kya iski wajah se kaam mein bhi dhyan nahi lagta?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Bilkul dhyan nahi lagta.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekhti hoon ki mehnat ka grah badalne par ek naya field aapke liye khulega. Aap Guruvar se chana dal ka daan shuru kijiye, rasta banega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Main dekhti hoon ki mehnat ka grah badalne par ek naya field aapke liye khulega. Aap Guruvar se chana dal ka daan shuru kijiye, rasta banega."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka kya h",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 ke baad shaadi ke pakke yog hain, rishta jaan-pehchan mein hi aayega. Kya October 2025 mein ghar mein aisi baatein shuru hui thin?",
+    "sec": 165,
+    "raw_response": {
+      "message": "October 2028 ke baad shaadi ke pakke yog hain, rishta jaan-pehchan mein hi aayega. Kya October 2025 mein ghar mein aisi baatein shuru hui thin?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Rishta dekh rahe h ghar wale.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jo aayega, waha ladka padha-likha aur shant swabhav ka hoga ji. Aapko kya lagta hai, kaise parivar mein baat chal rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Rishta jo aayega, waha ladka padha-likha aur shant swabhav ka hoga ji. Aapko kya lagta hai, kaise parivar mein baat chal rahi hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Aap batao.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekhti hoon ki hone wale parivar thode purane vichar ke aur kam bolne wale honge. Kya aap chahti hain ki rishta aisi hi jagah ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main dekhti hoon ki hone wale parivar thode purane vichar ke aur kam bolne wale honge. Kya aap chahti hain ki rishta aisi hi jagah ho?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekhti hoon ki hone wale pati lambhe, shant aur padha-likhe honge, par thode reserved bhi ho sakte hain. Kya aapko shant ladka pasand hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Main dekhti hoon ki hone wale pati lambhe, shant aur padha-likhe honge, par thode reserved bhi ho sakte hain. Kya aapko shant ladka pasand hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ha, thik hai.",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur shaadi ke bare mein sab bata di hai. In-laws traditional aur reserved hone ki baat chart mein hai, jisse unke parivar ki puri jankari milti. Aap chat abhi recharge kijiye taaki hum isko aage badha sakein.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Career aur shaadi ke bare mein sab bata di hai. In-laws traditional aur reserved hone ki baat chart mein hai, jisse unke parivar ki puri jankari milti. Aap chat abhi recharge kijiye taaki hum isko aage badha sakein."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zindagi ke aage ke raaste ko lekar aap thoda pareshan lagti hain. Kya aap career, shaadi ya kisi aur cheez ke baare mein jaanna chahti hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Zindagi ke aage ke raaste ko lekar aap thoda pareshan lagti hain. Kya aap career, shaadi ya kisi aur cheez ke baare mein jaanna chahti hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain, aur rishta kisi jaankari wale circle se aane ki sambhavna hai. Kya aapke college aur padhai mein November 2022 ke aas-paas badlav aaye the?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain, aur rishta kisi jaankari wale circle se aane ki sambhavna hai. Kya aapke college aur padhai mein November 2022 ke aas-paas badlav aaye the?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Us samay badlav aana kismat ka sanket tha. Aapke hone wale jeevansathi lambe, shant aur samajhdar honge, lekin unka ek hissa thoda chup-chap rehta hai. Aapke sasural wale paksh ko lekar ek gehri baat mujhe dikh rahi hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Us samay badlav aana kismat ka sanket tha. Aapke hone wale jeevansathi lambe, shant aur samajhdar honge, lekin unka ek hissa thoda chup-chap rehta hai. Aapke sasural wale paksh ko lekar ek gehri baat mujhe dikh rahi hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke sasural wale bohot paramparik aur reserved honge. Yeh aur aapke career ka stress dono isliye ho raha hai kyunki aapka mehnat aur karm ka grah abhi thoda dheema chal raha hai. Iske liye is shaniwar se Om Sham Shanaishcharaya Namah ka 108 baar jaap kijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke sasural wale bohot paramparik aur reserved honge. Yeh aur aapke career ka stress dono isliye ho raha hai kyunki aapka mehnat aur karm ka grah abhi thoda dheema chal raha hai. Iske liye is shaniwar se Om Sham Shanaishcharaya Namah ka 108 baar jaap kijiye."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paisa sudhregi. Shaadi aur paisa ka tanav dhan bhav kamzor hone se hai. Guru ke liye chana dal daan kijiye. Ek khaas mauka naye ghar se juda hai, kya aapne socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se paisa sudhregi. Shaadi aur paisa ka tanav dhan bhav kamzor hone se hai. Guru ke liye chana dal daan kijiye. Ek khaas mauka naye ghar se juda hai, kya aapne socha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke ghar ka sapna aur paise ki tangi dono isliye hain kyunki aapka buddhi aur baat-cheet ka grah abhi kamzor hai. Ghar ka yog October 2028 se February 2030 ke beech hai, isliye budhvar ko hara moong daan kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapke ghar ka sapna aur paise ki tangi dono isliye hain kyunki aapka buddhi aur baat-cheet ka grah abhi kamzor hai. Ghar ka yog October 2028 se February 2030 ke beech hai, isliye budhvar ko hara moong daan kijiye."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke career ka stress aur neend ki dikkat dono isliye hai kyunki aapke mann ke grah par dusre grahon ki nazar hai. Kya aap somwar ka vrat rakh sakti hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapke career ka stress aur neend ki dikkat dono isliye hai kyunki aapke mann ke grah par dusre grahon ki nazar hai. Kya aap somwar ka vrat rakh sakti hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi ho payega",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataiye",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, aap pareshan na hon. Aapka career aur videsh jaane ka yog dono 2027 mein ek saath shuru honge kyunki aapke 12th house (vyay bhav) mein Rahu ka prabhav hai. Kya aapne kabhi bahar jaane ka socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi, aap pareshan na hon. Aapka career aur videsh jaane ka yog dono 2027 mein ek saath shuru honge kyunki aapke 12th house (vyay bhav) mein Rahu ka prabhav hai. Kya aapne kabhi bahar jaane ka socha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bohot hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension mid-2027 tak theek ho jayegi. Shaadi baad partner ke saath compatibility rishton ke grah se samjhi ja sakti hai. Vistar se jaanne ke liye chat recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki tension mid-2027 tak theek ho jayegi. Shaadi baad partner ke saath compatibility rishton ke grah se samjhi ja sakti hai. Vistar se jaanne ke liye chat recharge kijiye."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

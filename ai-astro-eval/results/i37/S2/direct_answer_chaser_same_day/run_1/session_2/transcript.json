@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi meri? Exact year batao.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Aapki shaadi ke yog 2027 se 2028 ke beech ban rahe hain. Kya 2022 ke November mein aapki padhai ya college life mein koi bada badlav aaya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Aapki shaadi ke yog 2027 se 2028 ke beech ban rahe hain. Kya 2022 ke November mein aapki padhai ya college life mein koi bada badlav aaya tha?"
+    },
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine me?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke beech ka samay rishta pakka karne ke liye sabse behtar hai. Aapke hone wale jeevan-saathi ke swabhav mein ek khaas baat dikh rahi hai jo aapke liye achhi rahegi. Kya aap janna chahti hain ki woh kaise honge?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2027 ke beech ka samay rishta pakka karne ke liye sabse behtar hai. Aapke hone wale jeevan-saathi ke swabhav mein ek khaas baat dikh rahi hai jo aapke liye achhi rahegi. Kya aap janna chahti hain ki woh kaise honge?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Pehle month batao. 2027 me kab?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye March 2027 se samay best hai. Woh lambe kad ke, shant aur reserved swabhav ke honge. 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ke liye March 2027 se samay best hai. Woh lambe kad ke, shant aur reserved swabhav ke honge. 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega? Job kab lagegi?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job aur paisa March 2027 se aana shuru hoga. 19 November se kismat wale grah ka mantra jaap kijiye. Ek khaas field aapke career ke liye faydemand hai, kya janna chahti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Job aur paisa March 2027 se aana shuru hoga. 19 November se kismat wale grah ka mantra jaap kijiye. Ek khaas field aapke career ke liye faydemand hai, kya janna chahti hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka tanav June 2027 tak dheere-dheere kam ho jayega. Career mein teaching, finance ya tech fields aapke liye bahut achhe hain. Jab career set hoga, tab ghar ki sthiti bhi sudharne lagegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ka tanav June 2027 tak dheere-dheere kam ho jayega. Career mein teaching, finance ya tech fields aapke liye bahut achhe hain. Jab career set hoga, tab ghar ki sthiti bhi sudharne lagegi."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension ka koi exact month hai kya?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekhna shuru kar diya hai, ek rishta chal raha hai, uska kya?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahol June 2027 tak shant ho jayega. Career shuru hote hi rishton mein bhi tezi aayegi. In-laws ke bare mein ek aisi baat hai jo abhi saaf nahi hai. Kya janna chahti hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ka mahol June 2027 tak shant ho jayega. Career shuru hote hi rishton mein bhi tezi aayegi. In-laws ke bare mein ek aisi baat hai jo abhi saaf nahi hai. Kya janna chahti hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Is rishte ka kya hoga? Yes ya no mein batao.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, ye rishta aage badh sakta hai, par unke ghar wale kaafi traditional aur reserved hain. June 2027 tak career aur shaadi dono mein khushi milegi. 24 November se Hanuman Chalisa shuru kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, ye rishta aage badh sakta hai, par unke ghar wale kaafi traditional aur reserved hain. June 2027 tak career aur shaadi dono mein khushi milegi. 24 November se Hanuman Chalisa shuru kijiye."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Baat pakki kab tak hogi?",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta pakka hone ke liye 2027 ka beech ka samay sabse anukul hai. Career aur shaadi ke yog tabhi ek saath mil rahe hain. Aap bas dhairya rakhiye, sab sahi hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Rishta pakka hone ke liye 2027 ka beech ka samay sabse anukul hai. Career aur shaadi ke yog tabhi ek saath mil rahe hain. Aap bas dhairya rakhiye, sab sahi hoga."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "June me hi ya July me?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Confirm date ya month batao.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke rishte ke pakka hone ke liye June se August 2027 ka samay sabse anukul hai. Aapke hone wale jeevan-saathi ke swabhav mein ek aisi reserved side hai jise samajhna aapke rishte ke liye bahut zaruri hoga. Is baare mein aur vistaar se janne ke liye aap chat recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapke rishte ke pakka hone ke liye June se August 2027 ka samay sabse anukul hai. Aapke hone wale jeevan-saathi ke swabhav mein ek aisi reserved side hai jise samajhna aapke rishte ke liye bahut zaruri hoga. Is baare mein aur vistaar se janne ke liye aap chat recharge kijiye."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 23
+  }
+]

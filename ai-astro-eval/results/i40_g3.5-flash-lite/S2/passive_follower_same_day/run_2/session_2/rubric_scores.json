@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 3,
+    "2.4": 4,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 5.88,
+  "shape": {
+    "M": 9,
+    "avg_words": 28.6,
+    "long_share": 0.22
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ka kya? ... Main bata sakti hoon ki March 2027 aur September 2028 ke beech shaadi ka yog hai.",
+        "why": "The astrologer acknowledges the user's specific question about marriage and provides a direct answer."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aapne woh Hanuman Chalisa ka path shuru kiya jo maine batayi thi?",
+        "why": "There are 5 questions total. 2 are Type A (build on user input), 3 are Type B (generic). Since less than half are Type A, it scores 6."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Main bata sakti hoon ki March 2027 aur September 2028 ke beech shaadi ka yog hai.",
+        "why": "The first reading is only about the future, not the present or past."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ka kya? ... Main bata sakti hoon ki March 2027 aur September 2028 ke beech shaadi ka yog hai.",
+        "why": "A clear direction (time window) is given immediately without a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Ghar ki tension aur paise ki pareshani ek hi bhari daur ka asar hai",
+        "why": "No chart terms (like grah, dasha, etc.) are linked to the life statements in the readings."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Ghar ki tension aur paise ki pareshani ek hi bhari daur ka asar hai",
+        "why": "One later reading is New and Uses the user's detail ('Ghar pe tension'), but others are not."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 aur September 2028 ke beech shaadi ka yog hai.",
+        "why": "A clear time window is provided and remains consistent throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar ki tension aur paise ki pareshani ek hi bhari daur ka asar hai... Shanivar ko kaale til daan kijiye.",
+        "why": "The remedy is tied to the cause (bhari daur) named in the reading."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke career aur shaadi ke sawal ka jawaab mil gaya hai.",
+        "why": "Both questions (career and marriage) are answered fully."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Hone wale patidev ke swabhaav mein ek gupt aur alag andaaz bhi hoga jo aapko aage samajh aayega.",
+        "why": "Names a specific further thing about the partner's nature."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is baare mein aur detail mein jaanna chahti hain, toh abhi chat recharge kijiye.",
+        "why": "The astrologer ends the chat with a pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is baare mein aur detail mein jaanna chahti hain, toh abhi chat recharge kijiye.",
+        "why": "The last message is a pitch, not a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji. Aapka swagat hai, boliye kaise madad kar sakti hoon main aapki?",
+        "why": "Language is easy and conversational, no technical terms used without explanation."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      }
+    ]
+  }
+}

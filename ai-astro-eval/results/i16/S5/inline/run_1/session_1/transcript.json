@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Love life",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 ke beech rishte-naate ko lekar thoda confusion raha hai. Abhi life mein koi khaas chal raha hai ya tum kisi ke baare mein soch rahi ho?",
+    "sec": 15,
+    "raw_response": {
+      "message": "2023 se 2025 ke beech rishte-naate ko lekar thoda confusion raha hai. Abhi life mein koi khaas chal raha hai ya tum kisi ke baare mein soch rahi ho?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Hindi me batao, koi nahi hai.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, aage jaan-pehchaan ya ghar ke through hi rishta aane ka yog hai. Ghar wale abhi se kuch soch rahe hain kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Koi baat nahi, aage jaan-pehchaan ya ghar ke through hi rishta aane ka yog hai. Ghar wale abhi se kuch soch rahe hain kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haath ki photo kaise bheju?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haath ki zaroorat nahi hai, kundli mein sab saaf dikh raha hai. March 2027 ke baad shaadi ka achha yog hai, rishta jaan-pehchaan se aayega. Tumhe kis tarah ka partner pasand hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haath ki zaroorat nahi hai, kundli mein sab saaf dikh raha hai. March 2027 ke baad shaadi ka achha yog hai, rishta jaan-pehchaan se aayega. Tumhe kis tarah ka partner pasand hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Earning kab?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pehle yeh batao, abhi koi padhai ya job ki taiyari chal rahi hai kya? Aur kis field mein jaane ka socha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Pehle yeh batao, abhi koi padhai ya job ki taiyari chal rahi hai kya? Aur kis field mein jaane ka socha hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Job dhund raha hu.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Papa ki dukaan band ho gayi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichle kuch samay se paise ki tangi isliye thi kyunki time thoda slow chal raha hai. March 2027 ke baad halat sudhrenge aur nayi job ka rasta banega. Tumhara interest kis field mein hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Pichle kuch samay se paise ki tangi isliye thi kyunki time thoda slow chal raha hai. March 2027 ke baad halat sudhrenge aur nayi job ka rasta banega. Tumhara interest kis field mein hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sales ya marketing try kr rha.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales aur marketing tumhare liye bilkul sahi hai kyunki kundli mein communication wali field ka achha yog hai. June 2027 ke baad kaam mein tezi aayegi. Thursday ko chana dal ka daan karna shuru karo, raste khulenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Sales aur marketing tumhare liye bilkul sahi hai kyunki kundli mein communication wali field ka achha yog hai. June 2027 ke baad kaam mein tezi aayegi. Thursday ko chana dal ka daan karna shuru karo, raste khulenge."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Me mere parents ke liye unlucky hu?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Mere hone se sirf dikkat dikh rahi hai.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari koi galti nahi hai, aisa bilkul mat socho. Yeh thoda heavy time chal raha hai jo mid-2027 tak nikal jayega. Tum bas Somvaar ko Shiv ji par jal chadhaya karo, mann halka hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Tumhari koi galti nahi hai, aisa bilkul mat socho. Yeh thoda heavy time chal raha hai jo mid-2027 tak nikal jayega. Tum bas Somvaar ko Shiv ji par jal chadhaya karo, mann halka hoga."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Aap samajh nahi rahe.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh rahi hoon, ghar ki zimmedariyon ka bojh tumhare upar bohot hai. Yeh time hi aisa hai par mid-2027 ke baad halat badlenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main samajh rahi hoon, ghar ki zimmedariyon ka bojh tumhare upar bohot hai. Yeh time hi aisa hai par mid-2027 ke baad halat badlenge."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Paisa nahi hai ghar pe.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh bohot bhari samay hai tumhare liye, par yeh phase nikal jayega. March 2027 ke baad paise ko lekar halat sudhrenge aur aamdani ke naye raste banenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Yeh bohot bhari samay hai tumhare liye, par yeh phase nikal jayega. March 2027 ke baad paise ko lekar halat sudhrenge aur aamdani ke naye raste banenge."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Bas 2027 tak rukna padega?",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada lamba intezaar nahi hai, February 2027 ke baad se hi hawa badalne lagegi. Aur haan, 2028 aate-aate apni khud ki kamai se cheezein settle hone ka bada yog bhi hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Zyada lamba intezaar nahi hai, February 2027 ke baad se hi hawa badalne lagegi. Aur haan, 2028 aate-aate apni khud ki kamai se cheezein settle hone ka bada yog bhi hai."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "उम्मीद है सब ठीक हो जाए।",
+    "sec": 300,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab bilkul theek hoga, bas thoda sa hausla rakho. March 2027 ke baad job aur paise ko lekar naye raste khulne par nazar rakhna.",
+    "sec": 315,
+    "raw_response": {
+      "message": "Sab bilkul theek hoga, bas thoda sa hausla rakho. March 2027 ke baad job aur paise ko lekar naye raste khulne par nazar rakhna."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai. Bye.",
+    "sec": 330,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai, apna dhyan rakhna ji. October 2028 ke baad apne ghar aur sthirta ka yog bhi shuru hoga, waha se asli rahat milegi.",
+    "sec": 345,
+    "raw_response": {
+      "message": "Theek hai, apna dhyan rakhna ji. October 2028 ke baad apne ghar aur sthirta ka yog bhi shuru hoga, waha se asli rahat milegi."
+    },
+    "idx": 25
+  }
+]

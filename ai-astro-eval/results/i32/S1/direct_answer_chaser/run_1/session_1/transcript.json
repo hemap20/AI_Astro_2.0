@@ -1,0 +1,122 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, waha se ya usse behtar mauke zaroor milenge. Aapka career ka ghar majboot hai, jo 2027 mein achhe avsar dikhata hai. Kya 2023 se 2025 tak aapko paise ki tangi thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Haan, waha se ya usse behtar mauke zaroor milenge. Aapka career ka ghar majboot hai, jo 2027 mein achhe avsar dikhata hai. Kya 2023 se 2025 tak aapko paise ki tangi thi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Purani job kab tak milegi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, March 2027 se September 2028 ke beech aapko acche mauke milenge. Career ka grah tab tak aur majboot ho jayega. Kya aapne is beech mein koi nayi skills seekhi hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, March 2027 se September 2028 ke beech aapko acche mauke milenge. Career ka grah tab tak aur majboot ho jayega. Kya aapne is beech mein koi nayi skills seekhi hain?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine mein confirm hoga?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein kaam banta dikh raha hai. Career aur paisa, dono 10th ghar ki majbooti se badhenge. Waise, ek khaas insaan madad karega, kya koi dhyan mein hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 mein kaam banta dikh raha hai. Career aur paisa, dono 10th ghar ki majbooti se badhenge. Waise, ek khaas insaan madad karega, kya koi dhyan mein hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein exact date kya hogi?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke pehle hafte mein yog strong hain. Career aur paise ki dikkat, dono 10th ghar se judi hain. Ek bada mauka aane wala hai, par rukawat hatana zaroori hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke pehle hafte mein yog strong hain. Career aur paise ki dikkat, dono 10th ghar se judi hain. Ek bada mauka aane wala hai, par rukawat hatana zaroori hai."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, kabhi kabhi grahon ka asar umeed se dheema ho jata hai. Aapki naukri aur neend ki dikkat, dono 8th ghar ke dabav se ruke hain. Jun 2027 ke baad halat badlenge, tab tak koi badi ummeed aane wali hai. Abhi seene ya pet mein koi pareshani toh nahi rehti?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, kabhi kabhi grahon ka asar umeed se dheema ho jata hai. Aapki naukri aur neend ki dikkat, dono 8th ghar ke dabav se ruke hain. Jun 2027 ke baad halat badlenge, tab tak koi badi ummeed aane wali hai. Abhi seene ya pet mein koi pareshani toh nahi rehti?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Job wapas milegi ya nahi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, naukri zaroor milegi, kyunki 10th ghar mein career ki majbooti dikh rahi hai. Agle saal March se naye aur behtar raaste khulenge. Tab tak Guru ka mantra shuru kijiye, naukri mein madad milegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, naukri zaroor milegi, kyunki 10th ghar mein career ki majbooti dikh rahi hai. Agle saal March se naye aur behtar raaste khulenge. Tab tak Guru ka mantra shuru kijiye, naukri mein madad milegi."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Time kharab ho raha hai.",
+    "sec": 180,
+    "idx": 16
+  }
+]

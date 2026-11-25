@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aap purani job ke baare mein pooch rahi hain. Kya aapko waha se koi baat-cheet ka ishara mila hai abhi tak?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aap purani job ke baare mein pooch rahi hain. Kya aapko waha se koi baat-cheet ka ishara mila hai abhi tak?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan, manager bole the call karenge.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekh sakti hoon ki wapsi ki baat pakki ho sakti hai, kismat ka daur aapka saath dega. Kya Nov 2022 mein aapki college life mein koi badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Main dekh sakti hoon ki wapsi ki baat pakki ho sakti hai, kismat ka daur aapka saath dega. Kya Nov 2022 mein aapki college life mein koi badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak bulayenge?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main bata sakti hoon ki March 2027 tak purani job mil sakti hai. Waha ek alag jagah se judne ka rasta khul raha hai. Kya waha dobara jaane mein hichkichahat hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main bata sakti hoon ki March 2027 tak purani job mil sakti hai. Waha ek alag jagah se judne ka rasta khul raha hai. Kya waha dobara jaane mein hichkichahat hoti hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, kabhi-kabhi halat badalne mein waqt lag jata hai. Kaam ke ghar par dheere chalne wala daur chal raha hai. Kya wahan dobara jaane se pehle salary ki baat hui hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, kabhi-kabhi halat badalne mein waqt lag jata hai. Kaam ke ghar par dheere chalne wala daur chal raha hai. Kya wahan dobara jaane se pehle salary ki baat hui hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wahi rasta door ki jagah se judne ka hai, jiska zikr maine kiya tha. Iske liye Friday ko white sweets daan kijiye. Kya waha koi nayi baat shuru hui hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wahi rasta door ki jagah se judne ka hai, jiska zikr maine kiya tha. Iske liye Friday ko white sweets daan kijiye. Kya waha koi nayi baat shuru hui hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekh sakti hoon ki aane wale dinon mein naye mauke milenge. Kya aapko is field ke alawa kisi aur kaam mein bhi ruchi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Main dekh sakti hoon ki aane wale dinon mein naye mauke milenge. Kya aapko is field ke alawa kisi aur kaam mein bhi ruchi hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Agli hafte interview hai.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agli hafte interview mein aapki baat-cheet bohot asar dikhayegi. Kismat aur gyaan ka grah aapka saath de raha hai. Kya iski taiyari ke liye kisi se salah li hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Agli hafte interview mein aapki baat-cheet bohot asar dikhayegi. Kismat aur gyaan ka grah aapka saath de raha hai. Kya iski taiyari ke liye kisi se salah li hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekh sakti hoon ki finance aur communication ka kshetra aapke liye bohot achha rahega. Kya waha aage badhne ka socha hai kabhi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main dekh sakti hoon ki finance aur communication ka kshetra aapke liye bohot achha rahega. Kya waha aage badhne ka socha hai kabhi?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kisse hogi?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekh sakti hoon ki rishta jaan-pehchaan ke zariye tay hoga. Partner lambe aur shaant swabhaav ke milenge. Kya ghar walon ne is baare mein baat shuru ki hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Main dekh sakti hoon ki rishta jaan-pehchaan ke zariye tay hoga. Partner lambe aur shaant swabhaav ke milenge. Kya ghar walon ne is baare mein baat shuru ki hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job ka jawab de diya hai. Finance aur communication ke kshetra se jude bade badlaav ki baatein abhi baaki hain. Aap chat recharge karke ise abhi poora samajh sakti hoon.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Purani job ka jawab de diya hai. Finance aur communication ke kshetra se jude bade badlaav ki baatein abhi baaki hain. Aap chat recharge karke ise abhi poora samajh sakti hoon."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 25
+  }
+]

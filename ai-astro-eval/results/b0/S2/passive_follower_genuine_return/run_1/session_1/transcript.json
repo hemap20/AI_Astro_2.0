@@ -1,0 +1,186 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Future ke baare mein sochte hain sabhi ji. Aap career ya marriage, kya dekhna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Future ke baare mein sochte hain sabhi ji. Aap career ya marriage, kya dekhna hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027 mein hai ji. Thoda delay bhi dikh raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027 mein hai ji. Thoda delay bhi dikh raha hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Okk",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aayega par rukega nahi ji. Chandra weak hai yahan. 2027 ke baad sudhar aayega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paisa aayega par rukega nahi ji. Chandra weak hai yahan. 2027 ke baad sudhar aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension Shani ke asar se hai ji. Yeh heavy phase mid-2027 tak kam ho jayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar ki tension Shani ke asar se hai ji. Yeh heavy phase mid-2027 tak kam ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein bhi badlaav aayega ji. Guru AD se naye mauke milenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Career mein bhi badlaav aayega ji. Guru AD se naye mauke milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji. Jupiter ka samay chal raha hai. Isse career mein naye raste milenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Koi baat nahi ji. Jupiter ka samay chal raha hai. Isse career mein naye raste milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Neend aur stress thoda zyada hoga ji. Chandra weak hone se mind heavy ho jata hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Neend aur stress thoda zyada hoga ji. Chandra weak hone se mind heavy ho jata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mind ko shant rakhne ke liye, Monday ko Om Som Somaya Namah jaap karein ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mind ko shant rakhne ke liye, Monday ko Om Som Somaya Namah jaap karein ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Time thoda kam reh gaya hai — aapke kundli mein ek khaas cheez dikh rahi hai foreign travel ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Time thoda kam reh gaya hai — aapke kundli mein ek khaas cheez dikh rahi hai foreign travel ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se 2028 mein foreign jaane ka yog hai ji. Rahu 12th house mein yeh rasta kholta hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "2027 se 2028 mein foreign jaane ka yog hai ji. Rahu 12th house mein yeh rasta kholta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 23
+  }
+]

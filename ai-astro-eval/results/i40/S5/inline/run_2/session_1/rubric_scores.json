@@ -1,0 +1,255 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 4,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 4,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 3,
+    "3.3": 1,
+    "4.2": 4,
+    "5.1": 4,
+    "1.3": 10,
+    "4.1": 1,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 5.47,
+  "shape": {
+    "M": 10,
+    "avg_words": 38.9,
+    "long_share": 0.9
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": "Aap apne parivar ke liye kabhi unlucky nahi ho sakti."
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Chinta main samajh sakti hoon.",
+        "why": "The astrologer acknowledges the user's feeling of worry, but it is a generic response that could apply to any user."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2023-2025 ke beech aapne apni skills par mehnat ki thi?",
+        "why": "No Type C questions were asked, and the questions build on the user's life context."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's main question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Rishte aane mein thodi der hai, par baat apno ke beech se hi banegi.",
+        "why": "The reading is about the present/future, but it is generic and could apply to almost anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki kamai ka raasta March 2027 se September 2028 ke beech khulega",
+        "why": "A clear direction and time window are provided without the user needing to repeat the question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 4,
+        "quote": "kismat ka grah majboot hoga",
+        "why": "The chart reference is vague and could be true for anyone; it lacks a specific, plain-worded link to the user's life."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Finance mein career banana aapke liye bahut accha rahega",
+        "why": "The reading uses the user's specific interest in finance to build depth."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech khulega",
+        "why": "A consistent time window is provided throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Shukravar se 'Om Shum Shukraya Namah' 108 baar japiye.",
+        "why": "The remedy is a stock suggestion with no stated link to the specific problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke career sawal ka jawab mil gaya hai.",
+        "why": "The astrologer addresses the multiple topics raised by the user."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke chart mein sarkari naukri ki sambhavnaon aur uske liye anukul samay ka vishleshan aapko career mein sahi disha dikha sakta hai.",
+        "why": "The astrologer points to a further specific area (sarkari naukri) related to the user's career concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Is chat ko abhi recharge kijiye taaki hum vistaar se baat kar sakein.",
+        "why": "The user said 'Bye', and the astrologer responded with a pitch instead of a proper closing."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is chat ko abhi recharge kijiye taaki hum vistaar se baat kar sakein.",
+        "why": "The last messages are a pitch and a generic goodbye, offering no reason to return."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "sarkari naukri ki sambhavnaon aur uske liye anukul samay ka vishleshan",
+        "why": "The astrologer uses formal, bookish Hindi terms despite the user's request for simple language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapke chart mein sarkari naukri ki sambhavnaon aur uske liye anukul samay ka vishleshan",
+        "why": "The user repeatedly asked for simple Hindi, but the astrologer continued using formal/complex language."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "reading"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "reading"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "reading"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 16,
+        "type": "question"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "reading"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "role": "USER",
+    "text": "Future.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki zindagi aur bhavishya ko samajhne mein madad kar sakti hoon. Aap career, shaadi ya kisi aur vishay ke baare mein jaanna chahti hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki zindagi aur bhavishya ko samajhne mein madad kar sakti hoon. Aap career, shaadi ya kisi aur vishay ke baare mein jaanna chahti hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 mein ho sakti hai. Rishton ka grah thoda kamzor hai, isliye deri lag rahi hai. Kya aapke college life mein November 2022 ke aas-paas badlav aaye the?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 mein ho sakti hai. Rishton ka grah thoda kamzor hai, isliye deri lag rahi hai. Kya aapke college life mein November 2022 ke aas-paas badlav aaye the?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exact?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruat mein pehla moka ban sakta hai. Shaadi aur career ke raaste jude hain, kyunki kaam mein ek khaas badlav aapki sthiti ko mazboot karega. Kya aap abhi kahin kaam kar rahi hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke shuruat mein pehla moka ban sakta hai. Shaadi aur career ke raaste jude hain, kyunki kaam mein ek khaas badlav aapki sthiti ko mazboot karega. Kya aap abhi kahin kaam kar rahi hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kb tk aayega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career aur paisa dono ek saath sudhrenge. Kismat ka grah dono ko sambhalega, isliye 19 November se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japna shuru kijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se career aur paisa dono ek saath sudhrenge. Kismat ka grah dono ko sambhalega, isliye 19 November se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japna shuru kijiye."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani aur man ka bojh June 2027 tak dheere-dheere kam hoga. Himmat ka grah abhi gusse aur tension de raha hai, isliye 24 November se Hanuman Chalisa ka path shuru kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki pareshani aur man ka bojh June 2027 tak dheere-dheere kam hoga. Himmat ka grah abhi gusse aur tension de raha hai, isliye 24 November se Hanuman Chalisa ka path shuru kijiye."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  }
+]

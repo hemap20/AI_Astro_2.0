@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji, kaise ho? Pichli baar humne shaadi aur career ki baatein ki thi, aaj batao kya socha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji, kaise ho? Pichli baar humne shaadi aur career ki baatein ki thi, aaj batao kya socha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Theek hu. Shaadi kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech shaadi ka yog hai. Shukra kamzor hone ki wajah se der hui hai, rishta jaan-pehchaan se aayega. Ghar pe koi baat shuru hui hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech shaadi ka yog hai. Shukra kamzor hone ki wajah se der hui hai, rishta jaan-pehchaan se aayega. Ghar pe koi baat shuru hui hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta aaya hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wah, ye toh acchi khabar hai ji. Kundli kehti hai ki partner bohot calm, padhe-likhe aur warm nature ke honge. Kya unke baare mein baat aage badhi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Wah, ye toh acchi khabar hai ji. Kundli kehti hai ki partner bohot calm, padhe-likhe aur warm nature ke honge. Kya unke baare mein baat aage badhi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, abhi kuch nahi.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Fikar mat karo, Shani ki vajah se thodi der hai. Har Friday white sweets donate karo aur Om Shum Shukraya Namah jaapo, rasta khulega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Fikar mat karo, Shani ki vajah se thodi der hai. Har Friday white sweets donate karo aur Om Shum Shukraya Namah jaapo, rasta khulega."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi paise ki thodi khinch-taan chal rahi hai kyunki 2nd house kamzor hai, isliye bachat nahi hoti. March 2027 ke baad halat sudhregi aur kamai behtar hogi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Abhi paise ki thodi khinch-taan chal rahi hai kyunki 2nd house kamzor hai, isliye bachat nahi hoti. March 2027 ke baad halat sudhregi aur kamai behtar hogi."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht hai.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka asar tumhare mann pe bhi pad raha hai kyunki abhi thoda bhari samay chal raha hai. Yeh mahaul mid-2027 tak theek ho jayega, thoda sabr rakho.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension ka asar tumhare mann pe bhi pad raha hai kyunki abhi thoda bhari samay chal raha hai. Yeh mahaul mid-2027 tak theek ho jayega, thoda sabr rakho."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Sab thik hoga na?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan bilkul theek hoga ji. March 2027 ke baad sab cheezein line pe aa jayengi aur tension bhi door hogi. Tuesday ko Hanuman Chalisa shuru karo, sab accha hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan bilkul theek hoga ji. March 2027 ke baad sab cheezein line pe aa jayengi aur tension bhi door hogi. Tuesday ko Hanuman Chalisa shuru karo, sab accha hoga."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ki fikar mat karo, waha bhi March 2027 ke baad hi acchi growth dikh rahi hai. Abhi office mein kaam kaisa chal raha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Job ki fikar mat karo, waha bhi March 2027 ke baad hi acchi growth dikh rahi hai. Abhi office mein kaam kaisa chal raha hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Theek hai.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad Shani ka asar career se hatega, tab office mein naye mauke aane shuru honge. Bas is date ko dhyan mein rakhna ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke baad Shani ka asar career se hatega, tab office mein naye mauke aane shuru honge. Bas is date ko dhyan mein rakhna ji."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

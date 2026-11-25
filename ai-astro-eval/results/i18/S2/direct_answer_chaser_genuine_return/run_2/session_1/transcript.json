@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji! Pichle kuch saal thode mushkil rahe hain, par March 2027 ke baad se waqt badal raha hai. Batao, life ke kis hisse ko lekar sabse zyada tension chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji! Pichle kuch saal thode mushkil rahe hain, par March 2027 ke baad se waqt badal raha hai. Batao, life ke kis hisse ko lekar sabse zyada tension chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar pe kisi rishte ki baat shuru hui hai kya, ya tum khud abhi is baare mein kya sochte ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ghar pe kisi rishte ki baat shuru hui hai kya, ya tum khud abhi is baare mein kya sochte ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, rishta dekh rhe ghar wale. Ek baat chal rhi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak hogi shadi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi pakki lag rahi hai, rishta jaan-pehchaan se aayega. Par shuru mein thodi delay ya tension ho sakti hai. Jo rishta abhi chal raha hai, waha ladke ka nature kaisa lag raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi pakki lag rahi hai, rishta jaan-pehchaan se aayega. Par shuru mein thodi delay ya tension ho sakti hai. Jo rishta abhi chal raha hai, waha ladke ka nature kaisa lag raha hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month mein confirm hogi?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nov-Dec 2027 mein baat pakki hone ka chance sabse zyada hai. Shukra ke liye Friday safed mithai daan karo. In-laws kaafi traditional niklenge. Kya ghar wale is baare mein sure hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Nov-Dec 2027 mein baat pakki hone ka chance sabse zyada hai. Shukra ke liye Friday safed mithai daan karo. In-laws kaafi traditional niklenge. Kya ghar wale is baare mein sure hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa ruk kyun jata hai, 2023 se hi haalat thodi tight hai kya? Abhi tum khud kya kaam kar rahe ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa ruk kyun jata hai, 2023 se hi haalat thodi tight hai kya? Abhi tum khud kya kaam kar rahe ho?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job search kr rhi.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job milte hi paise ki dikkat dur hone lagegi aur kamai steady ho jayegi. 2027 mein ek mahina aisa hai jab bada financial break mil sakta hai. Tum kis field mein job try kar rahi ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad job milte hi paise ki dikkat dur hone lagegi aur kamai steady ho jayegi. 2027 mein ek mahina aisa hai jab bada financial break mil sakta hai. Tum kis field mein job try kar rahi ho?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Marketing.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Wo mahina kaun sa hai?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 mein marketing field se pehli badi income ka yog ban raha hai. Thursday ko chana dal daan karo. Tumne abhi tak kahan interview diya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 mein marketing field se pehli badi income ka yog ban raha hai. Thursday ko chana dal daan karo. Tumne abhi tak kahan interview diya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se ghar ki tension khatam hone lagegi. Hanuman Chalisa padho. Partner ka nature thoda guarded ho sakta hai. Ghar pe abhi kya bolte hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se ghar ki tension khatam hone lagegi. Hanuman Chalisa padho. Partner ka nature thoda guarded ho sakta hai. Ghar pe abhi kya bolte hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Sab pareshan hain. Konse month mein?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "May aur June 2027 ke beech yeh heavy pressure poori tarah hat jayega. June ke baad ek aisa mahina aayega jab ghar ki badi tension khatam ho sakti hai, bas ek rishtedaar ki salah se thoda bachna hoga. Sabhi ko sambhalne mein khud ki health kaisi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "May aur June 2027 ke beech yeh heavy pressure poori tarah hat jayega. June ke baad ek aisa mahina aayega jab ghar ki badi tension khatam ho sakti hai, bas ek rishtedaar ki salah se thoda bachna hoga. Sabhi ko sambhalne mein khud ki health kaisi hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Thik hi hai.",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 23
+  }
+]

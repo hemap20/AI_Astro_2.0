@@ -1,0 +1,150 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, bataiye kaise help karu?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, bataiye kaise help karu?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. March 2027 ke baad Shani AD shuru hogi. Usse aapka career aur marriage ka yog banega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. March 2027 ke baad Shani AD shuru hogi. Usse aapka career aur marriage ka yog banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai ye",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Gharwale rishta dekh rahe h",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta dekhna sahi hai ji. March 2027 ke baad yog hai. Known circle se baat banegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta dekhna sahi hai ji. March 2027 ke baad yog hai. Known circle se baat banegi.",
+      "marital_status": "unmarried"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 ke baad sudhrega ji. Mangal strong hone se debt kam hoga. Lekin 2nd house weak hone ki wajah se savings mein thodi dikkat aati hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa March 2027 ke baad sudhrega ji. Mangal strong hone se debt kam hoga. Lekin 2nd house weak hone ki wajah se savings mein thodi dikkat aati hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension bhot h",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani ki wajeh se ghar mein tension hai ji. Ye waqt thoda bhari hai. June 2027 ke baad shanti aayegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shani ki wajeh se ghar mein tension hai ji. Ye waqt thoda bhari hai. June 2027 ke baad shanti aayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kuch upay h kya",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saturday ko Shani mantra karein ji. Om Sham Shanaishcharaya Namah 108 baar japein. Kaale til daan karein.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Saturday ko Shani mantra karein ji. Om Sham Shanaishcharaya Namah 108 baar japein. Kaale til daan karein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kab se start kru",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale Saturday 21 November se start karein ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aane wale Saturday 21 November se start karein ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 19
+  }
+]

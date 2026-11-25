@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, bataiye main aaj aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, bataiye main aaj aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, maine aapko upaay bataye the. Aapki pareshaniyan, jaise paise ki tangi aur shaadi mein deri, March 2027 se theek hone lagengi. Kya aapne 2023 se 2025 ke beech paise ki tangi mehsoos ki thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, maine aapko upaay bataye the. Aapki pareshaniyan, jaise paise ki tangi aur shaadi mein deri, March 2027 se theek hone lagengi. Kya aapne 2023 se 2025 ke beech paise ki tangi mehsoos ki thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan. Shaadi ka bataiye, 2027 me kaun se mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi aur paise, dono mein sudhaar aayega. Mehnat aur karm ka grah tabhi sthiti badalta hai. Parivaar ka ek vyakti hi aapki shaadi ka zariya ban sakta hai. Rishton ke grah Shukra ke liye, har shukravar safed mithai daan kijiye.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se shaadi aur paise, dono mein sudhaar aayega. Mehnat aur karm ka grah tabhi sthiti badalta hai. Parivaar ka ek vyakti hi aapki shaadi ka zariya ban sakta hai. Rishton ke grah Shukra ke liye, har shukravar safed mithai daan kijiye."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ghar waale rishta dekh rahe hain, ek baat chal bhi rahi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "March me kaunsi date tak?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi ke yog ban rahe hain, isliye baat aage badh sakti hai. Hone wala saathi shaant aur padha-likha hoga, par is rishte mein ek chupa hua pehlu bhi hai. Kya aapko unke swabhaav ke baare mein kuch pata hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se shaadi ke yog ban rahe hain, isliye baat aage badh sakti hai. Hone wala saathi shaant aur padha-likha hoga, par is rishte mein ek chupa hua pehlu bhi hai. Kya aapko unke swabhaav ke baare mein kuch pata hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pehle date batao, ye sab baad me.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "March mein exact kab tak?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad baat pakki ho sakti hai. Woh vyakti swabhav se thode guarded hain. Rishton ke grah Shukra ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad baat pakki ho sakti hai. Woh vyakti swabhav se thode guarded hain. Rishton ke grah Shukra ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "I asked for date.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "March mein exact kab hogi baat pakki?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sitare koi ek din nahi batate, par March 2027 se shaadi pakki hone ka yog hai. Unke ghar wale thode reserved hain, yahi woh chupa hua pehlu hai. 24 November se Hanuman Chalisa padhna shuru kijiye, kya aapne pehle kabhi ise kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Sitare koi ek din nahi batate, par March 2027 se shaadi pakki hone ka yog hai. Unke ghar wale thode reserved hain, yahi woh chupa hua pehlu hai. 24 November se Hanuman Chalisa padhna shuru kijiye, kya aapne pehle kabhi ise kiya hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puch rahi hoon wo bata nahi rahe.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sirf time waste kar rahe ho.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon aap pareshan hain. March 2027 se shaadi ke yog majboot hain, kismat aur gyaan ka grah tabhi saath de raha hai. Kya aapne rishte ke liye koi aage ka kadam uthaya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main samajh sakti hoon aap pareshan hain. March 2027 se shaadi ke yog majboot hain, kismat aur gyaan ka grah tabhi saath de raha hai. Kya aapne rishte ke liye koi aage ka kadam uthaya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Aap ek date nahi bata pa rahe.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 210,
+    "idx": 20
+  }
+]

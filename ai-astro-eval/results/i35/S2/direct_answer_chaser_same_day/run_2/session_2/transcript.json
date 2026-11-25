@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki aaj kya madad kar sakti hoon? Bataiye, kya pareshani hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki aaj kya madad kar sakti hoon? Bataiye, kya pareshani hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 se September 2028 ke beech hogi. Pichli baar bataya hua mantra shuru kiya? 2022 mein padhai mein badlav aaya tha, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 se September 2028 ke beech hogi. Pichli baar bataya hua mantra shuru kiya? 2022 mein padhai mein badlav aaya tha, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 sabse majboot mahina hai. Career aur ghar tab sulajhenge, kyunki grah tab badal raha hai. Saathi ke baare mein ek khaas sanket hai. Rishta kahan dekh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 sabse majboot mahina hai. Career aur ghar tab sulajhenge, kyunki grah tab badal raha hai. Saathi ke baare mein ek khaas sanket hai. Rishta kahan dekh rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rahe, ek baat chal rahi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya sanket hai saathi ke baare mein?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki hone wale saathi samajhdaar honge. Unka shant swabhav ghar ka tanav kam karega. Guruvaar se Guru mantra 108 baar kijiye. Kya rishta jaan-pehchan mein hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo baat ye hai ki hone wale saathi samajhdaar honge. Unka shant swabhav ghar ka tanav kam karega. Guruvaar se Guru mantra 108 baar kijiye. Kya rishta jaan-pehchan mein hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Jaan-pehchan ka hai. Ye rishta final hoga ya nahi?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is rishte ke banne ke achhe yog hain, par grahon ki chal se March 2027 tak ka samay thoda dhiraj mangta hai. Aapke career aur shaadi, dono isi waqt sudhrenge. Kya aapne unse apne career ke baare mein baat ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Is rishte ke banne ke achhe yog hain, par grahon ki chal se March 2027 tak ka samay thoda dhiraj mangta hai. Aapke career aur shaadi, dono isi waqt sudhrenge. Kya aapne unse apne career ke baare mein baat ki hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Hoga ya nahi, ye bataiye.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta pakka hone ke acche yog hain. Shaadi aur career dono 2027 mein ek saath sudhrenge, kyunki dono ka grah ek hi samay par majboot ho raha hai. Ek chhota sanket career mein naya mod layega. Aap abhi kya kaam kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rishta pakka hone ke acche yog hain. Shaadi aur career dono 2027 mein ek saath sudhrenge, kyunki dono ka grah ek hi samay par majboot ho raha hai. Ek chhota sanket career mein naya mod layega. Aap abhi kya kaam kar rahi hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, ye rishta final hoga ya nahi?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo sanket ye hai ki naukri mein badlav aate hi rishta pakka hoga. Shaadi ke yog majboot hain, isliye 20 tarikh se Shukra mantra shuru kijiye. Kya ghar wale is rishte par gambhir hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Wo sanket ye hai ki naukri mein badlav aate hi rishta pakka hoga. Shaadi ke yog majboot hain, isliye 20 tarikh se Shukra mantra shuru kijiye. Kya ghar wale is rishte par gambhir hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Rishta final hoga ya nahi, haan ya na?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, is rishte ke final hone ke yog bohot majboot hain, kyunki aapki kundli mein shaadi ka ghar kafi achha hai. Jaise hi March 2027 mein naukri ki sthiti behtar hogi, ye rishta pakka ho jayega. Shaadi ke baad aapke in-laws ke saath aapka talmel kaisa rahega, ye bhi aapki kundli mein saaf dikhta hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, is rishte ke final hone ke yog bohot majboot hain, kyunki aapki kundli mein shaadi ka ghar kafi achha hai. Jaise hi March 2027 mein naukri ki sthiti behtar hogi, ye rishta pakka ho jayega. Shaadi ke baad aapke in-laws ke saath aapka talmel kaisa rahega, ye bhi aapki kundli mein saaf dikhta hai."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak ayega?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se aane lagega, jab career ki sthiti sudhregi. Mangalvar se Hanuman Chalisa shuru kijiye, isse kamai badhegi. Aapki kundli mein ghar ke sukh ke baare mein bhi saaf likha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paisa March 2027 se aane lagega, jab career ki sthiti sudhregi. Mangalvar se Hanuman Chalisa shuru kijiye, isse kamai badhegi. Aapki kundli mein ghar ke sukh ke baare mein bhi saaf likha hai."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani June 2027 ke baad kam ho jayegi, kyunki grahon ka asar tab badal raha hai. Aapke career aur rishte ki tarah, ghar ka vatavaran bhi tab khushnuma hoga. Aapke jeevan saathi ke sath jodi ka bhavishya bhi kafi achha dikh raha hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ghar ki pareshani June 2027 ke baad kam ho jayegi, kyunki grahon ka asar tab badal raha hai. Aapke career aur rishte ki tarah, ghar ka vatavaran bhi tab khushnuma hoga. Aapke jeevan saathi ke sath jodi ka bhavishya bhi kafi achha dikh raha hai."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 300,
+    "idx": 24
+  }
+]

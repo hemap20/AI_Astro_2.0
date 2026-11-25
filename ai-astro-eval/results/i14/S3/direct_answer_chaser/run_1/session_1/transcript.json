@@ -1,0 +1,119 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri job kab lagegi, date batao.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ki fikar hai ji. Padhai ke baad abhi kahin apply kiya hai ya naya try shuru karna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Job ki fikar hai ji. Padhai ke baad abhi kahin apply kiya hai ya naya try shuru karna hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Apply kiya hai, par date batao kab tak.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein kaam banne ke poore chance hain ji. Shani ka dabav hatne se rasta saaf hoga. Interview kiske sath hua tha, kuch update hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 mein kaam banne ke poore chance hain ji. Shani ka dabav hatne se rasta saaf hoga. Interview kiske sath hua tha, kuch update hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2025 kaisa hoga mere liye?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "2025 mein mehnat zyada rahi aur paisa bhi tight raha ji. Career mein slow progress aur thoda stress bhi bana raha. Us saal sabse badi pareshani kya thi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "2025 mein mehnat zyada rahi aur paisa bhi tight raha ji. Career mein slow progress aur thoda stress bhi bana raha. Us saal sabse badi pareshani kya thi?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Paisa. 2026 me financial status kaisa rahega.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "2026 mein bhi paisa zyada nahi tikega ji, kharcha bana rahega. Dhan sthaan kamzor hone ki wajah se bachat mushkil hoti hai. Yeh paisa zyada kahan ja raha hai, ghar ke kharche mein ya aur kahin?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2026 mein bhi paisa zyada nahi tikega ji, kharcha bana rahega. Dhan sthaan kamzor hone ki wajah se bachat mushkil hoti hai. Yeh paisa zyada kahan ja raha hai, ghar ke kharche mein ya aur kahin?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ke kharche. Meh kitne number ki hu.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 9 hai ji, jo Mangal ka hai. Yeh aapko himmat deta hai par thoda gussa bhi lata hai. Ghar ke kharche akele sambhal rahi hain ya koi aur bhi hai sath?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka number 9 hai ji, jo Mangal ka hai. Yeh aapko himmat deta hai par thoda gussa bhi lata hai. Ghar ke kharche akele sambhal rahi hain ya koi aur bhi hai sath?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Koi nahi. 2027 financially kaisa hoga?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paise ki halat sudhregi ji. Karza aur dabav dheere-dheere kam hone lagenge. Abhi loan ya kisi se udhaar bhi chal raha hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad paise ki halat sudhregi ji. Karza aur dabav dheere-dheere kam hone lagenge. Abhi loan ya kisi se udhaar bhi chal raha hai kya?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan, loan hai. Kab tak khatam hoga?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Loan 2028 tak poori tarah utar jayega ji. Chhathe sthaan par Ketu hone se karze ka bojh dheere-dheere khatam hota hai. Yeh loan kisi bank ka hai ya personal?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Loan 2028 tak poori tarah utar jayega ji. Chhathe sthaan par Ketu hone se karze ka bojh dheere-dheere khatam hota hai. Yeh loan kisi bank ka hai ya personal?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Bank ka.",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 15
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi aur ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi March 2027 se September 2028 mein pakki lag rahi hai. Ladka lamba, shant aur padha-likha hoga, par thoda guarded nature ka bhi hai. Kya ye rishta jaan-pehchaan se hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shadi March 2027 se September 2028 mein pakki lag rahi hai. Ladka lamba, shant aur padha-likha hoga, par thoda guarded nature ka bhi hai. Kya ye rishta jaan-pehchaan se hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Wo shant nhi hai, gussa bahut aata hai usko",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Maine do baar mil liya hai",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi hai ya nhi mere liye?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shuru mein gussa lag sakta hai, par kundli mein wo samajhdaar aur padha-likha dikh rahe hain. Unke ghar wale thode traditional hain. Kya is baare mein ghar pe baat hui hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shuru mein gussa lag sakta hai, par kundli mein wo samajhdaar aur padha-likha dikh rahe hain. Unke ghar wale thode traditional hain. Kya is baare mein ghar pe baat hui hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Matlab rishta aage badhau ya nhi?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Shi h ya nhi mere liye, seedha btao.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, rishta theek hai par in-laws traditional aur reserved rahenge. 2027 ke shuru mein ek turning point aayega jo sab saaf kar dega. Kya ghar wale is rishte se khush hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan, rishta theek hai par in-laws traditional aur reserved rahenge. 2027 ke shuru mein ek turning point aayega jo sab saaf kar dega. Kya ghar wale is rishte se khush hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine confirm hai?",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka mahina sabse pakka hai. Friday se Om Shum Shukraya Namah ka jaap karna shuru kar do. Kya unse koi aur meeting fix hui hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ka mahina sabse pakka hai. Friday se Om Shum Shukraya Namah ka jaap karna shuru kar do. Kya unse koi aur meeting fix hui hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Par uska gussa control mein rahega ya nahi?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, March 2027 ke baad gussa kam hone lagega. Shaadi ke baad in-laws ke sath paise ka ek mamla aayega. Kya ghar walo ko ye rishta pasand hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, March 2027 ke baad gussa kam hone lagega. Shaadi ke baad in-laws ke sath paise ka ek mamla aayega. Kya ghar walo ko ye rishta pasand hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan pasand hai",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Paise ka mamla kaisa hoga?",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "In-laws ke sath shuru mein paisa thoda fass sakta hai, par dheere-dheere nikal aayega. 2028 mein ek mahina aisa aayega jab paisa invest karne mein bohot dhyan dena padega. Kya tumne usse kabhi paise ko lekar baat ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "In-laws ke sath shuru mein paisa thoda fass sakta hai, par dheere-dheere nikal aayega. 2028 mein ek mahina aisa aayega jab paisa invest karne mein bohot dhyan dena padega. Kya tumne usse kabhi paise ko lekar baat ki hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Gussa badhega toh nahi na aage?",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Sirf itna confirm kijiye.",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nahi, aage gussa kam hoga kyunki March 2027 ke baad yeh sab theek hone lagega. Tuesdays ko Hanuman Chalisa padhna shuru kar do. Kya tum ghar pe puja roz karti ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Nahi, aage gussa kam hoga kyunki March 2027 ke baad yeh sab theek hone lagega. Tuesdays ko Hanuman Chalisa padhna shuru kar do. Kya tum ghar pe puja roz karti ho?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna h ye remedy?",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-2027 tak regular karo, isse kaafi rahat milegi. Kya ladke ne kabhi khud apne gusse ke baare mein kuch bataya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mid-2027 tak regular karo, isse kaafi rahat milegi. Kya ladke ne kabhi khud apne gusse ke baare mein kuch bataya hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Nahi bataya",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 27
+  }
+]

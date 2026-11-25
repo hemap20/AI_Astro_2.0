@@ -1,0 +1,137 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! Agle 1-2 saal tumhari life mein kafi badlav layenge, career aur rishton mein naye raste khul rahe hain. Aaj tumhare mann mein kya chal raha hai, kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! Agle 1-2 saal tumhari life mein kafi badlav layenge, career aur rishton mein naye raste khul rahe hain. Aaj tumhare mann mein kya chal raha hai, kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech hone ke strong yog hain. Rishta jaan-pehchaan se aane ke chance hain aur hone wala partner kaafi samajhdaar aur shant hoga. Tumhari kundli mein ek khas rishte ka sign hai jo shaadi se pehle dikhega, kya ghar par abhi koi baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech hone ke strong yog hain. Rishta jaan-pehchaan se aane ke chance hain aur hone wala partner kaafi samajhdaar aur shant hoga. Tumhari kundli mein ek khas rishte ka sign hai jo shaadi se pehle dikhega, kya ghar par abhi koi baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, mummy papa rishta dekh rahe hain. Ek jagah baat chal rahi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month mein confirm hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein baat pakki hone ke sabse zyada chance hain, kyunki tab rishton ka grah sabse strong position mein hai. Ye rishta jaan-pehchaan se hi aayega. Waise, jisse baat chal rahi hai, kya unka nature thoda reserved hai ya kaafi open?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 mein baat pakki hone ke sabse zyada chance hain, kyunki tab rishton ka grah sabse strong position mein hai. Ye rishta jaan-pehchaan se hi aayega. Waise, jisse baat chal rahi hai, kya unka nature thoda reserved hai ya kaafi open?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Reserved hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak banega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dono ek hi waqt sudhrenge kyunki tumhara mann ka grah tab majboot ho raha hai. Monday ko daan karna shuru karo, isse bachat mein madad milegi. Ghar pe abhi medical kharche zyada hain kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Dono ek hi waqt sudhrenge kyunki tumhara mann ka grah tab majboot ho raha hai. Monday ko daan karna shuru karo, isse bachat mein madad milegi. Ghar pe abhi medical kharche zyada hain kya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension gusse ke grah se hai, jo mann par dabav daal raha hai. Ek khaas family member hai jisse ye sab judi hai, unse thoda doori bana lo. Kya ghar mein koi aisa hai jisse baat aksar bigad jaati hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension gusse ke grah se hai, jo mann par dabav daal raha hai. Ek khaas family member hai jisse ye sab judi hai, unse thoda doori bana lo. Kya ghar mein koi aisa hai jisse baat aksar bigad jaati hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Papa.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak khatam hogi tension?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye tension tabhi kam hogi jab career ka daur badlega. Mangal ke asar ko shaant karne ke liye Tuesday ko Hanuman Chalisa padhna shuru karo, isse ghar ka mahaul sudhrega. Papa ke alawa kya kisi aur se bhi rishte mein doori hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye tension tabhi kam hogi jab career ka daur badlega. Mangal ke asar ko shaant karne ke liye Tuesday ko Hanuman Chalisa padhna shuru karo, isse ghar ka mahaul sudhrega. Papa ke alawa kya kisi aur se bhi rishte mein doori hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Mahine ya saal batao, kab tak khatam hogi?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad se ghar mein shanti aane lagegi. Tumhare chart mein gusse ka grah pita ke ghar par asar daal raha hai, isliye ye takrav hai. Ek khas din hai 2027 mein jab tumhari baat unhe samajh aayegi, wo jan'na hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad se ghar mein shanti aane lagegi. Tumhare chart mein gusse ka grah pita ke ghar par asar daal raha hai, isliye ye takrav hai. Ek khas din hai 2027 mein jab tumhari baat unhe samajh aayegi, wo jan'na hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  }
+]

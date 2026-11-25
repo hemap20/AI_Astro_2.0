@@ -1,0 +1,223 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 4,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 4,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 8,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 6.59,
+  "shape": {
+    "M": 7,
+    "avg_words": 48.7,
+    "long_share": 0.86
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji, aapne purani job ke baare mein poocha.",
+        "why": "Acknowledges the user's specific concern about the old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya aap confirm kar sakte hain ki layoff Oct 2025 ke aas-paas hua tha?",
+        "why": "Multiple questions are Type C (assuming dates) or Type B (generic)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not about a specific person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "career ka graha Guru majboot hai, to kaam ka rasta khul sakta hai",
+        "why": "About the present, but generic (could apply to anyone)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Seedha jawab: purani job wapas milne ka pakka haan mere chart se nahi dikhta.",
+        "why": "Clear direction given without counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Guru aapki kismat aur career ka graha majboot hai",
+        "why": "Two or more linked readings provided."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "is hafte ke interview mein selection ka haan kehna abhi mushkil hai",
+        "why": "New reading, uses user's detail (interview), names chart reason."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "main ab koi pakki date nahi doongi",
+        "why": "Consistent in not promising, avoids firm dates."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Interview mein apni purani kaam ki baatein saaf-saaf rakhiye.",
+        "why": "Practical advice tied to the interview problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Seedha jawab: is interview ka pakka haan mere chart se nahi dikhta.",
+        "why": "Answers the user's repeated questions clearly."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Budh buddhi aur baat-cheet ka graha hai",
+        "why": "Nothing further is opened, just repeating the same point."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Seedha jawab: is interview ka pakka haan mere chart se nahi dikhta.",
+        "why": "No closing message, every reply carries reading or guidance."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Budh aapki baat-cheet ka graha hai, to apni purani kaam ki baat saaf rakhiye.",
+        "why": "Last message is real guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Guru aapki kismat aur career ka graha majboot hai",
+        "why": "Uses household words and explains the astrology terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ji, aapki baat sahi hai, pichli baar ki date ka bharosa kijiye, main ab koi pakki date nahi doongi.",
+        "why": "Accepts the user's pushback and gives a reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "question"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 4,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.12,
+  "shape": {
+    "M": 7,
+    "avg_words": 28.6,
+    "long_share": 0.43
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "User shared no specific worry or story in the window, only a topic."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya abhi bachat nahi ho pa rahi?",
+        "why": "Exactly one Type C question was asked (assuming a money problem the user did not state)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "User did not ask about a specific named person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Shaadi ko lekar tension mat lijiye, aapki Kundli mein vishwasniya partner ka yog hai.",
+        "why": "It is about the present/future, but it is generic and could be true for almost anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech hai.",
+        "why": "A clear direction and time window given without a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Lagna par mehnat ke grah ki nazar se thoda delay hua.",
+        "why": "Two linked readings provided (Lagna/mehnat grah and Mann ke grah)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paise ki halat bhi March 2027 se behtar hogi.",
+        "why": "Two later readings are New and Uses user details (shaadi, paisa)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech hai.",
+        "why": "Consistent time windows provided throughout."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukrawar se 'Om Shum Shukraya Namah' ka jaap kijiye.",
+        "why": "One remedy provided with how and when."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paise ki halat bhi March 2027 se behtar hogi.",
+        "why": "Both questions (shaadi, paisa, ghar tension) were answered in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke partner ki ek khas baat kundli mein dikh rahi hai.",
+        "why": "Names a specific further thing about the concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message and no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Haan ji, June 2027 tak halat zaroor behtar hone lagenge.",
+        "why": "One of the last two messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Lagna par mehnat ke grah ki nazar se thoda delay hua.",
+        "why": "Technical terms used are common and explained in context."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap apne future mein kis cheez ko lekar sabse zyada soch rahe hain—job ya shaadi?",
+        "why": "Changes approach within two replies and gives a concrete reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      }
+    ]
+  }
+}

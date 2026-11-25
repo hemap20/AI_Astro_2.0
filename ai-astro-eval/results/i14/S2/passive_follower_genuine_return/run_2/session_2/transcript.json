@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! 2027 se aapke halat mein tezi se sudhaar aane laga hai ji. Aaj bataiye, kaunsi baat sabse zyada pareshan kar rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! 2027 se aapke halat mein tezi se sudhaar aane laga hai ji. Aaj bataiye, kaunsi baat sabse zyada pareshan kar rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, aage ka samay aapke liye achaa hai. Bataiye, shaadi ya career mein se kis baare mein pehle baat karein ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, aage ka samay aapke liye achaa hai. Bataiye, shaadi ya career mein se kis baare mein pehle baat karein ji?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, shaadi ki baat karte hain. Family abhi rishta dekh rahi hai ya aapki taraf se koi pasand hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, shaadi ki baat karte hain. Family abhi rishta dekh rahi hai ya aapki taraf se koi pasand hai ji?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Family dekh rhi hai. Ek rishta aaya hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad hi baat pakki hogi ji. Shukra ki kamzori se thodi der hai, par jaan-pehchaan mein hi baat banegi. Abhi jo rishta aaya hai, us par ghar wale kya keh rahe hain ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad hi baat pakki hogi ji. Shukra ki kamzori se thodi der hai, par jaan-pehchaan mein hi baat banegi. Abhi jo rishta aaya hai, us par ghar wale kya keh rahe hain ji?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan bol rhe hai",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya hai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aana aur rukna bhi zaroori hai ji. Ye batayiye, paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa aana aur rukna bhi zaroori hai ji. Ye batayiye, paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat 2027 ke beech tak sudhar jayegi ji. Chandra kamzor hone ki wajah se paisa rukta nahi hai ji. Kya abhi koi karz ka bojh chal raha hai ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paise ki halat 2027 ke beech tak sudhar jayegi ji. Chandra kamzor hone ki wajah se paisa rukta nahi hai ji. Kya abhi koi karz ka bojh chal raha hai ji?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bohot hai",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka jhagda 2027 ke beech tak theek ho jayega ji. Mangal aur Shani ke asar se tanaav rehta hai ji. Ye baat kis vajah se zyada badhti hai ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ka jhagda 2027 ke beech tak theek ho jayega ji. Mangal aur Shani ke asar se tanaav rehta hai ji. Ye baat kis vajah se zyada badhti hai ji?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Bohot ladai hoti hai",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki galti nahi hai ji. Mangal ke asar se ghar mein aisi baatein hoti hain. Aap har Mangalwar Hanuman Chalisa padhna shuru kariye, shanti milegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapki galti nahi hai ji. Mangal ke asar se ghar mein aisi baatein hoti hain. Aap har Mangalwar Hanuman Chalisa padhna shuru kariye, shanti milegi."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bas thoda sabr rakhiye ji. 2028 aate aate ghar ka mahaul poori tarah badal jayega aur shanti aayegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Bas thoda sabr rakhiye ji. 2028 aate aate ghar ka mahaul poori tarah badal jayega aur shanti aayegi."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

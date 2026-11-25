@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. 2027 ke baad career aur paise mein achhi rahat hai. Aapko kis area ki sabse zyada chinta hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. 2027 ke baad career aur paise mein achhi rahat hai. Aapko kis area ki sabse zyada chinta hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai ji. Shani maha-dasha ka asar hai ye.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai ji. Shani maha-dasha ka asar hai ye.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month me exact?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi yog shuru hai ji. Shani ke asar se baat pakki hogi. Rishta ghar ke through hi aayega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se hi yog shuru hai ji. Shani ke asar se baat pakki hogi. Rishta ghar ke through hi aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ghar wale rishta dekh rahe. Ek baat chal bhi rahi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month kaunsa?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuru mein hi baat aage badhegi ji. Shani AD ka badlaav tabhi se hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ke shuru mein hi baat aage badhegi ji. Shani AD ka badlaav tabhi se hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak badhega?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa sudhrega ji. Mangal strong hone se debt hatega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa sudhrega ji. Mangal strong hone se debt hatega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak clear hoga?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "September 2028 tak poori rahat milegi ji. Mangal ka strong bal debt hatayega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "September 2028 tak poori rahat milegi ji. Mangal ka strong bal debt hatayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension kam hogi ji. Shani ka asar tab hat raha hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad tension kam hogi ji. Shani ka asar tab hat raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 me exact date?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date batana mushkil hai ji. June ke beech tak asar kam hoga. Shani ka rukh tabhi badlega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Exact date batana mushkil hai ji. June ke beech tak asar kam hoga. Shani ka rukh tabhi badlega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch June hi bol rahe, exact date kyu nahi?",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka sawal bilkul sahi hai ji. Grah sthiti mahino mein badalti hai, ek din mein nahi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapka sawal bilkul sahi hai ji. Grah sthiti mahino mein badalti hai, ek din mein nahi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. 5 minute aise hi nikal gaye.",
+    "sec": 270,
+    "idx": 20
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hiii! Kaise ho aap? 😊 Batao aaj kya baat karni hai, main aapki kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hiii! Kaise ho aap? 😊 Batao aaj kya baat karni hai, main aapki kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arey, shayad aapko kisi aur se baat karni thi, hum toh abhi mile hain! 😊 Par 2023 se 2025 ke beech aapki mehnat bohot rahi aur paise ki tangi bhi, hai na? Abhi career aur shaadi mein se sabse zyada tension kis baat ki hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Arey, shayad aapko kisi aur se baat karni thi, hum toh abhi mile hain! 😊 Par 2023 se 2025 ke beech aapki mehnat bohot rahi aur paise ki tangi bhi, hai na? Abhi career aur shaadi mein se sabse zyada tension kis baat ki hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, paisa ka issue tha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi. Parents rishta dekh rahe hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne family pressure ki baat ki thi, aur ab rishte dekh rahe hain toh suno, tumhare hone wale partner kaafi calm aur educated honge, par unka nature thoda reserved hoga. Kya tumne koi profile dekhi hai abhi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Pichli baar tumne family pressure ki baat ki thi, aur ab rishte dekh rahe hain toh suno, tumhare hone wale partner kaafi calm aur educated honge, par unka nature thoda reserved hoga. Kya tumne koi profile dekhi hai abhi?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan, dekhi hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte ki baat aur paise ki tangi dono ek hi wajah se hain—aapke mann ka grah abhi thoda kamzor hai, jisse cheezein abhi dheemi chal rahi hain. Hone wale in-laws kaafi traditional aur reserved honge, toh thoda dhyaan se aage badhna. Kya aapne us ladke ke parivaar se baat ki hai ya sirf biodata dekha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishte ki baat aur paise ki tangi dono ek hi wajah se hain—aapke mann ka grah abhi thoda kamzor hai, jisse cheezein abhi dheemi chal rahi hain. Hone wale in-laws kaafi traditional aur reserved honge, toh thoda dhyaan se aage badhna. Kya aapne us ladke ke parivaar se baat ki hai ya sirf biodata dekha hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Sirf biodata dekha hai.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Biodata shuruat hai, rishton ke grah ke kamzor hone se savdhan rehna. Is Friday 'Om Shum Shukraya Namah' 108 baar jaap aur safed mithai daan karo. Kya ladke ne aapse baat ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Biodata shuruat hai, rishton ke grah ke kamzor hone se savdhan rehna. Is Friday 'Om Shum Shukraya Namah' 108 baar jaap aur safed mithai daan karo. Kya ladke ne aapse baat ki hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension aur ladke ki khamoshi ek grah ke dabav se hai, tumhari galti nahi. 24 Nov se Hanuman Chalisa karo. Ek rishta jald aayega jise pehchanna zaroori hai, warna baat atak sakti hai. Ghar wale kya bol rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tension aur ladke ki khamoshi ek grah ke dabav se hai, tumhari galti nahi. 24 Nov se Hanuman Chalisa karo. Ek rishta jald aayega jise pehchanna zaroori hai, warna baat atak sakti hai. Ghar wale kya bol rahe hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Sab jaldi shadi ko bol rahe",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Family ka pressure samajh mein aata hai, par jaldbaazi risky hai. Rishton ka grah abhi thoda dab gaya hai, isliye thoda rukna hi sahi hai. Kya ladke ke baare mein sab pata kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Family ka pressure samajh mein aata hai, par jaldbaazi risky hai. Rishton ka grah abhi thoda dab gaya hai, isliye thoda rukna hi sahi hai. Kya ladke ke baare mein sab pata kiya hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kya kare ab",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladke ki thodi jaanch-parakh karo, rishton ka grah abhi kamzor hai, jaldbaazi theek nahi. March 2027 ke baad cheezein saaf hongi. Kya unke parivaar ka koi connection hai aapke circle mein?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ladke ki thodi jaanch-parakh karo, rishton ka grah abhi kamzor hai, jaldbaazi theek nahi. March 2027 ke baad cheezein saaf hongi. Kya unke parivaar ka koi connection hai aapke circle mein?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi pta",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension mat lo, tumhara mann ka grah kamzor hai, isliye shaadi aur paise mein dikkat hai. Somwar ko 'Om Som Somaya Namah' ka jaap karo. Waise, career mein ek bada badlav aane wala hai, kya tumne uske baare mein socha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Tension mat lo, tumhara mann ka grah kamzor hai, isliye shaadi aur paise mein dikkat hai. Somwar ko 'Om Som Somaya Namah' ka jaap karo. Waise, career mein ek bada badlav aane wala hai, kya tumne uske baare mein socha hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao",
+    "sec": 270,
+    "idx": 23
+  }
+]

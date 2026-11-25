@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein kaam aur career mein kaafi achhi tarah se sudhaar aane wala hai. Bataiye, sabse zyada tension kis cheez ki hai - career, paise ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein kaam aur career mein kaafi achhi tarah se sudhaar aane wala hai. Bataiye, sabse zyada tension kis cheez ki hai - career, paise ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji, ismein thoda sochna padta hai. Aapki family rishta dekh rahi hai ya koi aapki pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji, ismein thoda sochna padta hai. Aapki family rishta dekh rahi hai ya koi aapki pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha parents dekh rhe ek rishta h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 ke baad ban raha hai ji. Rishta jaan-pehchaan se hi aayega, aur partner calm aur educated honge. Aap Friday ko safed mithai daan kiya karo, baat aage badhegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 ke baad ban raha hai ji. Rishta jaan-pehchaan se hi aayega, aur partner calm aur educated honge. Aap Friday ko safed mithai daan kiya karo, baat aage badhegi."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Or paisa ka kya h?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki baat bhi zaroori hai ji. Yeh batayiye ki paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki baat bhi zaroori hai ji. Yeh batayiye ki paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Dono me",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 tak paise ki halat mein dheere-dheere sudhar aane lagega ji. Kamai aate hi kharche ki taraf chali jaati hai. Aap abhi koi job kar rahe ho ya padhai chal rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2028 tak paise ki halat mein dheere-dheere sudhar aane lagega ji. Kamai aate hi kharche ki taraf chali jaati hai. Aap abhi koi job kar rahe ho ya padhai chal rahi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Job kar rhi hun",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job mein acche mauke milne lagenge ji. Guru ki kripa se career mein aage badhne ka rasta khulega. Purani jagah hi kaam chal raha hai ya nayi job dekh rahe ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad job mein acche mauke milne lagenge ji. Guru ki kripa se career mein aage badhne ka rasta khulega. Purani jagah hi kaam chal raha hai ya nayi job dekh rahe ho?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Purani hi h",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani jagah par hi June 2027 ke baad halat behtar hone lagenge ji. Shani ka dabav kam hone se ruka hua kaam chal padega. 2027 aur 2028 ke beech door ki yatra ya alag jagah se bhi mauka ban sakta hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Purani jagah par hi June 2027 ke baad halat behtar hone lagenge ji. Shani ka dabav kam hone se ruka hua kaam chal padega. 2027 aur 2028 ke beech door ki yatra ya alag jagah se bhi mauka ban sakta hai."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht h",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein thaka deti hai ji, par March 2027 ke baad mahol mein rahat aane lagegi. Shani ka jo bhaari asar abhi chal raha hai, woh dheere-dheere kam ho jayega. Yeh tension kis baat ko lekar zyada hai ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein thaka deti hai ji, par March 2027 ke baad mahol mein rahat aane lagegi. Shani ka jo bhaari asar abhi chal raha hai, woh dheere-dheere kam ho jayega. Yeh tension kis baat ko lekar zyada hai ji?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Bas ghar ka mahol",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka aisa mahol sach mein mann ko bitha deta hai ji. Mangal aur Shani ke asar se ghar mein chhoti baaton par takrar hoti hai. June 2027 ke baad yeh bina wajah ka तनाव khud-b-khud kam hone lagega ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ka aisa mahol sach mein mann ko bitha deta hai ji. Mangal aur Shani ke asar se ghar mein chhoti baaton par takrar hoti hai. June 2027 ke baad yeh bina wajah ka तनाव khud-b-khud kam hone lagega ji."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad jab naya samay shuru hoga, tab ghar ke mahol aur rishte mein ek bada badlav dekhne ko milega ji. Usi dauran career aur family ko lekar kuch naye raste khulenge, jo aapke liye behtar rahenge.",
+    "sec": 285,
+    "raw_response": {
+      "message": "March 2027 ke baad jab naya samay shuru hoga, tab ghar ke mahol aur rishte mein ek bada badlav dekhne ko milega ji. Usi dauran career aur family ko lekar kuch naye raste khulenge, jo aapke liye behtar rahenge."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 20
+  }
+]

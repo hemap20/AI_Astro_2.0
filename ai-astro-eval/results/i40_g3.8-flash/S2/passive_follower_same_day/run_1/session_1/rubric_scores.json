@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 3,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 4,
+    "2.6": 7,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.38,
+  "shape": {
+    "M": 9,
+    "avg_words": 34.6,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Sabse zyada chinta abhi career ko lekar hai ya shaadi ko lekar?",
+        "why": "The user said 'Future', and the astrologer responded with a choice of topics rather than acknowledging the user's input."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Rishte mein aap sabse zyada kya dekhti hain?",
+        "why": "No Type C questions, but more than half are Type B (generic questions)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "Not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se banega. Rishton ka grah thoda daba hai, isliye thodi deri aayi.",
+        "why": "Now, New, Specific, and Reason are all yes, with a concrete marker (March 2027)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se banega.",
+        "why": "Clear direction given without the user repeating the question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mann ka grah kamzor hai isliye ghar ki tension seedha dimag par asar karti hai",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Dusre ghar mein kamzor asar se paisa haath mein rukta nahi.",
+        "why": "Two later readings are each New and Uses."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se banega.",
+        "why": "Gives a single date/month rather than a window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukrawar se safed mithaai daan kijiye, mann ka darr dur hoga.",
+        "why": "One remedy for the stated problem with how and when."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "User did not change topic."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kundli mein ek aisi baat bhi dikh rahi hai jo shaadi ko jaldi pakka karegi.",
+        "why": "Names one specific further thing about their concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Abhi recharge karke chat aage badhaiye, main poora batati hoon.",
+        "why": "Closing message while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Somwar se Om Som Somaya Namah ka jaap shuru kijiye, aaram milega.",
+        "why": "One of the last two messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mann ka grah kamzor hai isliye ghar ki tension seedha dimag par asar karti hai",
+        "why": "U is 0 and F is 0."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ladka lamba aur shant nature ka hoga, par thoda kam bolne wala hoga.",
+        "why": "Changes approach in the very next reply after the trigger."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      }
+    ]
+  }
+}

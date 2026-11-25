@@ -1,0 +1,173 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 4,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 4,
+    "2.3": 6,
+    "2.4": 6,
+    "2.5": 4,
+    "2.6": 6,
+    "2.7": 9,
+    "3.1": 6,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": null,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.2,
+  "shape": {
+    "M": 8,
+    "avg_words": 27.1,
+    "long_share": 0.38
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Namaste ji. Kahiye, kya janna chahti hain aap aaj?",
+        "why": "The astrologer greets the user but does not acknowledge the specific worry or feeling shared in the first message, as the user only said 'Hi' initially."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya November 2022 mein aapke college mein kuch badlav aaya tha?",
+        "why": "The astrologer asks a Type B question about college, which is generic. The question about 'ghar wale is rishte ko lekar jaldi mein hain?' is also Type B. There is one Type C question: 'March 2027 mein shaadi ka yog sabse pakka lagta hai' is a prediction, but the question 'Kya ghar mein rishte ki baat aage badhane mein kisi purani baat par charcha hoti hai?' is Type B. The question 'Kya aapko kaam ke liye kahin door jana pad sakta hai?' is Type B. The question 'Kya aapko pehle bhi aisi hi der ka samna karna pada hai?' is Type B. The question 'Kya is tanaav ki wajah se aapki neend par asar padta hai?' is Type B. No Type A questions found."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pichli baar maine aapko Hanuman Chalisa batayi thi. Aapki shaadi ka yog March 2027 se September 2028 ke beech hai.",
+        "why": "The reading is about the future, but it references a past interaction (Hanuman Chalisa), making it specific to the user. It is not tied to a chart reason in this specific line."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech hai.",
+        "why": "The astrologer gives a direction (a time window), but it is not a clear answer to 'kab tak' without the user having to ask for specifics later."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Mehnat aur karm ke grah ki sthiti se abhi thoda samay lag raha hai.",
+        "why": "The astrologer mentions 'karm ke grah' but does not link it to a specific life statement in a way that explains the user's situation clearly; it's a generic statement."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Ye rishta pakka ho sakta hai, kyunki partner shant aur padhe-likhe hain, bas thode reserve rehte hain.",
+        "why": "The astrologer adds new points about the partner, but does not use specific details provided by the user in the chat to build depth."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 4,
+        "quote": "March 2027 mein shaadi ka yog sabse pakka lagta hai.",
+        "why": "The astrologer gives a specific month (March 2027) as a firm prediction, which is risky and falls into the medium category."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Shukra ke liye Friday se white sweets donate kijiye.",
+        "why": "The remedy is given for the problem (marriage/Venus), but it lacks the 'how' or 'when' in terms of duration or specific intent beyond the day."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "April 2027 tak ghar ka mahol shant hone lagega... ab job: wo bhi isi samay se judi hai",
+        "why": "The astrologer answers the marriage, job, and home tension questions in a logical flow, connecting the job to the marriage timing."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapke hone wale partner ke baare mein ek khaas baat kundli mein hai jo waqt aane par pata chalegi.",
+        "why": "This is a generic pointer that does not open a specific, actionable layer for the user."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke hone wale partner ke baare mein ek khaas baat kundli mein hai jo waqt aane par pata chalegi.",
+        "why": "No closing message, and every reply carries a reading or question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "April 2027 tak ghar ka mahol shant hone lagega. Himmat aur urja ke grah ke asar se yeh tanaav dheere-dheere kam hoga.",
+        "why": "The last message provides a real reading about the home tension."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "reading"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      }
+    ]
+  }
+}

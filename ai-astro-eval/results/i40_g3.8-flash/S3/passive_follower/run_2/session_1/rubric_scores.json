@@ -1,0 +1,235 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 6,
+    "2.6": 7,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 4,
+    "4.2": 6,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.2,
+  "shape": {
+    "M": 9,
+    "avg_words": 33.4,
+    "long_share": 0.78
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User shared no specific worry or feeling in the first message, only a general request."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Abhi padhai poori ho gayi ya chal rahi hai?",
+        "why": "No Type C questions, but most questions are Type B (generic)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not about another person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kismat aur gyaan ke grah ki madad se career acha banega.",
+        "why": "It is about the present and gives a reason, but it is generic and could apply to anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Wo rasta teaching ya media ki line mein achi job dila sakta hai.",
+        "why": "Gives a clear direction for the career question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mann ke grah par do bhari grahon ki nazar se aisi bechaini aur gussa banta hai.",
+        "why": "Multiple linked readings provided in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Dusve ghar mein baithe grah se aage chal kar finance ya tech ke kshetra mein kaisa badlaav aayega, yeh dekhna zaroori hai.",
+        "why": "Adds new points and uses chart reasons."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Ek khaas samay par aapko badi tarakki milne ka yog ban raha hai.",
+        "why": "No specific time window given, very hedged."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Guruvar ko chana dal daan kijiye, rasta asaan hoga.",
+        "why": "Provides a remedy with a specific day."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User did not change topic."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Dusve ghar mein baithe grah se aage chal kar finance ya tech ke kshetra mein kaisa badlaav aayega, yeh dekhna zaroori hai.",
+        "why": "Opens a specific further layer about the career."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is bare mein poori baat abhi samajhne ke liye chat recharge kar lijiye.",
+        "why": "The astrologer ends the chat with a pitch to recharge."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Is bare mein poori baat abhi samajhne ke liye chat recharge kar lijiye.",
+        "why": "The last message is a pitch, leaving the user with no reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Dusve ghar mein baithe grah",
+        "why": "Uses technical term 'Dusve ghar' without explanation."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kismat aur gyaan ke grah ki madad se career acha banega.",
+        "why": "Adapts to the vague user by asking a question and then providing a reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "reading"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      }
+    ]
+  }
+}

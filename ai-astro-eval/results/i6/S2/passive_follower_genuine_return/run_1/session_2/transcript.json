@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. 2027 mein aapke career mein achhi rahat dikh rahi hai. Bataiye, aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. 2027 mein aapke career mein achhi rahat dikh rahi hai. Bataiye, aaj kis baare mein baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 ke baad hogi. Shani ki dasha yeh yog laayegi. Aap unmarried hi hain na ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 ke baad hogi. Shani ki dasha yeh yog laayegi. Aap unmarried hi hain na ji?",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha unmarried hu rishta dekh rhe gharwale",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gharwale rishta dekh rahe hain toh yeh theek hai ji. March 2027 ke baad Shani ke prabhav se baat pakki hone ke yog hain. Aapka hone wala partner kaafi shant aur padha-likha hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Gharwale rishta dekh rahe hain toh yeh theek hai ji. March 2027 ke baad Shani ke prabhav se baat pakki hone ke yog hain. Aapka hone wala partner kaafi shant aur padha-likha hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k kya hai?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke baad paisa rukne lagega ji. Ketu 6th house mein hone se karza bhi utrega. 2028 ke baad apne ghar ka yog bhi hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "2027 ke baad paisa rukne lagega ji. Ketu 6th house mein hone se karza bhi utrega. 2028 ke baad apne ghar ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension mid-2027 ke baad kam hogi ji. Mangal ke prabhav se yeh sthiti sudhar jayegi. Thoda sabr rakhiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension mid-2027 ke baad kam hogi ji. Mangal ke prabhav se yeh sthiti sudhar jayegi. Thoda sabr rakhiye.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tech ya finance mein mauka banega ji. 2027 ke baad career tezi pakdega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tech ya finance mein mauka banega ji. 2027 ke baad career tezi pakdega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se videsh jaane ka yog hai. Isse career mein bada badlaav aayega. Rahu aur Shukra yeh rasta kholenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027 se videsh jaane ka yog hai. Isse career mein bada badlaav aayega. Rahu aur Shukra yeh rasta kholenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Foreign ka chance pakka banega ji. Rahu 12th house mein yehi dikhata hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Foreign ka chance pakka banega ji. Rahu 12th house mein yehi dikhata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, March 2027 ke Shani period se judi hui ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, March 2027 ke Shani period se judi hui ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 270,
+    "idx": 23
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Batao, kya chal raha hai aur aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Batao, kya chal raha hai aur aaj kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Future janna hai",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zindagi ke har pehlu mein utaar-chadhaav aate hain. Abhi career, ghar ke haalaat ya rishto mein se sabse zyada tension kis cheez ki hai? Khul ke batao taaki sahi se dekh paun.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Zindagi ke har pehlu mein utaar-chadhaav aate hain. Abhi career, ghar ke haalaat ya rishto mein se sabse zyada tension kis cheez ki hai? Khul ke batao taaki sahi se dekh paun."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 mein hai. Kundli mein vivah ka ghar tab majboot hai. 2023 se 2025 tak mehnat zyada aur paise ki tangi rahi, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 mein hai. Kundli mein vivah ka ghar tab majboot hai. 2023 se 2025 tak mehnat zyada aur paise ki tangi rahi, hai na?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Achaa.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale rishte dekh rahe hain ya tumne khud kisi ko pasand kiya hai? Rishte toh aayenge, par ek rishta aisa aayega jise pehchanna zaroori hai, warna galat faisla ho sakta hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar wale rishte dekh rahe hain ya tumne khud kisi ko pasand kiya hai? Rishte toh aayenge, par ek rishta aisa aayega jise pehchanna zaroori hai, warna galat faisla ho sakta hai."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe h. Ek baat ho rhi h.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat chalna accha hai. Shaadi ka ghar majboot hai, par rishton ka grah Shukra abhi thoda dab gaya hai, isliye baatein kabhi-kabhi unclear ya dheemi lag sakti hain.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Baat chalna accha hai. Shaadi ka ghar majboot hai, par rishton ka grah Shukra abhi thoda dab gaya hai, isliye baatein kabhi-kabhi unclear ya dheemi lag sakti hain."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah Shukra kundli mein thoda kamzor hai, isi wajah se baat-cheet mein spashtata ki kami lag rahi hai. Shukravar ko 'Om Shum Shukraya Namah' 108 baar japo aur safed mithai baanto.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rishton ka grah Shukra kundli mein thoda kamzor hai, isi wajah se baat-cheet mein spashtata ki kami lag rahi hai. Shukravar ko 'Om Shum Shukraya Namah' 108 baar japo aur safed mithai baanto."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kaisa rahega?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi March 2027 ke baad dheere-dheere khatam hogi, tabhi shaadi ka yog bhi hai. Abhi paisa bachane wala ghar thoda kamzor hai, isliye abhi naya karz bilkul mat lena.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ki tangi March 2027 ke baad dheere-dheere khatam hogi, tabhi shaadi ka yog bhi hai. Abhi paisa bachane wala ghar thoda kamzor hai, isliye abhi naya karz bilkul mat lena."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar pe bht tension h",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka kaaran Mangal aur Shani ka asar hai, jo gussa aur bhari pan badhate hain. Yehi wajeh hai ki career aur shaadi ki chinta mein ghar ka mahaul bigad raha hai. Mangal ke liye har Mangalwar Hanuman Chalisa padhna shuru karo, isse ghar mein shanti aayegi. Agli baar jab baat karenge, tab tumhare ghar ke rishton ka bhavishya aur apno se judav detail mein samjhenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension ka kaaran Mangal aur Shani ka asar hai, jo gussa aur bhari pan badhate hain. Yehi wajeh hai ki career aur shaadi ki chinta mein ghar ka mahaul bigad raha hai. Mangal ke liye har Mangalwar Hanuman Chalisa padhna shuru karo, isse ghar mein shanti aayegi. Agli baar jab baat karenge, tab tumhare ghar ke rishton ka bhavishya aur apno se judav detail mein samjhenge."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kab baat karu?",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 18
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "role": "USER",
+    "text": "meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai, rishta jaan-pehchaan se aayega. Kya ghar pe inhi ladke ki baat chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai, rishta jaan-pehchaan se aayega. Kya ghar pe inhi ladke ki baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka calm, padha-likha aur warm nature ka hoga, bas thoda guarded side bhi hai uska. Kundli ke hisaab se yeh rishta theek lag raha hai. Kya tumne abhi tak unse directly baat ki hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladka calm, padha-likha aur warm nature ka hoga, bas thoda guarded side bhi hai uska. Kundli ke hisaab se yeh rishta theek lag raha hai. Kya tumne abhi tak unse directly baat ki hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Do baar mli hu",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Wo thoda gussa krte h",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unka gussa thoda Mangal ke asar se hai, tension mat lo. Har Tuesday Hanuman Chalisa padhna shuru karo, isse ye gussa aur darr kam hoga. Kya ghar wale is rishte ke liye poori tarah maan gaye hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Unka gussa thoda Mangal ke asar se hai, tension mat lo. Har Tuesday Hanuman Chalisa padhna shuru karo, isse ye gussa aur darr kam hoga. Kya ghar wale is rishte ke liye poori tarah maan gaye hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha maan gaye",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale maan gaye toh bohot badiya. In-laws traditional aur reserved rahenge, aur waha adjust karne ka ek khaas tareeqa hota hai. Kya unke sath ghar mein koi aur bhi rehta hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar wale maan gaye toh bohot badiya. In-laws traditional aur reserved rahenge, aur waha adjust karne ka ek khaas tareeqa hota hai. Kya unke sath ghar mein koi aur bhi rehta hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte mein ek choti galatfehmi ka dar hai jise pehle hi clear karna hoga. Kya tumne unse apne future plans ke baare mein baat ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishte mein ek choti galatfehmi ka dar hai jise pehle hi clear karna hoga. Kya tumne unse apne future plans ke baare mein baat ki hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baad emotions ka thoda dhyan rakhna padega, tabhi bond aur strong hoga. Friday ko Om Shum Shukraya Namah ka 108 baar jaap shuru karo aur white sweets donate karo. Kya unhone kabhi apne family ke baare mein kuch bataya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi ke baad emotions ka thoda dhyan rakhna padega, tabhi bond aur strong hoga. Friday ko Om Shum Shukraya Namah ka 108 baar jaap shuru karo aur white sweets donate karo. Kya unhone kabhi apne family ke baare mein kuch bataya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aate hi baat pakki hone ke raste khul jayenge. Shaadi se pehle ek aisi baat saamne aayegi jise pehle hi clear karna zaroori hai. Kya unki family se tumhari kabhi phone par baat hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke aate hi baat pakki hone ke raste khul jayenge. Shaadi se pehle ek aisi baat saamne aayegi jise pehle hi clear karna zaroori hai. Kya unki family se tumhari kabhi phone par baat hui hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji. Bas ye dhyaan rakhna ki kundli ka milan ache se ho jaye, kyunki isme thoda dhyan dena zaroori hai. Kya tumne pandit ji ko kundli dikhayi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi ji. Bas ye dhyaan rakhna ki kundli ka milan ache se ho jaye, kyunki isme thoda dhyan dena zaroori hai. Kya tumne pandit ji ko kundli dikhayi hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli milan mein Manglik dosha zaroor check karwa lena, waise ye bohot mild hai aur darrne ki baat nahi hai. Kya ladke ka birth time tumhare paas hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Kundli milan mein Manglik dosha zaroor check karwa lena, waise ye bohot mild hai aur darrne ki baat nahi hai. Kya ladke ka birth time tumhare paas hai?"
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Nahi h",
+    "sec": 270,
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho rha hai",
+    "sec": 270,
+    "idx": 28
+  },
+  {
+    "role": "ASTRO",
+    "text": "Birth time nahi hai toh koi baat nahi, kundli ke baaki yog bilkul saaf hain. Shaadi ke baad in-laws ke sath paiso ko lekar ek aisi situation ban sakti hai jise pehle se handle karna padega, par wo exact cheez kya hai...",
+    "sec": 285,
+    "raw_response": {
+      "message": "Birth time nahi hai toh koi baat nahi, kundli ke baaki yog bilkul saaf hain. Shaadi ke baad in-laws ke sath paiso ko lekar ek aisi situation ban sakti hai jise pehle se handle karna padega, par wo exact cheez kya hai..."
+    },
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 30
+  }
+]

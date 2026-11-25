@@ -86,5 +86,6 @@ def summarize_session(previous_memory_object, new_session_transcript):
         schema_hint=MEMORY_SCHEMA_HINT,
         temperature=0.2,
         model=MODEL_ANALYSIS,
+        role="summarizer",
     )
     return result

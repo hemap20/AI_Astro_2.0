@@ -1,0 +1,196 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, bataiye kismein madad chahiye?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, bataiye kismein madad chahiye?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shaadi pakki hogi ji. Shani ke badalne se rasta banega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 mein shaadi pakki hogi ji. Shani ke badalne se rasta banega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega? Job kab lagegi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job lag jayegi ji. Guru ki majbooti se paisa bhi aane lagega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad job lag jayegi ji. Guru ki majbooti se paisa bhi aane lagega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sab March 2027?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kuch specific batao.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi sawal hai ji. December 2026 mein Mangal ka asar shuru hoga. Phir June 2027 mein Shani ka dabav hatega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Sahi sawal hai ji. December 2026 mein Mangal ka asar shuru hoga. Phir June 2027 mein Shani ka dabav hatega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Matlab June 2027 se pehle kuch nahi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hain, ek baat chal rahi hai abhi.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Uska kya?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat chalna bilkul theek hai ji. Shukra kamzor hone se thoda khichav hai. March ke baad hi baat pakki hogi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Baat chalna bilkul theek hai ji. Shukra kamzor hone se thoda khichav hai. March ke baad hi baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Konse month mein?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Exact bataiye.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ya July 2027 mein final hogi. Shani ki dasha tab badlegi ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June ya July 2027 mein final hogi. Shani ki dasha tab badlegi ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "June ya July mein koi date?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact tarikh toh nahi hoti ji. June 2027 ka pehla hafta dekho. Shani dev tabhi rasta kholenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Exact tarikh toh nahi hoti ji. June 2027 ka pehla hafta dekho. Shani dev tabhi rasta kholenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension khatam hogi ji. Shani ka asar 8th house se hatega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad tension khatam hogi ji. Shani ka asar 8th house se hatega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch 2027 mein hi hona hai kya?",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Aise toh bahut time hai.",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 26
+  }
+]

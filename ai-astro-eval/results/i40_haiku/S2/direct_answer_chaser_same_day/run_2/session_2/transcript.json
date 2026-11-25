@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Aap kis baat ke liye aayi hain, bataiye.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Aap kis baat ke liye aayi hain, bataiye."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb hogi meri",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichli baar aapki shadi aur naukri ki baat hui thi. Shadi ke liye mera dekha hua samay Mar 2027 se Sep 2028 ke beech ka hai. Pehle confirm kijiye, kya 2022 mein aapki college ya padhai mein badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, pichli baar aapki shadi aur naukri ki baat hui thi. Shadi ke liye mera dekha hua samay Mar 2027 se Sep 2028 ke beech ka hai. Pehle confirm kijiye, kya 2022 mein aapki college ya padhai mein badlav aaya tha?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha 2022 me change hua tha.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Mar 2027 ya 2028, kaunsa saal pakka hai?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, 2022 mein padhai ka badlav aana aapki kundli se mel khata hai. Shadi ke liye 2027 ka shuru ka hissa zyada majboot lagta hai, phir 2028 mein bhi achha samay hai. Kya aapko abhi koi rishta aaya hai, ya ghar par baat chal rahi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, 2022 mein padhai ka badlav aana aapki kundli se mel khata hai. Shadi ke liye 2027 ka shuru ka hissa zyada majboot lagta hai, phir 2028 mein bhi achha samay hai. Kya aapko abhi koi rishta aaya hai, ya ghar par baat chal rahi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan, parents ek rishta dekh rahe.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunsa mahina?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, 2027 mein Mar se shuru hone wala samay aapke liye zyada achha hai. Mera andaza Mar se May ke beech ka hai, kyunki Shani ka asar tab tak halka hota hai. Rishte mein jaldi haan mat kijiye, pehle ladke ke baare mein poochh lijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, 2027 mein Mar se shuru hone wala samay aapke liye zyada achha hai. Mera andaza Mar se May ke beech ka hai, kyunki Shani ka asar tab tak halka hota hai. Rishte mein jaldi haan mat kijiye, pehle ladke ke baare mein poochh lijiye."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak lagegi meri?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, naukri ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai. Guru aapke kaam aur kismat ka grah hai, aur wo majboot hai. Kya aap abhi padhai se judi koi kaam ki line dekh rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, naukri ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai. Guru aapke kaam aur kismat ka grah hai, aur wo majboot hai. Kya aap abhi padhai se judi koi kaam ki line dekh rahi hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ka tanaav 2027 ke beech mein halka hone lagta hai, Feb ke baad aur Jun ke aaspaas. Ghar ka mahaul shant karne mein aapki boli ka bada haath hai, kyunki Budh baat-cheet ka grah hai. Ghar mein sabse zyada kaun baat badhata hai, mummy, papa ya koi aur?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, ghar ka tanaav 2027 ke beech mein halka hone lagta hai, Feb ke baad aur Jun ke aaspaas. Ghar ka mahaul shant karne mein aapki boli ka bada haath hai, kyunki Budh baat-cheet ka grah hai. Ghar mein sabse zyada kaun baat badhata hai, mummy, papa ya koi aur?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Mummy.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Feb 2027 me date kya hogi?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, Feb 2027 mein Guru ka daur khatam hota hai, aur uske baad ghar ka bojh kam hone lagta hai. Exact din ka main pakka nahi bata sakti, bas Feb ka mahina dekhiye. Mummy ki baat par jhagda karne se pehle thoda shant rahiye, uska asar seedha hota hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, Feb 2027 mein Guru ka daur khatam hota hai, aur uske baad ghar ka bojh kam hone lagta hai. Exact din ka main pakka nahi bata sakti, bas Feb ka mahina dekhiye. Mummy ki baat par jhagda karne se pehle thoda shant rahiye, uska asar seedha hota hai."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Aap exact date kyu nahi bata pa rahe?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, exact din ka hisaab kundli se nahi nikalti, isliye main sirf mahina aur samay bata sakti hoon. Feb 2027 ke aaspaas ghar ka bojh kam hota dikhta hai. Kya mummy ki baat par aapka mann sabse zyada bhari rehta hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, exact din ka hisaab kundli se nahi nikalti, isliye main sirf mahina aur samay bata sakti hoon. Feb 2027 ke aaspaas ghar ka bojh kam hota dikhta hai. Kya mummy ki baat par aapka mann sabse zyada bhari rehta hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 23
+  }
+]

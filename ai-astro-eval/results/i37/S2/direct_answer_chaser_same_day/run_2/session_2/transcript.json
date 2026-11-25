@@ -1,0 +1,113 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, boliye aaj aapke mann mein kya baat hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, boliye aaj aapke mann mein kya baat hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, maine aapse shaadi aur career ke liye March 2027 ke samay ki baat ki thi. Kya aapne wo mantra aur Hanuman Chalisa shuru kiye, ya ghar ki tension abhi bhi waisi hi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, maine aapse shaadi aur career ke liye March 2027 ke samay ki baat ki thi. Kya aapne wo mantra aur Hanuman Chalisa shuru kiye, ya ghar ki tension abhi bhi waisi hi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe rishta dekh rahe, ek baat chal rahi hai. Ye sahi hai ya nahi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta dekhna achha hai, jaldi faisla na lein. Shukra dabne se spashtata ki kami hai. Is rishte mein ek vyakti ka chupa hua swabhav majboot hai; kya wo shant hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta dekhna achha hai, jaldi faisla na lein. Shukra dabne se spashtata ki kami hai. Is rishte mein ek vyakti ka chupa hua swabhav majboot hai; kya wo shant hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta mere liye sahi hai ya nahi? Ha ya na.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, ye rishta achha hai kyunki wo vyakti shant aur samajhdar hain, bas unka swabhav thoda reserve hai. Rishton ke grah ki kamzori door karne ke liye 20 Nov se 'Om Shum Shukraya Namah' 108 baar roz kijiye. Kya aap unse abhi baat karti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, ye rishta achha hai kyunki wo vyakti shant aur samajhdar hain, bas unka swabhav thoda reserve hai. Rishton ke grah ki kamzori door karne ke liye 20 Nov se 'Om Shum Shukraya Namah' 108 baar roz kijiye. Kya aap unse abhi baat karti hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Career aur paisa kab tak settle hoga?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paisa March 2027 se sudharenge. Tab tak 19 Nov se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar kijiye. Aapki kundli mein videsh se judne ka raaz hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Career aur paisa March 2027 se sudharenge. Tab tak 19 Nov se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar kijiye. Aapki kundli mein videsh se judne ka raaz hai."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsa mahina?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki shuruat kaam aur paise ke liye sabse behtar hai. Guru grah majboot hai, jisse ye dono sudharte hi ghar ki tension bhi kam ho jayegi. Aapki kundli mein ek khaas kaam ka kshetra hai jo aapki kismat palat sakta hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ki shuruat kaam aur paise ke liye sabse behtar hai. Guru grah majboot hai, jisse ye dono sudharte hi ghar ki tension bhi kam ho jayegi. Aapki kundli mein ek khaas kaam ka kshetra hai jo aapki kismat palat sakta hai."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh khaas kshetra teaching ya finance hai. Tension March 2027 se kam hogi aur June 2027 tak shanti aa jayegi. Jab career set hoga, toh ghar ka mahol bhi apne aap theek ho jayega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Woh khaas kshetra teaching ya finance hai. Tension March 2027 se kam hogi aur June 2027 tak shanti aa jayegi. Jab career set hoga, toh ghar ka mahol bhi apne aap theek ho jayega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 14
+  }
+]

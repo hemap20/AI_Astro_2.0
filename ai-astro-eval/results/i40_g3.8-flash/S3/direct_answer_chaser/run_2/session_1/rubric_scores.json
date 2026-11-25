@@ -1,0 +1,173 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 9,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 9,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 8,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.62,
+  "shape": {
+    "M": 8,
+    "avg_words": 37.0,
+    "long_share": 0.88
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech career aur kamai achhi pakad banayegi",
+        "why": "The astrologer acknowledges the user's career and money concern by providing a specific timeline for improvement."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi kaam mein sabse badi rukawat kya lagti hai?",
+        "why": "The questions are relevant to the user's situation (Type A/B), and there are no Type C questions."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Khaas karke March aur April 2027 se raste khulenge, kyunki kaam ke ghar ke maalik ka asar aayega. Ek khaas field bhi hai jisme aapka hath bohot tez chalega.",
+        "why": "The reading is specific, provides a timeline, and links to a chart reason (kaam ke ghar ke maalik)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paisa tikna aur aana dono March 2027 se theek hone lagenge.",
+        "why": "The astrologer provides a clear direction (March 2027) and reason (trading/service path) for the user's money question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "karm ke grah ka asar 10ve ghar par hai",
+        "why": "The astrologer links life situations (career/money) to chart factors (karm ke grah, 10ve ghar) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapka number 5 hai, buddhi aur baat-cheet ke grah ka. Dusre ghar mein kamzor asar se paisa tikta nahi",
+        "why": "The astrologer adds new layers (numerology, savings issues) and uses the user's input about money problems."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paisa tikna aur aana dono March 2027 se theek hone lagenge.",
+        "why": "The astrologer provides a consistent window (March 2027) without making promises."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shukrawar ko safed meethi cheez ka daan karein, barqat badhegi.",
+        "why": "The remedy is tied to the problem (money/savings) and includes a specific day."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paisa tikna aur aana dono March 2027 se theek hone lagenge.",
+        "why": "The astrologer consistently returns to the main question about money and career throughout the chat."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Trading ya service ka ek bada rasta dikhta hai.",
+        "why": "The astrologer opens a new layer regarding specific career paths (trading/service) relevant to the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message was sent, and every reply carried relevant information."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehle job se khud ko sambhaliye, phir business mein hath daaliye.",
+        "why": "The last message provides practical guidance, leaving the user with a concrete step."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "karm ke grah ka asar 10ve ghar par hai",
+        "why": "The language is easy and conversational, and astrology terms are explained in real-life context."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, bataiye aaj main aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, bataiye aaj main aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar maine aapke career aur shaadi ka zikr kiya tha. Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. 2025 ke baad se kya ghar mein rishte ki baatein shuru ho gayi thin?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar maine aapke career aur shaadi ka zikr kiya tha. Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. 2025 ke baad se kya ghar mein rishte ki baatein shuru ho gayi thin?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha, parents abhi rishta dekh rhe hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaun se mahine tak?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad yog majboot hain, mid-2027 tak baat ban sakti hai. Career aur shaadi ek saath badlenge. Ek khaas rishta aane wala hai; kya abhi koi rishta dekh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad yog majboot hain, mid-2027 tak baat ban sakti hai. Career aur shaadi ek saath badlenge. Ek khaas rishta aane wala hai; kya abhi koi rishta dekh rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kb tak aayega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paise ki halat mein sudhaar aayega. Aapki naukri aur paisa, dono ek hi 10th ghar ke dheeme hone ki wajah se ruke hain. Aapne abhi tak kitne banking exams diye hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se paise ki halat mein sudhaar aayega. Aapki naukri aur paisa, dono ek hi 10th ghar ke dheeme hone ki wajah se ruke hain. Aapne abhi tak kitne banking exams diye hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "3 diye hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "2027 se pehle koi chances nahi hai kya?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se pehle naukri mushkil hai, par ye mehnat bekar nahi. 2023-2025 mein skills badhane mein waqt diya tha, hai na? Career mein ek bada mauka aane wala hai. Kaunsa exam de rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2027 se pehle naukri mushkil hai, par ye mehnat bekar nahi. 2023-2025 mein skills badhane mein waqt diya tha, hai na? Career mein ek bada mauka aane wala hai. Kaunsa exam de rahi hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "SBI Clerk.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kb khtm hogi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur career ka stress ek hi grah se judey hain, kyunki 10th ghar abhi dheema hai. March 2027 se aapke ghar mein sukoon aayega. Kya aap ghar pe sab kuch akele sambhal rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur career ka stress ek hi grah se judey hain, kyunki 10th ghar abhi dheema hai. March 2027 se aapke ghar mein sukoon aayega. Kya aap ghar pe sab kuch akele sambhal rahi hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch 2027 pe hi kyu hai?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kuch aur nahi ho skta?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Karm ka grah abhi thoda dheema hai, isliye career aur ghar dono mein rukawat hai. June 2027 ke baad ye pressure hat jayega. Career mein ek madadgaar insaan ki entry hogi jo cheezein aasan karega. Aap stress kam karne ke liye abhi kya karti hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Karm ka grah abhi thoda dheema hai, isliye career aur ghar dono mein rukawat hai. June 2027 ke baad ye pressure hat jayega. Career mein ek madadgaar insaan ki entry hogi jo cheezein aasan karega. Aap stress kam karne ke liye abhi kya karti hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Stress ki baat chhodo.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rhi wo bta ni rhe.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Sab 2027 pe hi kyu hai, pehle kuch nahi ho sakta?",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Karm ka grah abhi 8th ghar mein hai, jisse career-ghar ruke hain. June 2027 mein daur badlega. Ek janne wala insaan madad karega. Aapne kisi se is baare mein baat ki hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Karm ka grah abhi 8th ghar mein hai, jisse career-ghar ruke hain. June 2027 mein daur badlega. Ek janne wala insaan madad karega. Aapne kisi se is baare mein baat ki hai?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "5 minute aise hi nikal gaye.",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 240,
+    "idx": 27
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future. Career kaisa rahega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Main Sitara hoon. Aapke career aur aage ki zindagi ke baare mein zaroor batati hoon. Abhi aap padhai kar rahi hain ya job kar rahi hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Main Sitara hoon. Aapke career aur aage ki zindagi ke baare mein zaroor batati hoon. Abhi aap padhai kar rahi hain ya job kar rahi hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kar rhi hu. Job kab tak lagegi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech achhi job lagne ke yog hain, kyunki kismat ka grah majboot hai. Kya 2022 ke aaspas aapki padhai mein koi badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech achhi job lagne ke yog hain, kyunki kismat ka grah majboot hai. Kya 2022 ke aaspas aapki padhai mein koi badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine me sabse strong hai?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 mein achha chance hai, jab karm ka dabav hatega. Aapke liye videsh se juda ek khas mauka bhi dikh raha hai. Abhi kis field mein hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "July 2027 mein achha chance hai, jab karm ka dabav hatega. Aapke liye videsh se juda ek khas mauka bhi dikh raha hai. Abhi kis field mein hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pura saal 2027 kaisa rahega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein February aur June ke baad badi rahat milegi. Rahu ke 12ve ghar mein hone se bahar se kaam ka mauka ban raha hai. Thu ko chana dal daan karein. Kya aap bahar jana chahti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2027 mein February aur June ke baad badi rahat milegi. Rahu ke 12ve ghar mein hone se bahar se kaam ka mauka ban raha hai. Thu ko chana dal daan karein. Kya aap bahar jana chahti hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya? 12ve ghar ka kya matlab?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "12va ghar videsh aur nayi jagah ka hota hai. Aapka number 5 hai, jo buddhi ke grah Budh ka hai. Kya aap finance ya teaching ki taraf dekh rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "12va ghar videsh aur nayi jagah ka hota hai. Aapka number 5 hai, jo buddhi ke grah Budh ka hai. Kya aap finance ya teaching ki taraf dekh rahi hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. 2027 me job kab tak confirm hogi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 tak job pakki hone ke pure chance hain, kyunki mehnat ke grah ka dabav June mein khatam hoga. Kya abhi tayari mein thodi rukavat aa rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "July 2027 tak job pakki hone ke pure chance hain, kyunki mehnat ke grah ka dabav June mein khatam hoga. Kya abhi tayari mein thodi rukavat aa rahi hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya scene hai?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki aavak rahegi, par 2nd ghar kamzor hone se paisa abhi tikta nahi hai. Job ke baad 2028 se barakat aayegi. Kya abhi kharche zyada ho rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ki aavak rahegi, par 2nd ghar kamzor hone se paisa abhi tikta nahi hai. Job ke baad 2028 se barakat aayegi. Kya abhi kharche zyada ho rahe hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya? 2nd ghar kya hota hai?",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Paisa kab tak aayega?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "2nd ghar dhan aur bachat ka hota hai. March 2027 se September 2028 ke beech paisa tikna shuru ho jayega. Kya aap abhi shaadi ke baare mein bhi soch rahi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "2nd ghar dhan aur bachat ka hota hai. March 2027 se September 2028 ke beech paisa tikna shuru ho jayega. Kya aap abhi shaadi ke baare mein bhi soch rahi hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  }
+]

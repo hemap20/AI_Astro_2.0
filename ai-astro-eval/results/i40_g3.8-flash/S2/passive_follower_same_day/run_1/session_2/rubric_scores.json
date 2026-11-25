@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 1,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.29,
+  "shape": {
+    "M": 9,
+    "avg_words": 28.4,
+    "long_share": 0.44
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pichli baar humne shaadi ki baat aur chana dal daan karne par baat ki thi.",
+        "why": "The astrologer acknowledges the user's previous interaction."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya wo shuru kiya aapne?",
+        "why": "Most questions are Type B (generic life questions) rather than Type A (building on specific user input)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 1,
+        "quote": "",
+        "why": "The astrologer never asks for the partner's details to provide a specific reading."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Tabhi se mann ke grah ka daur shuru hua tha, jisne dimaag par bohot bojh badha diya.",
+        "why": "The reading is about the present and uses a chart reason, but it is generic and could apply to almost anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Paisa aane ka yog March 2027 se banega.",
+        "why": "Provides a clear direction and time window for the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ka kalesh aur paiso ki rukaawat dono doosre ghar ke kamzor hone se jude hain.",
+        "why": "Links a life issue to a chart factor in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mann ke grah par bhari asar ki wajah se neend udti hai.",
+        "why": "Later readings add new points and use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paisa aane ka yog March 2027 se banega.",
+        "why": "Provides a window and maintains consistency."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "23 November se Somwar ka vrat shuru kijiye, sukoon milega.",
+        "why": "Remedy is tied to the problem and includes a specific time."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ka kalesh aur paiso ki rukaawat dono doosre ghar ke kamzor hone se jude hain.",
+        "why": "The astrologer addresses the user's changing topics sequentially."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke baad aapke sasural wale purane khayalat ke honge ya nahi, ye jaanna zaroori hai.",
+        "why": "Opens a specific further layer regarding the marriage concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "",
+        "why": "No early close; every message carries relevant content."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is baat ko abhi poora samajhne ke liye chat recharge kijiye.",
+        "why": "The last message is a pitch, leaving the user with no reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ka kalesh aur paiso ki rukaawat dono doosre ghar ke kamzor hone se jude hain.",
+        "why": "Uses easy, everyday language without formal or bookish phrasing."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger present."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      }
+    ]
+  }
+}

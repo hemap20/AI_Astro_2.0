@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Aap kaise hain? Aap apni koi bhi baat bina jhijhak batayiye, main dhyan se sunti hoon.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Aap kaise hain? Aap apni koi bhi baat bina jhijhak batayiye, main dhyan se sunti hoon."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichli baar hum shaadi ke time aur paise ki tension par baat kar rahe the. Aapne bataya tha ghar mein tension bhi rehti hai. Ab aap batayiye, is waqt sabse zyada kya pareshan karta hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, pichli baar hum shaadi ke time aur paise ki tension par baat kar rahe the. Aapne bataya tha ghar mein tension bhi rehti hai. Ab aap batayiye, is waqt sabse zyada kya pareshan karta hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ko leke.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, shaadi ki fikr hona bilkul samajh aata hai. Aapke chart mein shaadi ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai. Kya aap bata sakti hain, rishte ki baat abhi kis tarah aa rahi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, shaadi ki fikr hona bilkul samajh aata hai. Aapke chart mein shaadi ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai. Kya aap bata sakti hain, rishte ki baat abhi kis tarah aa rahi hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Parents dekh rahe h.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta h.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, parents ka rishta dekhna aur aapka dil mein ulajhan hona, dono swabhavik hain. Aapke chart mein shaadi arranged tarike se hone ki zyada sambhavna hai, jaane-pehchane logon ke zariye. Kya aap pehle ye bata sakte hain ki aapki padhai ya college ka daur kab shuru hua tha?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, parents ka rishta dekhna aur aapka dil mein ulajhan hona, dono swabhavik hain. Aapke chart mein shaadi arranged tarike se hone ki zyada sambhavna hai, jaane-pehchane logon ke zariye. Kya aap pehle ye bata sakte hain ki aapki padhai ya college ka daur kab shuru hua tha?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k chinta h",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, paise ki fikr bhi aapke saath chal rahi hai, ye main samajh sakti hoon. Aapke chart mein paise ka daur dhire-dhire theek hota dikhta hai, Mar 2027 se Sep 2028 ke beech. Kya aap bata sakti hain, ghar ke kharche ya kamai mein kya zyada pareshani hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, paise ki fikr bhi aapke saath chal rahi hai, ye main samajh sakti hoon. Aapke chart mein paise ka daur dhire-dhire theek hota dikhta hai, Mar 2027 se Sep 2028 ke beech. Kya aap bata sakti hain, ghar ke kharche ya kamai mein kya zyada pareshani hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Dono",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht h",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ka tension aur paise ka dabav saath chalein to mann bhari rehta hai, ye main samajh sakti hoon. Aapke chart mein Chandra, yaani mann ka grah, kamzor hai, isliye neend aur mann ki bechaini badh jaati hai. Kya aap bata sakti hain, ye tension kab se zyada mehsoos hone laga?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, ghar ka tension aur paise ka dabav saath chalein to mann bhari rehta hai, ye main samajh sakti hoon. Aapke chart mein Chandra, yaani mann ka grah, kamzor hai, isliye neend aur mann ki bechaini badh jaati hai. Kya aap bata sakti hain, ye tension kab se zyada mehsoos hone laga?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pichle saal se.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichle saal se tension badhna, ye sun kar samajh aata hai. Aapke chart mein Guru ka daur Oct 2025 se chal raha hai, jisme kaam aur shaadi ki soch zyada aayi. Kya aap bata sakti hain, pichle saal kya badla tha, padhai ya kaam mein?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, pichle saal se tension badhna, ye sun kar samajh aata hai. Aapke chart mein Guru ka daur Oct 2025 se chal raha hai, jisme kaam aur shaadi ki soch zyada aayi. Kya aap bata sakti hain, pichle saal kya badla tha, padhai ya kaam mein?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, aap pareshan mat hoiye. Aap bas itna bataiye, pichle saal aap padhai kar rahi thi ya naukri dhoondh rahi thi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi ji, aap pareshan mat hoiye. Aap bas itna bataiye, pichle saal aap padhai kar rahi thi ya naukri dhoondh rahi thi?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kr rhi thi",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, padhai ke saath ghar ka dabav ho to dimag aur neend par asar padta hai, ye sach hai. Aapke chart mein Chandra ka daur Nov 2022 se chal raha hai, jisme padhai aur college ka samay badal gaya. Kya ye sahi hai ki aap us waqt college mein thi?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, padhai ke saath ghar ka dabav ho to dimag aur neend par asar padta hai, ye sach hai. Aapke chart mein Chandra ka daur Nov 2022 se chal raha hai, jisme padhai aur college ka samay badal gaya. Kya ye sahi hai ki aap us waqt college mein thi?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 270,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, theek hai. Aapke chart mein Chandra ka daur Nov 2022 se shuru hua, aur usi waqt padhai aur college ka samay badal gaya. Ab ek baat batayiye, aapko raat mein neend aati hai ya dimag mein sochte rehti hain?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ji, theek hai. Aapke chart mein Chandra ka daur Nov 2022 se shuru hua, aur usi waqt padhai aur college ka samay badal gaya. Ab ek baat batayiye, aapko raat mein neend aati hai ya dimag mein sochte rehti hain?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Nind nhi aati.",
+    "sec": 300,
+    "idx": 26
+  }
+]

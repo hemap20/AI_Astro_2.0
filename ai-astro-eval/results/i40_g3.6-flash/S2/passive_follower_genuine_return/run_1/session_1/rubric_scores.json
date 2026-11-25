@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 7,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.94,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.4,
+    "long_share": 0.56
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Namaste ji. Aapki kundali se aapke aage ke samay ke baare mein dekh sakti hoon. Aap sabse pehle kis baare mein jaanna chahte hain, career ya shaadi?",
+        "why": "The astrologer acknowledges the user's request for 'Future' by offering to look at the chart and asking for a specific topic, but it is a generic response."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2022 ke aaspas aapki padhai ya routine mein bada badlaav aaya tha?",
+        "why": "The astrologer asks relevant questions that build on the reading or the user's input, with no Type C questions."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person's name or birth details."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Shaadi ka yog March 2027 se September 2028 ke beech bohot majboot ban raha hai.",
+        "why": "The first reading is entirely about the future, failing the 'Now' check."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ka yog March 2027 se September 2028 ke beech bohot majboot ban raha hai.",
+        "why": "A clear direction and time window are provided immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki kundali mein rishton ka grah Shukra thoda kamzor hai",
+        "why": "Multiple readings are linked to chart factors using everyday language."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mann ke grah par pressure se overthinking hoti hai, jisse neend aur ghar ka mahaul dono prabhavit hote hain.",
+        "why": "Later readings add new points and use details provided by the user (tension, sleep)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech",
+        "why": "A consistent time window is provided throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Is rishte mein madad ke liye Shukravaar se 'Om Shum Shukraya Namah' ka jaap kijiye.",
+        "why": "The remedy is tied to the specific problem and includes instructions."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kamai ke grah majboot hain, par abhi paise rukne mein dikkat aati hai.",
+        "why": "The astrologer answers the shaadi, money, and tension questions in order without needing reminders."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Hone wale partner ke reserved nature ka sach jaanna abhi baaki hai.",
+        "why": "The astrologer opens a specific next layer regarding the partner's nature."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi recharge karke poori baat jaan sakti hain.",
+        "why": "No closing message or bare acknowledgements; the pitch is not a goodbye."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mann ke grah par pressure se overthinking hoti hai, jisse neend aur ghar ka mahaul dono prabhavit hote hain.",
+        "why": "One of the last two messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundali mein rishton ka grah Shukra thoda kamzor hai",
+        "why": "Uses easy language with no formal or bookish sentences."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap sabse pehle kis baare mein jaanna chahte hain, career ya shaadi?",
+        "why": "The user was vague, and the astrologer adapted by asking a soft question to narrow the focus."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, swagat hai aapka. Bataiye aaj kya pareshan kar raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, swagat hai aapka. Bataiye aaj kya pareshan kar raha hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, March 2027 ke baad career mein bada badlav aayega. Mangal ki mazboot sthiti se paise ki tangi door hogi. 2027-28 mein videsh jaane ka yog bhi dikh raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, March 2027 ke baad career mein bada badlav aayega. Mangal ki mazboot sthiti se paise ki tangi door hogi. 2027-28 mein videsh jaane ka yog bhi dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Shaadi ka kya h?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech mein hai ji. Shani AD shuru hone se ye baat aage badhegi. Partner kaafi shant aur padhe-likhe honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech mein hai ji. Shani AD shuru hone se ye baat aage badhegi. Partner kaafi shant aur padhe-likhe honge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech paisa aana shuru hoga ji. 11th house mein Mangal ki strong sthiti se money flow behtar hoga. Apne khud ke ghar ka yog bhi iske baad banega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech paisa aana shuru hoga ji. 11th house mein Mangal ki strong sthiti se money flow behtar hoga. Apne khud ke ghar ka yog bhi iske baad banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bhut hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension kaaran Shani aur Mangal ka asar hai ji. Mid-2027 tak ye bojh dheere-dheere kam ho jayega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension kaaran Shani aur Mangal ka asar hai ji. Mid-2027 tak ye bojh dheere-dheere kam ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rhe h, kya hoga?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Parivar ke through arranged rishta pakka hai ji. Guru aur Budh yehi batate hain. In-laws thode traditional aur reserved honge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Parivar ke through arranged rishta pakka hai ji. Guru aur Budh yehi batate hain. In-laws thode traditional aur reserved honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hogi?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, partner kaafi calm aur educated honge. Dhanu rashi ka asar unhe samajhdaar banata hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan ji, partner kaafi calm aur educated honge. Dhanu rashi ka asar unhe samajhdaar banata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Darr lag rha hai",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darr lagna bilkul normal hai ji. Kundli mein Chandra par asar se mann bhari rehta hai. Somwar ko Om Som Somaya Namah jaapein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Darr lagna bilkul normal hai ji. Kundli mein Chandra par asar se mann bhari rehta hai. Somwar ko Om Som Somaya Namah jaapein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye darr dheere khatam ho jayega ji. Aapki kundli mein shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ye darr dheere khatam ho jayega ji. Aapki kundli mein shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

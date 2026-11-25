@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2023 se 2025 tak paisa thoda tight raha hoga aur mehnat bhi bohot karni padi hogi. Aaj kis baare mein baat karni hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2023 se 2025 tak paisa thoda tight raha hoga aur mehnat bhi bohot karni padi hogi. Aaj kis baare mein baat karni hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se aayega. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se aayega. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 mein kaunse mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta abhi chal raha hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se June 2027 ke beech baat pakki hone ke bohot chances hain. Shukra ki shanti ke liye Friday ko safed mithai daan karo aur Om Shum Shukraya Namah ka jaap shuru karo. Partner ka nature kaafi calm aur educated hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se June 2027 ke beech baat pakki hone ke bohot chances hain. Shukra ki shanti ke liye Friday ko safed mithai daan karo aur Om Shum Shukraya Namah ka jaap shuru karo. Partner ka nature kaafi calm aur educated hoga."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye job ya kaam ke liye koshish kab se chal rahi hai? Ghar pe is baat ko lekar tension zyada ho rahi hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ye job ya kaam ke liye koshish kab se chal rahi hai? Ghar pe is baat ko lekar tension zyada ho rahi hai kya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan tension hai.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se kamai ke naye raste khulenge aur tension kam hogi. Thursday ko chana dal daan kiya karo, sab theek hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se kamai ke naye raste khulenge aur tension kam hogi. Thursday ko chana dal daan kiya karo, sab theek hoga."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab tak khatam hogi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ghar ki tension kab se chal rahi hai, aur kis baat ko lekar sabse zyada behas hoti hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye ghar ki tension kab se chal rahi hai, aur kis baat ko lekar sabse zyada behas hoti hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "2 saal se, career.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak khatam hogi?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "2 saal se career ko lekar jo tension hai, woh June 2027 ke baad dheere-dheere khatam hone lagegi. Tumhari kundli mein aage chal kar dur ya videsh jaane ka yog bhi saaf dikh raha hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "2 saal se career ko lekar jo tension hai, woh June 2027 ke baad dheere-dheere khatam hone lagegi. Tumhari kundli mein aage chal kar dur ya videsh jaane ka yog bhi saaf dikh raha hai."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Videsh kab jana hoga?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 aur 2028 ke beech videsh ka rasta khul sakta hai. Tumne pehle kabhi bahar jaane ka socha tha ya koi koshish ki thi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "2027 aur 2028 ke beech videsh ka rasta khul sakta hai. Tumne pehle kabhi bahar jaane ka socha tha ya koi koshish ki thi?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan try kiya tha.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaunse month?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke beech mein, khaaskar June ke baad ka time videsh ke liye sabse strong rahega. Tab tak apne saare documents aur tayari poori rakho.",
+    "sec": 255,
+    "raw_response": {
+      "message": "2027 ke beech mein, khaaskar June ke baad ka time videsh ke liye sabse strong rahega. Tab tak apne saare documents aur tayari poori rakho."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 22
+  }
+]

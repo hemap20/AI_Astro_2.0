@@ -1,0 +1,187 @@
+{
+  "scores": {
+    "1.1": 9,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 8,
+    "2.2": 9,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 4,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.12,
+  "shape": {
+    "M": 9,
+    "avg_words": 39.7,
+    "long_share": 0.78
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Main aapki chinta samajh sakti hoon, pichli baar bhi hum rishte ki baat kar rahe the.",
+        "why": "Acknowledges the user's worry and references previous context."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya ghar walo ne mediator ke zariye koi naya rishta dekha abhi?",
+        "why": "Questions are relevant and build on user input, no Type C questions."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi jo rishta aaya hai, kya wo log kisi jaankari ke zariye aaye hain?",
+        "why": "Asks about the rishta with a reason."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah par dabav ki wajah se abhi thodi deri hai, par March 2027 se September 2028 ke beech pakka yoga ban raha hai.",
+        "why": "Reading is about the present, new, specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Rishton ke grah par dabav ki wajah se abhi thodi deri hai, par March 2027 se September 2028 ke beech pakka yoga ban raha hai.",
+        "why": "Provides direction, reason, and a time window."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kamai ke grah ke asar se March 2027 ke baad paisa aana aur rukna shuru hoga.",
+        "why": "Most readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Partner shaant aur padhe-likhe honge, par thode chup-chap rehne wale honge. Kamai ke grah ke asar se March 2027 ke baad paisa aana aur rukna shuru hoga.",
+        "why": "Later readings add new points and use user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 se September 2028 ke beech pakka yoga ban raha hai.",
+        "why": "Provides a clear window without promising a specific date."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kamai ke grah ke asar se March 2027 ke baad paisa aana aur rukna shuru hoga. Shukrawar se Safed mithai daan karna shuru kijiye, raste khulenge.",
+        "why": "Remedy is tied to the cause, with how and when."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapke shaadi aur career ke sawal ka jawab humne dekh liya hai.",
+        "why": "Answers multiple questions but fails to answer the final salary hike question."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Partner shaant aur padhe-likhe honge, par thode chup-chap rehne wale honge.",
+        "why": "Opens a specific further layer about the partner."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Career ke dasve ghar par kismat ke grah ke asar se March aur April 2027 ke beech acchi khabar milne ke sabse zyada chance hain.",
+        "why": "No early close, every reply carries value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is baare mein poori baat janne ke liye abhi chat recharge kijiye.",
+        "why": "The last message is a pitch."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah par dabav ki wajah se abhi thodi deri hai",
+        "why": "Uses easy language with no unexplained technical terms."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No trigger present."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "both"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

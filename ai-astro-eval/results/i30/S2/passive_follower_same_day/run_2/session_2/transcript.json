@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, phir se baat karke achha laga. Ghar ke halat aur wo tension waisi hi hai ya kuch badlaav aaya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, phir se baat karke achha laga. Ghar ke halat aur wo tension waisi hi hai ya kuch badlaav aaya?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Waisi hi hai gharwale rishta dekh rhe",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte ki baat chal rahi hai, par shaadi ka pakka yog March 2027 se hi shuru hoga. Is daur mein dhairya rakhein. Kya jo rishte aa rahe hain, wo aapko pasand hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Rishte ki baat chal rahi hai, par shaadi ka pakka yog March 2027 se hi shuru hoga. Is daur mein dhairya rakhein. Kya jo rishte aa rahe hain, wo aapko pasand hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi pasand",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Chinta mat karo, tumhari kundli mein jeevansathi ka yog ek shant aur padhe-likhe vyakti ka hai. Shayad abhi wale rishte aise nahi hain. Tumhare man mein partner ke liye kya khaas qualities hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Chinta mat karo, tumhari kundli mein jeevansathi ka yog ek shant aur padhe-likhe vyakti ka hai. Shayad abhi wale rishte aise nahi hain. Tumhare man mein partner ke liye kya khaas qualities hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Paisa kaisa rahega?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi abhi mehnat aur kamzor savings ke ghar ki wajah se hai. March 2027 se haalat sudhrenge aur karz kam hone lagega. Kya aap abhi kahin job kar rahe hain ya padhai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki tangi abhi mehnat aur kamzor savings ke ghar ki wajah se hai. March 2027 se haalat sudhrenge aur karz kam hone lagega. Kya aap abhi kahin job kar rahe hain ya padhai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kr rhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai achhi hai, finance ya teaching mein career ke acche yog hain. Shaadi ke mamle mein ek khaas baat hai, tumhare hone wale jeevansathi ka ek guarded side bhi hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Padhai achhi hai, finance ya teaching mein career ke acche yog hain. Shaadi ke mamle mein ek khaas baat hai, tumhare hone wale jeevansathi ka ek guarded side bhi hoga."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo thode reserved honge, apni baatein jaldi share nahi karte. In-laws bhi paramparik honge. Kya aapne ghar walon ko apni pasand ke baare mein bataya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Wo thode reserved honge, apni baatein jaldi share nahi karte. In-laws bhi paramparik honge. Kya aapne ghar walon ko apni pasand ke baare mein bataya?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bohot hai",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka tanav Mangal grah ke prabhav se hai. 24 November se Hanuman Chalisa padhna shuru karein, isse ghar ka mahaul shant hone lagega. Kya aapne ghar pe apni baat khul kar rakhi?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ka tanav Mangal grah ke prabhav se hai. 24 November se Hanuman Chalisa padhna shuru karein, isse ghar ka mahaul shant hone lagega. Kya aapne ghar pe apni baat khul kar rakhi?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi dar lagta hai",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darne ki zarurat nahi, ye ghar ka tanav 2027 ke beech tak apne aap kam ho jayega. Himmat rakhein, kyunki samay ke saath sab thik hota jayega. Kya aapke man mein aage ki padhai ko lekar koi khaas sapna hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Darne ki zarurat nahi, ye ghar ka tanav 2027 ke beech tak apne aap kam ho jayega. Himmat rakhein, kyunki samay ke saath sab thik hota jayega. Kya aapke man mein aage ki padhai ko lekar koi khaas sapna hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Achi job mile bas",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Achhi job ke yog March 2027 se ban rahe hain. Finance ya teaching mein prayas karein. Job milne par salary aur growth ka pattern hum agli baar detail mein samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Achhi job ke yog March 2027 se ban rahe hain. Finance ya teaching mein prayas karein. Job milne par salary aur growth ka pattern hum agli baar detail mein samjhenge."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

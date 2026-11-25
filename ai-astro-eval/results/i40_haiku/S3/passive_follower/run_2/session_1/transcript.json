@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Aap bataiye, aapke mann mein sabse pehle kis baat ki fikar hai: padhai, kaam, ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Aap bataiye, aapke mann mein sabse pehle kis baat ki fikar hai: padhai, kaam, ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, paise ki baat samajh sakti hoon. Paisa kaise aata hai aur kahan chala jata hai, ye thoda batayiye. Kya aapki kamai abhi shuru hui hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, paise ki baat samajh sakti hoon. Paisa kaise aata hai aur kahan chala jata hai, ye thoda batayiye. Kya aapki kamai abhi shuru hui hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi abhi nhi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai, koi baat nahi. Aap yeh batayiye, paise ki tangi aapko kab se mehsoos hone lagi? Kya padhai ke dauran ya uske baad?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Theek hai, koi baat nahi. Aap yeh batayiye, paise ki tangi aapko kab se mehsoos hone lagi? Kya padhai ke dauran ya uske baad?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Padhai k baad",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, padhai khatam hone ke baad paise ki tangi mehsoos hona aam baat hai. Aapki chart mein 2023 se 2025 ke beech paise ki tangi aur himmat ka daur tha, kya ye aapko yaad hai? Kamai abhi kahan se aane ki koshish kar rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, padhai khatam hone ke baad paise ki tangi mehsoos hona aam baat hai. Aapki chart mein 2023 se 2025 ke beech paise ki tangi aur himmat ka daur tha, kya ye aapko yaad hai? Kamai abhi kahan se aane ki koshish kar rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Job dhund rhi hu",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, job dhoondhna thaka dene wala hota hai, aur aap himmat rakhiye. Mere hisaab se job ka daur Mar 2027 ke aas-paas khulta hai, Guru ki madad se. Kya aapko 2023 se 2025 ke beech paise ki tangi aur mehnat ka daur yaad hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, job dhoondhna thaka dene wala hota hai, aur aap himmat rakhiye. Mere hisaab se job ka daur Mar 2027 ke aas-paas khulta hai, Guru ki madad se. Kya aapko 2023 se 2025 ke beech paise ki tangi aur mehnat ka daur yaad hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, theek hai. Aapki job ka daur Mar 2027 se Sep 2028 ke beech majboot hai, kyunki Guru kismat aur kaam ka grah hai aur 10wे ghar mein majboot baitha hai. Kya interview tak pahunchi hain, ya abhi resume bhej rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, theek hai. Aapki job ka daur Mar 2027 se Sep 2028 ke beech majboot hai, kyunki Guru kismat aur kaam ka grah hai aur 10wे ghar mein majboot baitha hai. Kya interview tak pahunchi hain, ya abhi resume bhej rahi hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapka sawal samajh aaya. Aapka janm 1 August 2003 ka hai, is hisaab se aapka lagna swami Budh hai, yaani number 5. Budh buddhi aur baat-cheet ka grah hai, jo aapko samajhdari se kaam karne mein madad karta hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, aapka sawal samajh aaya. Aapka janm 1 August 2003 ka hai, is hisaab se aapka lagna swami Budh hai, yaani number 5. Budh buddhi aur baat-cheet ka grah hai, jo aapko samajhdari se kaam karne mein madad karta hai."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Career kaisa hoga mera?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, career ki baat karein to aapke liye padhai aur baat-cheet wale kaam achhe rahenge, jaise teaching, finance, media ya tech. Kaam ka sahi daur Mar 2027 se Sep 2028 ke beech khulta hai. Kya aap abhi kisi particular field mein kaam dhoondh rahi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, career ki baat karein to aapke liye padhai aur baat-cheet wale kaam achhe rahenge, jaise teaching, finance, media ya tech. Kaam ka sahi daur Mar 2027 se Sep 2028 ke beech khulta hai. Kya aap abhi kisi particular field mein kaam dhoondh rahi hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Marketing",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, marketing mein aapki baat-cheet aur samajh kaam aayegi, kyunki Budh buddhi aur baat-cheet ka grah hai. Ye field aapke liye theek hai. Kya aapne kabhi kisi kaam ya internship mein kaam kiya hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, marketing mein aapki baat-cheet aur samajh kaam aayegi, kyunki Budh buddhi aur baat-cheet ka grah hai. Ye field aapke liye theek hai. Kya aapne kabhi kisi kaam ya internship mein kaam kiya hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, koi baat nahi, pehli job aksar aise hi shuru hoti hai. Aapki chart mein Budh ka asar aapki baat-cheet ko majboot rakhta hai. Kya aap interview dene mein ghabrati hain, ya pehle koi aur mushkil hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ji, koi baat nahi, pehli job aksar aise hi shuru hoti hai. Aapki chart mein Budh ka asar aapki baat-cheet ko majboot rakhta hai. Kya aap interview dene mein ghabrati hain, ya pehle koi aur mushkil hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 21
+  }
+]

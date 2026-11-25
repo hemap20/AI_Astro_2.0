@@ -1,0 +1,140 @@
+[
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar se hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Chart ke hisaab se partner shant, padhe-likhe aur thode reserved nature ke hote hain ji. Kya unka swabhaav aapko waisa hi samajhdar lagta hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Chart ke hisaab se partner shant, padhe-likhe aur thode reserved nature ke hote hain ji. Kya unka swabhaav aapko waisa hi samajhdar lagta hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, wo short-tempered lagta hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye, ye batao?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa thoda ho sakta hai, par aage chal ke yeh rishta sambhal jayega ji. Chart mein gusse ka asar hai, par milaan mein dosha mild hai. Kya unse aapki roz baat-cheet hoti hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Gussa thoda ho sakta hai, par aage chal ke yeh rishta sambhal jayega ji. Chart mein gusse ka asar hai, par milaan mein dosha mild hai. Kya unse aapki roz baat-cheet hoti hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi, ye batao.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai ki woh theek rahenge ji. Mangal ke asar se gussa dikhta hai, par milaan theek hai. Kya ghar walon ne yeh rishta pakka kar diya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Zyada chance hai ki woh theek rahenge ji. Mangal ke asar se gussa dikhta hai, par milaan theek hai. Kya ghar walon ne yeh rishta pakka kar diya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Matlab haan ya naa?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Clear bolo, shaadi karni chahiye ya nahi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, aap aage badh sakte hain. Guru ke asar se samajhdar sathi ka yog hai. Ghar wale kya kehte hain ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan ji, aap aage badh sakte hain. Guru ke asar se samajhdar sathi ka yog hai. Ghar wale kya kehte hain ji?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech hogi ji. Shani ke badalte samay se baat banegi. Kya yeh rishta ghar walon ne tay kiya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech hogi ji. Shani ke badalte samay se baat banegi. Kya yeh rishta ghar walon ne tay kiya hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki shuruwat mein sabse zyada chance hai ji, jab naya samay shuru hota hai. Baaki pura saal rasta khula rahega. Kya ghar par baat pakki ho chuki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ki shuruwat mein sabse zyada chance hai ji, jab naya samay shuru hota hai. Baaki pura saal rasta khula rahega. Kya ghar par baat pakki ho chuki hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 19
+  }
+]

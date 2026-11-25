@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi ke liye aapka samay March 2027 se September 2028 ke beech banta dikh raha hai. Kya November 2022 ke aas-paas aapki padhai ya college mein kuch badlav aaya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shadi ke liye aapka samay March 2027 se September 2028 ke beech banta dikh raha hai. Kya November 2022 ke aas-paas aapki padhai ya college mein kuch badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan college change hua tha",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh ladka samajhdaar aur shaant hai, jo aapke liye achha hai. Aapka himmat ka grah thoda tez hai, par unka sambhal kar chalna aapko balance karega. Shukra ke liye har Shukravar safed mithai baantein. Kya aapke parivaar mein rishton ko lekar koi purani baatein chalti hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Yeh ladka samajhdaar aur shaant hai, jo aapke liye achha hai. Aapka himmat ka grah thoda tez hai, par unka sambhal kar chalna aapko balance karega. Shukra ke liye har Shukravar safed mithai baantein. Kya aapke parivaar mein rishton ko lekar koi purani baatein chalti hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Par woh gusse wala hai",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unhka gussa shayad unke chuppe hue vyavahar ka hissa hai. Aapke chart mein bhi himmat ka grah tez hai. Roz Hanuman Chalisa padhiye. Waise, unke parivaar mein ek aisi baat hai jo shadi ke baad khulegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Unhka gussa shayad unke chuppe hue vyavahar ka hissa hai. Aapke chart mein bhi himmat ka grah tez hai. Roz Hanuman Chalisa padhiye. Waise, unke parivaar mein ek aisi baat hai jo shadi ke baad khulegi."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unke ghar wale kafi purane vicharo ke aur reserved hain, jo shadi ke baad aapko mehsoos hoga. Iske liye har Shanivar kaale til daan kijiye. Aap unke gusse par kaise react karti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Unke ghar wale kafi purane vicharo ke aur reserved hain, jo shadi ke baad aapko mehsoos hoga. Iske liye har Shanivar kaale til daan kijiye. Aap unke gusse par kaise react karti hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Chup ho jati hu",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah kamzor hone se aap chup ho jati hain. Yeh himmat aur mehnat ke grah ka asar hai. Baat shanti se kehna shuru kijiye. Career mein ek bada mauka hai; kya aapne is baare mein socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Mann ka grah kamzor hone se aap chup ho jati hain. Yeh himmat aur mehnat ke grah ka asar hai. Baat shanti se kehna shuru kijiye. Career mein ek bada mauka hai; kya aapne is baare mein socha hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 se February 2030 mein bhi yog hai. Rishton ka grah kamzor hone se aap chup ho jati hain aur shadi mein deri hoti hai; apne liye aawaz uthana shuru kijiye. Waise, aapka career jald hi ek videsh se jude bade badlav ki taraf badhega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "October 2028 se February 2030 mein bhi yog hai. Rishton ka grah kamzor hone se aap chup ho jati hain aur shadi mein deri hoti hai; apne liye aawaz uthana shuru kijiye. Waise, aapka career jald hi ek videsh se jude bade badlav ki taraf badhega."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi ke sawal ka jawab maine de diya hai. Aage hone wale jeevansathi ka kad aur aapsi compatibility par baat karna baki hai. Ise janne ke liye aap abhi chat recharge kar sakti hain.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Shadi ke sawal ka jawab maine de diya hai. Aage hone wale jeevansathi ka kad aur aapsi compatibility par baat karna baki hai. Ise janne ke liye aap abhi chat recharge kar sakti hain."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka din shubh ho, dhanyawad.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapka din shubh ho, dhanyawad."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 24
+  }
+]

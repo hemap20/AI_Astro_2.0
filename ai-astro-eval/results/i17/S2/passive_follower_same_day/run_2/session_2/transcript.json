@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello! Batao kya haal hai, 2023 se 2025 tak tumhari life mein mehnat bohot rahi hogi aur paise ka bhi thoda tight chal raha hoga na?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello! Batao kya haal hai, 2023 se 2025 tak tumhari life mein mehnat bohot rahi hogi aur paise ka bhi thoda tight chal raha hoga na?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha tight hai",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad yeh tangee dheere-dheere theek hone lagegi aur halat sudhregi. Kya ghar pe shaadi ya kisi aur baat ko lekar bhi tension chal rahi hai aajkal?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad yeh tangee dheere-dheere theek hone lagegi aur halat sudhregi. Kya ghar pe shaadi ya kisi aur baat ko lekar bhi tension chal rahi hai aajkal?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan rishta dekh rahe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se aayega. Friday se Om Shum Shukraya Namah jaap shuru karo. Partner kaisa lag raha hai abhi tak?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se aayega. Friday se Om Shum Shukraya Namah jaap shuru karo. Partner kaisa lag raha hai abhi tak?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad kamai ki halat sudhregi kyunki yog badal raha hai. Paise ke mamle mein ek aisi cheez hai jo tumse miss ho rahi hai aur jo aage fayedamand hogi. Koi naya kaam shuru karne ka soch rahe ho kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad kamai ki halat sudhregi kyunki yog badal raha hai. Paise ke mamle mein ek aisi cheez hai jo tumse miss ho rahi hai aur jo aage fayedamand hogi. Koi naya kaam shuru karne ka soch rahe ho kya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job pehle set karo phir business ka sochna, warna paise ki jagah weak hone ki wajah se kamai rukegi nahi. Abhi tum kahin job kar rahe ho ya padhai chal rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Job pehle set karo phir business ka sochna, warna paise ki jagah weak hone ki wajah se kamai rukegi nahi. Abhi tum kahin job kar rahe ho ya padhai chal rahi hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kr rhi hu",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak padhai mein thodi rukawat lag sakti hai, par March 2027 ke baad naye raste khulenge. 2027 mein ek aisa turning point aayega jo padhai ke baad seedha job mein help karega. Konsi stream mein padhai chal rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 tak padhai mein thodi rukawat lag sakti hai, par March 2027 ke baad naye raste khulenge. 2027 mein ek aisa turning point aayega jo padhai ke baad seedha job mein help karega. Konsi stream mein padhai chal rahi hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Arts",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arts ki padhai ke sath ghar ki yeh tension bhi usi purane tight time ki wajah se hai jo March 2027 ke baad theek ho jayegi. Tuesday se Hanuman Chalisa shuru karo, jhagda kam hoga. Mummy ke sath kis baat pe zyada behas hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Arts ki padhai ke sath ghar ki yeh tension bhi usi purane tight time ki wajah se hai jo March 2027 ke baad theek ho jayegi. Tuesday se Hanuman Chalisa shuru karo, jhagda kam hoga. Mummy ke sath kis baat pe zyada behas hoti hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Padhai ko leke",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai aur mummy ki tension dono usi tight phase ki wajah se hain jo June 2027 ke baad badal jayega. Monday se Om Som Somaya Namah jaap shuru karo. Mummy aage kya sochti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Padhai aur mummy ki tension dono usi tight phase ki wajah se hain jo June 2027 ke baad badal jayega. Monday se Om Som Somaya Namah jaap shuru karo. Mummy aage kya sochti hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi krle bas",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy chahti hain ki jaldi settle ho jao, par kundli mein shadi ka sahi samay March 2027 ke baad hi hai. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai, warna galat jagah baat chal sakti hai. Kya mummy kisi jaan-pehchaan mein hi rishta dekh rahi hain?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Mummy chahti hain ki jaldi settle ho jao, par kundli mein shadi ka sahi samay March 2027 ke baad hi hai. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai, warna galat jagah baat chal sakti hai. Kya mummy kisi jaan-pehchaan mein hi rishta dekh rahi hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ha dur ke rishtedar",
+    "sec": 270,
+    "idx": 20
+  }
+]

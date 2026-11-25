@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! Agle 1-2 saal tumhari zindagi mein bohot si nayi shuruat aur badlav lekar aa rahe hain. Zindagi ke kis hisse mein tum abhi sabse zyada tension mehsoos kar rahi ho?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! Agle 1-2 saal tumhari zindagi mein bohot si nayi shuruat aur badlav lekar aa rahe hain. Zindagi ke kis hisse mein tum abhi sabse zyada tension mehsoos kar rahi ho?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Meri shaadi kab tak hogi.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "May 2027 wala samay abhi bhi sahi dikh raha hai. Rishton ka grah thoda dab gaya hai, isliye deri ho rahi hai. Ghar pe abhi koi rishta dekh rahe hain kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "May 2027 wala samay abhi bhi sahi dikh raha hai. Rishton ka grah thoda dab gaya hai, isliye deri ho rahi hai. Ghar pe abhi koi rishta dekh rahe hain kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rhe.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "May 2027 me kaun sa mahina?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Usi mahine ka pehla hafta strong hai, kyunki kismat ka grah tab naye daur mein hoga. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Ghar wale kya keh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Usi mahine ka pehla hafta strong hai, kyunki kismat ka grah tab naye daur mein hoga. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Ghar wale kya keh rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale haan bol rahe hain.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya ye rishta pakka ho jayega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, chances acche hain kyunki rishta jaan-pehchaan se hai. Rishton ka grah abhi kamzor hai, isliye is Friday se Om Shum Shukraya Namah ka jaap shuru karo. Kya wo ladka nature mein shant hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, chances acche hain kyunki rishta jaan-pehchaan se hai. Rishton ka grah abhi kamzor hai, isliye is Friday se Om Shum Shukraya Namah ka jaap shuru karo. Kya wo ladka nature mein shant hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan, shant hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Matlab isi se shadi pakki samjhu?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladke ka swabhav kundli se match kar raha hai, toh ye rishta aage badh sakta hai. Career aur shaadi ki stability 2028 mein aayegi, jab kismat ka grah majboot hoga. Rishta pakka karne se pehle tum unse kya umeed rakhti ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ladke ka swabhav kundli se match kar raha hai, toh ye rishta aage badh sakta hai. Career aur shaadi ki stability 2028 mein aayegi, jab kismat ka grah majboot hoga. Rishta pakka karne se pehle tum unse kya umeed rakhti ho?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein jawab do.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta pakka hoga ya nahi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, chances bohot zyada hain. Is rishte mein tumhare in-laws thode traditional aur reserved ho sakte hain, isliye shuru mein thoda adjust karna padega. Tumhe unke nature se koi dar lag raha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, chances bohot zyada hain. Is rishte mein tumhare in-laws thode traditional aur reserved ho sakte hain, isliye shuru mein thoda adjust karna padega. Tumhe unke nature se koi dar lag raha hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "8th ghar ka dabav karan hai. March 2027 se halat sudhregi. Career mein earning badhne ka ek saal hai, par galat decision se bacho. Guru mantra Thursday se shuru karo. Tension kya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "8th ghar ka dabav karan hai. March 2027 se halat sudhregi. Career mein earning badhne ka ek saal hai, par galat decision se bacho. Guru mantra Thursday se shuru karo. Tension kya hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsi date?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke pehle 15 dinon mein financial raasta khulne lagega. Family jhagde bhi June 2027 tak dheere-dheere khatam ho jayenge. Kya ghar mein jhagde ka main karan paisa hi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke pehle 15 dinon mein financial raasta khulne lagega. Family jhagde bhi June 2027 tak dheere-dheere khatam ho jayenge. Kya ghar mein jhagde ka main karan paisa hi hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 24
+  }
+]

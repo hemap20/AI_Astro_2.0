@@ -1,0 +1,265 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 6,
+    "1.4": 9,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 7,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 10,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 7.19,
+  "shape": {
+    "M": 10,
+    "avg_words": 38.3,
+    "long_share": 0.9
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user asked a direct question without sharing a worry, feeling, or story."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Waise, kya aapne socha hai ki aapke sasural wale kaise honge?",
+        "why": "No Type C questions, but more than half are Type B (generic life questions)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapka rishta aage badhne ke liye mangal milan zaroori hai, par aapki kundali mein yeh dosh halka hai.",
+        "why": "The astrologer asked for the boy's details and used them to provide a reading about the relationship."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta dikh raha hai.",
+        "why": "The reading is about the future (Now is yes), it is new information (New is yes), and it is specific (Specific is yes), but it lacks a chart reason (Reason is no)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta dikh raha hai.",
+        "why": "A clear direction with a time window is given immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke sasural wale paramparik aur thode gambhir honge, kyunki aapki kundali mein karm ka grah wahi sthit hai.",
+        "why": "Two or more linked readings are provided in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke sasural wale paramparik aur thode gambhir honge... Waise, aapke saathi ki ek baat hai jo wo aksar chhupa lete hain",
+        "why": "Two later readings are each New and Uses details from the chat."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta dikh raha hai.",
+        "why": "A clear window is provided with no promise, and it is consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki jhijhak mann ke grah se hai, jo bolne se sudhregi. 24 Nov se Hanuman Chalisa karein.",
+        "why": "The remedy is tied to the cause named in the reading."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi ka yog maine bata diya hai... Career mein tarakki March 2027 se 2028 beech aayegi.",
+        "why": "Both questions (marriage and career) get a full answer in a stated order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise, aapke saathi ki ek baat hai jo wo aksar chhupa lete hain",
+        "why": "Names one specific further thing about the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "",
+        "why": "No closing message or bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aap abhi chat recharge kijiye taaki hum is saathi ke swabhav aur aapki compatibility par vistarr se baat kar sakein.",
+        "why": "The last message is a pressure pitch."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "",
+        "why": "No technical terms used without explanation and no formal sentences."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "other"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "reading"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "reading"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "reading"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "question"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "reading"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      },
+      {
+        "idx": 26,
+        "type": "question"
+      },
+      {
+        "idx": 27,
+        "type": "reading"
+      },
+      {
+        "idx": 28,
+        "type": "other"
+      },
+      {
+        "idx": 29,
+        "type": "reading"
+      },
+      {
+        "idx": 30,
+        "type": "other"
+      }
+    ]
+  }
+}

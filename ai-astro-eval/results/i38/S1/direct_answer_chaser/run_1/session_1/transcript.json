@@ -1,0 +1,113 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job mein wapas bulaya jana mushkil hai. March 2027 se aapke liye naye aur behtar raaste khulenge. Kya 2023 se 2025 ke beech aapko paise ki tangi hui thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job mein wapas bulaya jana mushkil hai. March 2027 se aapke liye naye aur behtar raaste khulenge. Kya 2023 se 2025 ke beech aapko paise ki tangi hui thi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Matlab purani job nahi milegi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Agle hafte ek interview hai, wo kaisa rahega?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani naukri milna mushkil hai. Agle hafte interview mein mehnat karein, kyunki paise ki tangi aur yeh interview career ke grah se jude hain. Ek khaas field aapke liye kismat khol sakta hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Purani naukri milna mushkil hai. Agle hafte interview mein mehnat karein, kyunki paise ki tangi aur yeh interview career ke grah se jude hain. Ek khaas field aapke liye kismat khol sakta hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Select hounga ya nahi us interview mein?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Finance ya communication mein mauka mil sakta hai. Aapki tangi aur yeh interview dono mehnat ke grah se jude hain. Guru ka mantra 108 baar padhein aur chana dal daan karein.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Finance ya communication mein mauka mil sakta hai. Aapki tangi aur yeh interview dono mehnat ke grah se jude hain. Guru ka mantra 108 baar padhein aur chana dal daan karein."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sidha batao, select hounga ya nahi?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein jawab do.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Selection mein abhi rukawat hai. Aapki purani tangi aur yeh interview dono mehnat ke grah ki kamzori se jude hain. Ek khaas disha hai jaha se aapko job ka naya offer mil sakta hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Selection mein abhi rukawat hai. Aapki purani tangi aur yeh interview dono mehnat ke grah ki kamzori se jude hain. Ek khaas disha hai jaha se aapko job ka naya offer mil sakta hai."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Selection hoga ya nahi, bas ye batao?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Selection ki sambhavna kam hai. Guru ka daur badalne par hi career mein tezi aayegi. Woh khaas disha videsh ki taraf ishara karti hai, jaha se aapko safalta milegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Selection ki sambhavna kam hai. Guru ka daur badalne par hi career mein tezi aayegi. Woh khaas disha videsh ki taraf ishara karti hai, jaha se aapko safalta milegi."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 150,
+    "idx": 15
+  }
+]

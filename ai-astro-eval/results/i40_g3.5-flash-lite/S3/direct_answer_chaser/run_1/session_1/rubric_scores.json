@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 4,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 1,
+    "3.1": 6,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 5.5,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.1,
+    "long_share": 0.33
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Job mein thodi rukawat abhi hai, par March 2027 se halat sudhregi.",
+        "why": "The astrologer acknowledges the user's career concern by providing a reading, but does not name the user's feeling or use their specific words."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapka dhyan kis nayi cheez par hai?",
+        "why": "The astrologer asks several questions. While they are not Type C (no repetition or false assumptions), they are Type B (generic questions that could be asked to anyone)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2023 se 2025 ke beech mehnat zyaada karni padi aur paise ki tangi rahi?",
+        "why": "The reading is about the past/present, adds new information (the struggle), is specific, and is tied to the user's life context."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Career aur salary ki baat ho chuki hai.",
+        "why": "The user asks about salary in 2027, and the astrologer refuses to answer, pivoting to a different topic (house) and a recharge pitch."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se nayi job ka rasta pakka milega kyunki karm ka grah abhi thoda dheere chal raha hai.",
+        "why": "The astrologer links a life statement (job change) to a chart factor (karm ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "2025 mein badi job change nahi hui. Abhi tech field ka rasta khul raha hai",
+        "why": "The astrologer adds new points about 2025 and 2026, using the user's context of job stability."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se nayi job ka rasta pakka milega",
+        "why": "The astrologer provides a time window (March 2027) and maintains consistency throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "iske liye kal se chana dal daan kijiye.",
+        "why": "The astrologer provides a remedy (chana dal daan) with a specific time (kal se) for the stated problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Career aur salary ki baat ho chuki hai.",
+        "why": "The user asks about salary, and the astrologer dismisses the question entirely."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "October 2028 se February 2030 ke beech apna ghar banega",
+        "why": "The astrologer opens a new layer (house), but it is a generic pointer not tied to the user's specific career concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Yeh poori baat sunne ke liye aap abhi chat recharge kijiye.",
+        "why": "The astrologer ends the chat with a recharge pitch while the user is still asking questions."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Yeh poori baat sunne ke liye aap abhi chat recharge kijiye.",
+        "why": "The last message is a recharge pitch, not a reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "karm ka grah abhi thoda dheere chal raha hai",
+        "why": "The astrologer uses easy, everyday language with no technical terms or formal/bookish sentences."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No trigger condition met."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "reading"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 se tumhara waqt kaafi behtar hone wala hai, naye mauke milenge. Batao aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 se tumhara waqt kaafi behtar hone wala hai, naye mauke milenge. Batao aaj kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne shaadi aur paise ki tention batayi thi na, wahi dekh rahe the. March ke baad halat sudhrenge. Abhi ghar par kya baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne shaadi aur paise ki tention batayi thi na, wahi dekh rahe the. March ke baad halat sudhrenge. Abhi ghar par kya baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rhe h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jaan-pehchaan ke beech se hi aane ke chance hain. Jo ladka aayega wo kaafi calm aur padha-likha hoga, par thoda reserved bhi ho sakta hai. Waha abhi kya baat chal rahi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta jaan-pehchaan ke beech se hi aane ke chance hain. Jo ladka aayega wo kaafi calm aur padha-likha hoga, par thoda reserved bhi ho sakta hai. Waha abhi kya baat chal rahi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Baat final ho rhi h",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat final hone se pehle ek baat dhyan rakhna, samne wale thode traditional aur reserved nature ke honge. Ghar ke log is rishte se kitne khush hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Baat final hone se pehle ek baat dhyan rakhna, samne wale thode traditional aur reserved nature ke honge. Ghar ke log is rishte se kitne khush hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sab khush h",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab khush hain toh bohot acchi baat hai ji! Friday ko safed mithai daan kiya karo, sab smooth chalega. Aage job ka kya plan hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sab khush hain toh bohot acchi baat hai ji! Friday ko safed mithai daan kiya karo, sab smooth chalega. Aage job ka kya plan hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa tension de rha h",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki delay aur paise ka na tikna, dono ka rasta ek hi jagah se judta hai. March 2027 ke baad paise ki dikkat kam hone lagegi. Ek aur baat, job ke baad apna khud ka kaam shuru karne ka rasta bhi khulega. Somvaar ko Om Som Somaya Namah ka jaap kiya karo. Abhi kya kar rahe ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi ki delay aur paise ka na tikna, dono ka rasta ek hi jagah se judta hai. March 2027 ke baad paise ki dikkat kam hone lagegi. Ek aur baat, job ke baad apna khud ka kaam shuru karne ka rasta bhi khulega. Somvaar ko Om Som Somaya Namah ka jaap kiya karo. Abhi kya kar rahe ho?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job dhund rahi hu",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance line mein try karo, March 2027 ke baad job ke acche yoga hain. 2027 mein ek mahina aisa aayega jab interview pakka clear hoga. Abhi kahan apply kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Teaching ya finance line mein try karo, March 2027 ke baad job ke acche yoga hain. 2027 mein ek mahina aisa aayega jab interview pakka clear hoga. Abhi kahan apply kiya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Online sites pe",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Online try karte raho ji. June 2027 tak kaam mein thoda rukawat aa sakti hai, par iske baad tezi aayegi. Tumne graduation mein kya padha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Online try karte raho ji. June 2027 tak kaam mein thoda rukawat aa sakti hai, par iske baad tezi aayegi. Tumne graduation mein kya padha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Bcom",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bcom ke sath finance field bohot sahi rahegi. 2027 ke baad dusri city mein settle hone ka bada mauka ban raha hai, par ek khas baat ka dhyan rakhna hoga. Kya kabhi ghar se door job karne ka socha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Bcom ke sath finance field bohot sahi rahegi. 2027 ke baad dusri city mein settle hone ka bada mauka ban raha hai, par ek khas baat ka dhyan rakhna hoga. Kya kabhi ghar se door job karne ka socha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Socha h pr darr lgta",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darr lagna normal hai ji, Mangal ke asar se mann mein thoda heaviness rehta hai. 2027 ke baad bahar jaane ka rasta pakka banega. Tuesday se Hanuman Chalisa padhna shuru karo. Kya ghar wale bahar jaane ke khilaf hain?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Darr lagna normal hai ji, Mangal ke asar se mann mein thoda heaviness rehta hai. 2027 ke baad bahar jaane ka rasta pakka banega. Tuesday se Hanuman Chalisa padhna shuru karo. Kya ghar wale bahar jaane ke khilaf hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ha thoda",
+    "sec": 300,
+    "idx": 20
+  }
+]

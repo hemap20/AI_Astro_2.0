@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 se tumhara waqt badlega aur cheezein track par aayengi. Batao, life ka kaunsa hissa abhi sabse zyada pareshan kar raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 se tumhara waqt badlega aur cheezein track par aayengi. Batao, life ka kaunsa hissa abhi sabse zyada pareshan kar raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baare mein ghar pe abhi se baat chal rahi hai, ya tumne khud kuch socha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke baare mein ghar pe abhi se baat chal rahi hai, ya tumne khud kuch socha hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha baat chal rhi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, baat kisi jaan-pehchaan se hi banegi. Ye rishta kaisa lag raha hai tumhe?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, baat kisi jaan-pehchaan se hi banegi. Ye rishta kaisa lag raha hai tumhe?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi kaam ya job ka kya scene chal raha hai, aur paisa rukne ki problem kab se zyada pareshan kar rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Abhi kaam ya job ka kya scene chal raha hai, aur paisa rukne ki problem kab se zyada pareshan kar rahi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Job nhi hai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Abhi se tension hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ki tension mat lo, March 2027 ke baad naya kaam shuru hone ka solid yog hai. Thursday ko chana dal daan karo aur Guru ka mantr bolo, isse raaste khulenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Job ki tension mat lo, March 2027 ke baad naya kaam shuru hone ka solid yog hai. Thursday ko chana dal daan karo aur Guru ka mantr bolo, isse raaste khulenge."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka heavy mahaul thode time ka asar hai, tension mat lo. Tumhari kundli mein 2028 tak apne ghar ka yog bhi hai. Hanuman Chalisa padhna shuru karo.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ka heavy mahaul thode time ka asar hai, tension mat lo. Tumhari kundli mein 2028 tak apne ghar ka yog bhi hai. Hanuman Chalisa padhna shuru karo."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sab thik ho jayega?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan sab theek hoga, mid-2027 tak yeh saari pareshaniyan door ho jayengi aur raaste banenge. Monday ko Som ka mantr japna shuru karo, mann ko shanti milegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan sab theek hoga, mid-2027 tak yeh saari pareshaniyan door ho jayengi aur raaste banenge. Monday ko Som ka mantr japna shuru karo, mann ko shanti milegi."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari kundli mein 2027-28 ke beech doosri jagah ya videsh se jude kaam ka bhi yog hai. Tumhara interest kis field mein hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Tumhari kundli mein 2027-28 ke beech doosri jagah ya videsh se jude kaam ka bhi yog hai. Tumhara interest kis field mein hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, teaching ya office wali line bhi tumhare liye achhi rahegi. March 2027 ke baad wahi se rasta khulega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi baat nahi, teaching ya office wali line bhi tumhare liye achhi rahegi. March 2027 ke baad wahi se rasta khulega."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

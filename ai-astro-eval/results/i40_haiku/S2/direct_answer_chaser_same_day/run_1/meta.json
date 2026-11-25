@@ -1,0 +1,12 @@
+{
+  "case_id": "S2",
+  "prompt_version": "i40",
+  "persona": "direct_answer_chaser",
+  "gap_variant": "same_day",
+  "run": 1,
+  "astro_model": "claude-haiku-5-5",
+  "astro_thinking": "budget 512",
+  "simulator_model": "gemini-3.1-flash-lite",
+  "event_judge_model": "gemini-3.1-flash-lite",
+  "event_judge_prompt_sha1": "a7e9bdc14bce"
+}

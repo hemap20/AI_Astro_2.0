@@ -1,0 +1,197 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab tak hogi aur ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai woh.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka achha yog hai. Woh ladka calm aur padha-likha hoga, par thoda guarded nature ka bhi lagta hai. Kya ye rishta ghar walon ke through aaya hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka achha yog hai. Woh ladka calm aur padha-likha hoga, par thoda guarded nature ka bhi lagta hai. Kya ye rishta ghar walon ke through aaya hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Wo thoda short-tempered lagta hai, shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Mera rishta pakka hona chahiye ya nhi?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli kehti hai woh calm aur padha-likha hain, bas thoda guarded nature hai. Jaldbazi mat karo. Kya unke ghar wale traditional aur strict hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kundli kehti hai woh calm aur padha-likha hain, bas thoda guarded nature hai. Jaldbazi mat karo. Kya unke ghar wale traditional aur strict hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi, ye btaiye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Temper ki wajah se tension h, shi h ya nhi?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Temper wali tension thodi der ki hai kyunki kundli mein Mangal ka asar hai, par woh ladka andar se calm aur educated hi rahega. Kya tumne is rishte ke liye khud se haan boli hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Temper wali tension thodi der ki hai kyunki kundli mein Mangal ka asar hai, par woh ladka andar se calm aur educated hi rahega. Kya tumne is rishte ke liye khud se haan boli hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi, simple batao.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na?",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, yeh rishta theek lag raha hai kyunki woh padha-likha aur samajhdar hain. Bas thoda waqt do unhe samajhne ke liye. Kya is baare mein ghar walon se baat hui hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, yeh rishta theek lag raha hai kyunki woh padha-likha aur samajhdar hain. Bas thoda waqt do unhe samajhne ke liye. Kya is baare mein ghar walon se baat hui hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 se Sept 2028 bhot bada time hai.",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Konse month mein exact shadi hogi?",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "November 2027 ke aas-paas ka time sabse strong lag raha hai kyunki naya phase shuru ho raha hai. Par ek baat hai, in-laws ki taraf se choti si shart aa sakti hai. Kya ghar walo ne iske liye abhi se tyari shuru kar di hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "November 2027 ke aas-paas ka time sabse strong lag raha hai kyunki naya phase shuru ho raha hai. Par ek baat hai, in-laws ki taraf se choti si shart aa sakti hai. Kya ghar walo ne iske liye abhi se tyari shuru kar di hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kaisi shart?",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kya problem ho sakti hai?",
+    "sec": 150,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh thode traditional hain, isliye rasm-riwaz ko lekar choti si shart rakh sakte hain. Par baat theek ho jayegi. Kya tumne is baare mein ladke se khul kar baat ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Woh thode traditional hain, isliye rasm-riwaz ko lekar choti si shart rakh sakte hain. Par baat theek ho jayegi. Kya tumne is baare mein ladke se khul kar baat ki hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi baat ki.",
+    "sec": 180,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Shart kya hogi, ye clear kro.",
+    "sec": 180,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Kuch bada problem toh nhi hoga na?",
+    "sec": 180,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi badi problem nahi aayegi, bas in-laws thode traditional aur reserved hain isliye rasm-riwaz ko lekar choti-moti khich-pich ho sakti hai. Kya is rishte ke liye ghar wale sab razi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Koi badi problem nahi aayegi, bas in-laws thode traditional aur reserved hain isliye rasm-riwaz ko lekar choti-moti khich-pich ho sakti hai. Kya is rishte ke liye ghar wale sab razi hain?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Problem hogi ya nhi?",
+    "sec": 210,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Nov 2027 fix hai na?",
+    "sec": 210,
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Ok, aur kuch puchna nhi hai.",
+    "sec": 210,
+    "idx": 28
+  }
+]

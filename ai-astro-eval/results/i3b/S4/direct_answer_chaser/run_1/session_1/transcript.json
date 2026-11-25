@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar born",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Uski details abhi check karte hain ji. Aapki kundli mein calm partner hai. Tall aur educated partner milega.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Uski details abhi check karte hain ji. Aapki kundli mein calm partner hai. Tall aur educated partner milega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Mera sawal hai uske baare mein, wo shi h ya nhi?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo ladka calm aur educated hai ji. Guru yog strong hai yahan. Thoda guarded nature ho sakta hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Wo ladka calm aur educated hai ji. Guru yog strong hai yahan. Thoda guarded nature ho sakta hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Guarded nahi, wo short-tempered hai.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Aap ye btao, shadi ke liye shi hai ya nahi?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki baat sahi hai ji. Mangal ke asar se gussa rehta hai. Shadi ke liye thoda sochna padega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki baat sahi hai ji. Mangal ke asar se gussa rehta hai. Shadi ke liye thoda sochna padega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "To phir kya karu, shadi karu ya mana kar du?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Sidha btao shi hai ya nahi?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedha mana mat kijiye ji. 2027 ke baad hi sochiye. Mangal dosha ki shanti karwani padegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Seedha mana mat kijiye ji. 2027 ke baad hi sochiye. Mangal dosha ki shanti karwani padegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi meri?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuru hoga ji. Shani AD aane par rishta pakka hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se shuru hoga ji. Shani AD aane par rishta pakka hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunsi date?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date nahi milti ji. March 2027 ke shuru mein Shani AD.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Exact date nahi milti ji. March 2027 ke shuru mein Shani AD.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  }
+]

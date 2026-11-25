@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job ki baat hai ji. Purani company ne kab chhoda tha, aur abhi kahin aur try kar rahe ho?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job ki baat hai ji. Purani company ne kab chhoda tha, aur abhi kahin aur try kar rahe ho?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "3 mahine pehle.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Haan, next week interview hai.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Purani company se call aayega ya nahi?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani company se call ka chance kam hai ji, nayi naukri March 2027 ke baad hi banegi. Career ke sthaan par Shani ka asar chal raha hai. Next week ke interview ki taiyari kaisi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Purani company se call ka chance kam hai ji, nayi naukri March 2027 ke baad hi banegi. Career ke sthaan par Shani ka asar chal raha hai. Next week ke interview ki taiyari kaisi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "2027 bahut dur hai, sure ho?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi keh rahe ho ji, lamba lagta hai waqt. Par Shani ke asar se kaam thoda dheere chalta hai, March 2027 mein hi baat pakki banegi. Interview ki taiyari poori hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Sahi keh rahe ho ji, lamba lagta hai waqt. Par Shani ke asar se kaam thoda dheere chalta hai, March 2027 mein hi baat pakki banegi. Interview ki taiyari poori hai na?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Purani job wapas milegi ya nahi, haan ya na?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na ji, purani jagah wapas milne ka chance nahi hai. Nayi jagah par hi aage ka rasta banega. Interview kis field mein hai ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Na ji, purani jagah wapas milne ka chance nahi hai. Nayi jagah par hi aage ka rasta banega. Interview kis field mein hai ji?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Sales manager ka role hai.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Isme selection hoga ya nahi?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi ke interview mein selection ka chance kam hai ji. Shani ke asar se thodi rukawat rahegi. Interview kitne round ka hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Abhi ke interview mein selection ka chance kam hai ji. Shani ke asar se thodi rukawat rahegi. Interview kitne round ka hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Selection hoga ya nahi, seedha batao.",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nahi hoga ji, is baar selection ka yog nahi hai. Shani ke asar se abhi thoda samay lamba kheenhega. March 2027 ke baad hi naya kaam pakka hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Nahi hoga ji, is baar selection ka yog nahi hai. Shani ke asar se abhi thoda samay lamba kheenhega. March 2027 ke baad hi naya kaam pakka hoga."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "5 minute aise hi nikal gaye.",
+    "sec": 180,
+    "idx": 20
+  }
+]

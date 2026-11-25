@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job ki baat hai ji. Purani company ne kab chhoda tha, aur wahan se wapas bulane ki koi baat chal rahi hai kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job ki baat hai ji. Purani company ne kab chhoda tha, aur wahan se wapas bulane ki koi baat chal rahi hai kya?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "3 mahine pehle nikala tha. Manager bola tha call kar sakte. Kab tak bulayenge?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad yog hai ji, tab tak thoda sabar chahiye. Guru ka samay career mein madad karega. Manager se khud baat ki hai kya abhi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad yog hai ji, tab tak thoda sabar chahiye. Guru ka samay career mein madad karega. Manager se khud baat ki hai kya abhi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunse month tak?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2027 ke beech chance zyada hai ji, kyunki naya samay tabhi shuru hota hai. Baaki rasta aage khula hai. Manager se baat hui kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se May 2027 ke beech chance zyada hai ji, kyunki naya samay tabhi shuru hota hai. Baaki rasta aage khula hai. Manager se baat hui kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi hui. Exact month batao.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka pehla mahina sabse theek lagta hai ji. Career ke sthaan par Guru ka bal tabhi asar dikhata hai. Manager ko khud phone karke baat kyun nahi karte?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ka pehla mahina sabse theek lagta hai ji. Career ke sthaan par Guru ka bal tabhi asar dikhata hai. Manager ko khud phone karke baat kyun nahi karte?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi hai ji, kabhi-kabhi samay badal jata hai, par March 2027 mein hi mauka aayega. Kaam ke sthaan par Shani ka slow asar chal raha hai. Aapne is beech kisi aur nayi jagah try kiya hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sahi hai ji, kabhi-kabhi samay badal jata hai, par March 2027 mein hi mauka aayega. Kaam ke sthaan par Shani ka slow asar chal raha hai. Aapne is beech kisi aur nayi jagah try kiya hai kya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Agli hafte interview hai dusri jagah.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Par purani job ka pakka batao kab tak.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job ke liye June 2027 tak rasta poora khulega ji. Career par Shani ka dabav tab hat jayega. Agli hafte ke interview ke liye Guruvaar ko chana dal daan karein.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Purani job ke liye June 2027 tak rasta poora khulega ji. Career par Shani ka dabav tab hat jayega. Agli hafte ke interview ke liye Guruvaar ko chana dal daan karein."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pehle March bole, ab June, kyun?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa mat ho ji, March mein rasta khulta hai aur June tak Shani ka asar poora hat jata hai. Agli jagah ke interview par dhyan dein, wahan bhi yog achha hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Gussa mat ho ji, March mein rasta khulta hai aur June tak Shani ka asar poora hat jata hai. Agli jagah ke interview par dhyan dein, wahan bhi yog achha hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Jo aap bol rhe wo match nahi ho rha.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Clear batao, March ya June?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March mein pehla mauka aayega ji, aur June tak baat poori pakki hogi. Career ke sthaan par taakat badhne se der khatam hoti hai. Dusri jagah ke interview ki taiyari kaisi chal rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March mein pehla mauka aayega ji, aur June tak baat poori pakki hogi. Career ke sthaan par taakat badhne se der khatam hoti hai. Dusri jagah ke interview ki taiyari kaisi chal rahi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March me dekhta hu.",
+    "sec": 240,
+    "idx": 19
+  }
+]

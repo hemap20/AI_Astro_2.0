@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Aapke rishte ki baat March 2027 se September 2028 ke beech aage badh sakti hai. Kya aapka padhai ya college ka mahaul November 2022 ke aas-paas badla tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Aapke rishte ki baat March 2027 se September 2028 ke beech aage badh sakti hai. Kya aapka padhai ya college ka mahaul November 2022 ke aas-paas badla tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke liye hone wale jeevan-saathi lambe, samajhdaar aur thode gambhir honge. Rishte mein shuruat mein thodi clarity ki kami lag sakti hai, par Guru grah ki wajah se rishta mazboot rahega. Kya aapne kabhi kisi se rishte ke baare mein baat ki hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapke liye hone wale jeevan-saathi lambe, samajhdaar aur thode gambhir honge. Rishte mein shuruat mein thodi clarity ki kami lag sakti hai, par Guru grah ki wajah se rishta mazboot rahega. Kya aapne kabhi kisi se rishte ke baare mein baat ki hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pehle ye btao, ye ladka shi h ya nhi mere liye?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unka nature shaant aur samajhdaar hoga, par wo thode reserve rehte hain. Aapka turant faisla lene ka tareeka aur unka thoda ruk kar chalna, dono ka mel rishte ko balance karega. Vaise, kya aapne November 2022 ke samay apni padhai mein koi bada badlav dekha tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Unka nature shaant aur samajhdaar hoga, par wo thode reserve rehte hain. Aapka turant faisla lene ka tareeka aur unka thoda ruk kar chalna, dono ka mel rishte ko balance karega. Vaise, kya aapne November 2022 ke samay apni padhai mein koi bada badlav dekha tha?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Maine 2 baar mil liya, wo gusse wala lagta hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye? Spasht kijiye.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unka swabhav shaant hai, par unka reserve rehna aapko gussa lag sakta hai. Yeh unke karm ke grah ka asar hai; sirf baaton ke bajaye unke chote kaam dekhiye. Unke parivar ka swabhav thoda paramparik aur sakht ho sakta hai. Kya aapne kabhi unke ghar ke bare mein suna hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Unka swabhav shaant hai, par unka reserve rehna aapko gussa lag sakta hai. Yeh unke karm ke grah ka asar hai; sirf baaton ke bajaye unke chote kaam dekhiye. Unke parivar ka swabhav thoda paramparik aur sakht ho sakta hai. Kya aapne kabhi unke ghar ke bare mein suna hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi? Ye btao.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap gol-mol jawab de rhe ho.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta achha hai, unka kam bolna gussa nahi, gambhir nature hai. Unke kaam par gaur kijiye. Waise, sasural ki ek parampara aapko pasand aayegi. 20 Nov se har Shukravar safed mithai daan kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishta achha hai, unka kam bolna gussa nahi, gambhir nature hai. Unke kaam par gaur kijiye. Waise, sasural ki ek parampara aapko pasand aayegi. 20 Nov se har Shukravar safed mithai daan kijiye."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Vivah ke yog agle saal ke beech se uske agle saal tak hain. Jaldi faisla aur unka dheere chalna takraav deta hai; thoda waqt dena sahi hai. Ek naya mauka bhi ismein hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Vivah ke yog agle saal ke beech se uske agle saal tak hain. Jaldi faisla aur unka dheere chalna takraav deta hai; thoda waqt dena sahi hai. Ek naya mauka bhi ismein hai."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "2025 ya 2026?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Vivah ke yog March 2027 se shuru ho rahe hain, jo September 2028 tak chalenge. Is dauran hi rishta pakka hone ki puri sambhavna hai. Kya aap abhi kahin kaam kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Vivah ke yog March 2027 se shuru ho rahe hain, jo September 2028 tak chalenge. Is dauran hi rishta pakka hone ki puri sambhavna hai. Kya aap abhi kahin kaam kar rahi hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kaam chhodo.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi vivah ke yog bante dikh rahe hain. Aapke rishte mein shanti ke liye 24 November se mangalwar ko Hanuman Chalisa ka path karna shuru kijiye. Kya aapke ghar mein abhi rishton ko lekar sab thik hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se hi vivah ke yog bante dikh rahe hain. Aapke rishte mein shanti ke liye 24 November se mangalwar ko Hanuman Chalisa ka path karna shuru kijiye. Kya aapke ghar mein abhi rishton ko lekar sab thik hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 final?",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se vivah ka yog shuru ho raha hai, jo aapke liye sahi samay hai. Ek aur zaruri baat jo aapke vivah mein aane wale saathi ke vyaktitva aur unke parivar ke saath aapki judav ki gehrayi ko spasht kar sakti hai, wo hai aapki kundli mein Guru grah ki sthiti. Is chat ko abhi recharge kijiye taaki hum is ankahee aur sabse mahatvapurn jankari par vistaar se baat kar sakein.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 se vivah ka yog shuru ho raha hai, jo aapke liye sahi samay hai. Ek aur zaruri baat jo aapke vivah mein aane wale saathi ke vyaktitva aur unke parivar ke saath aapki judav ki gehrayi ko spasht kar sakti hai, wo hai aapki kundli mein Guru grah ki sthiti. Is chat ko abhi recharge kijiye taaki hum is ankahee aur sabse mahatvapurn jankari par vistaar se baat kar sakein."
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 26
+  }
+]

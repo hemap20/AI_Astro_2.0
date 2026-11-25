@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aapke aane wale 2 saal, khaas kar 2027 ki shuruaat ke baad, cheezein kaafi sudharne wali hain. Boliye ji, aaj kis baare mein baat karni hai, career, paisa ya rishte?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aapke aane wale 2 saal, khaas kar 2027 ki shuruaat ke baad, cheezein kaafi sudharne wali hain. Boliye ji, aaj kis baare mein baat karni hai, career, paisa ya rishte?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, aur tab tak ghar ki baatein dheere-dheere aage badhengi ji. Shukra thoda kamzor hone ki wajah se abhi thodi deri ho rahi hai. Rishta kisi jaane-pehchaane daayre se hi aane ke poore yog hain ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, aur tab tak ghar ki baatein dheere-dheere aage badhengi ji. Shukra thoda kamzor hone ki wajah se abhi thodi deri ho rahi hai. Rishta kisi jaane-pehchaane daayre se hi aane ke poore yog hain ji."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exact?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekha hai, abhi baat chal rhi hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas baat pakki hone ke sabse zyada yog hain ji. Pichli baar aapne ghar ki pareshani ki baat ki thi, aur abhi rishte ki chal rahi baatein usi sudhaar ki shuruaat hain ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas baat pakki hone ke sabse zyada yog hain ji. Pichli baar aapne ghar ki pareshani ki baat ki thi, aur abhi rishte ki chal rahi baatein usi sudhaar ki shuruaat hain ji."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 me date kya hogi?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke pehle hafte mein hi baat aage badhne ke sabse zyada yog hain ji. Usi samay naya samay shuru ho raha hai jo rishte ko pakka karega. Baaki poora window September 2028 tak khula hai ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke pehle hafte mein hi baat aage badhne ke sabse zyada yog hain ji. Usi samay naya samay shuru ho raha hai jo rishte ko pakka karega. Baaki poora window September 2028 tak khula hai ji."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Financial sudhaar aur job ka yog March 2027 se September 2028 ke beech ban raha hai ji. Karza aur tangi bhi usi beech dheere-dheere kam hone lagegi ji. Aap kaunse field mein job try kar rahe hain ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Financial sudhaar aur job ka yog March 2027 se September 2028 ke beech ban raha hai ji. Karza aur tangi bhi usi beech dheere-dheere kam hone lagegi ji. Aap kaunse field mein job try kar rahe hain ji?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Banking.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa exact kab aayega, March ya end 2027?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein hi pehla paisa aane ke sabse zyada yog hain ji, baaki poora saal sthirta banti jayegi. Mangal aur Ketu ki sthiti aapki tangi ko dheere-dheere door karegi ji. Finance ke is daaur mein 2027-28 ke beech videsh se jude mauke bhi mil sakte hain ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein hi pehla paisa aane ke sabse zyada yog hain ji, baaki poora saal sthirta banti jayegi. Mangal aur Ketu ki sthiti aapki tangi ko dheere-dheere door karegi ji. Finance ke is daaur mein 2027-28 ke beech videsh se jude mauke bhi mil sakte hain ji."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Exact date btaiye, 1st week ya last week?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke pehle hafte mein hi naya samay shuru ho raha hai, isliye usi dauran pehla mauka milne ke sabse zyada yog hain ji. Naya samay shuru hote hi raste khulne lagte hain ji. Baaki poora saal bhi sthirta ke liye khula hai ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke pehle hafte mein hi naya samay shuru ho raha hai, isliye usi dauran pehla mauka milne ke sabse zyada yog hain ji. Naya samay shuru hote hi raste khulne lagte hain ji. Baaki poora saal bhi sthirta ke liye khula hai ji."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe. Exact date btao.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pareshani samajh sakti hoon ji, par taare exact calendar ki tareek nahi, samay ka bada daaur batate hain. March 2027 ke pehle hafte ka wo samay hai jab nayi shuruaat pakki hai ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Pareshani samajh sakti hoon ji, par taare exact calendar ki tareek nahi, samay ka bada daaur batate hain. March 2027 ke pehle hafte ka wo samay hai jab nayi shuruaat pakki hai ji."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. Aap exact date bta ni pa rhe ho.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi keh rahe hain aap ji, taaron ki chaal se exact din nahi, bas mahina hi pata chalta hai. Banking ke field mein Guru ka prabhav hi us samay aapko nayi shuruaat dega ji. October 2028 ke baad isi line mein bade labh ka yog bhi banega ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sahi keh rahe hain aap ji, taaron ki chaal se exact din nahi, bas mahina hi pata chalta hai. Banking ke field mein Guru ka prabhav hi us samay aapko nayi shuruaat dega ji. October 2028 ke baad isi line mein bade labh ka yog bhi banega ji."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied. 5 minute aise hi nikal gaye.",
+    "sec": 270,
+    "idx": 21
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arrey hi! Kaise ho? 2027 mein kaafi cheezein theek hone lagengi, batao aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arrey hi! Kaise ho? 2027 mein kaafi cheezein theek hone lagengi, batao aaj kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 ke beech mehnat bohot lagi, hai na? Shaadi ke liye March 2027 se September 2028 ka time hai. Ghar pe koi baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 ke beech mehnat bohot lagi, hai na? Shaadi ke liye March 2027 se September 2028 ka time hai. Ghar pe koi baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta chal raha hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine me final hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas baat pakki hone ke bohot high chances hain. Waise samne wale thode silent aur serious nature ke lag rahe hain, kya waisa hi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas baat pakki hone ke bohot high chances hain. Waise samne wale thode silent aur serious nature ke lag rahe hain, kya waisa hi hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, silent hi hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact konsi date?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date toh nahi, par March 2027 ke pehle hafte mein baat pakki hone ke sabse zyada yog hain. Shaadi se pehle unke ghar ki taraf se kuch strict baatein ho sakti hain. Kya unka parivaar bohot traditional hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Exact date toh nahi, par March 2027 ke pehle hafte mein baat pakki hone ke sabse zyada yog hain. Shaadi se pehle unke ghar ki taraf se kuch strict baatein ho sakti hain. Kya unka parivaar bohot traditional hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha, kafi traditional hain.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me hi hogi ya aage badhegi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se window shuru ho kar September 2028 tak hai. Shuruat mein thodi kheecha-tani ho sakti hai par baat pakki ban jayegi. Tumne abhi tak unse akele mein baat ki hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se window shuru ho kar September 2028 tak hai. Shuruat mein thodi kheecha-tani ho sakti hai par baat pakki ban jayegi. Tumne abhi tak unse akele mein baat ki hai kya?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, baat nahi hui.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me hi hoga ya 2028 jayega?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein hi baat pakki hone ke sabse strong yog hain. Iske liye Friday ko white sweets donate karna shuru kar do, sab theek rahega. Kya tum dono ki pasand milti hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 mein hi baat pakki hone ke sabse strong yog hain. Iske liye Friday ko white sweets donate karna shuru kar do, sab theek rahega. Kya tum dono ki pasand milti hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ab career aur paisa btaiye.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paise ko lekar kya chal raha hai? Abhi job ki talash mein ho, ya tension bohot zyada badh gayi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Career aur paise ko lekar kya chal raha hai? Abhi job ki talash mein ho, ya tension bohot zyada badh gayi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Job ki talash hai.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Naukri kab tak milegi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur career dono ka badlav 2027 se jud raha hai. March se April 2027 ke beech job milne ke strong yog hain. Tumne kis field mein padhai ki hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaadi aur career dono ka badlav 2027 se jud raha hai. March se April 2027 ke beech job milne ke strong yog hain. Tumne kis field mein padhai ki hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad ghar ka pressure kam hone lagega aur jhagde khatam ho jayenge. Par isse pehle ek aisi baat aayegi jo dhyan se sambhalni padegi. Kya abhi ghar pe career ko lekar bohot baatein sunni padti hain?",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 ke baad ghar ka pressure kam hone lagega aur jhagde khatam ho jayenge. Par isse pehle ek aisi baat aayegi jo dhyan se sambhalni padegi. Kya abhi ghar pe career ko lekar bohot baatein sunni padti hain?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ha, sunni padti hai.",
+    "sec": 270,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 25
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ladka shi h ya nhi mere liye.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob h.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka h.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Bataiye, shi hai ya nhi?",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Jiske baare mein aap pooch rahi hain, unka swabhav calm, padha-likha aur thoda reserved ho sakta hai ji. Shani ke badlav ki wajah se yeh rishta aage chal kar sthir rahega ji.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Jiske baare mein aap pooch rahi hain, unka swabhav calm, padha-likha aur thoda reserved ho sakta hai ji. Shani ke badlav ki wajah se yeh rishta aage chal kar sthir rahega ji."
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Par wo mujhe thoda gussa wala laga.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Sahi bataiye, kya wo gussa karta hai?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Aur March 2027 me kaunsa mahina?",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruati hafte mein hi yeh samay active ho jayega ji. Unka gussa asal mein unka guarded aur serious swabhav hai, jo chart mein thoda reserved dikhta hai. Shaadi ke baad in-laws bhi thode traditional aur disciplined mil sakte hain ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke shuruati hafte mein hi yeh samay active ho jayega ji. Unka gussa asal mein unka guarded aur serious swabhav hai, jo chart mein thoda reserved dikhta hai. Shaadi ke baad in-laws bhi thode traditional aur disciplined mil sakte hain ji."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Par maine use do baar mila hai, wo short-tempered laga.",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi ye rishta mere liye?",
+    "sec": 60,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein bataiye.",
+    "sec": 60,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, zyada chance hai ki yeh rishta theek rahega. Chart mein partner ka swabhav calm aur samajhdaar dikhta hai, bas unka guarded nature thoda sakht lag sakta hai ji. Kya yeh rishta aapke parivar walo ne hi dhoondha hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, zyada chance hai ki yeh rishta theek rahega. Chart mein partner ka swabhav calm aur samajhdaar dikhta hai, bas unka guarded nature thoda sakht lag sakta hai ji. Kya yeh rishta aapke parivar walo ne hi dhoondha hai ji?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha family ne dhoondha hai.",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 15
+  }
+]

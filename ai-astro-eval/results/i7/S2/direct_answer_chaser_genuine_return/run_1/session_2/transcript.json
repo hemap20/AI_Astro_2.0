@@ -1,0 +1,138 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. March 2027 se badlav aayenge. Aaj kaunsi chinta hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. March 2027 se badlav aayenge. Aaj kaunsi chinta hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi pakki hai. Shani ki mahadasha se ye hoga. Aap abhi unmarried hain na ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se shaadi pakki hai. Shani ki mahadasha se ye hoga. Aap abhi unmarried hain na ji?",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunse mahine tak?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 window hai ji. Shani antardasha shuru hogi tab. Rishta arranged route se aayega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 window hai ji. Shani antardasha shuru hogi tab. Rishta arranged route se aayega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe rishta dekh rahe hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Is window mein koi specific mahina?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke end mein strong yog hai ji. Shani ki energy tab tez hoti hai. Partner calm aur educated hoga ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "2027 ke end mein strong yog hai ji. Shani ki energy tab tez hoti hai. Partner calm aur educated hoga ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Konse month specifically? Oct ya Nov?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "October aur November dono strong hain ji. Shani ki energy tab peak par hogi. In-laws traditional aur reserved honge ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "October aur November dono strong hain ji. Shani ki energy tab peak par hogi. In-laws traditional aur reserved honge ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Career kab set hoga?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career set hoga ji. Guru 10th lord strong hai tab. Teaching ya finance field best rahegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se career set hoga ji. Guru 10th lord strong hai tab. Teaching ya finance field best rahegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kb khatam hogi?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension hategi ji. Shani ka prabhav tab kam hoga. 2027 ke baad videsh yog hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad tension hategi ji. Shani ka prabhav tab kam hoga. 2027 ke baad videsh yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 17
+  }
+]

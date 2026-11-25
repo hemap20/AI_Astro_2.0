@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Aap kaisi hain aur main aaj aapke liye kya dekh sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Aap kaisi hain aur main aaj aapke liye kya dekh sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu. Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton aur kamai ke grah kamzor hain, isliye shaadi aur paise mein deri ho rahi hai. Aapke jeevansathi ke baare mein ek khaas baat dikh rahi hai. Shukra ke liye shukravar safed mithai daan kijiye.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Rishton aur kamai ke grah kamzor hain, isliye shaadi aur paise mein deri ho rahi hai. Aapke jeevansathi ke baare mein ek khaas baat dikh rahi hai. Shukra ke liye shukravar safed mithai daan kijiye."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Kya baat hai? Gharwale rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh kaafi samajhdaar aur shant honge. Yeh rishta aur ghar ka tanav mehnat ke grah ki wajah se hain, jo 2027 mein theek hoga. Shanivar ko mantra jaap shuru karein. Kya gharwale kisi jaan-pehchan wale se baat kar rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Woh kaafi samajhdaar aur shant honge. Yeh rishta aur ghar ka tanav mehnat ke grah ki wajah se hain, jo 2027 mein theek hoga. Shanivar ko mantra jaap shuru karein. Kya gharwale kisi jaan-pehchan wale se baat kar rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta aa raha hai",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jaani-pehchani jagah se aayega. Shaadi aur career ka tanav ek hi daur se hai, jo 2027 mein badlega. Kya gharwalon ne rishte ke baare mein kuch aur bataya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta jaani-pehchani jagah se aayega. Shaadi aur career ka tanav ek hi daur se hai, jo 2027 mein badlega. Kya gharwalon ne rishte ke baare mein kuch aur bataya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan ek rishta dekh rahe hai",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise 2027 se sudhrenge. Shaadi aur paise ki pareshani dono 8th house ki wajah se hain, isliye Hanuman Chalisa kijiye. Ghar lene ka ek khaas yog ban raha hai. Ghar mein abhi kya chinta hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise 2027 se sudhrenge. Shaadi aur paise ki pareshani dono 8th house ki wajah se hain, isliye Hanuman Chalisa kijiye. Ghar lene ka ek khaas yog ban raha hai. Ghar mein abhi kya chinta hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "8th house kya",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale lad rahe",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "8th house uljhanon ka ghar hai. Ghar ki ladai aur shaadi ki deri, dono mehnat ke grah se hain, isliye Hanuman Chalisa karte rahiye. Kya ghar wale rishte ke liye jaldi kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "8th house uljhanon ka ghar hai. Ghar ki ladai aur shaadi ki deri, dono mehnat ke grah se hain, isliye Hanuman Chalisa karte rahiye. Kya ghar wale rishte ke liye jaldi kar rahe hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha bohot pressure hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Bohot tension hai ghar pe",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar lene ka yog 2028 se 2030 mein hai. Ghar ka tanav aur shaadi ka pressure dono mann ke grah ki kamzori se hain, isliye Somvar ka vrat kijiye. Pehle vrat kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar lene ka yog 2028 se 2030 mein hai. Ghar ka tanav aur shaadi ka pressure dono mann ke grah ki kamzori se hain, isliye Somvar ka vrat kijiye. Pehle vrat kiya hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke sawaalon ke jawab maine diye hain. Hone wale jeevansathi ka reserved swabhav aapke rishte ko disha dega. Is chat ko abhi recharge kijiye taaki hum career ke badlavon par vistaar mein baat kar sakein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapke sawaalon ke jawab maine diye hain. Hone wale jeevansathi ka reserved swabhav aapke rishte ko disha dega. Is chat ko abhi recharge kijiye taaki hum career ke badlavon par vistaar mein baat kar sakein."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak milegi",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapko job March 2027 se September 2028 ke beech milne ke yog hain, kyunki kismat ka grah tab majboot hai. Hone wale jeevansathi ki education aur nature rishte ko stability degi. Is chat ko abhi recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapko job March 2027 se September 2028 ke beech milne ke yog hain, kyunki kismat ka grah tab majboot hai. Hone wale jeevansathi ki education aur nature rishte ko stability degi. Is chat ko abhi recharge kijiye."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

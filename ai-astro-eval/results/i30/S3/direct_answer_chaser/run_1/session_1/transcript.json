@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future. Paisa aur career ka batao, puri saal kaisa hoga?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Abhi career aur paise mein stress hai kyunki mehnat ka grah dabav bana raha hai. Feb 2027 ke baad halat mein kaafi sudhaar aayega. Kya aap abhi job kar rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Abhi career aur paise mein stress hai kyunki mehnat ka grah dabav bana raha hai. Feb 2027 ke baad halat mein kaafi sudhaar aayega. Kya aap abhi job kar rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kar rahi. Feb 2027 mein kaunse mahine?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career ke liye achhe avsar milenge. Tab tak kismat ka grah career ke ghar ko majboot kar raha hai. 2023 se 2025 ke beech paise ki tension rahi hogi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se career ke liye achhe avsar milenge. Tab tak kismat ka grah career ke ghar ko majboot kar raha hai. 2023 se 2025 ke beech paise ki tension rahi hogi, hai na?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bahut tension thi.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak lagegi? Exact month batao.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Us window ke shuruwat mein hi kaam banne ke yog hain. Karma ka grah jo mehnat karwata hai, wo tab tak career ke ghar ko pura support karega. Aapne career ke liye kaunsi padhai ya skills par kaam kiya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Us window ke shuruwat mein hi kaam banne ke yog hain. Karma ka grah jo mehnat karwata hai, wo tab tak career ke ghar ko pura support karega. Aapne career ke liye kaunsi padhai ya skills par kaam kiya hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "I asked time. March mein kaunsa date ya week?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein fix tarikh nahi hoti, par us mahine ke pehle hafte se hi kaam ke raste khulenge. Ek khas field se job offer aane ka yog hai, kya aapne wahan try kiya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli mein fix tarikh nahi hoti, par us mahine ke pehle hafte se hi kaam ke raste khulenge. Ek khas field se job offer aane ka yog hai, kya aapne wahan try kiya hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai, jo buddhi aur baat-cheet ke grah ka hai. Aapki kundli mein videsh jaane ka bhi yog hai, par uska sahi samay aana baaki hai. Kya aapne kabhi bahar jaane ka socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka number 5 hai, jo buddhi aur baat-cheet ke grah ka hai. Aapki kundli mein videsh jaane ka bhi yog hai, par uska sahi samay aana baaki hai. Kya aapne kabhi bahar jaane ka socha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Soche hai.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab se aana shuru hoga?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se aay ke raste khulenge. Aapki kundli mein kamai ka ghar majboot hai, par paisa tikne mein thodi dikkat hai. Ek khas upay se tangi khatam ho sakti hai, janna chahti hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se aay ke raste khulenge. Aapki kundli mein kamai ka ghar majboot hai, par paisa tikne mein thodi dikkat hai. Ek khas upay se tangi khatam ho sakti hai, janna chahti hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Upay chhodo. Tangi kab tak rahegi?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paise ki tangi dhire-dhire kam hogi. Career aur paisa tab tak jud jayenge. Agli baar hum career ki sahi disha aur uske long-term growth par baat karenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se paise ki tangi dhire-dhire kam hogi. Career aur paisa tab tak jud jayenge. Agli baar hum career ki sahi disha aur uske long-term growth par baat karenge."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Paisa tikane ka kya tareeka hai?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah thoda kamzor hai, isliye paisa rukta nahi. Somwar ko 'Om Som Somaya Namah' ka 108 baar jaap karein, bachat mein madad milegi. Kya aapne pehle kabhi upay kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mann ka grah thoda kamzor hai, isliye paisa rukta nahi. Somwar ko 'Om Som Somaya Namah' ka 108 baar jaap karein, bachat mein madad milegi. Kya aapne pehle kabhi upay kiya hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Somwar se hi start karu?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, 23 November ke Somwar se shuru karein. Ye upay mann ko shanti aur bachat mein madad karega. Career ke acche yog 2028 tak hain, agli baar uspe detail mein baat karenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Haan, 23 November ke Somwar se shuru karein. Ye upay mann ko shanti aur bachat mein madad karega. Career ke acche yog 2028 tak hain, agli baar uspe detail mein baat karenge."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Kuch aur bhi karna padega kya?",
+    "sec": 270,
+    "idx": 24
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Main aapka aage ka samay zaroor dekh sakti hoon. Aap sabse pehle career ke baare mein jaanna chahte hain ya shaadi ke?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Main aapka aage ka samay zaroor dekh sakti hoon. Aap sabse pehle career ke baare mein jaanna chahte hain ya shaadi ke?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ke bare me btaiye",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat samajh sakti hoon. Aap abhi single hain ya kahin baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat samajh sakti hoon. Aap abhi single hain ya kahin baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Rishta chal rha hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat aur gyaan ke grah ki wajah se rishta arranged hone ke acche yog hain. Kya 2025 ke aakhir se shaadi ki charcha zyada tezi se shuru hui thi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kismat aur gyaan ke grah ki wajah se rishta arranged hone ke acche yog hain. Kya 2025 ke aakhir se shaadi ki charcha zyada tezi se shuru hui thi?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah thoda daba hone se baat banne mein samay lag raha hai. Aapke hone wale partner ke bare mein ek khaas baat dikh rahi hai. Kya ghar wale is rishte se poori tarah khush hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishton ka grah thoda daba hone se baat banne mein samay lag raha hai. Aapke hone wale partner ke bare mein ek khaas baat dikh rahi hai. Kya ghar wale is rishte se poori tarah khush hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan thoda",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya khaas baat",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lambe, shant aur padhe-likhe honge, par thode chupchap rehne wale honge. Rishton ke grah ke liye shukrawar ko safed mithai daan kijiye. Kya unka nature aapko samajh aa raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Partner lambe, shant aur padhe-likhe honge, par thode chupchap rehne wale honge. Rishton ke grah ke liye shukrawar ko safed mithai daan kijiye. Kya unka nature aapko samajh aa raha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah kamzor hone aur doosre ghar mein asar se paisa rukta nahi hai. Aage chalkar aamdani ka ek naya rasta khulega. Kya abhi kamai se zyada kharche badhe hue hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mann ka grah kamzor hone aur doosre ghar mein asar se paisa rukta nahi hai. Aage chalkar aamdani ka ek naya rasta khulega. Kya abhi kamai se zyada kharche badhe hue hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension h",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche aur ghar ki tension dono ek saath hain kyunki himmat ke grah ka asar mann par hai. Pehle job kijiye, fir business ka rasta khulega. Kya ghar mein kisi baat par bahas hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kharche aur ghar ki tension dono ek saath hain kyunki himmat ke grah ka asar mann par hai. Pehle job kijiye, fir business ka rasta khulega. Kya ghar mein kisi baat par bahas hoti hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan hoti hai",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche aur ghar ki bahas dono chhati jagah par asar ki wajah se hain. Mangalwar se Hanuman Chalisa padhiye aur laal daal ka daan kijiye. Kya neend mein bhi pareshani rehti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kharche aur ghar ki bahas dono chhati jagah par asar ki wajah se hain. Mangalwar se Hanuman Chalisa padhiye aur laal daal ka daan kijiye. Kya neend mein bhi pareshani rehti hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan rehti hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  }
+]

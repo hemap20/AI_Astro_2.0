@@ -1,0 +1,203 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 se tumhara time badal raha hai, career aur stability mein achhi growth dikh rahi hai. Batao, life ke kis area mein sabse zyada tension chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 se tumhara time badal raha hai, career aur stability mein achhi growth dikh rahi hai. Batao, life ke kis area mein sabse zyada tension chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ki tension h.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat pehle se chal rahi hai ghar mein, ya abhi achanak yeh tension aayi hai? Tum khud kya chahte ho is baare mein?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat pehle se chal rahi hai ghar mein, ya abhi achanak yeh tension aayi hai? Tum khud kya chahte ho is baare mein?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, parents ek rishta dekh rahe hain.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak hogi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech shaadi ke bohot chance hain, jaan-pehchan se hi baat banegi. Friday ko safed mithai daan karna shuru kar do. Rishta final karne se pehle unka nature zaroor dekh lena, wo thode reserved ho sakte hain. Ghar wale jis rishte ki baat kar rahe hain, waha abhi kya chal raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech shaadi ke bohot chance hain, jaan-pehchan se hi baat banegi. Friday ko safed mithai daan karna shuru kar do. Rishta final karne se pehle unka nature zaroor dekh lena, wo thode reserved ho sakte hain. Ghar wale jis rishte ki baat kar rahe hain, waha abhi kya chal raha hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Baat chal rahi hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "2027 me exact month bataiye.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein hi baat pakki hone ke sabse zyada chance hain. In-laws thode traditional aur reserved ho sakte hain. Kya ghar walo ne abhi date ya milan ki baat ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein hi baat pakki hone ke sabse zyada chance hain. In-laws thode traditional aur reserved ho sakte hain. Kya ghar walo ne abhi date ya milan ki baat ki hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok, March.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Abhi kuch fix nahi.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ke liye abhi tak kahan try kiya hai, aur iski tension se daily routine pe kitna asar pad raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Job ke liye abhi tak kahan try kiya hai, aur iski tension se daily routine pe kitna asar pad raha hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak lagegi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Bataiye.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job aur shaadi dono ek hi planet ki wajah se jud rahe hain, tabhi dono baatein saath chal rahi hain. June 2027 ke baad job pakki lag rahi hai. Thursday ko chana dal daan karna shuru kar do. Kis field mein interview de rahe ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Job aur shaadi dono ek hi planet ki wajah se jud rahe hain, tabhi dono baatein saath chal rahi hain. June 2027 ke baad job pakki lag rahi hai. Thursday ko chana dal daan karna shuru kar do. Kis field mein interview de rahe ho?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh ghar ki tension kis baat ko lekar hai, aur ye aapas mein kab se chal raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh ghar ki tension kis baat ko lekar hai, aur ye aapas mein kab se chal raha hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Papa ki sehat.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Kab thik honge?",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Papa ko kya problem hai aur ye kab se chal raha hai? Tum khud is baat ko lekar kitna pareshan ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Papa ko kya problem hai aur ye kab se chal raha hai? Tum khud is baat ko lekar kitna pareshan ho?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "BP aur sugar hai.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "2 saal se.",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Kab thik honge?",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "ASTRO",
+    "text": "Papa ki sehat mein June 2027 ke baad bada badlaav aur rahat dikhegi, tab tak unka thoda extra dhyan rakho.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Papa ki sehat mein June 2027 ke baad bada badlaav aur rahat dikhegi, tab tak unka thoda extra dhyan rakho."
+    },
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 28
+  }
+]

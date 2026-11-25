@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji, zaroor batayenge. Aapki kundli kaafi kuch kehti hai. Ek baat bataiye, aap unmarried hain ya married ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji, zaroor batayenge. Aapki kundli kaafi kuch kehti hai. Ek baat bataiye, aap unmarried hain ya married ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Unmarried",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji. Chandra Mahadasha chal rahi hai. Isliye pichle saalon mein thoda stress raha hoga.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Theek hai ji. Chandra Mahadasha chal rahi hai. Isliye pichle saalon mein thoda stress raha hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab aapka abhi jo planetary time chal raha hai, usse pichle kuch saalon mein neend aur stress ki thodi dikkat rahi hogi ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Matlab aapka abhi jo planetary time chal raha hai, usse pichle kuch saalon mein neend aur stress ki thodi dikkat rahi hogi ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Career kaisa hoga",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein achhi growth March 2027 ke baad shuru hogi ji. Guru ki kripa se teaching ya finance best rahega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Career mein achhi growth March 2027 ke baad shuru hogi ji. Guru ki kripa se teaching ya finance best rahega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein third house active hai ji. Yahan se chote bhai-behen ka yog dekhte hain.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kundli mein third house active hai ji. Yahan se chote bhai-behen ka yog dekhte hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aasan shabdon mein samjhati hoon ji. Third house matlab aapki mehnat aur chote bhai-behen ka ghar.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aasan shabdon mein samjhati hoon ji. Third house matlab aapki mehnat aur chote bhai-behen ka ghar.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Number kitna",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein exact count nahi hota ji. Third house aapki mehnat dikhata hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kundli mein exact count nahi hota ji. Third house aapki mehnat dikhata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial halat sudharegi ji. Eleventh house ka lord strong hone se debt dheere-dheere kam hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad financial halat sudharegi ji. Eleventh house ka lord strong hone se debt dheere-dheere kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Puri saal kaisa hoga",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye saal thoda dabav wala rahega ji. Shani ki sthiti se thodi thakan rahegi. Time thoda kam reh gaya hai — aapki kundli mein ek khaas cheez dikh rahi hai March 2027 ke baad shaadi ke yog ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ye saal thoda dabav wala rahega ji. Shani ki sthiti se thodi thakan rahegi. Time thoda kam reh gaya hai — aapki kundli mein ek khaas cheez dikh rahi hai March 2027 ke baad shaadi ke yog ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

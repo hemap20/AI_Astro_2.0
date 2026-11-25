@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na, wapas bulaye jaane ke chances kam hain. Career ka grah abhi rukawat mein hai, naya mauka 2027 mein hi dikh raha hai. Kya purani jagah se abhi tak koi baat hui hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Na, wapas bulaye jaane ke chances kam hain. Career ka grah abhi rukawat mein hai, naya mauka 2027 mein hi dikh raha hai. Kya purani jagah se abhi tak koi baat hui hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Manager ne bola tha call karenge.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Manager ka kehna bas ek shishtachar hai, career ka grah abhi slow hai. Nayi shuruaat March 2027 ke baad hi hogi. Waise career mein ek khas vyakti ka prabhav hai, janna chahengi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Manager ka kehna bas ek shishtachar hai, career ka grah abhi slow hai. Nayi shuruaat March 2027 ke baad hi hogi. Waise career mein ek khas vyakti ka prabhav hai, janna chahengi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ka grah ek bade aur samajhdaar vyakti ki madad dikhata hai jo career mein raasta dikhayenge. Ye insaan aapke apne jaan-pehchan mein se ho sakte hain. Kya aapne kisi bade se salah li hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kismat ka grah ek bade aur samajhdaar vyakti ki madad dikhata hai jo career mein raasta dikhayenge. Ye insaan aapke apne jaan-pehchan mein se ho sakte hain. Kya aapne kisi bade se salah li hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 tak tumne skills badhane mein mehnat ki thi, uska phal milega. Career ka grah tab majboot hoga, tab tak naye kaam seekho. Tum abhi kya seekh rahi ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2023 se 2025 tak tumne skills badhane mein mehnat ki thi, uska phal milega. Career ka grah tab majboot hoga, tab tak naye kaam seekho. Tum abhi kya seekh rahi ho?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nahi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Samajh sakti hoon, grahon ka asar kabhi-kabhi umeed se alag hota hai. Abhi mehnat ka grah thoda rukawat dal raha hai, jisse kaam mein deri hai. Kya aapko neend mein pareshani rehti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Samajh sakti hoon, grahon ka asar kabhi-kabhi umeed se alag hota hai. Abhi mehnat ka grah thoda rukawat dal raha hai, jisse kaam mein deri hai. Kya aapko neend mein pareshani rehti hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah abhi dabav mein hai, isliye neend aur career dono mein rukawat hai. Mid-2027 tak ye susti hat jayegi. Kya tum raat ko phone zyada use karti ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mann ka grah abhi dabav mein hai, isliye neend aur career dono mein rukawat hai. Mid-2027 tak ye susti hat jayegi. Kya tum raat ko phone zyada use karti ho?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah aur karm ka grah saath mein dabav mein hain, isliye phone se doori aur neend zaroori hai. 2027 se tumhare career aur mental sukoon dono mein badlav aayega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mann ka grah aur karm ka grah saath mein dabav mein hain, isliye phone se doori aur neend zaroori hai. 2027 se tumhare career aur mental sukoon dono mein badlav aayega."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa tab rukega jab career ka grah stable hoga, jo agle saal se shuru hoga. Abhi paise ka ghar kamzor hai, isliye bachat mushkil hai. Kya tumne kabhi bachat ki koshish ki hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Paisa tab rukega jab career ka grah stable hoga, jo agle saal se shuru hoga. Abhi paise ka ghar kamzor hai, isliye bachat mushkil hai. Kya tumne kabhi bachat ki koshish ki hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa tikne ke liye Guruvar ko chana daal daan karo. Shaadi aur tumhare future ka safar abhi baaki hai, agli baar jab baat hogi toh ye sab detail mein samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paisa tikne ke liye Guruvar ko chana daal daan karo. Shaadi aur tumhare future ka safar abhi baaki hai, agli baar jab baat hogi toh ye sab detail mein samjhenge."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

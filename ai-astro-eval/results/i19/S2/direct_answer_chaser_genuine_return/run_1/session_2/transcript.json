@@ -1,0 +1,206 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji! 2027 se tumhari life mein kaafi achhe badlaav shuru hone wale hain, tension mat lo. Aaj kis baare mein baat karni hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji! 2027 se tumhari life mein kaafi achhe badlaav shuru hone wale hain, tension mat lo. Aaj kis baare mein baat karni hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yoga ban raha hai, yeh ek arranged rishta hoga jo jaan-pehchaan se aayega. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yoga ban raha hai, yeh ek arranged rishta hoga jo jaan-pehchaan se aayega. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hai abhi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me pakka hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas baat pakki hone ka strong yoga hai, tabhi delay khatam hoga. Jo rishta abhi dekh rahe ho, wahi aage badhega ya koi naya aayega?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas baat pakki hone ka strong yoga hai, tabhi delay khatam hoga. Jo rishta abhi dekh rahe ho, wahi aage badhega ya koi naya aayega?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaun sa date?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date toh nahi hoti ji, par March 2027 ke pehle half mein yog sabse strong hai. Ek baat aur, rishte mein aage badhne se pehle unki family ki ek baat jaan lena zaroori hai. Kya unka background poori tarah pata hai tumhe?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Exact date toh nahi hoti ji, par March 2027 ke pehle half mein yog sabse strong hai. Ek baat aur, rishte mein aage badhne se pehle unki family ki ek baat jaan lena zaroori hai. Kya unka background poori tarah pata hai tumhe?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pehle ye batao ki date confirm hai na?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hu, jab waqt tight ho toh bharosa karna mushkil hota hai. Par March 2027 ke baad halat badal jayenge aur raste khulenge. Kya ghar wale is rishte ko lekar thode strict hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Main samajh sakti hu, jab waqt tight ho toh bharosa karna mushkil hota hai. Par March 2027 ke baad halat badal jayenge aur raste khulenge. Kya ghar wale is rishte ko lekar thode strict hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rahi wo bta ni rahe.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact kab?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke beech mein, taqriban 15 ke baad jab bada badlav aayega, tabhi baat pakki hone ka time hai. Kya unki taraf se koi final message aane wala hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March ke beech mein, taqriban 15 ke baad jab bada badlav aayega, tabhi baat pakki hone ka time hai. Kya unki taraf se koi final message aane wala hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ab paisa kab aayega?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangee kab se chal rahi hai, aur savings na hone ka sabse zyada dukh kahan lagta hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ki tangee kab se chal rahi hai, aur savings na hone ka sabse zyada dukh kahan lagta hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "6 mahine se.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad se paise ki tangee dheere-dheere kam hone lagegi. 2023 se hi yeh problem chal rahi hai na? Abhi koi naya income source dekh rahe ho kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad se paise ki tangee dheere-dheere kam hone lagegi. 2023 se hi yeh problem chal rahi hai na? Abhi koi naya income source dekh rahe ho kya?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exactly?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein, khaas kar March aur April ke beech kamai ke raste khulenge. Kundli mein ek chhoti si baat hai jo paise ko rok rahi hai. Kya is dauran naye kaam ke liye kahin baat chal rahi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein, khaas kar March aur April ke beech kamai ke raste khulenge. Kundli mein ek chhoti si baat hai jo paise ko rok rahi hai. Kya is dauran naye kaam ke liye kahin baat chal rahi hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 270,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 270,
+    "idx": 26
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ke jhagde kab se chal rahe hain, aur is sab ki wajah se tumhara mood kaisa rehta hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ghar ke jhagde kab se chal rahe hain, aur is sab ki wajah se tumhara mood kaisa rehta hai?"
+    },
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Faltu",
+    "sec": 300,
+    "idx": 28
+  }
+]

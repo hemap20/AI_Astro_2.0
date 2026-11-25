@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. 2027 mein March ke baad career aur paise mein rahat dikh rahi hai. Aapko kis baare mein zyada jaanna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. 2027 mein March ke baad career aur paise mein rahat dikh rahi hai. Aapko kis baare mein zyada jaanna hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 aur September 2028 ke beech hogi ji. Shani antardasha ka yeh yog hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 aur September 2028 ke beech hogi ji. Shani antardasha ka yeh yog hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month mein confirm?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se raste khul jayenge ji. Shani antardasha aate hi baat pakki hogi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se raste khul jayenge ji. Shani antardasha aate hi baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka tension khatam hoga ji. Shani ka dabav jo maan par hai, wo hatt jayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka tension khatam hoga ji. Shani ka dabav jo maan par hai, wo hatt jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jeevan sathi kaafi calm aur educated honge. Guru darakaraka hai, toh nature warm rahega ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Jeevan sathi kaafi calm aur educated honge. Guru darakaraka hai, toh nature warm rahega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "In-laws thode traditional aur reserved honge ji. Aathve ghar ka Shani yehi batata hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "In-laws thode traditional aur reserved honge ji. Aathve ghar ka Shani yehi batata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Rishta aa raha hai kya?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad rishta aayega ji. Shani antardasha raste khol rahi hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad rishta aayega ji. Shani antardasha raste khol rahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hai, ek baat chal rhi hai.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Uska kya hoga?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi wali baat mein thodi confusion reh sakti hai ji. Shukra kamzor hone se, faisla lene mein der hogi. March 2027 ke baad hi baat aage badhegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Abhi wali baat mein thodi confusion reh sakti hai ji. Shukra kamzor hone se, faisla lene mein der hogi. March 2027 ke baad hi baat aage badhegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta final hoga ya nahi? Haan ya na.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi baat final hona mushkil hai ji. Shukra ki kamzori se delay hota hai. Shaadi ke baad apna ghar banega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Abhi baat final hona mushkil hai ji. Shukra ki kamzori se delay hota hai. Shaadi ke baad apna ghar banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 20
+  }
+]

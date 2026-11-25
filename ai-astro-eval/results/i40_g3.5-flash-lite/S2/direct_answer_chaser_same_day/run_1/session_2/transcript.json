@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Pichli baar humne aapki shaadi aur career ke baare mein baat ki thi, kya aapne shukra ka woh mantra shuru kiya jo bataya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Pichli baar humne aapki shaadi aur career ke baare mein baat ki thi, kya aapne shukra ka woh mantra shuru kiya jo bataya tha?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke yog March 2027 ke baad ban rahe hain. Kya saal 2022 mein aapki padhai ya college life mein koi bada badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke yog March 2027 ke baad ban rahe hain. Kya saal 2022 mein aapki padhai ya college life mein koi bada badlaav aaya tha?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se September 2027 ke beech shaadi pakki ho sakti hai. Yeh mehnat aur karm ka grah ka naya daur shuru hone se hai. Jab ghar mein baat chalti hai, aapka reaction kya hota hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se September 2027 ke beech shaadi pakki ho sakti hai. Yeh mehnat aur karm ka grah ka naya daur shuru hone se hai. Jab ghar mein baat chalti hai, aapka reaction kya hota hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Abhi ghar wale rishta dekh rhe hai, ek rishta baat chal rhi hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Isme hoga ya nahi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekhti hoon ki yeh rishta aage badh sakta hai kyunki kismat ka grah anukool hai. Aane wale sathi shant aur padhe-likhe ho sakte hain. Kya aapki unse achhi baat hoti hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Main dekhti hoon ki yeh rishta aage badh sakta hai kyunki kismat ka grah anukool hai. Aane wale sathi shant aur padhe-likhe ho sakte hain. Kya aapki unse achhi baat hoti hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Abhi baat nahi hui hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Is rishte mein shaadi fix hogi ya nahi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta agar jaane-maane circle se hai toh baat pakki hone ke yog hain, kyunki kismat ka grah anukool hai. Kya aapke parivaar wale is rishte ko pehle se jaante hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Yeh rishta agar jaane-maane circle se hai toh baat pakki hone ke yog hain, kyunki kismat ka grah anukool hai. Kya aapke parivaar wale is rishte ko pehle se jaante hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan jaante hain.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aap seedha batao, ye rishta pakka hoga ya nahi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekh sakti hoon ki yeh rishta pakka hone ke poore yog hain kyunki kismat ka grah anukool hai. Kya aapko is rishte se ummeed lag rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Main dekh sakti hoon ki yeh rishta pakka hone ke poore yog hain kyunki kismat ka grah anukool hai. Kya aapko is rishte se ummeed lag rahi hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Matlab Haan ya Na?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yeh rishta pakka hone ke poore yog hain. Kismat aur gyaan ka grah ismein puri madad kar raha hai. Kya aapke mann mein isko lekar koi darr hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan ji, yeh rishta pakka hone ke poore yog hain. Kismat aur gyaan ka grah ismein puri madad kar raha hai. Kya aapke mann mein isko lekar koi darr hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ab career aur paise ka batao. Kab tak set hoga?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paise ki halat March 2027 ke baad theek hogi. Yeh mehnat aur karm ka grah ki sthiti badalne se hoga. Kya aapko job ki koshish mein pareshani aati hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Career aur paise ki halat March 2027 ke baad theek hogi. Yeh mehnat aur karm ka grah ki sthiti badalne se hoga. Kya aapko job ki koshish mein pareshani aati hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month btao.",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main batati hoon ki March 2027 ke shuru mein hi job pakki ho sakti hai, kyunki kismat aur gyaan ka grah majboot hai. Kya aapko finance ya teaching mein interest hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Main batati hoon ki March 2027 ke shuru mein hi job pakki ho sakti hai, kyunki kismat aur gyaan ka grah majboot hai. Kya aapko finance ya teaching mein interest hai?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Finance me interest hai.",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 26
+  }
+]

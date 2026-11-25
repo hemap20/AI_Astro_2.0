@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bataiye, aaj main aapki kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bataiye, aaj main aapki kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se May 2027 ke beech hai, kyunki shaadi ka ghar majboot hai. Pichli baar aapne shaadi aur paise ki chinta jatayi thi, kya ghar pe koi baat hui?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se May 2027 ke beech hai, kyunki shaadi ka ghar majboot hai. Pichli baar aapne shaadi aur paise ki chinta jatayi thi, kya ghar pe koi baat hui?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hai gharwale.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March mein hi hogi ya April?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April mein yog balwan hai. Rishte se ghar ka mahol sudharega. Shaadi se pehle ek mauka aayega jahan apni pasand batani hogi. Is rishte ke baare mein kya socha hai aapne?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ya April mein yog balwan hai. Rishte se ghar ka mahol sudharega. Shaadi se pehle ek mauka aayega jahan apni pasand batani hogi. Is rishte ke baare mein kya socha hai aapne?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "March mein kaunsi date?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka pehla hissa anukul hai. Shaadi ke baad ghar ki tension kam hogi, aur jeevansathi ka swabhav kaafi shant hoga. Kya ladke walon se baat-cheet shuru ho gayi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ka pehla hissa anukul hai. Shaadi ke baad ghar ki tension kam hogi, aur jeevansathi ka swabhav kaafi shant hoga. Kya ladke walon se baat-cheet shuru ho gayi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Baat ho rhi hai.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Exact date batao 1st half me.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruati din acche hain. Shaadi se ghar ka mahaul sudhrega, kyunki dono ek hi grah se jude hain. Sasural wale traditional honge. Rishte ki haan keh di?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke shuruati din acche hain. Shaadi se ghar ka mahaul sudhrega, kyunki dono ek hi grah se jude hain. Sasural wale traditional honge. Rishte ki haan keh di?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap exact date bta hi nahi rahe.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "1st half mein kaunsi date final hai?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ka teesra hafta sabse majboot hai. Isi waqt financial dikkat aur shaadi ka yog sudhrega. Aapke hone wale saathi mein ek khas khoobi hai. Ghar wale raazi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March ka teesra hafta sabse majboot hai. Isi waqt financial dikkat aur shaadi ka yog sudhrega. Aapke hone wale saathi mein ek khas khoobi hai. Ghar wale raazi hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Exact date chahiye.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Grahon ka daur mahine ke hisab se chalta hai, taarikh badal sakti hai. March 2027 ka pehla pakhwada hi woh samay hai jab aapki shaadi aur career dono sudhrenge. Padhai ke baad kya karne ka socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Grahon ka daur mahine ke hisab se chalta hai, taarikh badal sakti hai. March 2027 ka pehla pakhwada hi woh samay hai jab aapki shaadi aur career dono sudhrenge. Padhai ke baad kya karne ka socha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Time nikal gaya.",
+    "sec": 210,
+    "idx": 19
+  }
+]

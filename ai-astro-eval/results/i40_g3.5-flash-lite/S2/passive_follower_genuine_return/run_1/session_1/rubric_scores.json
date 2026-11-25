@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": null,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.0,
+  "shape": {
+    "M": 9,
+    "avg_words": 28.4,
+    "long_share": 0.44
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapke aage ka samay mehnat aur badlav ka hai, jisme naye mauke milenge.",
+        "why": "The astrologer provides a caring opening but it is generic and does not reference the user's specific input beyond the vague 'Future' prompt."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya abhi aapko naukri ya career mein koi khas chinta hai?",
+        "why": "All questions asked are Type B; they are relevant to the topic but could be asked to any user."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user did not ask about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapke aage ka samay mehnat aur badlav ka hai, jisme naye mauke milenge.",
+        "why": "The reading is about the present/future but is generic and could apply to anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 se September 2028 ke beech paise ki halat sudhregi",
+        "why": "Provides a clear direction and time window for the user's question about money."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main samajh sakti hoon ki tangi se ghar mein tanaav badhta hai, kyunki mann ka grah kamzor hai.",
+        "why": "Links the user's life situation (tangi/tanaav) to a chart factor (mann ka grah)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main samajh sakti hoon ki tangi se ghar mein tanaav badhta hai",
+        "why": "Uses the user's detail about 'Ghar ki tension' to build depth in the reading."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech paise ki halat sudhregi",
+        "why": "Provides a consistent time window for the prediction."
+      },
+      "2.6": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No remedy or practical advice was given."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ki baat agle saal ke baad shuru ho sakti hai.",
+        "why": "The astrologer answers the user's questions about future, marriage, and money in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke chart mein apna ghar lene ka ek khas daur chhupa hai",
+        "why": "Opens a specific new layer about buying a house."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aapke sawal ka jawab de diya hai. Aapke chart mein apna ghar lene ka ek khas daur chhupa hai, jisse aage ki planning samajh aayegi. Is baare mein poori baatcheet ke liye abhi chat recharge kijiye.",
+        "why": "The astrologer closes the chat while time remains and the user has not asked to leave."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is baare mein poori baatcheet ke liye abhi chat recharge kijiye.",
+        "why": "The last message is a pitch to recharge, leaving the user with no reason to return."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke aage ka samay mehnat aur badlav ka hai",
+        "why": "Uses simple, everyday language without technical jargon or formal tone."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke aage ka samay mehnat aur badlav ka hai, jisme naye mauke milenge. Kya abhi aapko naukri ya career mein koi khas chinta hai?",
+        "why": "The user provided a vague trigger ('Future'), and the astrologer immediately provided a reading followed by a soft question."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      }
+    ]
+  }
+}

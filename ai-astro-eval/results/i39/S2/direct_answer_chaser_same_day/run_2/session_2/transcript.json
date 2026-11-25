@@ -1,0 +1,113 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki aaj kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki aaj kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap? Shadi kb hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Pichli baar career ki baat hui thi. Shaadi March 2027 se May 2027 ke beech hone ke yog hain. Kya November 2022 mein aapki padhai badli thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Namaste. Pichli baar career ki baat hui thi. Shaadi March 2027 se May 2027 ke beech hone ke yog hain. Kya November 2022 mein aapki padhai badli thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ek rishta abhi chal rha hai, kya usi se baat pakki hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is rishte se baat pakki hogi, yeh abhi kehna mushkil hai. Lekin kismat ke grah ke anusar, aapka rishta kisi jaani-pehchani jagah se arranged hone ke yog zyada hain. Waise, unke swabhav ke bare mein ek aisi khaas baat hai jo shayad aapne abhi tak notice nahi ki hogi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Is rishte se baat pakki hogi, yeh abhi kehna mushkil hai. Lekin kismat ke grah ke anusar, aapka rishta kisi jaani-pehchani jagah se arranged hone ke yog zyada hain. Waise, unke swabhav ke bare mein ek aisi khaas baat hai jo shayad aapne abhi tak notice nahi ki hogi."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pehle ye btao, isi rishte se baat hogi ya nahi?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is rishte mein shaadi ke yog kam hain. Woh vyakti tall, calm, educated aur thode guarded honge. Shukra ke liye 'Om Shum Shukraya Namah' 108 baar shukravar se jap karein.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Is rishte mein shaadi ke yog kam hain. Woh vyakti tall, calm, educated aur thode guarded honge. Shukra ke liye 'Om Shum Shukraya Namah' 108 baar shukravar se jap karein."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak ayega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career March 2027 se sambhal jayega. Kaam na milne se ghar ki tension badh rahi hai, isliye naya kaam seekhein. Har guruvar chana dal daan karein. Aap din bhar kya karti hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Career March 2027 se sambhal jayega. Kaam na milne se ghar ki tension badh rahi hai, isliye naya kaam seekhein. Har guruvar chana dal daan karein. Aap din bhar kya karti hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nahi. Isse pehle income start hogi?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Income March 2027 se pehle shuru hona mushkil hai. Aapka kaam aur paisa dono ek hi daur se judey hain, isliye abhi dhairya rakhein. Ek naya rasta jald khulega jiska aapko abhi pata nahi hai, iske liye Somvar ko 'Om Som Somaya Namah' 108 baar jap karein.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Income March 2027 se pehle shuru hona mushkil hai. Aapka kaam aur paisa dono ek hi daur se judey hain, isliye abhi dhairya rakhein. Ek naya rasta jald khulega jiska aapko abhi pata nahi hai, iske liye Somvar ko 'Om Som Somaya Namah' 108 baar jap karein."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kb khtm hogi?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani June 2027 tak khatam hogi. Woh naya rasta teaching ya communication field mein hai. Aapke kaam ki kami aur ghar ki tension judi hain, isliye Har Mangalwar Hanuman Chalisa padhein.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki pareshani June 2027 tak khatam hogi. Woh naya rasta teaching ya communication field mein hai. Aapke kaam ki kami aur ghar ki tension judi hain, isliye Har Mangalwar Hanuman Chalisa padhein."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 14
+  }
+]

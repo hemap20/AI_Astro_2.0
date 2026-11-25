@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji! 2027 ka saal tumhare liye kaafi badlaav aur relief lekar aa raha hai, khaaskar kaam aur settled hone ke mamle mein. Batao, abhi sabse zyada kis cheez ki tension chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji! 2027 ka saal tumhare liye kaafi badlaav aur relief lekar aa raha hai, khaaskar kaam aur settled hone ke mamle mein. Batao, abhi sabse zyada kis cheez ki tension chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ko leke",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ke pakke yog hain, rishta jaan-pehchaan se aayega. 20 November se Om Shum Shukraya Namah ka jaap karke safed mithai daan karo. Ghar pe abhi kisi baat ki charcha hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ke pakke yog hain, rishta jaan-pehchaan se aayega. 20 November se Om Shum Shukraya Namah ka jaap karke safed mithai daan karo. Ghar pe abhi kisi baat ki charcha hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wah, ye toh badhiya hai! Kundli mein hai ki ladka shaant, padha-likha aur warm hoga, par thoda guarded side bhi ho sakti hai. Tumhe kaisa laga wo?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Wah, ye toh badhiya hai! Kundli mein hai ki ladka shaant, padha-likha aur warm hoga, par thoda guarded side bhi ho sakti hai. Tumhe kaisa laga wo?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Thik h bas",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Thoda sochna zaroori hai. Kundli mein in-laws thode traditional aur reserved ho sakte hain. Ghar walon ko ye rishta kaisa laga?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Thoda sochna zaroori hai. Kundli mein in-laws thode traditional aur reserved ho sakte hain. Ghar walon ko ye rishta kaisa laga?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Unhe pasand hai",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar walon ki taraf se green signal hai toh baat pakki hone ki taraf badhegi. Bas 21 November se Om Sham Shanaishcharaya Namah ka jaap karke kaale til daan shuru kar dena, sab raste aasaan ho jayenge. Tum khud andar se is rishte ko lekar kya feel kar rahi ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar walon ki taraf se green signal hai toh baat pakki hone ki taraf badhegi. Bas 21 November se Om Sham Shanaishcharaya Namah ka jaap karke kaale til daan shuru kar dena, sab raste aasaan ho jayenge. Tum khud andar se is rishte ko lekar kya feel kar rahi ho?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya hai",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi March 2027 ke baad theek hone lagegi, tab tak thoda sambhalna hoga. 19 November se chana dal daan karna shuru kar dena. Job karni hai ya business?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paise ki tangi March 2027 ke baad theek hone lagegi, tab tak thoda sambhalna hoga. 19 November se chana dal daan karna shuru kar dena. Job karni hai ya business?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Job karni hai",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bhot h",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur career ki rukawat 2027 ki shuruwat tak theek hone lagegi. Teaching ya finance line mein fayda hoga. Abhi koi interview diya hai kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension aur career ki rukawat 2027 ki shuruwat tak theek hone lagegi. Teaching ya finance line mein fayda hoga. Abhi koi interview diya hai kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot jhagde h",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ke jhagde aur gussa abhi thode bade hue hain, par tension mat lo. 24 November se roz Hanuman Chalisa padhna shuru karo, sab thik hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ke jhagde aur gussa abhi thode bade hue hain, par tension mat lo. 24 November se roz Hanuman Chalisa padhna shuru karo, sab thik hoga."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  }
+]

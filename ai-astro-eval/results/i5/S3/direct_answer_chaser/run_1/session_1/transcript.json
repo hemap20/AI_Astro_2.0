@@ -1,0 +1,162 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future, career aur paisa kaisa hoga is saal.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career badhiya hoga ji. Abhi Shani ke chalte thodi tangi hai. Aapka current kaam kaisa chal raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se career badhiya hoga ji. Abhi Shani ke chalte thodi tangi hai. Aapka current kaam kaisa chal raha hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact konsa month?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Abhi ke liye batao, is saal paisa kab ayega.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuru mein badlav aayega ji. Is saal paisa thoda tight rahega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March ke shuru mein badlav aayega ji. Is saal paisa thoda tight rahega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 chhodo, is saal ka batao.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak lagegi? Month bolo.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal job mushkil hai ji. Shani ke asar se delay hai. March mein hi yog banega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Is saal job mushkil hai ji. Shani ke asar se delay hai. March mein hi yog banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March 2025 ya 2026?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Is saal sach me kuch nahi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki baat hai ji. Is saal 2026 mein Shani ka dabav hai. Agale saal se sab badlega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ki baat hai ji. Is saal 2026 mein Shani ka dabav hai. Agale saal se sab badlega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, 2027 ya 2026?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job ka exact month bolo.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 hi pakka samay hai ji. Guru ka bal tabhi shuru hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 hi pakka samay hai ji. Guru ka bal tabhi shuru hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli se birth order nahi dikhta ji. Aapke third house mein Moon hai. Mehnat khud hi karni padti hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kundli se birth order nahi dikhta ji. Aapke third house mein Moon hai. Mehnat khud hi karni padti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kya.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Number kitna hai mera, ye batao.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Numerology numbers kundli mein nahi aate ji. Aapki kundli mein toh grah chalte hain.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Numerology numbers kundli mein nahi aate ji. Aapki kundli mein toh grah chalte hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 210,
+    "idx": 21
+  }
+]

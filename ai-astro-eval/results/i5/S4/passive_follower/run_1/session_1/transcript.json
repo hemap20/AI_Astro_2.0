@@ -1,0 +1,200 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shadi ke yoga hain ji. Shani mahadasha ka asar hai ye.",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 mein shadi ke yoga hain ji. Shani mahadasha ka asar hai ye.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka kaafi calm aur educated hoga ji. Darakaraka Guru se tall nature hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladka kaafi calm aur educated hoga ji. Darakaraka Guru se tall nature hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Wo gussa krta h thoda",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi kaha aapne ji. Mangal ka asar hai wahan. Thoda strict nature ho sakta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Sahi kaha aapne ji. Mangal ka asar hai wahan. Thoda strict nature ho sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya karna chahiye",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mangal ke gusse ke liye Hanuman Chalisa padhein ji. Tuesday ko red lentils donate karein.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Mangal ke gusse ke liye Hanuman Chalisa padhein ji. Tuesday ko red lentils donate karein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sasural wale thode traditional honge ji. Shani ka asar hai wahan.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sasural wale thode traditional honge ji. Shani ka asar hai wahan.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shadi pakki hai ji. Guru aur Budh ka asar hai wahan.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad shadi pakki hai ji. Guru aur Budh ka asar hai wahan.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Job milegi kya",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job milegi ji. Guru ki kripa se achha mauka aayega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad job milegi ji. Guru ki kripa se achha mauka aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance field mein mauka hai ji. Budh aur Guru ka asar hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Teaching ya finance field mein mauka hai ji. Budh aur Guru ka asar hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ke mamle mein bhi rahat milegi ji. March 2027 ke baad debt kam hoga.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paise ke mamle mein bhi rahat milegi ji. March 2027 ke baad debt kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khtam ho rha h",
+    "sec": 270,
+    "idx": 26
+  }
+]

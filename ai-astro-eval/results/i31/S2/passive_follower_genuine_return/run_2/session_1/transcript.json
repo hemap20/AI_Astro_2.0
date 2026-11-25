@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bhavishya mein aap kya khaas dekhna chahti hain, career ya shaadi? Main aapki kundli dekh kar sab bata sakti hoon.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bhavishya mein aap kya khaas dekhna chahti hain, career ya shaadi? Main aapki kundli dekh kar sab bata sakti hoon."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027 se 2028 ke beech ban raha hai. Shaadi ka grah thoda kamzor hone se deri dikh rahi hai. Kya ghar wale rishta dekhne ki baat kar rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027 se 2028 ke beech ban raha hai. Shaadi ka grah thoda kamzor hone se deri dikh rahi hai. Kya ghar wale rishta dekhne ki baat kar rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta shayad jaan-pehchan ke zariye aaya hai, kyunki kundli mein shaadi ka grah aise hi milan ki taraf ishara karta hai. Kya ladke walon se baat aage badhi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh rishta shayad jaan-pehchan ke zariye aaya hai, kyunki kundli mein shaadi ka grah aise hi milan ki taraf ishara karta hai. Kya ladke walon se baat aage badhi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha thodi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Or paisa",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 tak paison ki tangi rahi hogi, hai na? Abhi shaadi aur career dono ki baat chal rahi hai, par paise ka grah kamzor hone se thoda ruk-ruk kar aayenge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "2023 se 2025 tak paison ki tangi rahi hogi, hai na? Abhi shaadi aur career dono ki baat chal rahi hai, par paise ka grah kamzor hone se thoda ruk-ruk kar aayenge."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani mehnat aur himmat ke grah ke asar se hai, jo mann par bojh daal rahe hain. Isse neend bhi kam aati hai. Kya ye tension ab zyada hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki pareshani mehnat aur himmat ke grah ke asar se hai, jo mann par bojh daal rahe hain. Isse neend bhi kam aati hai. Kya ye tension ab zyada hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha bohot",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pareshani 2027 ke beech tak rahegi, kyunki mann aur mehnat ke grah dabav mein hain. Isi daur mein rishta tay hoga. Waise, hone wale jeevansathi ke nature mein ek khaas baat hai, bataun?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Pareshani 2027 ke beech tak rahegi, kyunki mann aur mehnat ke grah dabav mein hain. Isi daur mein rishta tay hoga. Waise, hone wale jeevansathi ke nature mein ek khaas baat hai, bataun?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hone wala saathi lambe kad ka aur shaant hai, par thoda dil ki baat chupa kar rakhte hain. Unka calm swabhav ghar ki tension kam karega. Baat ki hai kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Hone wala saathi lambe kad ka aur shaant hai, par thoda dil ki baat chupa kar rakhte hain. Unka calm swabhav ghar ki tension kam karega. Baat ki hai kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi abhi tak.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Har mangalwar se Hanuman Chalisa ka path shuru karein, isse mann ka bojh kam hoga. Aapke mann ke grah ke liye somwar ka vrat rakhna bhi labhdayak rahega. Kya aap ye kar sakti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Har mangalwar se Hanuman Chalisa ka path shuru karein, isse mann ka bojh kam hoga. Aapke mann ke grah ke liye somwar ka vrat rakhna bhi labhdayak rahega. Kya aap ye kar sakti hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ha koshish karungi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, koshish zaroor karna, isse bahot rahat milegi. Aapke career aur paise ki sthiti mein 2027 se achha badlav aayega. Agli baar hum us growth ke raaste par baat karenge, namaste.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Haan, koshish zaroor karna, isse bahot rahat milegi. Aapke career aur paise ki sthiti mein 2027 se achha badlav aayega. Agli baar hum us growth ke raaste par baat karenge, namaste."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

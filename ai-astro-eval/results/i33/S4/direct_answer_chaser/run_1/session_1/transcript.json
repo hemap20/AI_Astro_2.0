@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ye ladka mere liye shi hai ya nahi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/01/1995 ladke ka dob hai.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Shaadi ka yog March 2027 se September 2028 ke beech hai. Kundli milan se hi ladke ka sahi pata chalega. 2023 se 2025 tak kya aapne career aur paise ko lekar mehnat ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Shaadi ka yog March 2027 se September 2028 ke beech hai. Kundli milan se hi ladke ka sahi pata chalega. 2023 se 2025 tak kya aapne career aur paise ko lekar mehnat ki?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi hai ya nahi wo btao, kundli milan baad mein.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Career ka chhodo, ladke ka nature kaisa rahega?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh ladka shant aur warm rahega, par thoda reserved ho sakta hai. Yeh 7th ghar ke Guru ka asar hai. Aapki shaadi aur career ke beech ek gehra connection hai. Kya woh aapke jaan-pehchan se hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Woh ladka shant aur warm rahega, par thoda reserved ho sakta hai. Yeh 7th ghar ke Guru ka asar hai. Aapki shaadi aur career ke beech ek gehra connection hai. Kya woh aapke jaan-pehchan se hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Par mujhe toh woh short-tempered laga, do baar mili hoon.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi mere liye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka mann ka grah, yaani Chandra, abhi thoda daba hua hai, jisse aapko dusron ka gussa jaldi dikhta hai. Ye rishta aage badh sakta hai, par Mangal ke asar se abhi thoda sambhal kar chalna hoga. Kya ghar wale is rishte ke liye bohot dabav daal rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapka mann ka grah, yaani Chandra, abhi thoda daba hua hai, jisse aapko dusron ka gussa jaldi dikhta hai. Ye rishta aage badh sakta hai, par Mangal ke asar se abhi thoda sambhal kar chalna hoga. Kya ghar wale is rishte ke liye bohot dabav daal rahe hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Sawal ka jawab do, ladka mere liye shi hai ya nahi?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein btao.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sawaal ka seedha jawab ye hai ki rishta sambhal sakta hai, bas thodi samajh ki zarurat hai. Aapka mann abhi thoda bhari hai, isliye unka reserved hona aapko gussa lag raha hai. Ek khaas baat jo unme hai, wo aapke rishte ko baad mein sambhal legi. Kya aapne unse shaadi ki ummido par khul kar baat ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Sawaal ka seedha jawab ye hai ki rishta sambhal sakta hai, bas thodi samajh ki zarurat hai. Aapka mann abhi thoda bhari hai, isliye unka reserved hona aapko gussa lag raha hai. Ek khaas baat jo unme hai, wo aapke rishte ko baad mein sambhal legi. Kya aapne unse shaadi ki ummido par khul kar baat ki hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Seedha bolo, haan ya na.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ladka mere liye sahi hai ya nahi?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, rishta chal sakta hai. Aapka mann ka grah abhi kamzor hai, isliye unka shant hona aapko gussa lag raha hai. Ek bada badlav jald aayega. Kya aapne unse baat ki?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, rishta chal sakta hai. Aapka mann ka grah abhi kamzor hai, isliye unka shant hona aapko gussa lag raha hai. Ek bada badlav jald aayega. Kya aapne unse baat ki?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Isi samay career bhi sudhrega, kyunki kismat ka grah dono mein madad karega. Unke ghar walon ka swabhav ek naya mod layega. Kya aap abhi kahin kaam kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Isi samay career bhi sudhrega, kyunki kismat ka grah dono mein madad karega. Unke ghar walon ka swabhav ek naya mod layega. Kya aap abhi kahin kaam kar rahi hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Itna lamba time?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine mein exact chances hain?",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shuruaat ka yog hai. Career aur shaadi us waqt ek saath sudhrenge. Ek ghatna aapko ladke ki asli niyat dikha degi. Kya aap naukri dhoondh rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 mein shuruaat ka yog hai. Career aur shaadi us waqt ek saath sudhrenge. Ek ghatna aapko ladke ki asli niyat dikha degi. Kya aap naukri dhoondh rahi hain?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Job ka chhodie.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 final hai na?",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi ke yog pakke hain. Career aur shaadi ek hi grah se jude hain, dono saath sudhrenge. Ek khaas mauka aane wala hai jo rishte ko saaf karega. Ghar mein aapne kis se baat ki?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se shaadi ke yog pakke hain. Career aur shaadi ek hi grah se jude hain, dono saath sudhrenge. Ek khaas mauka aane wala hai jo rishte ko saaf karega. Ghar mein aapne kis se baat ki?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok, March 2027.",
+    "sec": 240,
+    "idx": 25
+  }
+]

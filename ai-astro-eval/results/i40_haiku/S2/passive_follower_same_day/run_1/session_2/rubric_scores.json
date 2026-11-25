@@ -1,0 +1,255 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 6,
+    "4.2": 8,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.19,
+  "shape": {
+    "M": 9,
+    "avg_words": 34.9,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ji, ghar ka tanav sunkar dukh hua.",
+        "why": "The astrologer acknowledges the user's specific feeling of tension mentioned in the previous message."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi ghar mein sabse zyada kis baat par jhagda hota hai?",
+        "why": "Questions are relevant and build on the conversation; no Type C questions found."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person's details."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 ke baad ka samay aapke liye achha dikhta hai",
+        "why": "The reading is about the present/future, specific, and new, though it lacks a chart reason in the first instance."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mar 2027 ke baad ka samay aapke liye achha dikhta hai",
+        "why": "Provides a clear direction and time window for the marriage question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki kamai ka hisaab Mangal ke daur se judta hai.",
+        "why": "Multiple linked readings provided using plain language (Shukra, Mangal, 2H)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Yeh phase Mar 2027 ke baad halka hota dikhta hai.",
+        "why": "Builds on the previous reading about the marriage timeline and adds new context."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 ke baad ka samay aapke liye achha dikhta hai",
+        "why": "Provides a consistent time window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehle naukri pakki kijiye, business baad mein sochiye.",
+        "why": "Provides a practical step related to the user's money tension."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Pehle naukri pakki kijiye, business baad mein sochiye.",
+        "why": "Addresses multiple topics (marriage, tension, money) sequentially and fully."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehle naukri pakki kijiye, business baad mein sochiye.",
+        "why": "Points to a further specific area (career vs business) after answering the main concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ji, 2H matlab kundli ka dusra ghar, jo kamai aur jama paise ko dekhta hai.",
+        "why": "No closing message; every reply carries value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap bata sakti hain ki Nov 2022 mein course badalne ke baad padhai mein kya naya hua?",
+        "why": "The last message is a question the user had no time to answer."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "2H matlab kundli ka dusra ghar",
+        "why": "Uses astrology terms but explains them in plain language."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger present."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "reading"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "reading"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      },
+      {
+        "idx": 21,
+        "type": "question"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "both"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "scores": {
+    "1.1": 3,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 8,
+    "2.2": 9,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 9,
+    "3.2": 9,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.56,
+  "shape": {
+    "M": 8,
+    "avg_words": 32.8,
+    "long_share": 0.62
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Namaste ji. Main aapki kundali dekh kar samajh sakti hoon. Kya yeh rishta ghar walon ke zariye aaya hai ya aap pehle se jaanti hain?",
+        "why": "The astrologer ignores the user's worry about the boy and immediately asks a data-gathering question."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya yeh rishta ghar walon ke zariye aaya hai ya aap pehle se jaanti hain?",
+        "why": "Most questions are Type B (generic life questions) rather than building on the user's specific input."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji. Main aapki kundali dekh kar samajh sakti hoon.",
+        "why": "The astrologer accepts the provided details and proceeds to read the chart without needing to ask again."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishta theek dikhta hai, bas thoda samay lekar aage badhein. Kismat ke grah ki wajah se ladka samajhdar aur shaant hoga.",
+        "why": "The reading is about the present, adds new information, is specific, and provides a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Sidha jawab hai na, abhi yeh rishta theek nahi hai.",
+        "why": "The astrologer provides a clear direction (no) and a reason (the chart indicates it is not right)."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Gusse ki wajah mann ke grah par himmat ke grah ki nazar hai.",
+        "why": "The astrologer consistently links life events to chart factors using plain language."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Gusse ki wajah mann ke grah par himmat ke grah ki nazar hai.",
+        "why": "Later readings build on the user's specific feedback (anger, pressure) and add new layers."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki shaadi ka accha yoga March 2027 se September 2028 ke beech banta hai.",
+        "why": "Provides a clear time window without making promises."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mangalwar se Hanuman Chalisa padhna shuru kijiye.",
+        "why": "The remedy is tied to the cause (anger/Mars) and includes a specific day."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Sidha jawab hai na, abhi yeh rishta theek nahi hai.",
+        "why": "The astrologer maintains the thread of the main question throughout the chat."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Pichle sanket ka matlab tha ki aage ek lamba aur accha rasta khulega.",
+        "why": "The astrologer opens a next layer tied to the user's situation."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Sidha jawab hai na, abhi yeh rishta theek nahi hai.",
+        "why": "No early close; every message provides value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Sidha jawab hai na, abhi yeh rishta theek nahi hai.",
+        "why": "The last message is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Gusse ki wajah mann ke grah par himmat ke grah ki nazar hai.",
+        "why": "Uses easy, conversational language without unexplained technical jargon."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Sidha jawab hai na, abhi yeh rishta theek nahi hai.",
+        "why": "The astrologer adapts to the user's push for a direct answer in the very next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "reading"
+      }
+    ]
+  }
+}

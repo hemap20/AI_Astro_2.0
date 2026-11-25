@@ -1,0 +1,177 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 6,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.41,
+  "shape": {
+    "M": 9,
+    "avg_words": 30.2,
+    "long_share": 0.22
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki patrika mein main shaadi ka yoga dekh sakti hoon.",
+        "why": "The astrologer acknowledges the user's main concern (marriage) in the first reply."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya abhi ghar wale aapke liye rishta dhoond rahe hain?",
+        "why": "The questions are relevant to the user's situation (Type A/B), and no Type C questions were asked."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki patrika mein main shaadi ka yoga dekh sakti hoon. Kya abhi ghar wale aapke liye rishta dhoond rahe hain?",
+        "why": "The astrologer asks for the boy's details and uses them to provide a reading, though the name was not used."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki patrika mein March 2027 se September 2028 ke beech shaadi ka pakka yog hai.",
+        "why": "The reading is specific, about the future/present, and tied to the chart, though it lacks a concrete marker for the user to verify."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki patrika mein March 2027 se September 2028 ke beech shaadi ka pakka yog hai.",
+        "why": "The astrologer provides a clear time window for the marriage question immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ka grah kamzor hone se ye tanav hai",
+        "why": "The astrologer links a life issue (tension) to a chart factor (rishton ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka mann abhi thoda pareshan hai, lekin 7th ghar Dhanu ka hone se pati samajhdaar milega.",
+        "why": "The astrologer adds new information about the partner's nature based on the chart, building on the previous discussion."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki patrika mein March 2027 se September 2028 ke beech shaadi ka pakka yog hai.",
+        "why": "The astrologer provides a consistent time window throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "shukrawar ko safed mithai daan kijiye",
+        "why": "A specific remedy is provided with a day and action for the stated problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ke samay aur rishte ke baare mein maine bataya hai.",
+        "why": "The astrologer addresses the marriage timing and the relationship quality, keeping the thread consistent."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Abhi aap dono ki kundali matching aur rashiyo ke milan ka ek zaroori pehlu baaki hai",
+        "why": "The astrologer opens a next layer (kundali matching) but it is a generic pitch."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap abhi ise poora samajhna chahti hain, toh chat recharge karke jude rahiye.",
+        "why": "The astrologer ends the chat with a pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap abhi ise poora samajhna chahti hain, toh chat recharge karke jude rahiye.",
+        "why": "The last message is a pitch to recharge, not a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ka grah kamzor hone se ye tanav hai",
+        "why": "The language is simple and uses common terms without formal or bookish language."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      }
+    ]
+  }
+}

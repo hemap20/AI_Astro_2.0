@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab tak hogi aur ye ladka sahi hai ya nahi mere liye.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar se hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nahi mere liye, ye bataiye.",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Aapki shaadi March 2027 se September 2028 ke beech ho sakti hai. Kya 2023 se 2025 tak paise ki tangi rahi thi, jisse career mein mehnat badh gayi thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Aapki shaadi March 2027 se September 2028 ke beech ho sakti hai. Kya 2023 se 2025 tak paise ki tangi rahi thi, jisse career mein mehnat badh gayi thi?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha rahi thi.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi, wo batao.",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine?",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog shuru hai. Aapka saathi shaant aur padha-likha hona chahiye. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Kya aapne is ladke se abhi baat karni shuru kar di hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se yog shuru hai. Aapka saathi shaant aur padha-likha hona chahiye. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Kya aapne is ladke se abhi baat karni shuru kar di hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha baat ho rahi hai.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Wo toh bahut gussa karta hai.",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, spasht kijiye.",
+    "sec": 60,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein saathi shaant hain, par abhi grahon ka asar rishton mein chidchidapan la raha hai. Shaadi mein ek bada badlav aayega jo aapki kismat badal dega. Kya aapne kabhi unse shaanti se baat ki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli mein saathi shaant hain, par abhi grahon ka asar rishton mein chidchidapan la raha hai. Shaadi mein ek bada badlav aayega jo aapki kismat badal dega. Kya aapne kabhi unse shaanti se baat ki hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, bas haan ya na bolo.",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Jo puch rha wo bata ni rhe.",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta sahi hai, par aap dono ka gussa abhi grahon ke asar se hai. Mangal ki shanti ke liye mangalwar se Hanuman Chalisa shuru kijiye. Is rishte mein ek chhota samjhauta bhavishya badlega. Kya aapne unse apni pareshani share ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta sahi hai, par aap dono ka gussa abhi grahon ke asar se hai. Mangal ki shanti ke liye mangalwar se Hanuman Chalisa shuru kijiye. Is rishte mein ek chhota samjhauta bhavishya badlega. Kya aapne unse apni pareshani share ki hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine tak confirm hai?",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog shuru hain. Career aur rishta tabhi sudhrenge. Ek bada mauka aane wala hai, bas ek galti se bachna hoga. Kya aapne naukri ke liye try kiya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se yog shuru hain. Career aur rishta tabhi sudhrenge. Ek bada mauka aane wala hai, bas ek galti se bachna hoga. Kya aapne naukri ke liye try kiya?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi ki hai.",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaun se mahine mein?",
+    "sec": 150,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Exact date batao.",
+    "sec": 150,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jyotish mein mahine ka window hota hai, koi ek din fix nahi. March 2027 ke shuru ke din achhe hain. Agli baar hum career ke best fields par baat karenge, zaroor judiyega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Jyotish mein mahine ka window hota hai, koi ek din fix nahi. March 2027 ke shuru ke din achhe hain. Agli baar hum career ke best fields par baat karenge, zaroor judiyega."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 23
+  }
+]

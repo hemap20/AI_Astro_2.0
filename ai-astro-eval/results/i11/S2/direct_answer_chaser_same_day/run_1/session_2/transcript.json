@@ -1,0 +1,140 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! 2027 se aapke jeevan mein kaafi rahat aur acche badlaav aane wale hain ji. Bataiye, aaj sabse pehle kis baare mein baat karni hai, marriage ya career?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! 2027 se aapke jeevan mein kaafi rahat aur acche badlaav aane wale hain ji. Bataiye, aaj sabse pehle kis baare mein baat karni hai, marriage ya career?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2025 se hi settle hone aur rishto ki baaton ne zor pakda hoga ji. Family khud rishta dekh rahi hai ya koi pasand hai aapki?",
+    "sec": 45,
+    "raw_response": {
+      "message": "October 2025 se hi settle hone aur rishto ki baaton ne zor pakda hoga ji. Family khud rishta dekh rahi hai ya koi pasand hai aapki?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hai, ek baat chal bhi rahi hai. Wo kab tak final hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye baat March 2027 se September 2028 ke beech pakki hone ke poore yog hain ji. Shukra thoda kamzor hone ki wajah se baatein abhi thodi dheeri lag rahi hain, par samay badal raha hai. Shaadi ke baad apne naye ghar ka yog bhi aage chal kar saaf dikh raha hai ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ye baat March 2027 se September 2028 ke beech pakki hone ke poore yog hain ji. Shukra thoda kamzor hone ki wajah se baatein abhi thodi dheeri lag rahi hain, par samay badal raha hai. Shaadi ke baad apne naye ghar ka yog bhi aage chal kar saaf dikh raha hai ji."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke mahine mein baat pakki hone ke sabse zyada yog hain ji. Shani ka naya samay is dauran apna poora asar dikhayega. Jiss ladke ki baat chal rahi hai, unke swabhaav ke baare mein ghar walon ko kya pata chala hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke mahine mein baat pakki hone ke sabse zyada yog hain ji. Shani ka naya samay is dauran apna poora asar dikhayega. Jiss ladke ki baat chal rahi hai, unke swabhaav ke baare mein ghar walon ko kya pata chala hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega mere paas?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur savings ki chinta sach mein pareshan kar deti hai ji. Yeh batayiye, abhi paisa zyadatar kahan atak raha hai, kharche badhe hain ya kamai mein dikkat hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa aur savings ki chinta sach mein pareshan kar deti hai ji. Yeh batayiye, abhi paisa zyadatar kahan atak raha hai, kharche badhe hain ya kamai mein dikkat hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kamai mein dikkat hai. Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai mein sudhar March 2027 se September 2028 ke beech shuru hoga ji. Is samay aapke dhan sthaan par acche grahon ka asar aamdani badhayega. 2027 ke baad karz se bhi rahat milne ka yog hai ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kamai mein sudhar March 2027 se September 2028 ke beech shuru hoga ji. Is samay aapke dhan sthaan par acche grahon ka asar aamdani badhayega. 2027 ke baad karz se bhi rahat milne ka yog hai ji."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein mann ko bohot bhaari kar deti hai ji. Ye tanaav zyadatar kis cheez ko lekar zyada badh raha hai, aapas ki baaton mein ya rishte ki chinta ko lekar?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein mann ko bohot bhaari kar deti hai ji. Ye tanaav zyadatar kis cheez ko lekar zyada badh raha hai, aapas ki baaton mein ya rishte ki chinta ko lekar?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Dono hi. Kab tak khatam hogi?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye aapas ki khich-taan June 2027 ke baad dheere-dheere kaafi kam hone lagegi ji. Shani ka jo sakht asar ghar aur man par tha, wo is dauran hat jayega. 2028 mein apni property khareedne ke yog bhi ban rahe hain ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye aapas ki khich-taan June 2027 ke baad dheere-dheere kaafi kam hone lagegi ji. Shani ka jo sakht asar ghar aur man par tha, wo is dauran hat jayega. 2028 mein apni property khareedne ke yog bhi ban rahe hain ji."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 18
+  }
+]

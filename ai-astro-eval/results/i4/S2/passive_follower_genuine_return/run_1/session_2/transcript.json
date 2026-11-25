@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise ho aap? Bataiye, aaj kya fikar hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise ho aap? Bataiye, aaj kya fikar hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe! March 2027 ke baad Shani AD se career aur paise mein bada badlaav aayega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe! March 2027 ke baad Shani AD se career aur paise mein bada badlaav aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab March 2027 ke baad nayi job pakki hai ji. Shani AD aur 10th house ki taaqat se yeh bada badlaav aayega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Matlab March 2027 ke baad nayi job pakki hai ji. Shani AD aur 10th house ki taaqat se yeh bada badlaav aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Shaadi kaisa hoga",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta arranged hoga ji, March 2027 ke baad. Partner kaafi calm aur educated honge. Aapki baat chal rahi hai kya kahin?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta arranged hoga ji, March 2027 ke baad. Partner kaafi calm aur educated honge. Aapki baat chal rahi hai kya kahin?",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rahe h parents",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Parents ki pasand se hi hoga ji. March 2027 ke baad yog pakke hain. Rishta kisi jaan-pehchaan mein hi aayega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Parents ki pasand se hi hoga ji. March 2027 ke baad yog pakke hain. Rishta kisi jaan-pehchaan mein hi aayega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak ayega?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial relief milegi ji. 11th house strong hone se savings badhengi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad financial relief milegi ji. 11th house strong hone se savings badhengi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "11th house kya",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein tension rehti h",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "11th house aamdani ka ghar hai ji. Ghar ki tension Chandra aur Shani ke asar se hai, jo mid-2027 ke baad theek ho jayegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "11th house aamdani ka ghar hai ji. Ghar ki tension Chandra aur Shani ke asar se hai, jo mid-2027 ke baad theek ho jayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Thoda sabr rakhiye ji. Monday fast se mann ko shanti milegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Thoda sabr rakhiye ji. Monday fast se mann ko shanti milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab se",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "23 November 2026 se shuru kariye ji. Aapki kundli mein Chandra ki kamzori se mann asanth rehta hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "23 November 2026 se shuru kariye ji. Aapki kundli mein Chandra ki kamzori se mann asanth rehta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

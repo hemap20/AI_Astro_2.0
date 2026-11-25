@@ -1,0 +1,168 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. Future ke baare mein sab batati hoon. Aap married hain ya unmarried ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. Future ke baare mein sab batati hoon. Aap married hain ya unmarried ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Unmarried",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji. Aapke kundli mein abhi serious time hai. Saturn aur Jupiter saath baithe hain.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Theek hai ji. Aapke kundli mein abhi serious time hai. Saturn aur Jupiter saath baithe hain.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Matlab shadi kb hogi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi ki strong window 2026 se 2028 hai ji. Saturn aur Jupiter ka asar ise pakka karega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shadi ki strong window 2026 se 2028 hai ji. Saturn aur Jupiter ka asar ise pakka karega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2026 me kon sa mahina",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rahu-Saturn dasha chal rahi hai ji. 2026 mid ke baad yog strong hain.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rahu-Saturn dasha chal rahi hai ji. 2026 mid ke baad yog strong hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Exact mahina batao",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact mahina fix nahi hota ji. Saturn ka asar cheezein thoda dheemi karta hai. Lekin second half mein possibility banegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Exact mahina fix nahi hota ji. Saturn ka asar cheezein thoda dheemi karta hai. Lekin second half mein possibility banegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa mat ho ji, samajh sakti hoon. Kundli mein Saturn thoda delay deta hai. 2026 ke end mein rasta banega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Gussa mat ho ji, samajh sakti hoon. Kundli mein Saturn thoda delay deta hai. 2026 ke end mein rasta banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Finance ya investment advice nahi deti ji. Ye mere daayre se baahar hai. Career gains zaroor dekh sakti hoon.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Finance ya investment advice nahi deti ji. Ye mere daayre se baahar hai. Career gains zaroor dekh sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein thodi garam baatein hoti hain ji. 2nd house mein Mars baitha hai jo sharp words deta hai. Ek aur wajah bhi hai, bataau?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar mein thodi garam baatein hoti hain ji. 2nd house mein Mars baitha hai jo sharp words deta hai. Ek aur wajah bhi hai, bataau?",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani 8th house mein hai ji. Ye ghar mein duty badhata hai. Ek aur hidden yog bataau kya?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shani 8th house mein hai ji. Ye ghar mein duty badhata hai. Ek aur hidden yog bataau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mercury 11th house mein hai ji. Friends ya network se fayda hoga. Ek aur baat bataau kya?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Mercury 11th house mein hai ji. Friends ya network se fayda hoga. Ek aur baat bataau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied",
+    "sec": 300,
+    "idx": 20
+  }
+]

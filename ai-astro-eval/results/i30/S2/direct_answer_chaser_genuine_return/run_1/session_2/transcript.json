@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Humne pehle bhi career aur ghar ki pareshaniyon par baat ki thi, kya wahi tension abhi bhi bani hui hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Humne pehle bhi career aur ghar ki pareshaniyon par baat ki thi, kya wahi tension abhi bhi bani hui hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan, par shadi kb hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Rishton ka grah abhi thoda dab gaya hai, isliye thodi deri hai. Kya ghar par abhi koi baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Rishton ka grah abhi thoda dab gaya hai, isliye thodi deri hai. Kya ghar par abhi koi baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rhe ghar wale",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok, pr March 2027 me exact month btao",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "June se September 2027 sabse mazboot hai. Mehnat aur karm ka grah tabhi yog banayega. Hone wale jeevansathi ke nature ki ek khaas baat kundli mein chupi hai. Kya aapne baat ki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "June se September 2027 sabse mazboot hai. Mehnat aur karm ka grah tabhi yog banayega. Hone wale jeevansathi ke nature ki ek khaas baat kundli mein chupi hai. Kya aapne baat ki hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya khaas baat hai?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hone wale jeevansathi kaafi samajhdar aur shaant rahenge, par wo thode reserved nature ke ho sakte hain. Ye unke grahon ka asar hai. Kya aapko aise hi vyakti ki talash hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Hone wale jeevansathi kaafi samajhdar aur shaant rahenge, par wo thode reserved nature ke ho sakte hain. Ye unke grahon ka asar hai. Kya aapko aise hi vyakti ki talash hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak badhega?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se September 2028 ke beech badhna shuru hoga. Tabhi career aur kamai ka grah ek saath mazboot ho rahe hain. Abhi aap naye kaam ke liye kahan try kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa March 2027 se September 2028 ke beech badhna shuru hoga. Tabhi career aur kamai ka grah ek saath mazboot ho rahe hain. Abhi aap naye kaam ke liye kahan try kar rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine se specifically?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "April 2027 se aapko paison mein badlav dikhne lagega. Tab himmat aur kamai ka grah aapke liye acche raste kholega. Kya aap abhi kisi specific job field mein try kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "April 2027 se aapko paison mein badlav dikhne lagega. Tab himmat aur kamai ka grah aapke liye acche raste kholega. Kya aap abhi kisi specific job field mein try kar rahe hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kb khtm hogi?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshaniyan mid-2027 tak dheere-dheere khatam ho jayengi. Tab tak mehnat aur karm ke grah ka asar kam ho jayega. Kya aapke ghar wale aapke career ko lekar chintit hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki pareshaniyan mid-2027 tak dheere-dheere khatam ho jayengi. Tab tak mehnat aur karm ke grah ka asar kam ho jayega. Kya aapke ghar wale aapke career ko lekar chintit hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 se ghar ka vatavaran shant hone lagega. Is tension ko door karne ke liye 21 November se 'Om Sham Shanaishcharaya Namah' ka 108 baar jaap roz shuru karein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "July 2027 se ghar ka vatavaran shant hone lagega. Is tension ko door karne ke liye 21 November se 'Om Sham Shanaishcharaya Namah' ka 108 baar jaap roz shuru karein."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  }
+]

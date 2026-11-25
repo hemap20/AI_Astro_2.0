@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab tak hogi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "Aur ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Bihar me born hai",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain. 2023 se 2025 tak mehnat ke bawajood paisa haath mein nahi tikta tha, hai na?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain. 2023 se 2025 tak mehnat ke bawajood paisa haath mein nahi tikta tha, hai na?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi hai.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Par ladka batao, shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner kafi calm aur warm nature ke hain, jo aapke liye achhe hain. Waise rishte mein ek chhota sa pehlu hai jise samajhna zaroori hoga. Aap dono ki abhi kitni baat-cheet hoti hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Partner kafi calm aur warm nature ke hain, jo aapke liye achhe hain. Waise rishte mein ek chhota sa pehlu hai jise samajhna zaroori hoga. Aap dono ki abhi kitni baat-cheet hoti hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Lekin wo short-tempered h.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Do baar mili hu, gussa bahut h unko.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Fir bhi shi h ya nhi?",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sahi h ya nahi, seedha btao.",
+    "sec": 60,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki partner warm nature ke hain, par unka ek guarded side hai jo gusse mein dikhta hai. Wo aapke liye achhe hain, bas Hanuman Chalisa ka path Mangalvar se shuru kijiye. Aap dono mein gusse ki pravritti hai, isliye thoda dhairya rakhna hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Wo baat ye hai ki partner warm nature ke hain, par unka ek guarded side hai jo gusse mein dikhta hai. Wo aapke liye achhe hain, bas Hanuman Chalisa ka path Mangalvar se shuru kijiye. Aap dono mein gusse ki pravritti hai, isliye thoda dhairya rakhna hoga."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 se September 2028 bola.",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exact?",
+    "sec": 90,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 ya 2028?",
+    "sec": 90,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 ki shuruat mein yog sabse majboot hain, kyunki tabhi career aur rishton ke grah ek saath mil rahe hain. Aap abhi career mein kis field mein try kar rahi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2028 ki shuruat mein yog sabse majboot hain, kyunki tabhi career aur rishton ke grah ek saath mil rahe hain. Aap abhi career mein kis field mein try kar rahi hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Sales.",
+    "sec": 120,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "2028 me kaun sa mahina exact?",
+    "sec": 120,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 mein, khaas kar middle ke mahine mein shaadi ka yog sabse achha hai. Aapki sales wali job aur shaadi dono mein तरक्की 2027 ke baad hi aayegi. Abhi aapke ghar wale is rishte ke liye kitne raazi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2028 mein, khaas kar middle ke mahine mein shaadi ka yog sabse achha hai. Aapki sales wali job aur shaadi dono mein तरक्की 2027 ke baad hi aayegi. Abhi aapke ghar wale is rishte ke liye kitne raazi hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Exact month btaiye.",
+    "sec": 150,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Middle mahina matlab June ya July?",
+    "sec": 150,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Btaiye.",
+    "sec": 150,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ya July 2028 ka samay kaafi shubh hai. Shaadi ka samay nishchit hai. Aapki kundli mein partner ke saath jodi ke baare mein bhi kaafi kuch achha likha hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June ya July 2028 ka samay kaafi shubh hai. Shaadi ka samay nishchit hai. Aapki kundli mein partner ke saath jodi ke baare mein bhi kaafi kuch achha likha hai."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 25
+  }
+]

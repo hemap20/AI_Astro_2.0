@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste! Aane wale 1-2 saal tumhari life mein bade badlav layenge. Abhi dil mein sabse zyada kya chal raha hai, career ya ghar-parivaar ki koi pareshani?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste! Aane wale 1-2 saal tumhari life mein bade badlav layenge. Abhi dil mein sabse zyada kya chal raha hai, career ya ghar-parivaar ki koi pareshani?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shaadi ka yog hai. Rishton ka grah kamzor hai, isliye deri hai. Rishta jaan-pehchaan se hoga par usmein dikkat aa sakti hai. Ghar wale bohot pressure daal rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 mein shaadi ka yog hai. Rishton ka grah kamzor hai, isliye deri hai. Rishta jaan-pehchaan se hoga par usmein dikkat aa sakti hai. Ghar wale bohot pressure daal rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, parents rishta dekh rahe hain. Ek baat chal rahi hai abhi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 pakka hai?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka samay mukhya hai, par Shukra grah abhi dab gaya hai, isliye deri ho rahi hai. Ek raaz ki baat hai, tumhare hone wale partner ka nature kaafi shaant par reserved hoga. Gharwale us insaan ko pehle se jaante hain kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ka samay mukhya hai, par Shukra grah abhi dab gaya hai, isliye deri ho rahi hai. Ek raaz ki baat hai, tumhare hone wale partner ka nature kaafi shaant par reserved hoga. Gharwale us insaan ko pehle se jaante hain kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, jante hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaun se mahine?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Us time ke shuruati mahine acche hain. Rishton ke grah ke liye har Friday safed mithai daan karo. Shaadi ki baat mein ek choti galti rishta tod sakti hai, kya pata hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Us time ke shuruati mahine acche hain. Rishton ke grah ke liye har Friday safed mithai daan karo. Shaadi ki baat mein ek choti galti rishta tod sakti hai, kya pata hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month batao.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruati mahine sabse acche hain. Woh galti rishtedaaron ke beech baat karne mein hai, jahan jaldbaazi sab kharab kar sakti hai. Kya tumne abhi unse seedhe baat ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke shuruati mahine sabse acche hain. Woh galti rishtedaaron ke beech baat karne mein hai, jahan jaldbaazi sab kharab kar sakti hai. Kya tumne abhi unse seedhe baat ki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo time maine bataya, uske shuruati mahine hi strong hain. Rishton ka grah abhi weak hai, isliye exact date dena mushkil hai. Gharwale kya kisi khaas family friend se rishta karne ka soch rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Jo time maine bataya, uske shuruati mahine hi strong hain. Rishton ka grah abhi weak hai, isliye exact date dena mushkil hai. Gharwale kya kisi khaas family friend se rishta karne ka soch rahe hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aap ghuma rahe ho. Seedha month bolo.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka pehla mahina sabse strong hai. Friday ko safed mithai daan karo. Us mahine ek khaas din baat pakki ho sakti hai, kya gharwale jaldi ka pressure daal rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ka pehla mahina sabse strong hai. Friday ko safed mithai daan karo. Us mahine ek khaas din baat pakki ho sakti hai, kya gharwale jaldi ka pressure daal rahe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Paisa aur career ka kya hai?",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Buddhi aur kismat ka grah dab gaya hai, isliye career aur rishte atak rahe hain. March 2027 se kaam banega. Chana daal daan karo. Salary rokne wali galti notice ki?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Buddhi aur kismat ka grah dab gaya hai, isliye career aur rishte atak rahe hain. March 2027 se kaam banega. Chana daal daan karo. Salary rokne wali galti notice ki?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 tak wait karu?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Isse pehle kuch chances nahi hai?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Isse pehle ka samay mehnat ka hai, kuch bada badlav tabhi aayega. Career ka grah abhi dheema hai, isliye abhi job switch mat karo. Kya tumne koi naya kaam shuru kiya hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Isse pehle ka samay mehnat ka hai, kuch bada badlav tabhi aayega. Career ka grah abhi dheema hai, isliye abhi job switch mat karo. Kya tumne koi naya kaam shuru kiya hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Matlab 2027 se pehle kuch nahi hoga? Haan ya na?",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nahi, aisa nahi hai. Choti success mil sakti hai. Career aur neend ki dikkat Budh grah ki wajah se hai. Ek mauka aayega jo career badal sakta hai, par use pehchanna hoga. Kya tumne naye projects try kiye?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Nahi, aisa nahi hai. Choti success mil sakti hai. Career aur neend ki dikkat Budh grah ki wajah se hai. Ek mauka aayega jo career badal sakta hai, par use pehchanna hoga. Kya tumne naye projects try kiye?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 300,
+    "idx": 25
+  }
+]

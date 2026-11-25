@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon? Bataiye, kya chal raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon? Bataiye, kya chal raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar maine shaadi aur ghar ki pareshaniyon par baat ki thi. Ye dono 2027 mein sudharenge kyunki career ka grah tab majboot hoga. Kya abhi koi rishta charcha mein hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar maine shaadi aur ghar ki pareshaniyon par baat ki thi. Ye dono 2027 mein sudharenge kyunki career ka grah tab majboot hoga. Kya abhi koi rishta charcha mein hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke liye rishte aane ka yog 2027 se 2028 ke beech zyada hai, arranged shaadi ka chance hai. 2022 mein aapki padhai ya college mein badlav aaya tha, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapke liye rishte aane ka yog 2027 se 2028 ke beech zyada hai, arranged shaadi ka chance hai. 2022 mein aapki padhai ya college mein badlav aaya tha, hai na?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha bht tension",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye tension aapke mann ke grah par asar se hai. Ek rishta aane wala hai jo sab badal dega. Ghar mein jhagda kis baat par hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ye tension aapke mann ke grah par asar se hai. Ek rishta aane wala hai jo sab badal dega. Ghar mein jhagda kis baat par hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur ghar ke jhagde ek hi wajah se hain: kamai ka rasta rukawat mein hai. 2027 mein ye theek hoga. Career mein ek mauka hai, bas galti se bachna hoga. Kya naukri dhundh rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa aur ghar ke jhagde ek hi wajah se hain: kamai ka rasta rukawat mein hai. 2027 mein ye theek hoga. Career mein ek mauka hai, bas galti se bachna hoga. Kya naukri dhundh rahe hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki naukri aur paise ki dikkat 10th ghar ke dheeme hone se hai. Ye daur jald badlega, tab tak naya karz mat lijiye. Aap kis field mein try kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki naukri aur paise ki dikkat 10th ghar ke dheeme hone se hai. Ye daur jald badlega, tab tak naya karz mat lijiye. Aap kis field mein try kar rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Marketing mein",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Marketing aur ghar ka paisa, 10th ghar se jude hain. Ye ghar abhi dheema hai. Aapke jeevansathi ka nature kaisa hoga, ye bhi saaf hai. Kya aap field work kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Marketing aur ghar ka paisa, 10th ghar se jude hain. Ye ghar abhi dheema hai. Aapke jeevansathi ka nature kaisa hoga, ye bhi saaf hai. Kya aap field work kar rahi hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Shadi ka kya?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi 2027-2028 mein hogi, rishton ka ghar tab majboot hoga. Shaadi ke baad ghar ka mahol badal jayega, ek sahayak vyakti aayenge. Kya ghar wale rishta dekh rahe hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaadi 2027-2028 mein hogi, rishton ka ghar tab majboot hoga. Shaadi ke baad ghar ka mahol badal jayega, ek sahayak vyakti aayenge. Kya ghar wale rishta dekh rahe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha mummy papa baat kr rhe h",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy-papa ka rishta dekhna sahi hai, shaadi bade bujurgo ki sahmat se hi hogi. Shaadi ka samay 2027-2028 mein pakka hai. Agli baar aapke hone wale jeevansathi ka nature aur compatibility detail mein samjhati hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Mummy-papa ka rishta dekhna sahi hai, shaadi bade bujurgo ki sahmat se hi hogi. Shaadi ka samay 2027-2028 mein pakka hai. Agli baar aapke hone wale jeevansathi ka nature aur compatibility detail mein samjhati hoon."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello! Kaisi ho? Batao, aaj kis baare mein aage baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello! Kaisi ho? Batao, aaj kis baare mein aage baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Theek hu.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne shaadi ki timing aur paise ki tension ki baat ki thi na. March 2027 ke baad cheezein better honi shuru hongi. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne shaadi ki timing aur paise ki tension ki baat ki thi na. March 2027 ke baad cheezein better honi shuru hongi. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, chal rahi hai baat.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 mein pakki hone ke pure chances hain, khas kar early March mein. Rishta jaan-pehchaan se aayega. Ghar mein kis se is baare mein zyada baat hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi March 2027 mein pakki hone ke pure chances hain, khas kar early March mein. Rishta jaan-pehchaan se aayega. Ghar mein kis se is baare mein zyada baat hoti hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab badhega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat March 2027 se sudharni shuru hogi, aur September 2028 tak income strong ho jayegi. Shanivar ko kaale til daan kiya karo. Job kar rahe ho ya business?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki halat March 2027 se sudharni shuru hogi, aur September 2028 tak income strong ho jayegi. Shanivar ko kaale til daan kiya karo. Job kar rahe ho ya business?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Job.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension June 2027 tak kaafi theek ho jayegi, jab heavy pressure kam hoga. Tuesday ko Hanuman Chalisa padha karo, mann halka rahega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension June 2027 tak kaafi theek ho jayegi, jab heavy pressure kam hoga. Tuesday ko Hanuman Chalisa padha karo, mann halka rahega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 me exact date kya hai?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ke shuruat ke dinon mein hi farak dikh jayega jab Shani ka pressure hatega, baaki pura mahina bhi relief dega. Mummy-papa ke sath is baare mein baat hoti hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June ke shuruat ke dinon mein hi farak dikh jayega jab Shani ka pressure hatega, baaki pura mahina bhi relief dega. Mummy-papa ke sath is baare mein baat hoti hai kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kam hoti hai.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Date batao.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ke pehle hafta, 5 se 10 ke beech mein, jab Shani ka asar thoda halka hoga, tabhi bada farak dikhega. Baaki mahina bhi shanti wala rahega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "June ke pehle hafta, 5 se 10 ke beech mein, jab Shani ka asar thoda halka hoga, tabhi bada farak dikhega. Baaki mahina bhi shanti wala rahega."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 19
+  }
+]

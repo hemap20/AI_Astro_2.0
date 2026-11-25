@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aaj kaunsi baat pareshan kar rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aaj kaunsi baat pareshan kar rahi hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad career sudhrega. Guru ki sthiti se promotion pakki hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad career sudhrega. Guru ki sthiti se promotion pakki hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta arranged hoga, known circles se. Partner tall, calm aur educated milenge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta arranged hoga, known circles se. Partner tall, calm aur educated milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Parents dekh rahe h",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta h abhi",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Parents rishta dekh rahe hain toh acchi baat hai ji. Abhi Shani ke asar se baat pakki hone mein thoda samay lag sakta hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Parents rishta dekh rahe hain toh acchi baat hai ji. Abhi Shani ke asar se baat pakki hone mein thoda samay lag sakta hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Karza dheere-dheere utrega March 2027 ke baad ji. 11th lord Mangal ki taakat se aamdani sudhregi. Apne ghar ka yog bhi 2028 ke baad saaf dikh raha hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Karza dheere-dheere utrega March 2027 ke baad ji. 11th lord Mangal ki taakat se aamdani sudhregi. Apne ghar ka yog bhi 2028 ke baad saaf dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein tension h",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji. Shani ke asar se ghar mein aisi tension hoti hai. Saturday ko kale til daan karein.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Koi baat nahi ji. Shani ke asar se ghar mein aisi tension hoti hai. Saturday ko kale til daan karein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Thik ho jayega?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, sab theek ho jayega. March 2027 ke baad ghar mein shanti aayegi. Mangal ki kripa se sab theek hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan ji, sab theek ho jayega. March 2027 ke baad ghar mein shanti aayegi. Mangal ki kripa se sab theek hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Neend aur tabiyat bhi sudhregi. Mid 2027 tak puri rahat milegi. Videsh jaane ka yog bhi hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Neend aur tabiyat bhi sudhregi. Mid 2027 tak puri rahat milegi. Videsh jaane ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Videsh?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, 2027-2028 mein videsh jaane ka yog hai. 12th house mein Rahu ki sthiti yeh mauka banati hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Haan ji, 2027-2028 mein videsh jaane ka yog hai. 12th house mein Rahu ki sthiti yeh mauka banati hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 270,
+    "idx": 25
+  }
+]

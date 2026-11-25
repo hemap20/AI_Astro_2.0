@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, batao kya chal raha hai? Zindagi mein career ya shaadi, kis baare mein zyada sochna ho raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, batao kya chal raha hai? Zindagi mein career ya shaadi, kis baare mein zyada sochna ho raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai ki shaadi March 2027 se September 2028 ke beech hogi. Rishton ka grah kamzor hai, isliye deri hai. 2023 se 2025 mein paise ki dikkat thi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Zyada chance hai ki shaadi March 2027 se September 2028 ke beech hogi. Rishton ka grah kamzor hai, isliye deri hai. 2023 se 2025 mein paise ki dikkat thi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, dikkat thi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaunsa mahina exact?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pehle teen mahine mein yog shuru hoga. Shaadi jaane-pehchane logon mein hogi, par usse pehle ek rishta aayega jise pehchanna zaroori hai. Kya ghar wale abhi rishta dekh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Pehle teen mahine mein yog shuru hoga. Shaadi jaane-pehchane logon mein hogi, par usse pehle ek rishta aayega jise pehchanna zaroori hai. Kya ghar wale abhi rishta dekh rahe hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta dekh rahe hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ek ki baat chal rahi hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak sahi hoga?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi March 2027 se September 2028 tak door hogi, kyunki kamai ka grah majboot hai. Isi samay shaadi ka yog bhi hai. Abhi tum job kar rahe ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki tangi March 2027 se September 2028 tak door hogi, kyunki kamai ka grah majboot hai. Isi samay shaadi ka yog bhi hai. Abhi tum job kar rahe ho?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, job nahi kar rahi.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai. Kab tak thik hoga?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension mid-2027 tak theek ho jayegi. 21 November se roz 'Om Sham Shanaishcharaya Namah' 108 baar japna aur kaale til daan karna, bahut sukoon milega. Shaadi aur future ka pattern agle baar detail mein dekhenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension mid-2027 tak theek ho jayegi. 21 November se roz 'Om Sham Shanaishcharaya Namah' 108 baar japna aur kaale til daan karna, bahut sukoon milega. Shaadi aur future ka pattern agle baar detail mein dekhenge."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak milegi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech job milne ke acche yog hain. Career ka grah tab majboot hai. Job ke baad safar kaisa rahega, agli baar detail mein dekh lenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech job milne ke acche yog hain. Career ka grah tab majboot hai. Job ke baad safar kaisa rahega, agli baar detail mein dekh lenge."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunse month tak milegi?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Usi daur ke shuruati mahino mein safalta ke bade yog hain, kyunki kismat ka grah tab bahut majboot hai. Career ki disha aur videsh jane ke yog agli baar detail mein samjhenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Usi daur ke shuruati mahino mein safalta ke bade yog hain, kyunki kismat ka grah tab bahut majboot hai. Career ki disha aur videsh jane ke yog agli baar detail mein samjhenge."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "March ya April? Date batao.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Isi mahine mein yog sabse zyada hai, kyunki career ka grah tabhi shuru hota hai. Abhi ke liye tum bas taiyari rakho. Job ke baad videsh jane ke yog kaise hain, ye agli baar detail mein samjhenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Isi mahine mein yog sabse zyada hai, kyunki career ka grah tabhi shuru hota hai. Abhi ke liye tum bas taiyari rakho. Job ke baad videsh jane ke yog kaise hain, ye agli baar detail mein samjhenge."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Aap date nahi bata rahe, sirf gol-mol bol rahe ho.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 23
+  }
+]

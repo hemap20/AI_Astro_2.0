@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! Kaisi ho? Batao, aaj kis baare mein baat karni hai - shaadi ki baat ya paise ki tension?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! Kaisi ho? Batao, aaj kis baare mein baat karni hai - shaadi ki baat ya paise ki tension?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se aayega. 2025 ke end se hi ghar mein settle hone ki baatein shuru ho gayi thin na? Tumhe kaisa partner chahiye?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se aayega. 2025 ke end se hi ghar mein settle hone ki baatein shuru ho gayi thin na? Tumhe kaisa partner chahiye?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan mummy papa rishta dekh rhe hai, ek baat chal bhi rahi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine me hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 ke beech baat pakki hone ka bada yog hai. Par shaadi se pehle hone wale partner ke nature mein ek guarded side bhi dikh raha hai, jise samajhna zaroori hoga. Jo rishta abhi chal raha hai, waha sab theek lag raha hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ya April 2027 ke beech baat pakki hone ka bada yog hai. Par shaadi se pehle hone wale partner ke nature mein ek guarded side bhi dikh raha hai, jise samajhna zaroori hoga. Jo rishta abhi chal raha hai, waha sab theek lag raha hai kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega mere paas?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi paisa thoda tight chal raha hai aur kharche badh gaye hain, hai na? Abhi main kharcha kahan zyada ho raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2023 se hi paisa thoda tight chal raha hai aur kharche badh gaye hain, hai na? Abhi main kharcha kahan zyada ho raha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Medical bills.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ka grah strong hai par kamzor Chandra ki wajah se paisa rukta nahi hai. March 2027 se September 2028 ke beech halat sudhregi, tab tak Tuesday ko Hanuman Chalisa padhna shuru karo. 2027 mein ek financial decision aisa aayega jo aage ki savings pakki karega, wo kya ho sakta hai socha hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kamai ka grah strong hai par kamzor Chandra ki wajah se paisa rukta nahi hai. March 2027 se September 2028 ke beech halat sudhregi, tab tak Tuesday ko Hanuman Chalisa padhna shuru karo. 2027 mein ek financial decision aisa aayega jo aage ki savings pakki karega, wo kya ho sakta hai socha hai kya?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsa month?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuru mein hi woh badlav dikhne lagega kyunki tabhi naya samay shuru ho raha hai. Medical kharche thode kam honge. Ghar wale is baare mein kya bol rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March ke shuru mein hi woh badlav dikhne lagega kyunki tabhi naya samay shuru ho raha hai. Medical kharche thode kam honge. Ghar wale is baare mein kya bol rahe hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ghar ka jhagda kab se aise hi chal raha hai, aur kis baat pe sabse zyada tension hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ye ghar ka jhagda kab se aise hi chal raha hai, aur kis baat pe sabse zyada tension hoti hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Property.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab khatam hogi tension?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad yeh property ka jhagda dheere-dheere kam hone lagega. Medical kharche aur yeh kheenchatani, dono Mangal ke asar ki wajah se hain. 2027 mein ek mahina aisa aayega jab rasta banega, par kya lagta hai ghar wale maan jayenge?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad yeh property ka jhagda dheere-dheere kam hone lagega. Medical kharche aur yeh kheenchatani, dono Mangal ke asar ki wajah se hain. 2027 mein ek mahina aisa aayega jab rasta banega, par kya lagta hai ghar wale maan jayenge?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 hi final hai ya usse pehle?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Feb 2027 ke baad se hi halki rahat milni shuru ho jayegi, June tak baat poori tarah sudhar jayegi. March mein ek aisi baat ban sakti hai jo rasta khol de. Tumne is baare mein ghar mein kisi se akele mein baat ki hai kya?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Feb 2027 ke baad se hi halki rahat milni shuru ho jayegi, June tak baat poori tarah sudhar jayegi. March mein ek aisi baat ban sakti hai jo rasta khol de. Tumne is baare mein ghar mein kisi se akele mein baat ki hai kya?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

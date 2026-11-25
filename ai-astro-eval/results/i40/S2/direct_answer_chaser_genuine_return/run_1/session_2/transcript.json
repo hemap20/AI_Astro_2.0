@@ -1,0 +1,209 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main theek hoon, aap bataiye aap aaj kaisi hain aur kya chal raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main theek hoon, aap bataiye aap aaj kaisi hain aur kya chal raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap? Shadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, humne rishton aur ghar ki tension par baat ki thi. Shaadi ka yog March 2027 se September 2028 ke beech majboot dikh raha hai. Kya November 2022 mein aapki padhai mein badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, humne rishton aur ghar ki tension par baat ki thi. Shaadi ka yog March 2027 se September 2028 ke beech majboot dikh raha hai. Kya November 2022 mein aapki padhai mein badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kaunse month tak?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, college change kiya tha tab.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hain, ek baat chal rahi hai.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aaspas ka samay rishta pakka hone ke liye sabse accha hai. Parents jo rishta dekh rahe hain, woh aage badh sakta hai. Hone wale partner ki ek khasiyat hai jo abhi chhupi hai, par woh aapki life mein bahut stability layenge. Ghar mein rishte ko lekar abhi sabka kya reaction hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke aaspas ka samay rishta pakka hone ke liye sabse accha hai. Parents jo rishta dekh rahe hain, woh aage badh sakta hai. Hone wale partner ki ek khasiyat hai jo abhi chhupi hai, par woh aapki life mein bahut stability layenge. Ghar mein rishte ko lekar abhi sabka kya reaction hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Sab khush hain.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ye wala rishta chalega ya nahi?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, yeh rishta chal sakta hai; woh partner lambe aur shaant honge. Shukra ke liye 20 November se 'Om Shum Shukraya Namah' 108 baar kijiye. Kya aap unke sath career ki baatein khul kar kar sakti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, yeh rishta chal sakta hai; woh partner lambe aur shaant honge. Shukra ke liye 20 November se 'Om Shum Shukraya Namah' 108 baar kijiye. Kya aap unke sath career ki baatein khul kar kar sakti hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paison mein sudhaar aayega. 19 November se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japiye aur chana dal daan kijiye. Aap abhi kya karti hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se paison mein sudhaar aayega. 19 November se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japiye aur chana dal daan kijiye. Aap abhi kya karti hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Student.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak ghar mein shaanti aa jayegi. Padhai aur ghar ki pareshani ek hi kamzor grah se judi hai. Career mein ek naya raasta dikh raha hai, kya aapne socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 tak ghar mein shaanti aa jayegi. Padhai aur ghar ki pareshani ek hi kamzor grah se judi hai. Career mein ek naya raasta dikh raha hai, kya aapne socha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 tak pakka?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi socha.",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kaunsa naya raasta? Exact btao.",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, June 2027 mein ghar ka mahol badal jayega. Yeh raasta finance ya communication sector hai. Isse tension aur paise ki kami dono theek hogi. Kya aapne kabhi inmein try kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, June 2027 mein ghar ka mahol badal jayega. Yeh raasta finance ya communication sector hai. Isse tension aur paise ki kami dono theek hogi. Kya aapne kabhi inmein try kiya hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Finance sector mein success milegi?",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Finance mein aapko acchi safalta milegi kyunki kismat ka grah waha majboot hai. Ek naye contact se aapko badi madad milegi jo career badlega. Kya aapne koi course socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Finance mein aapko acchi safalta milegi kyunki kismat ka grah waha majboot hai. Ek naye contact se aapko badi madad milegi jo career badlega. Kya aapne koi course socha hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Job milegi ya business?",
+    "sec": 240,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pehle job milegi, phir business ka mauka aayega. Woh naya contact ek door ke rishtedaar hain jo aapko raasta dikhayenge. 21 November se 'Om Sham Shanaishcharaya Namah' 108 baar japiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Pehle job milegi, phir business ka mauka aayega. Woh naya contact ek door ke rishtedaar hain jo aapko raasta dikhayenge. 21 November se 'Om Sham Shanaishcharaya Namah' 108 baar japiye."
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 29
+  }
+]

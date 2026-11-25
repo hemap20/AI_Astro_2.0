@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapke bhavishya ke baare mein dekh sakti hoon. Aap sabse pehle kya jaanna chahti hain, career ya shaadi ke baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapke bhavishya ke baare mein dekh sakti hoon. Aap sabse pehle kya jaanna chahti hain, career ya shaadi ke baare mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye thoda intezar karna hoga, kyunki rishton ka grah abhi thoda dab gaya hai. Aapke liye vivah ka achha samay March 2027 se shuru hoga. Kya November 2022 mein aapke college ya padhai mein koi bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke liye thoda intezar karna hoga, kyunki rishton ka grah abhi thoda dab gaya hai. Aapke liye vivah ka achha samay March 2027 se shuru hoga. Kya November 2022 mein aapke college ya padhai mein koi bada badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month kya h?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi shubh samay shuru ho jaata hai, tab tak aapko thoda dhairya rakhna hoga. Rishton ke grah ke liye, kya aap kisi khaas insaan se rishte ko lekar chintit hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se hi shubh samay shuru ho jaata hai, tab tak aapko thoda dhairya rakhna hoga. Rishton ke grah ke liye, kya aap kisi khaas insaan se rishte ko lekar chintit hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Gharwale rishta dekh rhe, ek baat chali hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Par exact month batao, March ya April?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shubh samay shuru hoga. Rishta dekhne wale ka ek aisa pehlu hai jo abhi saaf nahi hai. Kya aapne unse abhi seedhi baat ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se shubh samay shuru hoga. Rishta dekhne wale ka ek aisa pehlu hai jo abhi saaf nahi hai. Kya aapne unse abhi seedhi baat ki hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "March ya April?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pehle date clear karo.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein hi kaam banne ki sambhavna hai. Woh insaan bahar se thode shant aur guarded rehte hain. Shukra ko majboot karne ke liye Friday ko safed mithai daan kijiye, kya aap yeh kar payengi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 mein hi kaam banne ki sambhavna hai. Woh insaan bahar se thode shant aur guarded rehte hain. Shukra ko majboot karne ke liye Friday ko safed mithai daan kijiye, kya aap yeh kar payengi?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur career mein sudhaar March 2027 se September 2028 ke beech aayega. Yeh wahi samay hai jab aapke rishte ki baat bhi pakki ho sakti hai, toh aapke liye yeh do badi khushiyan ek hi daur mein aa rahi hain. Is daur ka pura labh lene ke liye har Guruwar chana dal ka daan kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa aur career mein sudhaar March 2027 se September 2028 ke beech aayega. Yeh wahi samay hai jab aapke rishte ki baat bhi pakki ho sakti hai, toh aapke liye yeh do badi khushiyan ek hi daur mein aa rahi hain. Is daur ka pura labh lene ke liye har Guruwar chana dal ka daan kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Aur ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension mid-2027 tak kam ho jayegi. Aapka gussa aur pareshani ek-dusre ko badhate hain, isliye Mangalwar ko Hanuman Chalisa padhna shuru kijiye. Kya aapko sone mein pareshani hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension mid-2027 tak kam ho jayegi. Aapka gussa aur pareshani ek-dusre ko badhate hain, isliye Mangalwar ko Hanuman Chalisa padhna shuru kijiye. Kya aapko sone mein pareshani hoti hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Mid-2027 matlab June ya July?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Clear batao.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak aapko badi rahat mil jayegi. Aapka mann aur neend ka grah abhi dabav mein hai, isliye aapke vichar aur tension ek-dusre ko badhate hain. Jab tak yeh daur poora nahi hota, har Somwar ko thoda waqt shanti se baithne ki koshish kijiye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 tak aapko badi rahat mil jayegi. Aapka mann aur neend ka grah abhi dabav mein hai, isliye aapke vichar aur tension ek-dusre ko badhate hain. Jab tak yeh daur poora nahi hota, har Somwar ko thoda waqt shanti se baithne ki koshish kijiye."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Samajh gayi.",
+    "sec": 240,
+    "idx": 23
+  }
+]

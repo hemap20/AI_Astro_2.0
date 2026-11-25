@@ -1,0 +1,186 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, zaroor batayungi. Aapki shaadi ho chuki hai kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, zaroor batayungi. Aapki shaadi ho chuki hai kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nahi hui",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji. Chandra mahadasha chal rahi hai. Pichle saal thoda stress raha hoga.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Theek hai ji. Chandra mahadasha chal rahi hai. Pichle saal thoda stress raha hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab Moon ka time chal raha hai. Isliye man thoda udas rehta hai ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Matlab Moon ka time chal raha hai. Isliye man thoda udas rehta hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se halaat badal jayenge ji. Guru ka asar tarakki layega. Ek aur baat batau kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2027 se halaat badal jayenge ji. Guru ka asar tarakki layega. Ek aur baat batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein numbers nahi hote ji. Grahon ki sthiti dekhi jaati hai. Shadi ke baad 1-2 bacche honge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kundli mein numbers nahi hote ji. Grahon ki sthiti dekhi jaati hai. Shadi ke baad 1-2 bacche honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa rukta nahi hai ji. 2nd house weak hai. 2027 se debt kam hoga. Ek aur baat batau?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa rukta nahi hai ji. 2nd house weak hai. 2027 se debt kam hoga. Ek aur baat batau?",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad naya job aayega. Guru ka asar career chamkayega ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad naya job aayega. Guru ka asar career chamkayega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner tall aur calm honge ji. Ek aur baat batau is baare mein?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Partner tall aur calm honge ji. Ek aur baat batau is baare mein?",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Time thoda kam reh gaya hai ji. In-laws traditional aur reserved honge. Thoda aur time milega kya?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Time thoda kam reh gaya hai ji. In-laws traditional aur reserved honge. Thoda aur time milega kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Time thoda kam reh gaya hai — aapke kundli mein foreign travel ke baare mein kuch khaas dikh raha hai, thoda aur time hoga toh wo bhi bata sakti hoon ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Time thoda kam reh gaya hai — aapke kundli mein foreign travel ke baare mein kuch khaas dikh raha hai, thoda aur time hoga toh wo bhi bata sakti hoon ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 23
+  }
+]

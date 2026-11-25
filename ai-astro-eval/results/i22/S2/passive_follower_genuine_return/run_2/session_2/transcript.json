@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 ka saal tumhare liye kaafi badlav aur rahat lekar aa raha hai. Batao, abhi sabse zyada kaunsi baat pareshan kar rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 ka saal tumhare liye kaafi badlav aur rahat lekar aa raha hai. Batao, abhi sabse zyada kaunsi baat pareshan kar rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar bhi shaadi ki baat hui thi, aur 2023 se hi ghar mein rishte ki charcha shuru ho gayi thi na? Abhi koi naya rishta aaya hai kya, ya family ka pressure hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar bhi shaadi ki baat hui thi, aur 2023 se hi ghar mein rishte ki charcha shuru ho gayi thi na? Abhi koi naya rishta aaya hai kya, ya family ka pressure hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta chal rha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se baat aage badhegi. Friday ko white sweets donate karke Om Shum Shukraya Namah jap karo, sab theek hoga. Par ek baat dhyan rakhna, in-laws thode reserved ho sakte hain. Ye rishta kahan se aaya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se baat aage badhegi. Friday ko white sweets donate karke Om Shum Shukraya Namah jap karo, sab theek hoga. Par ek baat dhyan rakhna, in-laws thode reserved ho sakte hain. Ye rishta kahan se aaya hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Dur ke rishtedaar",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k tension h",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte ki ulkan aur paise ka na rukna, dono ki ek hi wajah hai: Chandra kamzor hai, isliye mann bhaari rehta hai aur bachat nahi hoti. March 2027 se yeh halat badlegi, tab tak naya kharcha mat lo aur Monday ko Om Som Somaya Namah jap karo. 2028 mein ek aisi property ka yog hai jo saari bachat sambhal lega, par abhi kharcha kahan sabse zyada ho raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishte ki ulkan aur paise ka na rukna, dono ki ek hi wajah hai: Chandra kamzor hai, isliye mann bhaari rehta hai aur bachat nahi hoti. March 2027 se yeh halat badlegi, tab tak naya kharcha mat lo aur Monday ko Om Som Somaya Namah jap karo. 2028 mein ek aisi property ka yog hai jo saari bachat sambhal lega, par abhi kharcha kahan sabse zyada ho raha hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ke kharche",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bohot hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka yeh bojh June 2027 ke baad halka hoga. Tuesday ko Hanuman Chalisa padha karo, rahat milegi. Kya ghar wale tumhari baat samajhte hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ka yeh bojh June 2027 ke baad halka hoga. Tuesday ko Hanuman Chalisa padha karo, rahat milegi. Kya ghar wale tumhari baat samajhte hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar walon ka yeh roop isliye hai kyunki abhi waqt thoda sakht hai, par June 2027 ke baad mahaul badlega. 2027 mein ek mahina aisa aayega jab sabhi ka nazariya badal jayega. Kya tumne ye tension apne hone wale partner ko batayi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar walon ka yeh roop isliye hai kyunki abhi waqt thoda sakht hai, par June 2027 ke baad mahaul badlega. 2027 mein ek mahina aisa aayega jab sabhi ka nazariya badal jayega. Kya tumne ye tension apne hone wale partner ko batayi hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner kaafi calm aur samajhdar hain, unhe batane se bojh halka hoga. Shaadi ki baat aage badhane se pehle kya unse khulkar baat hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Partner kaafi calm aur samajhdar hain, unhe batane se bojh halka hoga. Shaadi ki baat aage badhane se pehle kya unse khulkar baat hui hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nhi darr lgta h",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darna lazmi hai, par unka nature bohot calm aur samajhdar hai. Thoda sa himmat karke baat shuru karo. Kya wo aapse akele mein milte hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Darna lazmi hai, par unka nature bohot calm aur samajhdar hai. Thoda sa himmat karke baat shuru karo. Kya wo aapse akele mein milte hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kabhi nahi",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Sab thik hoga?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, sab bilkul theek hoga aur March 2027 se halat sudhrenge. Unka ek guarded side hai jo waqt ke sath samne aayega. Kya career ko lekar bhi koi plan socha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Haan, sab bilkul theek hoga aur March 2027 se halat sudhrenge. Unka ek guarded side hai jo waqt ke sath samne aayega. Kya career ko lekar bhi koi plan socha hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya communication line tumhare liye best hai, pehle choti job dekho. 2027 mein ek bada mauka aayega. Tumne padhai kis field mein ki hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Teaching ya communication line tumhare liye best hai, pehle choti job dekho. 2027 mein ek bada mauka aayega. Tumne padhai kis field mein ki hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 24
+  }
+]

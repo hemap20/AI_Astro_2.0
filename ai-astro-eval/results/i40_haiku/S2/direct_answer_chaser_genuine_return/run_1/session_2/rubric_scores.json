@@ -1,0 +1,173 @@
+{
+  "scores": {
+    "1.1": 9,
+    "1.2": 9,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 9,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 8,
+    "4.2": 9,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 8.06,
+  "shape": {
+    "M": 8,
+    "avg_words": 41.4,
+    "long_share": 0.88
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, pichli baar shaadi aur naukri ki baat hui thi, main wahi aage dekhti hoon.",
+        "why": "The astrologer acknowledges the user's previous context and builds on it immediately."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kya Nov 2022 ke aas-paas aapki padhai ya college mein koi badlav aaya tha?",
+        "why": "The question is Type A, building on the user's life, and the answer is used later to validate the reading."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user's main question is about their own marriage and job, not a specific third party's details."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai. Kya Nov 2022 ke aas-paas aapki padhai ya college mein koi badlav aaya tha?",
+        "why": "The reading is about the future/present, specific, and tied to a chart reason (implied by the validation question)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mar 2027 sabse likely mahina hai jab ghar ka tension kam hona shuru hoga.",
+        "why": "The astrologer provides a direction and reason (Mangal/Shani) before the user's final push."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Roz shaam ki bahas mein Mangal ka asar hai, isliye thoda sabr rakhiye.",
+        "why": "The reading links the life event (evening arguments) to a chart factor (Mangal) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi aur career dono par ek saath bahas hoti hai, isliye Mar 2027 se Sep 2028 ke beech halat sudharti hai.",
+        "why": "The astrologer builds depth by connecting the marriage and career topics to the family tension timeline."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mar 2027 sabse likely mahina hai jab ghar ka tension kam hona shuru hoga.",
+        "why": "The astrologer provides a specific window and avoids promising a fixed date, even when pushed."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Roz shaam ki bahas mein Mangal ka asar hai, isliye thoda sabr rakhiye.",
+        "why": "The astrologer gives practical advice (patience) linked to the cause (Mangal), though it's a bit generic."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai... Job ke liye Mar 2027 se Sep 2028 ka samay achha hai",
+        "why": "The astrologer answers both questions (marriage and job) and connects them to the same timeline."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Roz shaam ki bahas mein Mangal ka asar hai, isliye thoda sabr rakhiye.",
+        "why": "The astrologer opens a new layer regarding the cause of the arguments (Mangal)."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aap sahi keh rahi hain, main seedha jawab deti hoon. Mar 2027 sabse likely mahina hai jab ghar ka tension kam hona shuru hoga.",
+        "why": "No closing message, and every reply carries a reading or relevant question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mar 2027 sabse likely mahina hai jab ghar ka tension kam hona shuru hoga. Roz shaam ki bahas mein Mangal ka asar hai, isliye thoda sabr rakhiye.",
+        "why": "The last two messages provide a concrete reading and guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Roz shaam ki bahas mein Mangal ka asar hai, isliye thoda sabr rakhiye.",
+        "why": "Uses easy language and addresses the user's specific concern about the timing of arguments."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      }
+    ]
+  }
+}

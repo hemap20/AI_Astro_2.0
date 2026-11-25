@@ -1,0 +1,184 @@
+[
+  {
+    "role": "USER",
+    "text": "Mera future kaisa hai, career aur paisa kab tak set hoga?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career March 2027 se track par aayega. Guru ki shakti tab madad karegi. Aap unmarried ho ya married ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Career March 2027 se track par aayega. Guru ki shakti tab madad karegi. Aap unmarried ho ya married ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Unmarried.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month kya hoga?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ki shuruat mein hi shuru hoga. Shani AD tabhi start hota hai ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March ki shuruat mein hi shuru hoga. Shani AD tabhi start hota hai ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main numerology nahi, kundli dekhti hoon. Aapka chart Budh se chalta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main numerology nahi, kundli dekhti hoon. Aapka chart Budh se chalta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Number kitna?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Career aur paisa kab badhega, exact time batao.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 pakka hai. Guru aur Mangal tab strong hain. Ek aur baat batau kya ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 pakka hai. Guru aur Mangal tab strong hain. Ek aur baat batau kya ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pehle mera jawab do.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 se Sept 2028 pakka hai?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, bilkul pakka hai ji. 10th house mein Guru strong hai. Debt bhi tabhi kam hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, bilkul pakka hai ji. 10th house mein Guru strong hai. Debt bhi tabhi kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kitna badhega tab tak?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact amount nahi bata sakti ji. Karza utrega, par bachat thodi mushkil hogi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Exact amount nahi bata sakti ji. Karza utrega, par bachat thodi mushkil hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Range batao, kitna badhega?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact amount batana mushkil hai ji. 2nd house weak hone se bachat kam hai. Ek aur cheez batau is baare mein?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Exact amount batana mushkil hai ji. 2nd house weak hone se bachat kam hai. Ek aur cheez batau is baare mein?",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Pehle mera jawab do. Range toh batao.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Financial range dena mere daayre se baahar hai ji. Kundli mein bas income ka flow dikhta hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Financial range dena mere daayre se baahar hai ji. Kundli mein bas income ka flow dikhta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Faltu ka time waste kiya.",
+    "sec": 240,
+    "idx": 24
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein aapke halat mein kaafi sudhaar aayega aur kaam banenge ji. Batayiye, abhi sabse zyada tension kis baare mein hai, shaadi, naukri ya ghar ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein aapke halat mein kaafi sudhaar aayega aur kaam banenge ji. Batayiye, abhi sabse zyada tension kis baare mein hai, shaadi, naukri ya ghar ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech aapki shaadi pakki hone ke poore yog hain ji. Shukra thoda kamzor hone ki wajah se abhi tak deri hui hai. Pichli baar aapne Hyderabad wale rishte aur ghar ke tanaav ki baat ki thi ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech aapki shaadi pakki hone ke poore yog hain ji. Shukra thoda kamzor hone ki wajah se abhi tak deri hui hai. Pichli baar aapne Hyderabad wale rishte aur ghar ke tanaav ki baat ki thi ji."
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Abhi mummy-papa rishta dekh rahe hain, ek rishta chal raha hai.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ye waala confirm hoga ya nahi?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, is rishte ke pakka hone ke poore chance hain. Yeh baat kisi jaan-pehchaan ke zariye hi aage badhegi ji. Yeh ladke wale aapke kisi apne circle se hi hain kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, is rishte ke pakka hone ke poore chance hain. Yeh baat kisi jaan-pehchaan ke zariye hi aage badhegi ji. Yeh ladke wale aapke kisi apne circle se hi hain kya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak final ho jayega?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein yeh rishta pakka hone ka poora yog hai, tab tak ghar ki tanaav wali baatein bhi theek hone lagengi ji. Guru grah ke asar se yeh rishta jud raha hai. Kya ladke ki nature ya job ke baare mein ghar walo ne kuch bataya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 mein yeh rishta pakka hone ka poora yog hai, tab tak ghar ki tanaav wali baatein bhi theek hone lagengi ji. Guru grah ke asar se yeh rishta jud raha hai. Kya ladke ki nature ya job ke baare mein ghar walo ne kuch bataya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job ka pta nahi.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aane aur kamai sudharne ki baat hai ji. Aapko kya lagta hai, paisa kamai kam hone ki wajah se ruk raha hai ya kharche zyada hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa aane aur kamai sudharne ki baat hai ji. Aapko kya lagta hai, paisa kamai kam hone ki wajah se ruk raha hai ya kharche zyada hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kamai kam hai.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 tak aate-aate kamai mein achhi tezi aayegi ji. Mangal ke asar se paise ki tangi door hogi. Is Friday 20 November se 'Om Shum Shukraya Namah' ka 108 baar jaap shuru karein ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "2028 tak aate-aate kamai mein achhi tezi aayegi ji. Mangal ke asar se paise ki tangi door hogi. Is Friday 20 November se 'Om Shum Shukraya Namah' ka 108 baar jaap shuru karein ji."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "2028 mein kaunsa mahina?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 ke March mahine mein paisa behtar aane lagega ji. Ghar ka tanaav March se June 2027 ke beech khatam hoga. Kya ghar wale is rishte se abhi khush hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "2028 ke March mahine mein paisa behtar aane lagega ji. Ghar ka tanaav March se June 2027 ke beech khatam hoga. Kya ghar wale is rishte se abhi khush hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 22
+  }
+]

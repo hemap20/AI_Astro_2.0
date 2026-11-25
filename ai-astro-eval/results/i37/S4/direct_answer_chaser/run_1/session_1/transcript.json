@@ -1,0 +1,125 @@
+[
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka rishta aage badhne ke liye achha lag raha hai, lekin thoda waqt dena sahi rahega. Kya aapne 2023 se khud ko mehnat karte hue aur paise ki kami mehsoos kiya hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapka rishta aage badhne ke liye achha lag raha hai, lekin thoda waqt dena sahi rahega. Kya aapne 2023 se khud ko mehnat karte hue aur paise ki kami mehsoos kiya hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi ye bataiye.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Rishta ho sakta hai ya nahi?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta ho sakta hai, partner calm aur educated honge. Pichle mehnat jaisa hi support milega. Rishte mein ek choti si baadh hai. 'Om Shum Shukraya Namah' ka jaap shukravar se kijiye.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Rishta ho sakta hai, partner calm aur educated honge. Pichle mehnat jaisa hi support milega. Rishte mein ek choti si baadh hai. 'Om Shum Shukraya Namah' ka jaap shukravar se kijiye."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Woh calm nahi hai, mujhe gussa dikha.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi ye btao?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta sahi hai, par woh reserved hain isliye gussa dikh sakta hai. Aapki baaton mein bhi stress hai jo Mangal ke asar se hai. Mangalwar se Hanuman Chalisa shuru kijiye.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta sahi hai, par woh reserved hain isliye gussa dikh sakta hai. Aapki baaton mein bhi stress hai jo Mangal ke asar se hai. Mangalwar se Hanuman Chalisa shuru kijiye."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke yog March 2027 se September 2028 ke beech hain. Aapke career mein bhi ek badi shuruat hogi, isliye Guru ke liye chana dal ka daan kijiye. Aap abhi kya kaam karti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shaadi ke yog March 2027 se September 2028 ke beech hain. Aapke career mein bhi ek badi shuruat hogi, isliye Guru ke liye chana dal ka daan kijiye. Aap abhi kya kaam karti hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Job.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month bataiye?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2027 ka samay sabse mazboot hai. Job aur rishte ki pareshani ek sath hal hogi, kyunki kismat ka grah dono ka swami hai. Pehle kabhi kisi rishte ki baat chali thi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March se May 2027 ka samay sabse mazboot hai. Job aur rishte ki pareshani ek sath hal hogi, kyunki kismat ka grah dono ka swami hai. Pehle kabhi kisi rishte ki baat chali thi?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 17
+  }
+]

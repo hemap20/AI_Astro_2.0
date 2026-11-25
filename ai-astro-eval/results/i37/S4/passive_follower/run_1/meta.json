@@ -1,0 +1,12 @@
+{
+  "case_id": "S4",
+  "prompt_version": "i37",
+  "persona": "passive_follower",
+  "gap_variant": null,
+  "run": 1,
+  "astro_model": "gemini-3.1-flash-lite",
+  "astro_thinking": "LOW",
+  "simulator_model": "gemini-3.1-flash-lite",
+  "event_judge_model": "gemini-3.1-flash-lite",
+  "event_judge_prompt_sha1": "a7e9bdc14bce"
+}

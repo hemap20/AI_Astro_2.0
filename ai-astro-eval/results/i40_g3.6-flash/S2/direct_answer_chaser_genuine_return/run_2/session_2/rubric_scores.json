@@ -1,0 +1,169 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.18,
+  "shape": {
+    "M": 7,
+    "avg_words": 30.4,
+    "long_share": 0.86
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Haan ji, pichli baar humne aapke rishte aur chana dal ke upay ki baat ki thi.",
+        "why": "The astrologer acknowledges the previous conversation, which counts as a detail shared by the user."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2022 mein padhai mein bada badlav aaya tha?",
+        "why": "The question is Type A (builds on the user's life/chart), and there are no Type C questions."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke pati ki ek khas baat chart mein dikhti hai.",
+        "why": "The astrologer discusses the future spouse (pati) and provides a reading about his nature, which is relevant to the marriage question."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Haan padhai change hui thi. ... March se May 2027 ke beech rishta pakka hone ke achhe mauke hain.",
+        "why": "The reading is specific, new, and tied to the user's life (the 2022 change)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ka yoga March 2027 se September 2028 tak hai.",
+        "why": "A clear direction and time window are provided immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ke liye 20 Nov se Shukravar safed mithai daan kijiye.",
+        "why": "Links a life action (daan) to a chart factor (rishton ke grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke pati bohot shant, padhe-likhe aur thode reserved nature ke honge.",
+        "why": "Adds a new point about the spouse's nature after the initial marriage timing reading."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March se May 2027 ke beech rishta pakka hone ke achhe mauke hain.",
+        "why": "Provides a clear window without promising a specific date."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "19 Nov se chana dal daan karne se rahat milegi.",
+        "why": "Provides a specific remedy (chana dal daan) with a start date (19 Nov) for the stated problem (family tension)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Nayi job ka yog March 2027 se September 2028 ke beech hai. ... July se August 2027 ke beech job lagne ke sabse achhe chance hain.",
+        "why": "The astrologer answers both the marriage and job questions clearly and maintains the thread."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke pati ki ek khas baat chart mein dikhti hai.",
+        "why": "Opens a new layer regarding the spouse's nature after answering the marriage timing."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar ki tension June 2027 tak kam ho jayegi. Money aur family stress ek saath juda hai, 19 Nov se chana dal daan karne se rahat milegi.",
+        "why": "No closing message; every reply carries a reading or relevant question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension June 2027 tak kam ho jayegi. Money aur family stress ek saath juda hai, 19 Nov se chana dal daan karne se rahat milegi.",
+        "why": "The last messages provide a concrete reading and guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ke liye 20 Nov se Shukravar safed mithai daan kijiye.",
+        "why": "Uses simple, everyday language without formal or bookish phrasing."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      }
+    ]
+  }
+}

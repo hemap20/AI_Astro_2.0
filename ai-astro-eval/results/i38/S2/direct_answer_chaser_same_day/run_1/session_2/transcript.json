@@ -1,0 +1,131 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bataiye, aaj main aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bataiye, aaj main aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Pichli baar maine aapko jo Guru aur Chandra mantra bataye the, kya aapne unhe shuru kiya? Kya 2022 ke November mein aapki college ki life mein koi bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Pichli baar maine aapko jo Guru aur Chandra mantra bataye the, kya aapne unhe shuru kiya? Kya 2022 ke November mein aapki college ki life mein koi bada badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exactly?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se May 2027 mein yog mazboot hai. Naukri aur shaadi dono isi daur mein sudhrenge kyunki kismat ka grah Guru raasta kholega. Aapke jeevansathi ke nature mein ek aisi baat hai jo aapko suraksha degi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se May 2027 mein yog mazboot hai. Naukri aur shaadi dono isi daur mein sudhrenge kyunki kismat ka grah Guru raasta kholega. Aapke jeevansathi ke nature mein ek aisi baat hai jo aapko suraksha degi."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo lambe aur shaant swabhav ke honge. Aapki naukri aur paisa March 2027 se September 2028 ke beech ek saath sudhrenge, kyunki kamai ka grah tab majboot hoga. Har guruvar chana dal daan kijiye. Kya aapne pehle kabhi koi daan kiya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo lambe aur shaant swabhav ke honge. Aapki naukri aur paisa March 2027 se September 2028 ke beech ek saath sudhrenge, kyunki kamai ka grah tab majboot hoga. Har guruvar chana dal daan kijiye. Kya aapne pehle kabhi koi daan kiya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa exact kab tak aayega? Month batao.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 se paise ki tangi door hogi. Shaadi aur paisa dono isliye judde hain kyunki 10th house ka asar June 2027 mein khatam hoga. Career mein ek aisi jagah hai jaha se bada mauka mil sakta hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "July 2027 se paise ki tangi door hogi. Shaadi aur paisa dono isliye judde hain kyunki 10th house ka asar June 2027 mein khatam hoga. Career mein ek aisi jagah hai jaha se bada mauka mil sakta hai."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "July 2027 me exact konsi date ya week?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 ke pehle hafte se hi aapko badlav mehsoos hoga. Maine pichli baar career mein ek mauke ki baat kahi thi, wo teaching ya finance se juda hai. Roz Hanuman Chalisa padhna shuru kijiye, isse himmat ka grah aapko sahi rasta dikhayega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "July 2027 ke pehle hafte se hi aapko badlav mehsoos hoga. Maine pichli baar career mein ek mauke ki baat kahi thi, wo teaching ya finance se juda hai. Roz Hanuman Chalisa padhna shuru kijiye, isse himmat ka grah aapko sahi rasta dikhayega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me tension kab tak khatam hogi?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension June 2027 tak saaf ho jayegi. Aapki shaadi aur ghar ki shanti dono isliye judde hain kyunki karm ka grah tab tak thoda bhari hai. Har shanivar kale til ka daan kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension June 2027 tak saaf ho jayegi. Aapki shaadi aur ghar ki shanti dono isliye judde hain kyunki karm ka grah tab tak thoda bhari hai. Har shanivar kale til ka daan kijiye."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 17
+  }
+]

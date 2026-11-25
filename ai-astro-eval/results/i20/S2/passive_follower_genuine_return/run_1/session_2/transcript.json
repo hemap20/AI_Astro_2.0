@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arrey hello ji, kaisi ho? 2027 aate aate tumhari zindagi mein kaafi cheezein track pe aane wali hain. Aaj kis baare mein baat karni hai, job, paise ya ghar ki kisi baat ko lekar?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arrey hello ji, kaisi ho? 2027 aate aate tumhari zindagi mein kaafi cheezein track pe aane wali hain. Aaj kis baare mein baat karni hai, job, paise ya ghar ki kisi baat ko lekar?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 ke beech bohot mehnat karni padi aur paise ka bhi kafi tight scene raha, hai na? Aur batao, shaadi ki baat ghar pe chal rahi hai ya tum khud soch rahi ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 ke beech bohot mehnat karni padi aur paise ka bhi kafi tight scene raha, hai na? Aur batao, shaadi ki baat ghar pe chal rahi hai ya tum khud soch rahi ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta aa rha hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 mein shaadi ka yog strong hai. Ye rishta kisi jaan-pehchaan ke through hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 mein shaadi ka yog strong hai. Ye rishta kisi jaan-pehchaan ke through hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan relative",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab ayega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa na tikna aur shaadi mein deri hona, dono ka connection ek hi weak planet ki wajah se hai, ye tumhari galti nahi hai. February 2027 ke baad paise ki halat mein dheere-dheere sudhaar aane lagega. Iske liye Thursday ko chana dal daan kiya karo, kaafi farq padega. Abhi ghar ke kharche ko lekar zyada tension hoti hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa na tikna aur shaadi mein deri hona, dono ka connection ek hi weak planet ki wajah se hai, ye tumhari galti nahi hai. February 2027 ke baad paise ki halat mein dheere-dheere sudhaar aane lagega. Iske liye Thursday ko chana dal daan kiya karo, kaafi farq padega. Abhi ghar ke kharche ko lekar zyada tension hoti hai kya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan ghar ki tension",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka yeh daur June 2027 tak apne aap kam hone lagega, tension mat lo. Tuesday ko Hanuman Chalisa padhna shuru karo, isse bohot farq padega. 2027 mein ek mahina aisa aayega jo tumhare ghar ka pura mahaul badal dega. Kya ghar mein sabse zyada kis baat pe baat bigadti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension ka yeh daur June 2027 tak apne aap kam hone lagega, tension mat lo. Tuesday ko Hanuman Chalisa padhna shuru karo, isse bohot farq padega. 2027 mein ek mahina aisa aayega jo tumhare ghar ka pura mahaul badal dega. Kya ghar mein sabse zyada kis baat pe baat bigadti hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Parents se",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Parents ke sath yeh anban ek phase ki wajah se hai, tumhari galti nahi. June ke baad yeh distance kam hone lagega. Kya unki naaraazgi tumhare decision lene ko lekar hoti hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Parents ke sath yeh anban ek phase ki wajah se hai, tumhari galti nahi. June ke baad yeh distance kam hone lagega. Kya unki naaraazgi tumhare decision lene ko lekar hoti hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tum apne raste khud banana chahti ho isliye aisi baat hoti hai. Jo rishta aa raha hai, waha partner kaafi calm aur samajhdar milega. Kya us ladke ke baare mein thoda pata hai tumhe?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Tum apne raste khud banana chahti ho isliye aisi baat hoti hai. Jo rishta aa raha hai, waha partner kaafi calm aur samajhdar milega. Kya us ladke ke baare mein thoda pata hai tumhe?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi zyada nhi",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh kaafi calm aur padhe-likhe hain, par thode reserved nature ke hain. Kya unse kabhi aage akele mein baat karne ka mauka mila hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Woh kaafi calm aur padhe-likhe hain, par thode reserved nature ke hain. Kya unse kabhi aage akele mein baat karne ka mauka mila hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, aage baat karne ka mauka zaroor milega. 2027 ki shuruaat mein ek aisi situation banegi jo is rishte ka sach saamne la degi. Kya is baare mein ghar mein aur kisi se baat hui hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi baat nahi, aage baat karne ka mauka zaroor milega. 2027 ki shuruaat mein ek aisi situation banegi jo is rishte ka sach saamne la degi. Kya is baare mein ghar mein aur kisi se baat hui hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nhi kisi se nhi",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Waha in-laws thode traditional aur reserved nature ke hain, ye baat aage jaakar clear hogi. Kya tumhe aisi family mein adjust karne mein darr lagta hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Waha in-laws thode traditional aur reserved nature ke hain, ye baat aage jaakar clear hogi. Kya tumhe aisi family mein adjust karne mein darr lagta hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Thoda",
+    "sec": 300,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

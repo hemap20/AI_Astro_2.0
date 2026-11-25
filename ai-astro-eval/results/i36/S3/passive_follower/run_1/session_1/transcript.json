@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, kundli dekh kar aapke bhavishya ke baare mein bata sakti hoon. Aapke mann mein sabse zyada kya chal raha hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, kundli dekh kar aapke bhavishya ke baare mein bata sakti hoon. Aapke mann mein sabse zyada kya chal raha hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Career</blockquote>",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein abhi thoda wait karna hoga, 2027 ke baad waqt achha badlega. 2023 se 2025 tak aapki mehnat aur skill par zor tha, par paise ki thodi tangi thi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Career mein abhi thoda wait karna hoga, 2027 ke baad waqt achha badlega. 2023 se 2025 tak aapki mehnat aur skill par zor tha, par paise ki thodi tangi thi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Paisa nhi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paise ki tangi ka ek hi kaaran hai, career ka ghar abhi thoda daba hua hai. Career mein ek naya raasta jald hi khulne wala hai. Aap kis field mein try kar rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Career aur paise ki tangi ka ek hi kaaran hai, career ka ghar abhi thoda daba hua hai. Career mein ek naya raasta jald hi khulne wala hai. Aap kis field mein try kar rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Office job.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri aur paise ki dikkat career ghar ki wajah se hai. Aapki kundli mein ek aise field ka yog hai jahan aapko office job se zyada safalta milegi. Aap abhi kya kaam kar rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Naukri aur paise ki dikkat career ghar ki wajah se hai. Aapki kundli mein ek aise field ka yog hai jahan aapko office job se zyada safalta milegi. Aap abhi kya kaam kar rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nhi abhi.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri aur paise ki dikkat isliye hai kyunki career ka ghar abhi dheema chal raha hai. Career mein ek aisa bada badlaav aayega jiske baare mein aapne abhi socha bhi nahi hai. Aapne padhai kis cheez mein ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Naukri aur paise ki dikkat isliye hai kyunki career ka ghar abhi dheema chal raha hai. Career mein ek aisa bada badlaav aayega jiske baare mein aapne abhi socha bhi nahi hai. Aapne padhai kis cheez mein ki hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Bcom kiya hai.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo badlaav ye hai ki B.Com ke baad finance ya teaching field mein aapke liye bahut achhe yog hain. Aapka 10th ghar, jo career ka hota hai, wahan Guru ka prabhav hai jo in fields mein safalta dilata hai. Aapne kabhi inmein try kiya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Wo badlaav ye hai ki B.Com ke baad finance ya teaching field mein aapke liye bahut achhe yog hain. Aapka 10th ghar, jo career ka hota hai, wahan Guru ka prabhav hai jo in fields mein safalta dilata hai. Aapne kabhi inmein try kiya?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi. Meh kitne number ki hu",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka ank 5 hai, jo buddhi ke grah Budh ka hai. Finance field aapke liye sahi hai. Guru ka mantra 'Om Gram Greem Grom Sah Gurave Namah' 108 baar Guruvaar se shuru kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka ank 5 hai, jo buddhi ke grah Budh ka hai. Finance field aapke liye sahi hai. Guru ka mantra 'Om Gram Greem Grom Sah Gurave Namah' 108 baar Guruvaar se shuru kijiye."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Puri saal kaisa hoga",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal thodi mehnat rakhiye, kyunki career aur paisa ek hi ghar se jude hain. Agle saal se naukri ke mauke milenge. Shaadi ko lekar bhi ek khas yog hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Is saal thodi mehnat rakhiye, kyunki career aur paisa ek hi ghar se jude hain. Agle saal se naukri ke mauke milenge. Shaadi ko lekar bhi ek khas yog hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027 se 2028 ke beech hai, jo ek aasan aur rishtedaaron ke zariye tay ho sakta hai. Aapka jeevansathi kaafi samajhdaar aur shant hoga. Ye poori baat jaan-ne ke liye chat thoda recharge kar lijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027 se 2028 ke beech hai, jo ek aasan aur rishtedaaron ke zariye tay ho sakta hai. Aapka jeevansathi kaafi samajhdaar aur shant hoga. Ye poori baat jaan-ne ke liye chat thoda recharge kar lijiye."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein ek aisa raasta hai jo 2027 ke baad sab badal dega, aur wo aap abhi soch bhi nahi rahe. Ye poori baat jaan-ne ke liye chat thoda recharge kar lijiye.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Career mein ek aisa raasta hai jo 2027 ke baad sab badal dega, aur wo aap abhi soch bhi nahi rahe. Ye poori baat jaan-ne ke liye chat thoda recharge kar lijiye."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 20
+  }
+]

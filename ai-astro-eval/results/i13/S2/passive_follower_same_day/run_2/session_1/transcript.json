@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale ek-do saal mein career aur kaam mein dheere-dheere sudhaar aayega ji. Batayiye, sabse zyada tension kis cheez ki hai, career ki ya ghar-parivaar ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aane wale ek-do saal mein career aur kaam mein dheere-dheere sudhaar aayega ji. Batayiye, sabse zyada tension kis cheez ki hai, career ki ya ghar-parivaar ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ghar. Shaadi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur ghar ki chinta sabse badi hoti hai ji. Family abhi khud rishta dhoondh rahi hai ya aapne kahin khud baat chala rakhi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi aur ghar ki chinta sabse badi hoti hai ji. Family abhi khud rishta dhoondh rahi hai ya aapne kahin khud baat chala rakhi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents dhoondh rhe. Ek rishta chal rha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki hone ka yog hai ji. Yeh rishta jaan-pehchaan ke zariye aage badhega. Jisse baat chal rahi hai, unka nature calm aur thoda serious hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki hone ka yog hai ji. Yeh rishta jaan-pehchaan ke zariye aage badhega. Jisse baat chal rahi hai, unka nature calm aur thoda serious hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki pareshani sach mein haath baandh deti hai ji. Yeh batayiye, paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki pareshani sach mein haath baandh deti hai ji. Yeh batayiye, paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kamai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bhi hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 tak kamai aur paisa dheere-dheere sudharne lagega ji. Bachat ke sthaan par dabav hone se haath tang rehta hai. Isliye aap Monday ko Som Somaya Namah ka jaap karein, rahat milegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "2028 tak kamai aur paisa dheere-dheere sudharne lagega ji. Bachat ke sthaan par dabav hone se haath tang rehta hai. Isliye aap Monday ko Som Somaya Namah ka jaap karein, rahat milegi."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension h.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein man ko thaka deti hai ji. Yeh bhari samay thode waqt ka hai aur jald theek hoga. Yeh pareshani kis baat ko lekar zyada hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein man ko thaka deti hai ji. Yeh bhari samay thode waqt ka hai aur jald theek hoga. Yeh pareshani kis baat ko lekar zyada hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi sab pareshan",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka aisa mahaul sach mein man ko thaka deta hai ji. Yeh mushkil samay ek chhota daur hai, aapke ghar ki asli khushi khatam nahi hui hai. Thoda dhairya rakhiye, yeh badal jayega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ka aisa mahaul sach mein man ko thaka deta hai ji. Yeh mushkil samay ek chhota daur hai, aapke ghar ki asli khushi khatam nahi hui hai. Thoda dhairya rakhiye, yeh badal jayega."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh bhaari samay mid-2027 tak badal jayega ji. Chandra par Shani ka asar hone se ghar mein aisi bechaini rehti hai. Kya is tension ka karan koi purana mamla hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Yeh bhaari samay mid-2027 tak badal jayega ji. Chandra par Shani ka asar hone se ghar mein aisi bechaini rehti hai. Kya is tension ka karan koi purana mamla hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Sayad ha.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purane mamle dheere-dheere khud hi sulajh jayenge ji. Mid-2027 ke baad ghar ka mahaul badalne lagega, uss samay par khaas dhyan rakhiyega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Purane mamle dheere-dheere khud hi sulajh jayenge ji. Mid-2027 ke baad ghar ka mahaul badalne lagega, uss samay par khaas dhyan rakhiyega."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

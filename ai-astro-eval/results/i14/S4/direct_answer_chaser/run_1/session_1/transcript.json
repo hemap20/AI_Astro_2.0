@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, ladke ke baare mein check kar lete hain. Yeh rishta family ke zariye hai ya aap dono ki khud ki pasand hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Haan ji, ladke ke baare mein check kar lete hain. Yeh rishta family ke zariye hai ya aap dono ki khud ki pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Family ne dekha hai",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, family wala yeh rishta theek lag raha hai, ladka shant aur samajhdar hoga. Uski nature warm aur educated wali dikhti hai. Ladke ki job ya kaam ke baare mein kya baat hui hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, family wala yeh rishta theek lag raha hai, ladka shant aur samajhdar hoga. Uski nature warm aur educated wali dikhti hai. Ladke ki job ya kaam ke baare mein kya baat hui hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Mujhe toh gussa wala laga",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi mere liye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, thoda guarded ya tezi wala nature ho sakta hai, par woh andar se calm hain. Yeh gussa aage theek ho jayega ji. Unse akele mein baat hui hai kabhi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, thoda guarded ya tezi wala nature ho sakta hai, par woh andar se calm hain. Yeh gussa aage theek ho jayega ji. Unse akele mein baat hui hai kabhi?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Do baar mili hu, gussa hai usme",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Seedha batao, shadi ke liye sahi hai ya nahi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, shaadi ke liye yeh theek hai ji. Unka nature warm aur padha-likha hai, thoda gussa unke guarded hone ki wajah se hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan ji, shaadi ke liye yeh theek hai ji. Unka nature warm aur padha-likha hai, thoda gussa unke guarded hone ki wajah se hai."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye March 2027 se September 2028 ka samay theek hai ji. Shukra thoda kamzor hone ki wajah se shuru mein baat dheere chalegi. Ghar walon ki taraf se baat aage badhane ka kya plan hai ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi ke liye March 2027 se September 2028 ka samay theek hai ji. Shukra thoda kamzor hone ki wajah se shuru mein baat dheere chalegi. Ghar walon ki taraf se baat aage badhane ka kya plan hai ji?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse month me?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein hi baat pakki hone ke chance hain ji, kyunki tab naya samay shuru hoga. Baaki poora saal rasta khula hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein hi baat pakki hone ke chance hain ji, kyunki tab naya samay shuru hoga. Baaki poora saal rasta khula hai."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 18
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Batayein, aaj aap kis baare mein baat karna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Batayein, aaj aap kis baare mein baat karna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne shaadi ki baat aur ghar ke jhagdo par charcha ki thi. Kya wo rishte wali baat aage badhi ya abhi ruki hui hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne shaadi ki baat aur ghar ke jhagdo par charcha ki thi. Kya wo rishte wali baat aage badhi ya abhi ruki hui hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, baat chal rhi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat aur gyaan ke grah ke asar se baat aage badh rahi hai. Kya 2022 ke aaspas aapki padhai mein koi bada badlaav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kismat aur gyaan ke grah ke asar se baat aage badh rahi hai. Kya 2022 ke aaspas aapki padhai mein koi bada badlaav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, college change hua.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah tab se thoda kamzor raha hai. Aapki kundli mein aane wale saathi ke kaam ko lekar ek bohot khas baat dikh rahi hai. Ghar wale is rishte par kya bol rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Mann ka grah tab se thoda kamzor raha hai. Aapki kundli mein aane wale saathi ke kaam ko lekar ek bohot khas baat dikh rahi hai. Ghar wale is rishte par kya bol rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sab khush h",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya khas baat h",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saathi acche padhe-likhe aur shiksha ya bolchaal ke kshetra se honge ji. Rishton ke grah ko theek rakhne ke liye shukrawar ko safed mithai baantein. Kya unka nature thoda shant lagta hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Saathi acche padhe-likhe aur shiksha ya bolchaal ke kshetra se honge ji. Rishton ke grah ko theek rakhne ke liye shukrawar ko safed mithai baantein. Kya unka nature thoda shant lagta hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha kaafi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya h future",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche zyada aur bachat kam rehna dusre ghar ke kamzor hone se hai. Himmat aur kamai ka grah majboot hai, pehle job karke kamai jamayein. Abhi aapka dhyan kis kaam par hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kharche zyada aur bachat kam rehna dusre ghar ke kamzor hone se hai. Himmat aur kamai ka grah majboot hai, pehle job karke kamai jamayein. Abhi aapka dhyan kis kaam par hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Job dhund rhi hu",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me tension h",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ka grah majboot hai, par ghar aur mann ke grah par dabav se tension rehti hai. Job search par dhyan lagayein. Pichle kuch dino se neend theek aa rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kamai ka grah majboot hai, par ghar aur mann ke grah par dabav se tension rehti hai. Job search par dhyan lagayein. Pichle kuch dino se neend theek aa rahi hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi bilkul nhi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ke grah par bhari asar hone se bechaini aur neend ki dikkat rehti hai. Somwar se Om Som Somaya Namah ka 108 baar jaap kijiye. Kya din mein gusse ya ghabrahat ki wajah se aisa hota hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mann ke grah par bhari asar hone se bechaini aur neend ki dikkat rehti hai. Somwar se Om Som Somaya Namah ka 108 baar jaap kijiye. Kya din mein gusse ya ghabrahat ki wajah se aisa hota hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan bht ghabrahat",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghabrahat aur mann ki pareshani ka hal humne dekh liya hai. Shaadi ke liye aage chal kar in-laws ke sath तालमेल kaisa rahega, yeh dekhna zaroori hai. Is baare mein pura jaanane ke liye abhi chat recharge karein.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghabrahat aur mann ki pareshani ka hal humne dekh liya hai. Shaadi ke liye aage chal kar in-laws ke sath तालमेल kaisa rahega, yeh dekhna zaroori hai. Is baare mein pura jaanane ke liye abhi chat recharge karein."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

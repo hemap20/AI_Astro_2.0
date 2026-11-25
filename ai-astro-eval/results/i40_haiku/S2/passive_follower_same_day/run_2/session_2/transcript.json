@@ -1,0 +1,137 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Aap kaise hain? Aap apni koi bhi baat bina jhijhak batayiye, main dhyan se sunungi.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Aap kaise hain? Aap apni koi bhi baat bina jhijhak batayiye, main dhyan se sunungi."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichli baar aapki shaadi ki baat aur ghar mein paise ki tension ki baat hui thi. Aap batayiye, abhi sabse zyada kya aapko pareshan kar raha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, pichli baar aapki shaadi ki baat aur ghar mein paise ki tension ki baat hui thi. Aap batayiye, abhi sabse zyada kya aapko pareshan kar raha hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale shaadi dekh rhe hai rishta",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, rishte dekhne ka waqt aapke liye kaafi bhaari lagta hoga. Aapko shaadi ke baare mein kya sabse zyada soch mein aata hai, ki kab hogi ya kaisa ladka milega?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, rishte dekhne ka waqt aapke liye kaafi bhaari lagta hoga. Aapko shaadi ke baare mein kya sabse zyada soch mein aata hai, ki kab hogi ya kaisa ladka milega?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka kaisa hoga",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapke liye ladka shaant aur padha-likha hoga, par thoda guarded bhi lagega. Woh pehle dekhega, phir khulega. Aap bataiye, aapko ladke mein sabse zyada kya chahiye, samajhdari ya ghar ka mahaul?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, aapke liye ladka shaant aur padha-likha hoga, par thoda guarded bhi lagega. Woh pehle dekhega, phir khulega. Aap bataiye, aapko ladke mein sabse zyada kya chahiye, samajhdari ya ghar ka mahaul?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Samajhdari chahiye",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, samajhdari aapke liye bahut zaroori hai, aur kundli mein yeh baat dikhti hai. Aapke saath rishta arranged route se zyada aayega, kyunki shaadi ki baat ghar wale hi aage laayenge. Pichli baar aapne padhai mein badlaav ki baat ki thi, kya woh Nov 2022 ke aas-paas hua tha?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, samajhdari aapke liye bahut zaroori hai, aur kundli mein yeh baat dikhti hai. Aapke saath rishta arranged route se zyada aayega, kyunki shaadi ki baat ghar wale hi aage laayenge. Pichli baar aapne padhai mein badlaav ki baat ki thi, kya woh Nov 2022 ke aas-paas hua tha?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, Nov 2022 ke aas-paas padhai aur college ka waqt badla, yeh confirm ho gaya. Paise ki tangi abhi tak chal rahi hai, par Mar 2027 se Sep 2028 ke beech karz mein raahat aati dikhti hai. Har Mangalwaar Hanuman Chalisa padhiye, aur ghar ka kharcha kaun dekhta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, Nov 2022 ke aas-paas padhai aur college ka waqt badla, yeh confirm ho gaya. Paise ki tangi abhi tak chal rahi hai, par Mar 2027 se Sep 2028 ke beech karz mein raahat aati dikhti hai. Har Mangalwaar Hanuman Chalisa padhiye, aur ghar ka kharcha kaun dekhta hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Mummy dekhti h",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kb khtm hogi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ki tension mein narmi Mar 2027 se dikhti hai, aur Sep 2028 tak kaafi sudhar aayega. Kundli mein Ketu chhathe ghar mein hai, jo kisi bhi bade jhagde ko dheere-dheere shant karta hai. Aap Shukra ka mantra \"Om Shum Shukraya Namah\" 108 baar, Shukravaar se shuru kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, ghar ki tension mein narmi Mar 2027 se dikhti hai, aur Sep 2028 tak kaafi sudhar aayega. Kundli mein Ketu chhathe ghar mein hai, jo kisi bhi bade jhagde ko dheere-dheere shant karta hai. Aap Shukra ka mantra \"Om Shum Shukraya Namah\" 108 baar, Shukravaar se shuru kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. Pichli baat ko aage badhate hain. Aaj kis par baat karein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. Pichli baat ko aage badhate hain. Aaj kis par baat karein?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se shuru hogi. Rishta family ke through aayega ji. Aapki baat kahin chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 se shuru hogi. Rishta family ke through aayega ji. Aapki baat kahin chal rahi hai kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, mummy papa dekhre",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy-papa ki pasand bilkul sahi rahegi ji. Partner kaafi calm, educated aur warm nature ke honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Mummy-papa ki pasand bilkul sahi rahegi ji. Partner kaafi calm, educated aur warm nature ke honge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial relief milegi ji. Debt bhi clear hona shuru ho jayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad financial relief milegi ji. Debt bhi clear hona shuru ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Okk",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka reason Shani ka asar hai ji. Ye June 2027 tak bilkul theek ho jayegi. Tab tak thoda patience rakhiye ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension ka reason Shani ka asar hai ji. Ye June 2027 tak bilkul theek ho jayegi. Tab tak thoda patience rakhiye ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kuch upay bataye?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shanivaar ko kale til daan karein ji. Om Sham Shanaishcharaya Namah ka jaap karein.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shanivaar ko kale til daan karein ji. Om Sham Shanaishcharaya Namah ka jaap karein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad career mein bhi tarakki ka yog hai ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad career mein bhi tarakki ka yog hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Budh aur Guru ki kripa se teaching ya finance mein accha mauka milega ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Budh aur Guru ki kripa se teaching ya finance mein accha mauka milega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Apna ghar ka yog banega ji. October 2028 ke baad yeh samay aayega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Apna ghar ka yog banega ji. October 2028 ke baad yeh samay aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

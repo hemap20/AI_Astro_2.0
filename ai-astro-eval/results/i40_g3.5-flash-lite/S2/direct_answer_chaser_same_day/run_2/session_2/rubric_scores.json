@@ -1,0 +1,219 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 4,
+    "2.4": 7,
+    "2.5": 4,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.76,
+  "shape": {
+    "M": 8,
+    "avg_words": 28.8,
+    "long_share": 0.25
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension June 2027 ke baad kam hone lagegi.",
+        "why": "The astrologer acknowledges the user's specific concern about 'ghar ki tension' and provides a timeline for it."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya November 2022 mein aapki padhai mein badlaav aaya tha?",
+        "why": "No Type C questions, but more than half are Type B (generic life questions)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya unke ghar wale thode traditional hain?",
+        "why": "The astrologer asks about the boy's family with a reason (to assess the match) and carries on."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main dekh sakti hoon ki shaadi March 2027 se September 2028 ke beech tay hogi.",
+        "why": "The reading is about the future (Now is no), but it is New and Specific."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main dekh sakti hoon ki shaadi March 2027 se September 2028 ke beech tay hogi.",
+        "why": "A clear direction (time window) is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Mehnat aur karm ka grah jo abhi dabav de raha hai",
+        "why": "The chart reference is vague ('mehnat aur karm ka grah') and not a specific, everyday term like Shani or Rahu."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Is rishte mein ek khaas baat aur hai jo baad mein khul kar aayegi. Wo khaas baat unka reserved nature hai.",
+        "why": "The reading adds a new point about the boy's nature and uses the context of the relationship."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 4,
+        "quote": "June 2027 ka hi samay pakka hai",
+        "why": "The astrologer gives a specific month as 'pakka' (fixed), which is a firm date/month."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "21 November se kaale til ka daan kijiye.",
+        "why": "A practical remedy is given for the problem with a specific time (Saturday/21 Nov)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ki tension June 2027 ke baad kam hone lagegi... Paise ki halat March 2027 ke baad sudhregi",
+        "why": "Both questions (tension and money) are answered in a stated order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Is rishte mein ek khaas baat aur hai jo baad mein khul kar aayegi.",
+        "why": "Names a specific further thing about the relationship."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main samajh sakti hoon ki ye kitna mushkil hai. Kya aap ye tension apne tak hi rakhti hain?",
+        "why": "No closing message, and every reply carries a reading or question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Haan, June 2027 ka hi samay pakka hai jab ye dabav hatega.",
+        "why": "One of the last two messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension June 2027 ke baad kam hone lagegi.",
+        "why": "Easy language, no formal or bookish sentences."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No trigger found."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "reading"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      }
+    ]
+  }
+}

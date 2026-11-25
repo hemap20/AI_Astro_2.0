@@ -1,0 +1,192 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Bataiye, aaj kya baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Bataiye, aaj kya baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. March ke baad financial rahat milegi. 2028 mein apna ghar banega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. March ke baad financial rahat milegi. 2028 mein apna ghar banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Achaa.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak h?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai. Shani AD shuru hone se ye baat pakki hogi. Partner kaafi calm aur educated hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai. Shani AD shuru hone se ye baat pakki hogi. Partner kaafi calm aur educated hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe thodi tension hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension Shani ki wajah hai. Ye asar mid-2027 tak khatam hoga. Iske baad ghar ka mahaul badlega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar ki tension Shani ki wajah hai. Ye asar mid-2027 tak khatam hoga. Iske baad ghar ka mahaul badlega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Rishta aa rha hai ghar pe.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta aana shuru ho gaya hai ji. Guru aur Budh ke yog se ye baat ban sakti hai. Partner ka nature thoda guarded ho sakta hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishta aana shuru ho gaya hai ji. Guru aur Budh ke yog se ye baat ban sakti hai. Partner ka nature thoda guarded ho sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yehi kundli mein hai. In-laws thode traditional aur reserved rahenge. 2028 mein apne ghar ka yog bhi ban raha hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan ji, yehi kundli mein hai. In-laws thode traditional aur reserved rahenge. 2028 mein apne ghar ka yog bhi ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se karza utrega ji. Ketu aur Mangal se dhan aayega. Lekin paisa rukta nahi hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se karza utrega ji. Ketu aur Mangal se dhan aayega. Lekin paisa rukta nahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein bhi badlav aayega ji. March ke baad naye mauke milenge. Teaching ya tech mein tarakki pakki hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Career mein bhi badlav aayega ji. March ke baad naye mauke milenge. Teaching ya tech mein tarakki pakki hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein ek aur zaroori cheez dikh rahi hai. 2027-28 ke dauran videsh jane ka yog bhi hai. Rahu aur Shukra ka asar hai ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki kundli mein ek aur zaroori cheez dikh rahi hai. 2027-28 ke dauran videsh jane ka yog bhi hai. Rahu aur Shukra ka asar hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nindon mein thodi pareshani chal rahi hai. Shani aur Chandra ka asar hai. Mid-2027 ke baad tabiyat theek hogi.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Nindon mein thodi pareshani chal rahi hai. Shani aur Chandra ka asar hai. Mid-2027 ke baad tabiyat theek hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 24
+  }
+]

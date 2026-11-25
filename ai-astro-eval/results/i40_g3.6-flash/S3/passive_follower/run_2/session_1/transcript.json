@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Main aapki patri dekh kar aapke future ke baare mein zaroor batati hoon. Aap abhi career ya shaadi, kiske baare mein pehle janna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Main aapki patri dekh kar aapke future ke baare mein zaroor batati hoon. Aap abhi career ya shaadi, kiske baare mein pehle janna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ko le kar abhi thodi dikkat chal rahi hai. Saal 2023 se 2025 ke beech mein mehnat ke baad bhi paise ki thangi rahi hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Paise ko le kar abhi thodi dikkat chal rahi hai. Saal 2023 se 2025 ke beech mein mehnat ke baad bhi paise ki thangi rahi hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bhut dikkat h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bachat ke dusre ghar mein kamzori hone se paisa haath mein nahi tikta. Waise aapke chart mein kamai ka ek naya rasta bhi dikhta hai. Abhi aap koi job kar rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Bachat ke dusre ghar mein kamzori hone se paisa haath mein nahi tikta. Waise aapke chart mein kamai ka ek naya rasta bhi dikhta hai. Abhi aap koi job kar rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nhi student hu",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai ke baad pehle job aur fir business se kamai dikhti hai. Gyaan ke grah ke liye Guru mantra 108 baar japein. Abhi padhai kis subject mein chal rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Padhai ke baad pehle job aur fir business se kamai dikhti hai. Gyaan ke grah ke liye Guru mantra 108 baar japein. Abhi padhai kis subject mein chal rahi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Bsc kr rhi hu",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "B.Sc ke baad tech ya finance mein achhi job dikhti hai. Saal 2027 se paise ki dikkat door hone lagegi. Kya aap aage kisi exam ki taiyari kar rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "B.Sc ke baad tech ya finance mein achhi job dikhti hai. Saal 2027 se paise ki dikkat door hone lagegi. Kya aap aage kisi exam ki taiyari kar rahi hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka lagna number 5 hai, jo Budh yani buddhi ka number hai. Ye aapko samajhdar banata hai. Aap kis exam ki taiyari kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka lagna number 5 hai, jo Budh yani buddhi ka number hai. Ye aapko samajhdar banata hai. Aap kis exam ki taiyari kar rahi hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Govt job ki.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Puri saal kaisa hoga?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Surya ke doosre ghar mein hone se sarkari naukri ke yog madhyam hain. March 2027 se aapke liye naye raste khulenge. Aap kis post ke liye taiyari kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Surya ke doosre ghar mein hone se sarkari naukri ke yog madhyam hain. March 2027 se aapke liye naye raste khulenge. Aap kis post ke liye taiyari kar rahi hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Bank ki",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bank aur finance ka kshetra aapke buddhi ke grah se bohot achha mel khata hai. Padhai mein dhyan lagane ke liye Panna ratna pehanna faide mand hoga. Kya padhai mein abhi dikkat aati hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Bank aur finance ka kshetra aapke buddhi ke grah se bohot achha mel khata hai. Padhai mein dhyan lagane ke liye Panna ratna pehanna faide mand hoga. Kya padhai mein abhi dikkat aati hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ha dhyan nhi lgta",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise aur career ka jawab maine diya hai. Aapka apna ghar kab banega, iski jankari bhi patri mein hai. Abhi chat recharge karke mere saath judiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paise aur career ka jawab maine diya hai. Aapka apna ghar kab banega, iski jankari bhi patri mein hai. Abhi chat recharge karke mere saath judiye."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 23
+  }
+]

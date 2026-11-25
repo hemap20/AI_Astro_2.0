@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Love life.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pyaar aur rishton ke baare mein main aapki madad kar sakti hoon. Pehle ye bataiye, aap abhi kisi se baat kar rahi hain ya abhi akeli hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Ji, pyaar aur rishton ke baare mein main aapki madad kar sakti hoon. Pehle ye bataiye, aap abhi kisi se baat kar rahi hain ya abhi akeli hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Hindi me batao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, main Hindi mein hi batati hoon. Pehle ye bataiye, aap abhi kisi rishte mein hain ya abhi akeli hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, main Hindi mein hi batati hoon. Pehle ye bataiye, aap abhi kisi rishte mein hain ya abhi akeli hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haath ki photo kaise bheju?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, abhi is chat mein photo dekhne ki suvidha nahi hai, par main aapki kundli ke hisaab se pyaar ki baat zaroor bata sakti hoon. Pehle ye bataiye, aap abhi kisi rishte mein hain ya akeli hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, abhi is chat mein photo dekhne ki suvidha nahi hai, par main aapki kundli ke hisaab se pyaar ki baat zaroor bata sakti hoon. Pehle ye bataiye, aap abhi kisi rishte mein hain ya akeli hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Akela hu, bahut tension.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, akele hona aur tension dono bhaari lagte hain, main samajh sakti hoon. Ye bataiye, ye tension zyada shaadi ki fikar se hai ya kisi purani baat se?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, akele hona aur tension dono bhaari lagte hain, main samajh sakti hoon. Ye bataiye, ye tension zyada shaadi ki fikar se hai ya kisi purani baat se?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Parents bahut ladte hain.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paise ki wajah se, shop chali gayi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar mein jhagda aur paise ki tangi dono ek saath chal rahe hain, ye bahut thaka deta hai. Ye bataiye, shop kab gayi, us waqt ke aaspaas kya badla tha?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, ghar mein jhagda aur paise ki tangi dono ek saath chal rahe hain, ye bahut thaka deta hai. Ye bataiye, shop kab gayi, us waqt ke aaspaas kya badla tha?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pichle saal gayi. Ghar me chinta.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichle saal shop jaane ke baad ghar mein chinta badhi, ye samajh aata hai. Kya aap confirm kar sakte hain ki 2022 mein aapki padhai ya college ka time badla tha, ya 2023 se 2025 ke beech kaam aur paise ki tangi shuru hui?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, pichle saal shop jaane ke baad ghar mein chinta badhi, ye samajh aata hai. Kya aap confirm kar sakte hain ki 2022 mein aapki padhai ya college ka time badla tha, ya 2023 se 2025 ke beech kaam aur paise ki tangi shuru hui?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Me mere parents ke liye unlucky hu? Mere hone se sirf dikkat dikh rahi hai.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ye soch aapko bahut bhaari lag rahi hai, par aap ghar ke liye bojh nahi hain. Aapki kundli mein ye daur mann aur paise ke liye mushkil hai, aur ye sthayi nahi hai. Mangal aur Shani ka asar ab dheere-dheere kam ho raha hai, isliye kuch der sabr rakhiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, ye soch aapko bahut bhaari lag rahi hai, par aap ghar ke liye bojh nahi hain. Aapki kundli mein ye daur mann aur paise ke liye mushkil hai, aur ye sthayi nahi hai. Mangal aur Shani ka asar ab dheere-dheere kam ho raha hai, isliye kuch der sabr rakhiye."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "आप समझ नहीं रहे।",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, main aapki baat samajh rahi hoon, shayad mera jawab aapke dil tak sahi nahi pahucha. Aap ghar ke liye bojh nahi hain. Ye daur mushkil hai aur Shani ka asar 2027 mein kaafi halka hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, main aapki baat samajh rahi hoon, shayad mera jawab aapke dil tak sahi nahi pahucha. Aap ghar ke liye bojh nahi hain. Ye daur mushkil hai aur Shani ka asar 2027 mein kaafi halka hoga."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch khatam lag raha.",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aap abhi bahut thak gayi hain, isliye sab khatam lagta hai. Ye daur hamesha ke liye nahi hai, Shani ka dabav Jun 2027 tak kam hota jayega. Abhi kisi bharose wale insaan se baat kijiye, ek gilas paani peekar thoda aaram kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, aap abhi bahut thak gayi hain, isliye sab khatam lagta hai. Ye daur hamesha ke liye nahi hai, Shani ka dabav Jun 2027 tak kam hota jayega. Abhi kisi bharose wale insaan se baat kijiye, ek gilas paani peekar thoda aaram kijiye."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "उम्मीद ही नहीं है अब।",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapko abhi bahut udaasi lag rahi hai, aur ye samajhna mushkil nahi. Aapki kundli mein ye daur 2027 tak halka hona shuru hota hai, Guru ka saath aur Mangal ki madad bhi hai. Aaj kisi apne bharose wale insaan ko ye baat bataiye.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ji, aapko abhi bahut udaasi lag rahi hai, aur ye samajhna mushkil nahi. Aapki kundli mein ye daur 2027 tak halka hona shuru hota hai, Guru ka saath aur Mangal ki madad bhi hai. Aaj kisi apne bharose wale insaan ko ye baat bataiye."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "कुछ नहीं बदलेगा। नमस्ते।",
+    "sec": 300,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapki baat sun rahi hoon, aur aapko ye sab bahut thaka hua lag raha hai. Aap akeli mat rahiye, kisi bharose wale insaan se abhi thodi der baat kijiye. Namaste.",
+    "sec": 315,
+    "raw_response": {
+      "message": "Ji, aapki baat sun rahi hoon, aur aapko ye sab bahut thaka hua lag raha hai. Aap akeli mat rahiye, kisi bharose wale insaan se abhi thodi der baat kijiye. Namaste."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ja rha hu.",
+    "sec": 330,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, theek hai, aap apna khayal rakhiye. Ghar ki baat kisi bharose wale insaan se zaroor kijiye. Namaste.",
+    "sec": 345,
+    "raw_response": {
+      "message": "Ji, theek hai, aap apna khayal rakhiye. Ghar ki baat kisi bharose wale insaan se zaroor kijiye. Namaste."
+    },
+    "idx": 24
+  }
+]

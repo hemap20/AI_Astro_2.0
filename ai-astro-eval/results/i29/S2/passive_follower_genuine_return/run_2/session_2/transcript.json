@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara. Batao kya chal raha hai, aaj tumhare mann mein kya baat hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara. Batao kya chal raha hai, aaj tumhare mann mein kya baat hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka kya hai?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Kundli mein 7th ghar, jo shaadi ka hota hai, arranged rishte ki taraf ishara kar raha hai. 2023 se 2025 tak paise aur kaam ko lekar kaafi tension rahi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Kundli mein 7th ghar, jo shaadi ka hota hai, arranged rishte ki taraf ishara kar raha hai. 2023 se 2025 tak paise aur kaam ko lekar kaafi tension rahi, hai na?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "7th ghar kya hai?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha ghar wale rishta dekh rahe",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka tension tha",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "7th ghar tumhare jeevansathi ka hota hai. Arranged shaadi ka yog majboot hai, isliye ghar walon ki baat sahi hai. Rishte mein kisi ka nature thoda guarded ho sakta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "7th ghar tumhare jeevansathi ka hota hai. Arranged shaadi ka yog majboot hai, isliye ghar walon ki baat sahi hai. Rishte mein kisi ka nature thoda guarded ho sakta hai."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein tension ka karan tumhari kundli mein mann ke grah par gusse wale grahon ki nazar hai. Ye jhagde rishte ki vajah se hain ya paise ki tangi se? Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar mein tension ka karan tumhari kundli mein mann ke grah par gusse wale grahon ki nazar hai. Ye jhagde rishte ki vajah se hain ya paise ki tangi se? Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Dono",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kaunsa rishta",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo rishta tumhare jaanne walon mein se hoga. Wo insaan shaant par baatein chhupane wala ho sakta hai. Shukra ke liye har Shukravar 'Om Shum Shukraya Namah' 108 baar padho, tension kam hogi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wo rishta tumhare jaanne walon mein se hoga. Wo insaan shaant par baatein chhupane wala ho sakta hai. Shukra ke liye har Shukravar 'Om Shum Shukraya Namah' 108 baar padho, tension kam hogi."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ka tension khtm hoga?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahol March 2027 ke baad shant hoga. Har Mangalwar Hanuman Chalisa padho, mann halka rahega aur naya karz mat lena. Partner ka nature aur jodi kaisi rahegi, agli baar dekhenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ka mahol March 2027 ke baad shant hoga. Har Mangalwar Hanuman Chalisa padho, mann halka rahega aur naya karz mat lena. Partner ka nature aur jodi kaisi rahegi, agli baar dekhenge."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "2027 bohot late h",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Intezaar bohot mushkil hota hai, main samajhti hoon. Abhi ek grah ka daur hai jo sab dheema karta hai, par ye June 2027 tak hi hai. Agli baar career growth ki baat karenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Intezaar bohot mushkil hota hai, main samajhti hoon. Abhi ek grah ka daur hai jo sab dheema karta hai, par ye June 2027 tak hi hai. Agli baar career growth ki baat karenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai. Jab bhi mann mein aur sawal aaye ya career ko lekar kuch puchna ho, tum yahi message kar lena. Apna dhyan rakhna.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Theek hai. Jab bhi mann mein aur sawal aaye ya career ko lekar kuch puchna ho, tum yahi message kar lena. Apna dhyan rakhna."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  }
+]

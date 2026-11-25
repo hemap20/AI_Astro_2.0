@@ -1,0 +1,137 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, batao kya chal raha hai? Purani job par wapas bulaye jaane ke chances kam hi dikhte hain. Main dekhti hoon ki March 2027 se career mein naye raaste khulenge. Wahi job dobara kyun karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, batao kya chal raha hai? Purani job par wapas bulaye jaane ke chances kam hi dikhte hain. Main dekhti hoon ki March 2027 se career mein naye raaste khulenge. Wahi job dobara kyun karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Call aayega ya nahi, seedha bolo.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Call aane ke chances na ke barabar hain. Mehnat aur karm ka grah abhi thoda kamzor hai, isliye purani jagah se baat banti nahi dikhti. Kya wahan se koi baat hui hai abhi tak?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Call aane ke chances na ke barabar hain. Mehnat aur karm ka grah abhi thoda kamzor hai, isliye purani jagah se baat banti nahi dikhti. Kya wahan se koi baat hui hai abhi tak?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, koi baat nahi hui.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "To naya job kab lagega, 2027 tak wait karu?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi naukri March 2027 se September 2028 ke beech lagegi. Jaise 2023 se 2025 tak mehnat ka fal nahi mila, waisa ab nahi hoga. Kya tum tab tak skill seekh rahi ho?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Nayi naukri March 2027 se September 2028 ke beech lagegi. Jaise 2023 se 2025 tak mehnat ka fal nahi mila, waisa ab nahi hoga. Kya tum tab tak skill seekh rahi ho?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine? Exact batao.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad halat sudharni shuru hogi. Mehnat ka grah tab career ke ghar se hat jayega, jisse raasta saaf hoga. Kya tumne koi naya course kiya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "June 2027 ke baad halat sudharni shuru hogi. Mehnat ka grah tab career ke ghar se hat jayega, jisse raasta saaf hoga. Kya tumne koi naya course kiya hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Course nhi kiya, par agle hafte interview hai, wahan hoga?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wahan safalta ke chances kam hain, mehnat ka grah career mein rukawat hai. June 2027 ke baad naukri milegi; career mein bada badlav dikh raha hai. Kahin aur apply kiya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wahan safalta ke chances kam hain, mehnat ka grah career mein rukawat hai. June 2027 ke baad naukri milegi; career mein bada badlav dikh raha hai. Kahin aur apply kiya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Interview me select hounga ya nhi, haan ya na?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kam chance hai. Main samajh sakti hoon, kabhi-kabhi grah umeed se alag chalte hain. Karm ka grah abhi career mein rukawat de raha hai, par ek specific field hai jo aapke liye best hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kam chance hai. Main samajh sakti hoon, kabhi-kabhi grah umeed se alag chalte hain. Karm ka grah abhi career mein rukawat de raha hai, par ek specific field hai jo aapke liye best hai."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Agle hafte wale interview me selection hoga ya nahi? Haan ya na?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kam chance hai. Is samay career ka grah thoda dabav mein hai, isliye abhi selection mushkil dikh raha hai. Kya aapne is interview ke liye koi khaas preparation ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kam chance hai. Is samay career ka grah thoda dabav mein hai, isliye abhi selection mushkil dikh raha hai. Kya aapne is interview ke liye koi khaas preparation ki hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  }
+]

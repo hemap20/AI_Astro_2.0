@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Zindagi ke kis pehlu ke baare mein aap mujhse puchna chahti hain, jaise ki career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Zindagi ke kis pehlu ke baare mein aap mujhse puchna chahti hain, jaise ki career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke yog March 2027 se September 2028 ke beech hain. Kismat ka grah abhi settle hone ke vichar la raha hai. Ghar par rishte ki koi baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke yog March 2027 se September 2028 ke beech hain. Kismat ka grah abhi settle hone ke vichar la raha hai. Ghar par rishte ki koi baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hain.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaunse mahine mein?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Guru, jo kismat ka grah hai, abhi rishte aur career dono par asar daal raha hai. Isliye February ke baad ka samay shaadi ke liye behtar hai. Kya aapko ye rishta pasand aa raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Guru, jo kismat ka grah hai, abhi rishte aur career dono par asar daal raha hai. Isliye February ke baad ka samay shaadi ke liye behtar hai. Kya aapko ye rishta pasand aa raha hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Par exact month batao 2027 ka.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "April 2027 mein yog zyada mazboot banta hai. Aapke rishton ka grah abhi thoda dab gaya hai, isliye sab soch-samajh kar hi faisla lena chahiye. Kya aapne hone wale partner ki nature par gaur kiya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "April 2027 mein yog zyada mazboot banta hai. Aapke rishton ka grah abhi thoda dab gaya hai, isliye sab soch-samajh kar hi faisla lena chahiye. Kya aapne hone wale partner ki nature par gaur kiya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi March 2027 ke baad dheere-dheere kam hogi. Ye wahi samay hai jab aapki career ki raah bhi khulegi. Abhi aapke paas naukri ya kaam ka koi naya mauka hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki tangi March 2027 ke baad dheere-dheere kam hogi. Ye wahi samay hai jab aapki career ki raah bhi khulegi. Abhi aapke paas naukri ya kaam ka koi naya mauka hai kya?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka karan himmat aur karm ke grahon ka dabaav hai. Ye mushkil daur June 2027 tak dheere-dheere khatam ho jayega. Ghar mein kis baat ko lekar sabse zyada pareshani hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension ka karan himmat aur karm ke grahon ka dabaav hai. Ye mushkil daur June 2027 tak dheere-dheere khatam ho jayega. Ghar mein kis baat ko lekar sabse zyada pareshani hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein kalesh.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 tak pakka?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, June 2027 tak grahon ka dabaav kam ho jayega. Karm aur himmat ke grahon ki nazar aapke mann ke grah par hai, isliye kalesh hai. Mangal ke liye 24 November se Hanuman Chalisa shuru karein.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, June 2027 tak grahon ka dabaav kam ho jayega. Karm aur himmat ke grahon ki nazar aapke mann ke grah par hai, isliye kalesh hai. Mangal ke liye 24 November se Hanuman Chalisa shuru karein."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "24 November se pehle kuch nahi hoga?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisa nahi hai, aap aaj se hi Hanuman Chalisa padhna shuru kar sakti hain. Ye grahon ka asar hai, jo waqt ke saath apne aap theek hoga. Kya aapne kabhi pehle ye upay kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aisa nahi hai, aap aaj se hi Hanuman Chalisa padhna shuru kar sakti hain. Ye grahon ka asar hai, jo waqt ke saath apne aap theek hoga. Kya aapne kabhi pehle ye upay kiya hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Matlab 24 se pehle kuch change nahi hoga?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein batao.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na, ekdum badlav nahi aayega. Ye grahon ka asar hai jo waqt ke saath dheere-dheere kam hoga. Ghar ka kalesh aur career ki sthiti dono march ke baad sudhrenge. Aap khud mann ko shant rakhne ke liye kya karti hain?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Na, ekdum badlav nahi aayega. Ye grahon ka asar hai jo waqt ke saath dheere-dheere kam hoga. Ghar ka kalesh aur career ki sthiti dono march ke baad sudhrenge. Aap khud mann ko shant rakhne ke liye kya karti hain?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

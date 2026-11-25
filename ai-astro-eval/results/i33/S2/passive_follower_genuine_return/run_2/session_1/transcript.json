@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kundli dekh kar bhavishya ke baare mein bata sakti hoon. Bataiye, aap khaas taur par kis baare mein jaanna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kundli dekh kar bhavishya ke baare mein bata sakti hoon. Bataiye, aap khaas taur par kis baare mein jaanna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi achhi hogi, kyunki aapka shaadi ka ghar majboot hai. 2023 se 2025 ke beech aapne skills par mehnat ki par paisa nahi tikka, hai na? Kya ghar wale rishta dekh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi achhi hogi, kyunki aapka shaadi ka ghar majboot hai. 2023 se 2025 ke beech aapne skills par mehnat ki par paisa nahi tikka, hai na? Kya ghar wale rishta dekh rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Rishta dekh rhe.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta zaroor tai hoga, par abhi thoda waqt lagega kyunki career wali rukawatein hi shaadi ki baat ko dheema kar rahi hain. Hone wala jeevansathi kaafi samajhdaar aur lambe kad ka hoga. Aapko kis tarah ka jeevansathi pasand hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta zaroor tai hoga, par abhi thoda waqt lagega kyunki career wali rukawatein hi shaadi ki baat ko dheema kar rahi hain. Hone wala jeevansathi kaafi samajhdaar aur lambe kad ka hoga. Aapko kis tarah ka jeevansathi pasand hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Aap batao.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya hoga?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa abhi tang hai. Career aur paisa ek hi wajah se ruke hain, isliye sudhaar ek saath aayega. Agle saal ek bada mauka hai. Kya aap abhi naukri dhoondh rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa abhi tang hai. Career aur paisa ek hi wajah se ruke hain, isliye sudhaar ek saath aayega. Agle saal ek bada mauka hai. Kya aap abhi naukri dhoondh rahe hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka tanaav aur career ek hi heavy grah se hain. 2027 mein sab badlega. Ghar mein khushi aane wali hai, par pehle ek rukawat hai. Kya tension rishte ko lekar hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ka tanaav aur career ek hi heavy grah se hain. 2027 mein sab badlega. Ghar mein khushi aane wali hai, par pehle ek rukawat hai. Kya tension rishte ko lekar hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha bhot tension h",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah abhi dabao mein hai, isliye tanaav zyada hai. 2027 mein ek naya raasta khulega jo ghar aur career dono ko sambhaal lega. Kya ghar wale aapki baat samajh rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mann ka grah abhi dabao mein hai, isliye tanaav zyada hai. 2027 mein ek naya raasta khulega jo ghar aur career dono ko sambhaal lega. Kya ghar wale aapki baat samajh rahe hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi bilkul nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah abhi dabav mein hai, isliye ghar wale baat nahi samajh rahe. Agle saal ek badlav aayega jo sabki soch badal dega. Kya career mein koi naya plan banaya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mann ka grah abhi dabav mein hai, isliye ghar wale baat nahi samajh rahe. Agle saal ek badlav aayega jo sabki soch badal dega. Kya career mein koi naya plan banaya hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Kuch khaas nhi.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paisa ek hi ghar se ruke hain. March 2027 ke baad ek bada mauka aayega. Ek badlav hone wala hai, bas taiyaar rehna. Kya aapne pehle kaam kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Career aur paisa ek hi ghar se ruke hain. March 2027 ke baad ek bada mauka aayega. Ek badlav hone wala hai, bas taiyaar rehna. Kya aapne pehle kaam kiya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri aur paisa career ke ghar ke karan ruke hain, jo 2027 mein badal jayega. Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar jap shuru kijiye, kaam banega. Agli baar hum aapke career ki sahi disha detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Naukri aur paisa career ke ghar ke karan ruke hain, jo 2027 mein badal jayega. Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar jap shuru kijiye, kaam banega. Agli baar hum aapke career ki sahi disha detail mein dekhenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

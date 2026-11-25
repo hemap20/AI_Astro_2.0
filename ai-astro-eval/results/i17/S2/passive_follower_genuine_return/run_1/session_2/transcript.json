@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 ka saal tumhare liye kaafi relief lekar aa raha hai, halat dheere dheere sudhar jayenge. Batao, abhi dimag mein sabse zyada kis baat ki tension hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 ka saal tumhare liye kaafi relief lekar aa raha hai, halat dheere dheere sudhar jayenge. Batao, abhi dimag mein sabse zyada kis baat ki tension hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne shaadi aur finances ki tension ki baat ki thi na. Wohi 2027 ki shuruat mein track pe aana shuru hoga. Kya ghar wale abhi kisi rishte ki baat aage badha rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne shaadi aur finances ki tension ki baat ki thi na. Wohi 2027 ki shuruat mein track pe aana shuru hoga. Kya ghar wale abhi kisi rishte ki baat aage badha rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, baat chal rhi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech yeh baat pakki ho sakti hai. Friday ko Om Shum Shukraya Namah 108 baar jap karke safed mithai daan kiya karo. Kya yeh rishta kisi jaan-pehchaan se hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech yeh baat pakki ho sakti hai. Friday ko Om Shum Shukraya Namah 108 baar jap karke safed mithai daan kiya karo. Kya yeh rishta kisi jaan-pehchaan se hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ji, door ke rishtedar hain.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaan-pehchaan ki hi baat hai, kundli se bhi wahi match ho raha hai. Bas ek baat ka dhyan rakhna, in-laws thode traditional aur reserved ho sakte hain. Kya ladke ke nature ya job ke baare mein kuch bataya ghar walo ne?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jaan-pehchaan ki hi baat hai, kundli se bhi wahi match ho raha hai. Bas ek baat ka dhyan rakhna, in-laws thode traditional aur reserved ho sakte hain. Kya ladke ke nature ya job ke baare mein kuch bataya ghar walo ne?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nhi, job ka pta nhi.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh kaafi shaant, padhe-likhe aur warm nature ke honge, bas unka ek thoda guarded side bhi hoga jo shuru mein samajh nahi aayega. Tumhe khud kaise nature ka partner pasand hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Woh kaafi shaant, padhe-likhe aur warm nature ke honge, bas unka ek thoda guarded side bhi hoga jo shuru mein samajh nahi aayega. Tumhe khud kaise nature ka partner pasand hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi, aap batao.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner kaafi shaant aur padha-likha hoga, shayad teaching ya finance ki line se jude ho. Tum khud abhi kya kar rahi ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Partner kaafi shaant aur padha-likha hoga, shayad teaching ya finance ki line se jude ho. Tum khud abhi kya kar rahi ho?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nhi, abhi toh khaali hu.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job aur career ki line March 2027 se September 2028 ke beech khulegi, abhi beech ke samay mein thoda wait karna padega. 2027 mein ek mahina aisa aayega jab ek interview tumhari job pakki kar sakta hai. Kya pehle teaching ya finance field mein try kiya tha?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Job aur career ki line March 2027 se September 2028 ke beech khulegi, abhi beech ke samay mein thoda wait karna padega. 2027 mein ek mahina aisa aayega jab ek interview tumhari job pakki kar sakta hai. Kya pehle teaching ya finance field mein try kiya tha?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, kabhi nhi.",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur career ki rukawat dono ek hi phase ki wajah se hain, jo June 2027 tak settle ho jayega. Saturday ko Om Sham Shanaishcharaya Namah 108 baar jap karke kaale til daan kiya karo. Kya yeh tension kisi specific baat ko lekar badh rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension aur career ki rukawat dono ek hi phase ki wajah se hain, jo June 2027 tak settle ho jayega. Saturday ko Om Sham Shanaishcharaya Namah 108 baar jap karke kaale til daan kiya karo. Kya yeh tension kisi specific baat ko lekar badh rahi hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Bas sab kuch hi hai.",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dimag pe jo pressure hai aur neend ud gayi hai, woh June 2027 ke baad bilkul saaf ho jayega. Monday ko Om Som Somaya Namah 108 baar jap kiya karo, mann ko bohot aaram milega. Kya raat ko sochte sochte der ho jati hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Dimag pe jo pressure hai aur neend ud gayi hai, woh June 2027 ke baad bilkul saaf ho jayega. Monday ko Om Som Somaya Namah 108 baar jap kiya karo, mann ko bohot aaram milega. Kya raat ko sochte sochte der ho jati hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bhot der tk jagi rehti hu.",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 20
+  }
+]

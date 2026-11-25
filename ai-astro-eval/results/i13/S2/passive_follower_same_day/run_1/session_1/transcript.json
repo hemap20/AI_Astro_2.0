@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein career aur kaam mein badlaav aane wala hai. Bataiye, sabse zyada fikar kis cheez ki hai - career, paise ya shaadi ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein career aur kaam mein badlaav aane wala hai. Bataiye, sabse zyada fikar kis cheez ki hai - career, paise ya shaadi ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji, yeh toh sabse badi zimmedari hoti hai. Family rishta dekh rahi hai ya aapki koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji, yeh toh sabse badi zimmedari hoti hai. Family rishta dekh rahi hai ya aapki koi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "parents dekh rahe hai ek rishta hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta pakka hone ke chance March 2027 se September 2028 ke beech lag rahe hain ji. Yeh baat jaan-pehchaan ya family ke zariye hi aage badhegi. Shukra ki kamzori door karne ke liye 20 November se Friday ko Om Shum Shukraya Namah ka jaap shuru kar dein ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh rishta pakka hone ke chance March 2027 se September 2028 ke beech lag rahe hain ji. Yeh baat jaan-pehchaan ya family ke zariye hi aage badhegi. Shukra ki kamzori door karne ke liye 20 November se Friday ko Om Shum Shukraya Namah ka jaap shuru kar dein ji."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki fikar sabko hoti hai ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki fikar sabko hoti hai ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Dono. Ghar ki tension",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein thaka deti hai ji, paise ki halat October 2028 ke baad sudharne lagegi. Kamai aati hai par rukta nahi hai ji. Kharcha kis cheez mein sabse zyada ho raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein thaka deti hai ji, paise ki halat October 2028 ke baad sudharne lagegi. Kamai aati hai par rukta nahi hai ji. Kharcha kis cheez mein sabse zyada ho raha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi bas ho jata",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa bina bataye nikal jaata hai ji, halat March 2027 ke baad sudhregi. Doosre sthaan ki kamzori se paisa tikta nahi hai. Kya koi purana udhar chal raha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa bina bataye nikal jaata hai ji, halat March 2027 ke baad sudhregi. Doosre sthaan ki kamzori se paisa tikta nahi hai. Kya koi purana udhar chal raha hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aur kuch bataye",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kaam ki rukawat June 2027 ke baad hat jayegi ji. Shani ka asar kam hone se raste khulenge. Aap abhi padhai kar rahi hain ya job?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kaam ki rukawat June 2027 ke baad hat jayegi ji. Shani ka asar kam hone se raste khulenge. Aap abhi padhai kar rahi hain ya job?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Job",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job mein achhi tarakki 2027 ke doosre hisse mein milegi ji. Teaching ya finance jaisi line mein koshish karein toh fayda hoga. Aap abhi kis field mein kaam kar rahi hain ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Job mein achhi tarakki 2027 ke doosre hisse mein milegi ji. Teaching ya finance jaisi line mein koshish karein toh fayda hoga. Aap abhi kis field mein kaam kar rahi hain ji?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Data entry",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Data entry se behtar field mein jaane ka rasta June 2027 ke baad khulega ji. Guru ka asar aapko naye mauke dega. Us samay kaam mein aane wale badlaav par nazar rakhna ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Data entry se behtar field mein jaane ka rasta June 2027 ke baad khulega ji. Guru ka asar aapko naye mauke dega. Us samay kaam mein aane wale badlaav par nazar rakhna ji."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

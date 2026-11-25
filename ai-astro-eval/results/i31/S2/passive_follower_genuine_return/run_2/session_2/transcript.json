@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki baaton ko yaad rakhti hoon. Bataiye, abhi kya chal raha hai aur main kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki baaton ko yaad rakhti hoon. Bataiye, abhi kya chal raha hai aur main kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, maine dekha tha ki shaadi ka yog 2027-2028 ke beech hai. Ghar aur paise ki tension bhi tabhi kam hogi. Kya ghar par abhi rishte ko lekar zyada dabaav ban raha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, maine dekha tha ki shaadi ka yog 2027-2028 ke beech hai. Ghar aur paise ki tension bhi tabhi kam hogi. Kya ghar par abhi rishte ko lekar zyada dabaav ban raha hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jaan-pehchan ke zariye hai. Hone wale saathi shant aur samajhdaar honge, par unka ek swabhav ka pehlu abhi chupa hai. Kya aapne unse milkar baat ki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta jaan-pehchan ke zariye hai. Hone wale saathi shant aur samajhdaar honge, par unka ek swabhav ka pehlu abhi chupa hai. Kya aapne unse milkar baat ki hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, baat nhi hui abhi.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, thoda samay lijiye. Shaadi aur paise 2027 mein sudhrenge, kyunki karm ka grah abhi bhari hai. Rishte mein jaldbaazi mat kijiyega, ek ahem baat baad mein pata chalegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Koi baat nahi, thoda samay lijiye. Shaadi aur paise 2027 mein sudhrenge, kyunki karm ka grah abhi bhari hai. Rishte mein jaldbaazi mat kijiyega, ek ahem baat baad mein pata chalegi."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kaunsi baat",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab thik hoga",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa 2027 mein dheere-dheere sudharne lagega. Woh chupi hui baat unke swabhav ki gambhirtah hai, jo waqt ke saath saaf hogi. Kya aapne ghar walon ko apne man ki pareshani batayi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa 2027 mein dheere-dheere sudharne lagega. Woh chupi hui baat unke swabhav ki gambhirtah hai, jo waqt ke saath saaf hogi. Kya aapne ghar walon ko apne man ki pareshani batayi hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, ghar pe tension hai.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein tension aur paise ki pareshani ek hi grah ke asar se hai. Yeh waqt mid-2027 tak thoda bhari hai, isliye abhi shaanti rakhein. Kya aapne Hanuman Chalisa padhna shuru kiya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar mein tension aur paise ki pareshani ek hi grah ke asar se hai. Yeh waqt mid-2027 tak thoda bhari hai, isliye abhi shaanti rakhein. Kya aapne Hanuman Chalisa padhna shuru kiya?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kab padhna hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aap ise mangalwar yani 24 November se roz shuru karein. Yeh aapke mann ka gussa aur ghar ki tension kam karne mein madad karega. Kya aapne kabhi pehle bhi ise padha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aap ise mangalwar yani 24 November se roz shuru karein. Yeh aapke mann ka gussa aur ghar ki tension kam karne mein madad karega. Kya aapne kabhi pehle bhi ise padha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kabhi nahi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Roz Hanuman Chalisa padhna, isse mann ko bahut shanti milegi. Mangalwar ko thodi laal masoor ki daal daan karna bhi achha hoga. Agli baar hum aapke hone wale jeevansathi ke nature par vistaar se baat karenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Roz Hanuman Chalisa padhna, isse mann ko bahut shanti milegi. Mangalwar ko thodi laal masoor ki daal daan karna bhi achha hoga. Agli baar hum aapke hone wale jeevansathi ke nature par vistaar se baat karenge."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ha btaiye",
+    "sec": 240,
+    "idx": 20
+  }
+]

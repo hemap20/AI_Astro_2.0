@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! Kaise ho? Tumhari kundli mein 2027 se kaafi badlav dikh rahe hain jo career aur personal life dono ke liye ache rahenge. Kaunsi baat tumhe zyada pareshan kar rahi hai, job ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! Kaise ho? Tumhari kundli mein 2027 se kaafi badlav dikh rahe hain jo career aur personal life dono ke liye ache rahenge. Kaunsi baat tumhe zyada pareshan kar rahi hai, job ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi. Kab tak hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, shaadi jaan-pehchaan mein hi hogi. Rishton ka grah thoda dab gaya hai, isliye baat aage badhne mein waqt lag raha hai. Ghar walon ne abhi tak koi rishta dekha hai ya tum khud kahin baat kar rahi ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, shaadi jaan-pehchaan mein hi hogi. Rishton ka grah thoda dab gaya hai, isliye baat aage badhne mein waqt lag raha hai. Ghar walon ne abhi tak koi rishta dekha hai ya tum khud kahin baat kar rahi ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe, ek ki baat chal rhi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Vo fix kab tak hoga? 2027 tak rukna padega?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat pakki hone ka samay March 2027 se shuru hoga. Rishton ka grah abhi dab gaya hai, isliye jaldbaazi theek nahi. Jisse baat chal rahi hai, kya wo ladka kaafi lambe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Baat pakki hone ka samay March 2027 se shuru hoga. Rishton ka grah abhi dab gaya hai, isliye jaldbaazi theek nahi. Jisse baat chal rahi hai, kya wo ladka kaafi lambe hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ladke ki height chhodo, ye batao March 2027 se pehle koi chance nahi hai?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se pehle yog nahi hai kyunki rishton ka grah, Shukra, abhi dab gaya hai. Friday se 'Om Shum Shukraya Namah' ka jaap shuru karo, isse rasta saaf hoga. Kya tumhe gussa bhi zyada aa raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se pehle yog nahi hai kyunki rishton ka grah, Shukra, abhi dab gaya hai. Friday se 'Om Shum Shukraya Namah' ka jaap shuru karo, isse rasta saaf hoga. Kya tumhe gussa bhi zyada aa raha hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak banega? Job kab tak lagegi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur job, dono kismat ke grah ke dheeme daur se atke hain. Pehle chhoti job pakdo. Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' jaap karo, interview kahin chal raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi aur job, dono kismat ke grah ke dheeme daur se atke hain. Pehle chhoti job pakdo. Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' jaap karo, interview kahin chal raha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi chal raha.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Date bataiye, job kab tak lagegi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ka waqt wahi hai jo maine pehle bataya tha. Paisa aur naukri ek hi daur se ruke hain, par ek chhupa rasta jaldi chhoti income de sakta hai. Online kaam kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Job ka waqt wahi hai jo maine pehle bataya tha. Paisa aur naukri ek hi daur se ruke hain, par ek chhupa rasta jaldi chhoti income de sakta hai. Online kaam kiya hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bataiye, job kab tak lagegi?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo time bataya, usi ke aas-paas kaam pakka banega. Ek field tumhari kundli mein bohot strong hai, wahan apply kiya toh jald halat badlenge. Tumne abhi tak kahan try kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Jo time bataya, usi ke aas-paas kaam pakka banega. Ek field tumhari kundli mein bohot strong hai, wahan apply kiya toh jald halat badlenge. Tumne abhi tak kahan try kiya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bataiye, ghumao mat.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka mahina tumhare liye sabse strong hai, tab career ka grah puri tarah jag jayega. Tab tak ek field hai jisme bina experience ke bhi mauka mil sakta hai, wo try kiya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ka mahina tumhare liye sabse strong hai, tab career ka grah puri tarah jag jayega. Tab tak ek field hai jisme bina experience ke bhi mauka mil sakta hai, wo try kiya?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok, March 2027.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi? Ghar mein bohot jhagde ho rahe hain.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur ghar ki tension ek hi grah ke dabav se hai. Mangal ke liye Hanuman Chalisa shuru karo, isse shanti milegi. March 2027 mein shanti aayegi. Kya ye 2025 se badh gayi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Career aur ghar ki tension ek hi grah ke dabav se hai. Mangal ke liye Hanuman Chalisa shuru karo, isse shanti milegi. March 2027 mein shanti aayegi. Kya ye 2025 se badh gayi hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ha, 2025 se hi hai.",
+    "sec": 270,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 25
+  }
+]

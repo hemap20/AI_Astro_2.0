@@ -1,0 +1,204 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, bataiye aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, bataiye aaj kis baare mein baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, March 2027 se badlega samay. Shani ka prabhav layegi rahat ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, March 2027 se badlega samay. Shani ka prabhav layegi rahat ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner tall aur calm honge ji. Shaadi arranged hogi, known circles mein.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Partner tall aur calm honge ji. Shaadi arranged hogi, known circles mein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta chal raha hai abhi",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta known circle se hai ji. Inka nature calm aur educated rahega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Yeh rishta known circle se hai ji. Inka nature calm aur educated rahega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad debt kam hoga ji. Mangal strong hone se paisa aane lagega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad debt kam hoga ji. Mangal strong hone se paisa aane lagega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension March 2027 ke baad kam hogi ji. Mangal aur Shani ke asar se abhi thoda aisi sthiti hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension March 2027 ke baad kam hogi ji. Mangal aur Shani ke asar se abhi thoda aisi sthiti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Samji nhi",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mangal aur Shani ghar mein garmi badhate hain ji. March 2027 ke baad Shani badlega, phir shanti aayegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mangal aur Shani ghar mein garmi badhate hain ji. March 2027 ke baad Shani badlega, phir shanti aayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Aur kuch hai kya",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Foreign travel ka yog hai ji. 2027 mein chance banega. Rahu aur Shukra ki sthiti hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Foreign travel ka yog hai ji. 2027 mein chance banega. Rahu aur Shukra ki sthiti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ye kya hota h",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "12th house mein Rahu aur Shukra hain ji. Isse videsh yatra ka yog banta hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "12th house mein Rahu aur Shukra hain ji. Isse videsh yatra ka yog banta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Samji nhi",
+    "sec": 270,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ka ek hissa door jane ka rasta batata hai ji. Wahi se videsh yatra ka yog banta hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Kundli ka ek hissa door jane ka rasta batata hai ji. Wahi se videsh yatra ka yog banta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 26
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, batao kya chal raha hai? Kaise ho aap?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, batao kya chal raha hai? Kaise ho aap?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar maine Guru ka mantra batane ko kaha tha, kya aapne shuru kiya? Career aur ghar ki tension mein abhi kya chal raha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar maine Guru ka mantra batane ko kaha tha, kya aapne shuru kiya? Career aur ghar ki tension mein abhi kya chal raha hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale shaadi dekh rahe",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main batati hoon, shaadi ka yog March 2027 se September 2028 ke beech hai. 2023 se 2025 tak paise ki tangi rahi thi, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main batati hoon, shaadi ka yog March 2027 se September 2028 ke beech hai. 2023 se 2025 tak paise ki tangi rahi thi, hai na?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Bht tangi thi",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo waqt mushkil tha, mann ka grah kamzor hone se paisa aur ghar ka sukoon ruk gaya tha. Shaadi mein ek khaas rishta jald aane wala hai. Kya ye rishta aapke jaan-pehchan ka hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo waqt mushkil tha, mann ka grah kamzor hone se paisa aur ghar ka sukoon ruk gaya tha. Shaadi mein ek khaas rishta jald aane wala hai. Kya ye rishta aapke jaan-pehchan ka hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta chal rha hai",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki naukri aur shaadi, dono ki wajah ek hi grah ka asar hai. Career mein ek bada mauka aane wala hai, bas ek galti se bachna hoga. Is rishte ko lekar aapke mann mein kya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapki naukri aur shaadi, dono ki wajah ek hi grah ka asar hai. Career mein ek bada mauka aane wala hai, bas ek galti se bachna hoga. Is rishte ko lekar aapke mann mein kya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Mann nhi hai",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Or tension bht h",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye tension aur mann ka na hona, usi grah ke asar se hai jo mann ko bhaari rakhe hue hain. Ek bada badlav aane wala hai, jisse faisla lena aasaan hoga. Kya papa is rishte ke liye dabav daal rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye tension aur mann ka na hona, usi grah ke asar se hai jo mann ko bhaari rakhe hue hain. Ek bada badlav aane wala hai, jisse faisla lena aasaan hoga. Kya papa is rishte ke liye dabav daal rahe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ji, bht pressure hai",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Papa ka dabav mann ka grah kamzor hone se hai, jo ghar aur career mein tension deta hai. Shaadi mein ek naya raasta jald nikalne wala hai. Kya aapne career ke liye kuch aur socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Papa ka dabav mann ka grah kamzor hone se hai, jo ghar aur career mein tension deta hai. Shaadi mein ek naya raasta jald nikalne wala hai. Kya aapne career ke liye kuch aur socha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur naukri March 2027 se behtar honge, kyunki tab career ka grah majboot hoga. Aapke career aur rishte dono mein ek bada badlav usi samay hai. Aage kya karne ka socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Paisa aur naukri March 2027 se behtar honge, kyunki tab career ka grah majboot hoga. Aapke career aur rishte dono mein ek bada badlav usi samay hai. Aage kya karne ka socha hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab theek ho jayega, aap chinta mat kijiye. Career aur paise ke liye Guru ka mantra 'Om Gram Greem Grom Sah Gurave Namah' 108 baar 19 November se shuru kijiye. Aapke marriage time ka jawab maine de diya hai; agli baar hum partner ka nature aur jodi kaisi rahegi, wo detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sab theek ho jayega, aap chinta mat kijiye. Career aur paise ke liye Guru ka mantra 'Om Gram Greem Grom Sah Gurave Namah' 108 baar 19 November se shuru kijiye. Aapke marriage time ka jawab maine de diya hai; agli baar hum partner ka nature aur jodi kaisi rahegi, wo detail mein dekhenge."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

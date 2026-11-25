@@ -1,0 +1,104 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future kaisa hoga, job milega ya nahi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. March 2027 ke baad job ka pakka yog hai. Guru ki kripa se career ki rukawat khatam hogi ji.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. March 2027 ke baad job ka pakka yog hai. Guru ki kripa se career ki rukawat khatam hogi ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak exactly?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 tak ka time hai ji. Dasve ghar mein Guru ka strong asar nayi job dilwayega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 tak ka time hai ji. Dasve ghar mein Guru ka strong asar nayi job dilwayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi. 2027 me exact month kya h?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka pehla mahina hi shuruat dega ji. Shani ki nayi dasha tabhi baazi palategi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ka pehla mahina hi shuruat dega ji. Shani ki nayi dasha tabhi baazi palategi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega? Is saal hoga kuch?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal paise ki thodi khinchav rahegi ji. March 2027 ke baad se dhang se aana shuru hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Is saal paise ki thodi khinchav rahegi ji. March 2027 ke baad se dhang se aana shuru hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Meh kitne number ki hu?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hum number nahi, grah dekhte hain ji. Kundli mein Budh lagna ka malik hai. 2027 se videsh jane ka yog bhi hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Hum number nahi, grah dekhte hain ji. Kundli mein Budh lagna ka malik hai. 2027 se videsh jane ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Number kitna?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hum number nahi, grah dekhte hain ji. Aapka lagna Budh ka hai, isliye buddhi aur tez hogi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Hum number nahi, grah dekhte hain ji. Aapka lagna Budh ka hai, isliye buddhi aur tez hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi. Faltu.",
+    "sec": 180,
+    "idx": 12
+  }
+]

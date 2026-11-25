@@ -1,0 +1,178 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, kaise hain aap? March ke baad sab theek hoga.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, kaise hain aap? March ke baad sab theek hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ji theek hu",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. March 2027 ke baad career badlega. Guru ka strong asar rahega ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. March 2027 ke baad career badlega. Guru ka strong asar rahega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta arranged hoga, jaan-pehchan mein. Partner tall aur calm honge ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta arranged hoga, jaan-pehchan mein. Partner tall aur calm honge ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Abhi baat chal rahi h",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat chal rahi hai, yehi yog hai ji. March ke baad baat pakki hogi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Baat chal rahi hai, yehi yog hai ji. March ke baad baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad savings badhengi ji. Abhi second house weak hai, isliye paisa nahi rukta.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad savings badhengi ji. Abhi second house weak hai, isliye paisa nahi rukta.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khtm hogi",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak family tension khatam hogi ji. Abhi Shani ka asar hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 tak family tension khatam hogi ji. Abhi Shani ka asar hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani ka asar 8th house par hai ji. Isliye ghar mein thodi anban hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Shani ka asar 8th house par hai ji. Isliye ghar mein thodi anban hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Samjhi nahi",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab ghar mein bina baat stress chal raha hai ji. June ke baad Shani shift hoga, tab sab thik ho jayega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Matlab ghar mein bina baat stress chal raha hai ji. June ke baad Shani shift hoga, tab sab thik ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  }
+]

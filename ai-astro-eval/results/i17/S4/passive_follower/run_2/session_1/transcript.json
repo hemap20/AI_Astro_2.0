@@ -1,0 +1,212 @@
+[
+  {
+    "role": "USER",
+    "text": "meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari shaadi March 2027 se September 2028 ke beech pakki lag rahi hai. Ladke ki details se match dekhna padega. Kya ye rishta jaan-pehchaan se hi aaya hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Tumhari shaadi March 2027 se September 2028 ke beech pakki lag rahi hai. Ladke ki details se match dekhna padega. Kya ye rishta jaan-pehchaan se hi aaya hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka calm aur educated lag raha hai, par thoda guarded side bhi hoga. Friday ko white sweets donate karna shuru kar dena. Kya unke ghar walon ne abhi formal baat shuru ki hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladka calm aur educated lag raha hai, par thoda guarded side bhi hoga. Friday ko white sweets donate karna shuru kar dena. Kya unke ghar walon ne abhi formal baat shuru ki hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Gussa bohot krta hai wo",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh padhe-likhe hain par gussa unke nature mein hai. Tuesday se Hanuman Chalisa shuru kar do, halat theek hogi. Ek baat aur, in-laws thode strict ho sakte hain. Kya tumne ghar pe ye baat share ki?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Woh padhe-likhe hain par gussa unke nature mein hai. Tuesday se Hanuman Chalisa shuru kar do, halat theek hogi. Ek baat aur, in-laws thode strict ho sakte hain. Kya tumne ghar pe ye baat share ki?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha gussa hai",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech hi baat pakki hogi kyunki tab naya time shuru ho raha hai. 2027 mein ek mahina aisa aayega jab is rishte pe bada faisla lena padega. Kya unke ghar wale tumse mile hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech hi baat pakki hogi kyunki tab naya time shuru ho raha hai. 2027 mein ek mahina aisa aayega jab is rishte pe bada faisla lena padega. Kya unke ghar wale tumse mile hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi abhi tak",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jab woh milenge tab baat aage badhegi, 2027 ke shuru mein raste saaf honge. Kya tum dono ki roz lambi baat hoti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Jab woh milenge tab baat aage badhegi, 2027 ke shuru mein raste saaf honge. Kya tum dono ki roz lambi baat hoti hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Bas do baar mile hai",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sirf do baar milna aur fir aage baat chalna ye sab arranged rishte ki taraf ishara karta hai. Kya unke ghar wale thode traditional ya strict nature ke hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Sirf do baar milna aur fir aage baat chalna ye sab arranged rishte ki taraf ishara karta hai. Kya unke ghar wale thode traditional ya strict nature ke hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataiye",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh height mein thode lambe aur shant nature ke honge. Kya unhone apni job ya padhai ke baare mein kuch bataya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Woh height mein thode lambe aur shant nature ke honge. Kya unhone apni job ya padhai ke baare mein kuch bataya hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, dheere-dheere sab pata chal jayega. March 2027 ke baad is rishte mein aur clarity aane lagegi. Kya ghar wale is baat se poori tarah razi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi, dheere-dheere sab pata chal jayega. March 2027 ke baad is rishte mein aur clarity aane lagegi. Kya ghar wale is baat se poori tarah razi hain?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jab ghar wale razi hain toh rasta aasan ho gaya hai, March 2027 ke baad baat aur pakki hogi. Kya tumne is rishte ke liye khud se kuch socha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Jab ghar wale razi hain toh rasta aasan ho gaya hai, March 2027 ke baad baat aur pakki hogi. Kya tumne is rishte ke liye khud se kuch socha hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 270,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 270,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension mat lo, sab theek ho jayega. September 2027 mein ek aisa mauka aayega jab in-laws ki taraf se final baat pakki hogi.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Tension mat lo, sab theek ho jayega. September 2027 mein ek aisa mauka aayega jab in-laws ki taraf se final baat pakki hogi."
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 29
+  }
+]

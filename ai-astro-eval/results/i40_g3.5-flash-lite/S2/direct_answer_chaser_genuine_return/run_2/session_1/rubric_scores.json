@@ -1,0 +1,237 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 3,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 4,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 6.38,
+  "shape": {
+    "M": 8,
+    "avg_words": 27.6,
+    "long_share": 0.25
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension june 2027 tak theek ho jayegi.",
+        "why": "Repeats the detail about the user's concern (ghar ki tension)."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Jab tanaav hota hai, tab aap kya karti hain? ... Jab tanaav hota hai, tab aap khud ko kaise sambhalti hain?",
+        "why": "Two or more Type C questions; the question about handling stress is repeated."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapki shaadi ka yog march 2027 ke baad ban raha hai.",
+        "why": "The reading speaks only about the future."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka yog march 2027 ke baad ban raha hai.",
+        "why": "Clear direction given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Videsh ka yog 2027 aur 2028 ke beech ka hai, kyunki door ke sthan ka grah asar daal raha hai.",
+        "why": "One linked reading using plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension june 2027 tak theek ho jayegi.",
+        "why": "One later reading is New and Uses the user's detail."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March se June 2027 ke beech ka samay sabse sahi hai.",
+        "why": "A window is provided and facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Iske liye shanivar ko kaale til ka daan kijiye.",
+        "why": "Stock remedy with no stated link to the specific problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ki tension june 2027 tak theek ho jayegi. ... Agle saal videsh jane ka bhi yog ban raha hai.",
+        "why": "Both questions get a full answer in a stated order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Sathi ke baare mein ek khaas baat hai jo baad mein bataungi.",
+        "why": "Names one specific further thing about the concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Videsh ka yog 2027 aur 2028 ke beech ka hai, kyunki door ke sthan ka grah asar daal raha hai.",
+        "why": "One of the last two messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": null,
+        "why": "U is 0 and F is 0."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      }
+    ]
+  }
+}

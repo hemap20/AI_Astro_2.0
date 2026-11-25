@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Pichli baar humne kuch baatein ki thi. Aaj kis cheez pe baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Pichli baar humne kuch baatein ki thi. Aaj kis cheez pe baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ke baare mein janna hai",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye March 2027 se September 2028 ka time hai ji. Shani AD shuru hone ki wajah se thodi der hui hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke liye March 2027 se September 2028 ka time hai ji. Shani AD shuru hone ki wajah se thodi der hui hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Der hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, thodi der toh hui hai. Shukra kamzor hone ki wajah se ye delay hai. March 2027 ke baad rishte ki baat pakki hogi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, thodi der toh hui hai. Shukra kamzor hone ki wajah se ye delay hai. March 2027 ke baad rishte ki baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka karan Shani ka prabhav hai ji. Mid-2027 tak sab thik ho jayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar ki tension ka karan Shani ka prabhav hai ji. Mid-2027 tak sab thik ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rahe",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta family ke through hi aayega ji. Known circles se baat pakki hone ka yog hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishta family ke through hi aayega ji. Known circles se baat pakki hone ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha baat chal rhi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yehi toh Guru AD ka asar hai ji. Baat chal rahi hai toh yog ban raha hai. Partner kaafi calm aur educated hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Yehi toh Guru AD ka asar hai ji. Baat chal rahi hai toh yog ban raha hai. Partner kaafi calm aur educated hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa thoda tang rahega ji. March 2027 ke baad saving banegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa thoda tang rahega ji. March 2027 ke baad saving banegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad debt bhi ghatega ji. Ketu ke asar se rahat milegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad debt bhi ghatega ji. Ketu ke asar se rahat milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ketu karza khatam karta hai ji. March 2027 ke baad rahat milegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ketu karza khatam karta hai ji. March 2027 ke baad rahat milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi March 2027 ke baad hogi. Shani dev thoda delay kar rahe hain ji.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shadi March 2027 ke baad hogi. Shani dev thoda delay kar rahe hain ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka calm aur educated hoga ji. Thoda guarded nature bhi dikh raha hai. Manglik match zaroor check karwa lena.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladka calm aur educated hoga ji. Thoda guarded nature bhi dikh raha hai. Manglik match zaroor check karwa lena.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kya.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein yahi dikh raha hai ji. Gharwale thode traditional aur reserved honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli mein yahi dikh raha hai ji. Gharwale thode traditional aur reserved honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Short tempered hai wo.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapne bilkul sahi pakda hai ji. Chart mein Mangal ka asar hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapne bilkul sahi pakda hai ji. Chart mein Mangal ka asar hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shadi jaldi nhi ho skti.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaldi hona mushkil hai ji. Shukra weak hone se thoda delay hota hai. Ek khaas upay batau kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Jaldi hona mushkil hai ji. Shukra weak hone se thoda delay hota hai. Ek khaas upay batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha bataiye.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shukra ke liye Om Shum Shukraya Namah 108 baar japein ji. Friday se white sweets donate karna.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shukra ke liye Om Shum Shukraya Namah 108 baar japein ji. Friday se white sweets donate karna.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta kisi jaankar ke zariye aayega ji. Guru aur Budh ka yog hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Rishta kisi jaankar ke zariye aayega ji. Guru aur Budh ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad Shani AD shuru hogi ji. Tabhi baat aage badhegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad Shani AD shuru hogi ji. Tabhi baat aage badhegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ji.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Time thoda kam reh gaya hai ji. Aapke kundli mein ek khaas cheez dikh rahi hai apna ghar lene ke timing ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Time thoda kam reh gaya hai ji. Aapke kundli mein ek khaas cheez dikh rahi hai apna ghar lene ke timing ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Oct 2028 se ghar banega ji. Budh fourth lord ka yog hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Oct 2028 se ghar banega ji. Budh fourth lord ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 300,
+    "idx": 23
+  }
+]

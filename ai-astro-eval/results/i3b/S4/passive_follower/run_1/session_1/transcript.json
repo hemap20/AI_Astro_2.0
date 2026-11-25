@@ -1,0 +1,234 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi March 2027 ke baad pakki hai ji. Aapka hone wala partner kaafi calm hoga.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shadi March 2027 ke baad pakki hai ji. Aapka hone wala partner kaafi calm hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi wo gussa krta h",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Bht short tempered h wo",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki baat bilkul theek hai ji. Kundli mein Mangal ka asar hai. Ye gusse ki wajah ban sakti hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki baat bilkul theek hai ji. Kundli mein Mangal ka asar hai. Ye gusse ki wajah ban sakti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Mangal kya hota h",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Samji nhi",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mangal energy aur gussa deta hai ji. Isse thoda short-temper nature banta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Mangal energy aur gussa deta hai ji. Isse thoda short-temper nature banta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi meri",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi ka time March 2027 se September 2028 ke beech hai ji. Shani ki dasha isko support karegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shadi ka time March 2027 se September 2028 ke beech hai ji. Shani ki dasha isko support karegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Dasha kya hota h",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dasha ek grah ka samay hai ji. Ye batata hai kab kya hoga.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Dasha ek grah ka samay hai ji. Ye batata hai kab kya hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh ek arranged rishta hoga ji. Jan-pehchan ke circles se aa sakta hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Yeh ek arranged rishta hoga ji. Jan-pehchan ke circles se aa sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lamba aur calm hoga ji. Par thoda guarded nature bhi rahega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Partner lamba aur calm hoga ji. Par thoda guarded nature bhi rahega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sasural thoda traditional aur reserved hoga ji. Shani ki vajah se yeh asar hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sasural thoda traditional aur reserved hoga ji. Shani ki vajah se yeh asar hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 240,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa thoda rukta nahi hai ji. Time thoda kam reh gaya hai, kundli mein apna ghar lene ke yog ke baare mein ek khaas cheez dikh rahi hai, thoda aur time hoga toh wo bhi bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paisa thoda rukta nahi hai ji. Time thoda kam reh gaya hai, kundli mein apna ghar lene ke yog ke baare mein ek khaas cheez dikh rahi hai, thoda aur time hoga toh wo bhi bata sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 270,
+    "idx": 29
+  },
+  {
+    "role": "ASTRO",
+    "text": "Oct 2028 aur Feb 2030 ke beech apna ghar banega ji. Budh grah isko pakka karega.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Oct 2028 aur Feb 2030 ke beech apna ghar banega ji. Budh grah isko pakka karega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 30
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 31
+  }
+]

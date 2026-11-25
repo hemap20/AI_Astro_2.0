@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein aapke jeevan mein kaafi behtar badlav aayenge aur cheezein track par aayengi. Bataiye, aaj sabse pehle kis baare mein baat karni hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein aapke jeevan mein kaafi behtar badlav aayenge aur cheezein track par aayengi. Bataiye, aaj sabse pehle kis baare mein baat karni hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, bilkul yaad hai mujhe. Pichli baar aapne shaadi ki baat aur ghar ki tension ke baare mein jo pucha tha, uske halat March 2027 ke baad sudharne lagenge ji. Bataiye, abhi rishte ko lekar kya baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, bilkul yaad hai mujhe. Pichli baar aapne shaadi ki baat aur ghar ki tension ke baare mein jo pucha tha, uske halat March 2027 ke baad sudharne lagenge ji. Bataiye, abhi rishte ko lekar kya baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekha hai, ek baat chal rahi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak fix hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech pakki hogi ji. Yeh rishta jaan-pehchaan ke zariye hi aage badhega. Samne wale parivar se baat kahan tak pahunchi hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech pakki hogi ji. Yeh rishta jaan-pehchaan ke zariye hi aage badhega. Samne wale parivar se baat kahan tak pahunchi hai ji?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exact?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein yog sabse pakke hain, baaki window khula hai ji. Rishte ki baat aage badhane ke liye har Shaniwar kale til ka daan karein. Unka parivar kaisa lag raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein yog sabse pakke hain, baaki window khula hai ji. Rishte ki baat aage badhane ke liye har Shaniwar kale til ka daan karein. Unka parivar kaisa lag raha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega, job lagegi ya business?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise aur naukri ki chinta hona laazmi hai ji. Aapne pehle kahin kaam kiya hai ya abhi naye sire se shuru kar rahe ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise aur naukri ki chinta hona laazmi hai ji. Aapne pehle kahin kaam kiya hai ya abhi naye sire se shuru kar rahe ho?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Naye sire se.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Job ya business, kya hoga aur kab tak?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi naukri June 2027 ke baad Shani ka dabav hatne par milegi ji. Guru ka prabhav aapko teaching ya finance mein aage badhayega. Aapne padhai kis field mein ki hai ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Nayi naukri June 2027 ke baad Shani ka dabav hatne par milegi ji. Guru ka prabhav aapko teaching ya finance mein aage badhayega. Aapne padhai kis field mein ki hai ji?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "BBA kiya hai.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 me exact konsi date?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Aur business nahi kar sakti kya?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date nahi ji, June 2027 ki shuruat mein rasta banega aur baaki samay khula hai. Pehle naukri aur baad mein trade ya services ka business bhi kar sakti hain. Aapko kis field mein kaam karne ki ichha hai ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Exact date nahi ji, June 2027 ki shuruat mein rasta banega aur baaki samay khula hai. Pehle naukri aur baad mein trade ya services ka business bhi kar sakti hain. Aapko kis field mein kaam karne ki ichha hai ji?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, koi specific date ya week?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisa nahi hai ji, June 2027 ka pehla hafta sabse khaas rahega kyunki tab Shani ka dabav hatega. Aapne abhi kahin interview diya hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aisa nahi hai ji, June 2027 ka pehla hafta sabse khaas rahega kyunki tab Shani ka dabav hatega. Aapne abhi kahin interview diya hai kya?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "5 minute aise hi nikal gaye.",
+    "sec": 240,
+    "idx": 24
+  }
+]

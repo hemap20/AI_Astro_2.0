@@ -1,0 +1,243 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 1,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 3,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 5.67,
+  "shape": {
+    "M": 9,
+    "avg_words": 36.6,
+    "long_share": 0.89
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pichli baar humne shaadi aur ghar ki tension par baat ki thi.",
+        "why": "The astrologer acknowledges the previous context of marriage and home tension."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya abhi rishte ki koi baat chal rahi hai?",
+        "why": "Most questions are Type B (could be asked to any user), though some are Type A."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya wo insaan thode shant aur lambe kad ke hain?",
+        "why": "Asks about the partner's nature with a reason (to confirm the chart reading)."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka shaadi ka yoga March 2027 se September 2028 ke beech bohot mazboot ban raha hai.",
+        "why": "It is about the future, new, and specific, but lacks a chart reason in the first reading."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapka shaadi ka yoga March 2027 se September 2028 ke beech bohot mazboot ban raha hai.",
+        "why": "Provides a clear direction and time window immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ka grah kamzor hone se thoda rukawat aati hai",
+        "why": "Links a life statement (rukawat) to a chart factor (Rishton ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ke dabne se thodi deri hui",
+        "why": "Adds a new point about the delay using the user's context."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028",
+        "why": "Provides a consistent window throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "20 November se safed mithai baantna shuru kijiye.",
+        "why": "Provides a remedy tied to the cause (rukawat) mentioned in the reading."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Paise ki halat par humne pehle baat ki hai.",
+        "why": "The user's question about money is not answered; the astrologer pivots to a recharge pitch."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke partner ke andar ek thoda chhipa hua roop... yeh abhi baaki hai.",
+        "why": "Opens a specific further layer about the partner's nature."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is par poori baat samajhne ke liye chat ko abhi recharge kar lijiye.",
+        "why": "The astrologer closes the conversation with a pitch instead of continuing the reading."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is par poori baat samajhne ke liye chat ko abhi recharge kar lijiye.",
+        "why": "The last message is a pitch, leaving the user with no reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ka grah kamzor hone se thoda rukawat aati hai",
+        "why": "Uses simple language with no technical jargon or formal tone."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Is par poori baat samajhne ke liye chat ko abhi recharge kar lijiye.",
+        "why": "The user is pushing for an answer, and the astrologer repeats the recharge pitch instead of adapting."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "question"
+      },
+      {
+        "idx": 21,
+        "type": "reading"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      }
+    ]
+  }
+}

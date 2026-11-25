@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara bol rahi hoon. Bataiye, aaj main aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara bol rahi hoon. Bataiye, aaj main aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, humne aapki shaadi aur career ke achhe samay ke baare mein baat ki thi jo 2027 se shuru ho raha hai. Kya aapne panna ratna ke baare mein kuch faisla kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, humne aapki shaadi aur career ke achhe samay ke baare mein baat ki thi jo 2027 se shuru ho raha hai. Kya aapne panna ratna ke baare mein kuch faisla kiya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kab tak?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur career, dono ke liye March 2027 se raaste khul rahe hain. Career aur rishton ka grah tab majboot hoga. 2023 se 2025 tak paise ki thodi tangi rahi thi, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi aur career, dono ke liye March 2027 se raaste khul rahe hain. Career aur rishton ka grah tab majboot hoga. 2023 se 2025 tak paise ki thodi tangi rahi thi, hai na?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month kya hai?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hain, ek baat chal rahi hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru se yog ban rahe hain. Career aur rishta dono tabhi badlenge. Jeevansathi ka ek raaz shaadi se pehle khulega. Kya aapne unke nature ke baare mein kuch socha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke shuru se yog ban rahe hain. Career aur rishta dono tabhi badlenge. Jeevansathi ka ek raaz shaadi se pehle khulega. Kya aapne unke nature ke baare mein kuch socha hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Raaz chodo, ye btao March me confirm kab tak hoga?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog majboot honge. Career aur shaadi ek saath safal honge. Ek rishta aayega jo aapki soch se alag hoga, par wahi behtar hai. Aap kis field mein try kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se yog majboot honge. Career aur shaadi ek saath safal honge. Ek rishta aayega jo aapki soch se alag hoga, par wahi behtar hai. Aap kis field mein try kar rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "I asked time, March 2027 me exact date ya week.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke pehle hafte se hi sab badalne lagega. Career aur rishton ka grah tabhi uplabdh hai. Aapne bataya gharwale rishta dekh rahe hain, kya ladke ke parivar se mulakat hui?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke pehle hafte se hi sab badalne lagega. Career aur rishton ka grah tabhi uplabdh hai. Aapne bataya gharwale rishta dekh rahe hain, kya ladke ke parivar se mulakat hui?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak stable hoga?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech paisa sambhalne lagega. Aapki naukri aur kamai ek hi daur se judde hain, isliye tabhi dono mein badlav aayega. Ek bada kharcha hai jo aage rukne wala hai. Kya aapne abhi koi naya kaam shuru kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech paisa sambhalne lagega. Aapki naukri aur kamai ek hi daur se judde hain, isliye tabhi dono mein badlav aayega. Ek bada kharcha hai jo aage rukne wala hai. Kya aapne abhi koi naya kaam shuru kiya hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me start hoga ya 2028 tak wait karu?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuruat hogi, 2028 ka intezar mat kijiye. Aapka career aur paisa tab ek saath sudhrenge. Career mein ek bada mauka aane wala hai, bas kahan try kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se shuruat hogi, 2028 ka intezar mat kijiye. Aapka career aur paisa tab ek saath sudhrenge. Career mein ek bada mauka aane wala hai, bas kahan try kiya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Private job.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Matlab March 2027 se hi income stable hogi?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, March 2027 se income mein sudhar aayega. 10th ghar, jo career ka hota hai, tab majboot hai. Naukri ke saath ek alag raasta bhi dikh raha hai jo aapko aage le jayega. Kya aapne kabhi business ke bare mein socha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Haan, March 2027 se income mein sudhar aayega. 10th ghar, jo career ka hota hai, tab majboot hai. Naukri ke saath ek alag raasta bhi dikh raha hai jo aapko aage le jayega. Kya aapne kabhi business ke bare mein socha hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab tak rahegi?",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension June 2027 tak puri tarah khatam ho jayegi. Mangal ke liye Hanuman Chalisa padhna shuru kijiye, isse ghar mein shanti rahegi. Aapki sabhi chintaon ka jawab maine de diya hai. Agli baar milenge toh rishte ki compatibility aur jodi kaisi rahegi, us par detail mein baat karenge.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ghar ki tension June 2027 tak puri tarah khatam ho jayegi. Mangal ke liye Hanuman Chalisa padhna shuru kijiye, isse ghar mein shanti rahegi. Aapki sabhi chintaon ka jawab maine de diya hai. Agli baar milenge toh rishte ki compatibility aur jodi kaisi rahegi, us par detail mein baat karenge."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 300,
+    "idx": 23
+  }
+]

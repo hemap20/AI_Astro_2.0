@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ye ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Shani ke prabhav ki wajah se rishte mein thodi der ya shuruat mein pressure aa sakta hai, isliye thoda dhairya rakhna hoga. Kya ye rishta aapke ghar ke through ya jaan-pehchan mein hi aage badh raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Shani ke prabhav ki wajah se rishte mein thodi der ya shuruat mein pressure aa sakta hai, isliye thoda dhairya rakhna hoga. Kya ye rishta aapke ghar ke through ya jaan-pehchan mein hi aage badh raha hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Family through hai. Ladka shi hai ya nahi ye btao.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ye rishta thik lag raha hai kyunki aapka hone wala jeevan sathi padha-likha aur shaant nature ka hoga. Guru grah ke asar se wo kaafi samajhdaar aur warm rehenge ji. In-laws ke nature ko lekar bhi ek baat kundli mein saaf hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, ye rishta thik lag raha hai kyunki aapka hone wala jeevan sathi padha-likha aur shaant nature ka hoga. Guru grah ke asar se wo kaafi samajhdaar aur warm rehenge ji. In-laws ke nature ko lekar bhi ek baat kundli mein saaf hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Par main 2 baar mili hu, wo toh short-tempered hai. Sahi hai ya nahi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, unka ek guarded ya strict side bhi ho sakta hai jo shuru mein gusse jaisa lagta hai. Kundli mein unka nature andar se thoda defensive dikh raha hai. Kya unhone aapse kisi baat par strict tarike se baat ki thi?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, unka ek guarded ya strict side bhi ho sakta hai jo shuru mein gusse jaisa lagta hai. Kundli mein unka nature andar se thoda defensive dikh raha hai. Kya unhone aapse kisi baat par strict tarike se baat ki thi?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan strict the.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Toh rishta sahi hai ya nahi? Yes ya no?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, ye rishta aage chal kar theek baith sakta hai kyunki dono taraf se samajhdari ka yog hai. Guru ki sthiti batati hai ki waqt ke sath unka yeh strict pan kam hoga aur baatein sambhal jayengi. Shaadi ke baad ek khas samay par in-laws ke sath rishte behtar hone ka yog bhi hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan ji, ye rishta aage chal kar theek baith sakta hai kyunki dono taraf se samajhdari ka yog hai. Guru ki sthiti batati hai ki waqt ke sath unka yeh strict pan kam hoga aur baatein sambhal jayengi. Shaadi ke baad ek khas samay par in-laws ke sath rishte behtar hone ka yog bhi hai."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok, sahi hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaunse mahine mein?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se aapke liye shaadi ka shubh samay shuru ho raha hai ji. Tabhi Shani ka naya daur aane se baatein aage badhengi, aur 21 November se Om Sham Shanaishcharaya Namah ka jaap shuru kar dein ji. Kya is rishte ki baat pakki karne ke liye ghar walo ne koi mahina socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se aapke liye shaadi ka shubh samay shuru ho raha hai ji. Tabhi Shani ka naya daur aane se baatein aage badhengi, aur 21 November se Om Sham Shanaishcharaya Namah ka jaap shuru kar dein ji. Kya is rishte ki baat pakki karne ke liye ghar walo ne koi mahina socha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March mein hi pakka hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se hi baat pakki hone ka rasta khul sakta hai ji, baki poora window September 2028 tak ka hai. Shani ka naya daur aane se ab yeh mamle tezi se aage badhenge. In-laws ki taraf thode traditional aur reserved log milenge ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March se hi baat pakki hone ka rasta khul sakta hai ji, baki poora window September 2028 tak ka hai. Shani ka naya daur aane se ab yeh mamle tezi se aage badhenge. In-laws ki taraf thode traditional aur reserved log milenge ji."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein exact kaunsa month?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ka shuruati hafta hi iske liye sabse behtar lag raha hai ji. Shani ka naya daur is dauran is kaam ko tezi dega. 2028 tak in-laws ke sath riste aur financial cheezein kaise judengi, ye bhi saaf hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March ka shuruati hafta hi iske liye sabse behtar lag raha hai ji. Shani ka naya daur is dauran is kaam ko tezi dega. 2028 tak in-laws ke sath riste aur financial cheezein kaise judengi, ye bhi saaf hai."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai ji. 2028 ke aage iski sthiti aur majboot hogi. Kya aapne aur ladke ne shaadi ke baad aage ke liye kuch socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai ji. 2028 ke aage iski sthiti aur majboot hogi. Kya aapne aur ladke ne shaadi ke baad aage ke liye kuch socha hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  }
+]

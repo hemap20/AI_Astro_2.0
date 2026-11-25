@@ -1,0 +1,128 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Aap future ke baare mein kya jaanna chahti hain, kaam, shaadi ya paise? Ek baat batayiye, abhi sabse zyada kis cheez ki fikar hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Aap future ke baare mein kya jaanna chahti hain, kaam, shaadi ya paise? Ek baat batayiye, abhi sabse zyada kis cheez ki fikar hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye aapki kundli mein Mar 2027 se Sep 2028 ka samay accha dikhta hai. Ye rishta shayad jaan-pehchan ke zariye aa sakta hai. Kya aapki shaadi ki baat abhi tak kisi se shuru hui hai, ya abhi aap bina kisi baat ke ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke liye aapki kundli mein Mar 2027 se Sep 2028 ka samay accha dikhta hai. Ye rishta shayad jaan-pehchan ke zariye aa sakta hai. Kya aapki shaadi ki baat abhi tak kisi se shuru hui hai, ya abhi aap bina kisi baat ke ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ghar wale dekh rahe hai, ek rishta chal raha hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak final hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta chal raha hai to achhi baat hai. Final hone ka sabse achha samay Mar 2027 se shuru hota hai, aur Nov ya Dec 2026 mein jaldi decision lena thoda mushkil lagta hai. Kya aap bata sakti hain ki pichle saal aapki padhai ya college life mein kuch badlaav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta chal raha hai to achhi baat hai. Final hone ka sabse achha samay Mar 2027 se shuru hota hai, aur Nov ya Dec 2026 mein jaldi decision lena thoda mushkil lagta hai. Kya aap bata sakti hain ki pichle saal aapki padhai ya college life mein kuch badlaav aaya tha?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak set hoga?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat dheere-dheere Mar 2027 se Sep 2028 ke beech sudhregi. Kamai pehle naukri se aayegi, business baad mein sochna accha rahega. Kya aap bata sakti hain ki aapke paise ghar mein kharch hote hain ya khud ki padhai par?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki halat dheere-dheere Mar 2027 se Sep 2028 ke beech sudhregi. Kamai pehle naukri se aayegi, business baad mein sochna accha rahega. Kya aap bata sakti hain ki aapke paise ghar mein kharch hote hain ya khud ki padhai par?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Padhai pe.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension mein 2027 ka saal raahat laata hai, Feb aur Jun ke baad halat behtar hogi. Mangal aapke ghar ke jhagde ko thoda shaant rakhta hai. Kya aap bata sakti hain ki ye tension zyadatar kis baat par hoti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension mein 2027 ka saal raahat laata hai, Feb aur Jun ke baad halat behtar hogi. Mangal aapke ghar ke jhagde ko thoda shaant rakhta hai. Kya aap bata sakti hain ki ye tension zyadatar kis baat par hoti hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Personal matters.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Personal baatein aksar dil par bojh bana deti hain. Aapki kundli mein Chandra, yaani mann, thoda kamzor hai, isliye neend aur soch par asar padta hai. Kya aapko neend theek aati hai, ya raat ko zyada sochti hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Personal baatein aksar dil par bojh bana deti hain. Aapki kundli mein Chandra, yaani mann, thoda kamzor hai, isliye neend aur soch par asar padta hai. Kya aapko neend theek aati hai, ya raat ko zyada sochti hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Raat ko sochti hu.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  }
+]

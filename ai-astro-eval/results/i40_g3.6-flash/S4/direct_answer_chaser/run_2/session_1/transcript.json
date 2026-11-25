@@ -1,0 +1,140 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi ke liye ladka shi h ya nhi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar born",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Main aap dono ke rishte ke baare mein dekh kar batati hoon. Kya abhi iss rishte ki baat ghar par chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Main aap dono ke rishte ke baare mein dekh kar batati hoon. Kya abhi iss rishte ki baat ghar par chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha ghar pe chal rahi hai",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi hai ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta achha lagta hai, dono ka milan aage chal kar sahi rahega. Waise kya Oct 2025 ke aas-paas aapke ghar mein shaadi ya career ki baat shuru hui thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Rishta achha lagta hai, dono ka milan aage chal kar sahi rahega. Waise kya Oct 2025 ke aas-paas aapke ghar mein shaadi ya career ki baat shuru hui thi?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi Mar 2027 se Sep 2028 ke beech hone ke majboot yog hain. Kismat ka saath milega. Kya iss ladke ke nature ko lekar aap thodi pareshan hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki shaadi Mar 2027 se Sep 2028 ke beech hone ke majboot yog hain. Kismat ka saath milega. Kya iss ladke ke nature ko lekar aap thodi pareshan hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha, woh thoda short-tempered lagta hai",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Do baar mili hu, isliye puchh rahi hu",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ha, unka gussa zaroor hai, par unke nature mein ek khas baat bhi dikhti hai jo abhi chhupi hai. Kya unki family se baatchit sahi chal rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ha, unka gussa zaroor hai, par unke nature mein ek khas baat bhi dikhti hai jo abhi chhupi hai. Kya unki family se baatchit sahi chal rahi hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine mein?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein Mar se May ke mahine sabse sahi hain. Woh andar se bohot calm aur caring hain. Shaadi ke yog majboot karne ko Shukrawar se 'Om Shum Shukraya Namah' jaap kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "2027 mein Mar se May ke mahine sabse sahi hain. Woh andar se bohot calm aur caring hain. Shaadi ke yog majboot karne ko Shukrawar se 'Om Shum Shukraya Namah' jaap kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Shadi pakki usi time hogi ya delay ho sakti h?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mar 2027 se Sep 2028 ka time pakka hai. Rishton ka grah kamzor hone se thodi deri hoti hai, par upay se kaam ban jayega. Unke ghar wale aapko kaise lage?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mar 2027 se Sep 2028 ka time pakka hai. Rishton ka grah kamzor hone se thodi deri hoti hai, par upay se kaam ban jayega. Unke ghar wale aapko kaise lage?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 19
+  }
+]

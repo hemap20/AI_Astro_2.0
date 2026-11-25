@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job ki baat hai ji. Purani company ne kab chhoda tha, aur kya abhi wahan kisi se baat chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job ki baat hai ji. Purani company ne kab chhoda tha, aur kya abhi wahan kisi se baat chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "3 mahine pehle. Manager ne bola tha bula sakte.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak bulayenge?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas wapas bulaane ka yog hai ji. Kaam ke sthaan par Shani ka dabav abhi dheere chal raha hai. Manager se koi dobara baat hui hai kya abhi tak?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas wapas bulaane ka yog hai ji. Kaam ke sthaan par Shani ka dabav abhi dheere chal raha hai. Manager se koi dobara baat hui hai kya abhi tak?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi baat hui.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month bata do?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke mahine mein hi rasta khulne ka sabse zyada chance hai ji. Naya samay tabhi shuru hota hai. Kya aapne kisi aur nayi jagah bhi try kiya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ke mahine mein hi rasta khulne ka sabse zyada chance hai ji. Naya samay tabhi shuru hota hai. Kya aapne kisi aur nayi jagah bhi try kiya hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha, interview hai next week.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Old job ka confirm hai na?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai ji, purani job ka bhi aur naye interview ka bhi. Guru ki taqat se kaam banega. Isliye Guruwar ko Guru ka mantra japo aur chana dal daan karo ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Zyada chance hai ji, purani job ka bhi aur naye interview ka bhi. Guru ki taqat se kaam banega. Isliye Guruwar ko Guru ka mantra japo aur chana dal daan karo ji."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Par purani job milegi ya nahi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, purani job milne ke poore chances hain. Kaam ke sthaan ka bal achha hone se wahan baat banegi. Wahan profile wahi purani rahegi ya kuch naya milega?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, purani job milne ke poore chances hain. Kaam ke sthaan ka bal achha hone se wahan baat banegi. Wahan profile wahi purani rahegi ya kuch naya milega?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Wahi purani.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua tha.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Next week wala interview shi h ya nahi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisi baatein hoti hain ji, samay upar-neeche ho jata hai. Next week ke interview mein aage badhne ka accha mauka milega. Interview kis role ke liye hai ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aisi baatein hoti hain ji, samay upar-neeche ho jata hai. Next week ke interview mein aage badhne ka accha mauka milega. Interview kis role ke liye hai ji?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Sales Executive.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, ye batao?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh role bilkul theek hai ji. Baat karne ki kshamta is field mein bada fayda degi. Ismein pehle ka kitna tajurba hai aapka?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh role bilkul theek hai ji. Baat karne ki kshamta is field mein bada fayda degi. Ismein pehle ka kitna tajurba hai aapka?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "2 saal ka hai.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Isme selection hoga ya nahi?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Selection ka accha chance hai ji, bilkul pareshan mat ho. Do saal ka tajurba kaam aayega. Interview ki taiyari puri hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Selection ka accha chance hai ji, bilkul pareshan mat ho. Do saal ka tajurba kaam aayega. Interview ki taiyari puri hai kya?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Selection hoga ya nahi, ye batao? Haan ya na mein.",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh raha hoon wo bata nahi rahe.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, selection ka poora chance hai. Budh ka yog aapke paksh mein hai. June 2027 ke baad kaam mein aur tarakki ke raste khulenge ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Haan ji, selection ka poora chance hai. Budh ka yog aapke paksh mein hai. June 2027 ke baad kaam mein aur tarakki ke raste khulenge ji."
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 26
+  }
+]

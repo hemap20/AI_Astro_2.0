@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Bataiye, aaj kis baare mein baat karni hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Bataiye, aaj kis baare mein baat karni hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri, saal batao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji, zaroori sawaal hai. Family abhi rishta dekh rahi hai ya aapki taraf se koi baat hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji, zaroori sawaal hai. Family abhi rishta dekh rahi hai ya aapki taraf se koi baat hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta dekh rahe hai. Saal batao.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 se September 2028 ke beech pakki hone ke poore yog hain ji. Yeh rishta jaan-pehchaan ke zariye kisi acche ghar mein tay hoga. Iske liye 20 November se shukrawar ko safed mithai daan karein aur Shukra ka mantra jaapein.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 se September 2028 ke beech pakki hone ke poore yog hain ji. Yeh rishta jaan-pehchaan ke zariye kisi acche ghar mein tay hoga. Iske liye 20 November se shukrawar ko safed mithai daan karein aur Shukra ka mantra jaapein."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2027 me hi hoga ya 28?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Aur ye upay kab tak karna h?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada ummeed 2027 ke beech se hi shuru ho jayegi ji. Upay ko tab tak karein jab tak baat pakki na ho jaye. Jo rishta abhi dekh rahe hain, kya woh ghar ke paas ka hi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Zyada ummeed 2027 ke beech se hi shuru ho jayegi ji. Upay ko tab tak karein jab tak baat pakki na ho jaye. Jo rishta abhi dekh rahe hain, kya woh ghar ke paas ka hi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nandyal me hi hai.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "2027 me exact month btao.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein baat pakki hone ke sabse zyada yog hain ji, kyunki tab naya samay shuru hota hai. Baaki ka poora saal 2028 tak khula hai. Nandyal wale is rishte mein abhi baat aage kahan tak badhi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March ya April 2027 mein baat pakki hone ke sabse zyada yog hain ji, kyunki tab naya samay shuru hota hai. Baaki ka poora saal 2028 tak khula hai. Nandyal wale is rishte mein abhi baat aage kahan tak badhi hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Career ka btao, kab tak stable hoga?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career ki chinta bilkul samajh aati hai ji. Purani job kab chhodi thi, aur abhi kahan try chal raha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Career ki chinta bilkul samajh aati hai ji. Purani job kab chhodi thi, aur abhi kahan try chal raha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "6 mahine pehle.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Stable kab tak hounga?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kaam March 2027 aur September 2028 ke beech stable hoga ji. June tak thodi rukawat hai kyunki Shani ka asar hai. Aap kis field mein try kar rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kaam March 2027 aur September 2028 ke beech stable hoga ji. June tak thodi rukawat hai kyunki Shani ka asar hai. Aap kis field mein try kar rahe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Itna lamba time kyu?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Exact month btao kab job fix hogi.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein job pakki hone ka sabse bada yog hai ji. Tabhi naya samay shuru hota hai aur rukawat hategi. Kis field mein koshish hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 mein job pakki hone ka sabse bada yog hai ji. Tabhi naya samay shuru hota hai aur rukawat hategi. Kis field mein koshish hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein bahut pareshan karti hai ji. Yeh tension kis baat ko lekar sabse zyada chal rahi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein bahut pareshan karti hai ji. Yeh tension kis baat ko lekar sabse zyada chal rahi hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ki tangi hai. Kab khatam hogi?",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi sach mein bahut pareshan karti hai ji. Yeh tangi kharche badhne ki wajah se hai ya kamai rukne ki wajah se?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Paise ki tangi sach mein bahut pareshan karti hai ji. Yeh tangi kharche badhne ki wajah se hai ya kamai rukne ki wajah se?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied",
+    "sec": 300,
+    "idx": 25
+  }
+]

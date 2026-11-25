@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, wapas aane ke liye shukriya. March 2027 ke baad sab behtar hoga. Aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, wapas aane ke liye shukriya. March 2027 ke baad sab behtar hoga. Aaj kis baare mein baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein rishta pakka hoga. Partner kaafi shaant aur lamba hoga.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 mein rishta pakka hoga. Partner kaafi shaant aur lamba hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rhe h",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bilkul, yeh toh hona hi tha ji. Kundli mein arranged yog saaf hai. Known circle se hi baat banegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Bilkul, yeh toh hona hi tha ji. Kundli mein arranged yog saaf hai. Known circle se hi baat banegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Achaa. Paisa kaisa rhega?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial halat sudhar jayegi. Mangal strong hone se purana karza bhi utrega ji. Lekin 2nd house weak hone se bachat thodi dheemi rahegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad financial halat sudhar jayegi. Mangal strong hone se purana karza bhi utrega ji. Lekin 2nd house weak hone se bachat thodi dheemi rahegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya h 2nd house?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension btaiye",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "2nd house aapki savings aur family wealth hai ji. June 2027 tak ghar mein Shani ke asar se thodi tension rahegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "2nd house aapki savings aur family wealth hai ji. June 2027 tak ghar mein Shani ke asar se thodi tension rahegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Sab theek ho jayega?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, sab bilkul theek ho jayega. June 2027 ke baad tension khatam ho jayegi. 2028 mein apne ghar ka yog bhi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan ji, sab bilkul theek ho jayega. June 2027 ke baad tension khatam ho jayegi. 2028 mein apne ghar ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027-2028 mein videsh ya door jaane ka yog hai ji. Isse career mein bada badlaav aayega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027-2028 mein videsh ya door jaane ka yog hai ji. Isse career mein bada badlaav aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaniwar ko kale til daan karein. Om Sham Shanaishcharaya Namah 108 baar jaap karein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaniwar ko kale til daan karein. Om Sham Shanaishcharaya Namah 108 baar jaap karein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak asar rahega ji. Kundli mein 2028 se apne ghar ka yog bhi pakka hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 tak asar rahega ji. Kundli mein 2028 se apne ghar ka yog bhi pakka hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

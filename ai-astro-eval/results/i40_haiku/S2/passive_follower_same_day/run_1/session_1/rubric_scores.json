@@ -1,0 +1,187 @@
+{
+  "scores": {
+    "1.1": 9,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 9,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 9,
+    "3.2": 9,
+    "3.3": 7,
+    "4.2": 9,
+    "5.1": 9,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 8.18,
+  "shape": {
+    "M": 9,
+    "avg_words": 38.3,
+    "long_share": 0.89
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Achha, ghar mein tension hai, ye sunkar bura laga. Ye samajh sakti hoon ki ghar ka mahaul bhari lag raha hoga.",
+        "why": "The astrologer acknowledges the user's specific worry about home tension and validates the feeling, then asks a relevant follow-up question."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aap bata sakti hain ki 2022 ke aas-paas padhai ya college mein kuch badlav aaya tha?",
+        "why": "The questions are relevant to the user's life and chart. They are Type A (building on the reading) or Type B. No Type C questions found."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's main question is not about a specific other person (e.g., a named partner)."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki kundli mein shaadi ka yog hai, aur ye arranged match ki taraf zyada lagta hai.",
+        "why": "The reading is about the present/future, provides new information (arranged match), is specific, and is tied to the chart."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi ke liye Mar 2027 se Sep 2028 tak ka samay achha dikhta hai, aur fir Oct 2028 se Feb 2030 bhi.",
+        "why": "The astrologer provides a clear direction (time windows) for the main question (shaadi) with a reason (chart reading)."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki kundli mein mann ka grah thoda kamzor hai, isliye tension zyada lagti hai.",
+        "why": "The reading links a life experience (tension) to a chart factor (mann ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki kundli mein ye daur ab tak ka hai, aur Mar 2027 ke baad ghar ka mahaul halka hone lagta hai.",
+        "why": "The astrologer builds depth by connecting the user's feeling of not being heard to the chart's timing, adding new layers."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi ke liye Mar 2027 se Sep 2028 tak ka samay achha dikhta hai",
+        "why": "Provides a clear time window based on the chart without making promises."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Chandra ka roz ka jaap mann ko shant rakhne mein madad karega.",
+        "why": "The remedy is tied to the cause (mann ka grah/Chandra), includes how (jaap), and is meant to ease the specific problem (tension)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paise ki baat karein to abhi kamai aur kharch ka hisaab thoda tight lagta hai... Shaadi ke liye Mar 2027 se Sep 2028 tak ka samay achha dikhta hai",
+        "why": "The astrologer answers both the money and marriage questions in a logical flow."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki kundli mein ye daur ab tak ka hai, aur Mar 2027 ke baad ghar ka mahaul halka hone lagta hai.",
+        "why": "The astrologer opens a next layer regarding the home situation, tied to the user's specific struggle."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ye sunkar dukh hua ji, aisa lagna bhari hota hai. Aapki kundli mein ye daur ab tak ka hai, aur Mar 2027 ke baad ghar ka mahaul halka hone lagta hai.",
+        "why": "Every reply carries a reading or relevant question; no early close."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein ye daur ab tak ka hai, aur Mar 2027 ke baad ghar ka mahaul halka hone lagta hai.",
+        "why": "The last message provides a real reading/guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki kundli mein mann ka grah thoda kamzor hai",
+        "why": "Uses easy language and explains terms like 'mann ka grah' in a way that relates to the user's life."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Namaste ji, main Sitara hoon. Aap future ke bare mein kya jaanna chahti hain, shaadi, kaam ya paise?",
+        "why": "The user opened with 'Future' (vague trigger). The astrologer immediately asked for a topic and then provided a reading, adapting perfectly."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "reading"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      }
+    ]
+  }
+}

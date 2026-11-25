@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! Khush rahiye. Yeh aane wale saal 2027 mein aapki life mein kaafi behtar badlaav aane wale hain, tension dheere-dheere kam hogi. Bataiye ji, aaj kis baare mein baat karni hai, career, shadi ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! Khush rahiye. Yeh aane wale saal 2027 mein aapki life mein kaafi behtar badlaav aane wale hain, tension dheere-dheere kam hogi. Bataiye ji, aaj kis baare mein baat karni hai, career, shadi ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kya batane wale the?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar aapne apni marriage aur career ki chinta share ki thi ji. March 2027 ke baad halaat mein kaafi sudhaar aane lagega. Batayiye, abhi aapka dhyan padhai par hai ya job ki taiyari par?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar aapne apni marriage aur career ki chinta share ki thi ji. March 2027 ke baad halaat mein kaafi sudhaar aane lagega. Batayiye, abhi aapka dhyan padhai par hai ya job ki taiyari par?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Job ki taiyari",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka kya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye March 2027 se September 2028 ke beech ka samay sabse behtar hai ji. Yeh rishta kisi jaankare ya family ke through arranged setup mein aane ke poore yog hain. Kya family ne abhi se is baare mein sochna shuru kar diya hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ke liye March 2027 se September 2028 ke beech ka samay sabse behtar hai ji. Yeh rishta kisi jaankare ya family ke through arranged setup mein aane ke poore yog hain. Kya family ne abhi se is baare mein sochna shuru kar diya hai ji?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta dekh rahe",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh toh achhi baat hai ji, family jo rishta dekh rahi hai, woh March 2027 ke baad hi pakka hone ke yog banenge. Chart kehta hai ki woh vyakti kaafi shaant aur samajhdar honge. Kya aapko unke parivar ke baare mein kuch pata chala hai ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Yeh toh achhi baat hai ji, family jo rishta dekh rahi hai, woh March 2027 ke baad hi pakka hone ke yog banenge. Chart kehta hai ki woh vyakti kaafi shaant aur samajhdar honge. Kya aapko unke parivar ke baare mein kuch pata chala hai ji?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nhi, pta nhi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Financial stability aur paisa rukne ki chinta bhi samajh sakti hoon ji. Yeh batayiye ki paisa kahan atak raha hai ji, kharche badh rahe hain ya saving mein dikkat aa rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Financial stability aur paisa rukne ki chinta bhi samajh sakti hoon ji. Yeh batayiye ki paisa kahan atak raha hai ji, kharche badh rahe hain ya saving mein dikkat aa rahi hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Saving mein dikkat",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saving na hone ki dikkat June 2027 ke baad dheere-dheere sudharne lagegi ji. Chandra ki kamzori ki wajah se paisa rukta nahi tha, par ab aage behtari aayegi. Iske liye Monday se Om Som Somaya Namah ka jaap shuru kariye ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Saving na hone ki dikkat June 2027 ke baad dheere-dheere sudharne lagegi ji. Chandra ki kamzori ki wajah se paisa rukta nahi tha, par ab aage behtari aayegi. Iske liye Monday se Om Som Somaya Namah ka jaap shuru kariye ji."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension bohot hai",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein man ko thaka deti hai ji, par yeh sthiti early 2027 ke baad theek hone lagegi. Shani ka jo dabav ghar aur man par hai, woh hatne wala hai. Yeh tension kisi khaas baat ko lekar hai ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein man ko thaka deti hai ji, par yeh sthiti early 2027 ke baad theek hone lagegi. Shani ka jo dabav ghar aur man par hai, woh hatne wala hai. Yeh tension kisi khaas baat ko lekar hai ji?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Sabko leke",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sabhi ki fikar karna aapka swabhav hai ji, par June 2027 ke baad ghar ka mahaul theek hone lagega. Shani ka dabav hatne se yeh tension door hogi. Kya ghar mein is baat ko lekar roz behas hoti hai ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sabhi ki fikar karna aapka swabhav hai ji, par June 2027 ke baad ghar ka mahaul theek hone lagega. Shani ka dabav hatne se yeh tension door hogi. Kya ghar mein is baat ko lekar roz behas hoti hai ji?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ha roz",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Roz ki yeh behas sach mein man ko udaas kar deti hai ji, par June 2027 ke baad ghar ka mahaul poori tarah badal jayega. Bas yeh dhyaan rakhiye ki 2028 aate hi apna ghar ya alag sthan ka yog bhi ban raha hai, jo is tension ko door karega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Roz ki yeh behas sach mein man ko udaas kar deti hai ji, par June 2027 ke baad ghar ka mahaul poori tarah badal jayega. Bas yeh dhyaan rakhiye ki 2028 aate hi apna ghar ya alag sthan ka yog bhi ban raha hai, jo is tension ko door karega."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

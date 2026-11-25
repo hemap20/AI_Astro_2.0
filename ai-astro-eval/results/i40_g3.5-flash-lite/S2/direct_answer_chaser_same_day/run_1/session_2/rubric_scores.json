@@ -1,0 +1,249 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 3,
+    "1.4": 4,
+    "2.1": 4,
+    "2.2": 6,
+    "2.3": 3,
+    "2.4": 1,
+    "2.5": 4,
+    "2.6": null,
+    "2.7": 4,
+    "3.1": 4,
+    "3.2": 7,
+    "3.3": 4,
+    "4.2": 6,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 4.62,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.9,
+    "long_share": 0.56
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Namaste ji. Pichli baar humne aapki shaadi aur career ke baare mein baat ki thi",
+        "why": "The astrologer acknowledges the previous chat, but does not address the user's current specific worry or feeling in the first message after the user's question."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Kya saal 2022 mein aapki padhai ya college life mein koi bada badlaav aaya tha?",
+        "why": "The astrologer asks multiple questions that are Type B (generic) and repetitive in nature, and the user's answers are not effectively used to build the reading."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya aapke parivaar wale is rishte ko pehle se jaante hain?",
+        "why": "The astrologer asks about the relationship but does not ask for specific details like name or birth date to perform a synastry reading, treating it as a generic question."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Shaadi ke yog March 2027 ke baad ban rahe hain.",
+        "why": "The reading is about the future, not the present, and lacks specific, verifiable markers."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Haan ji, yeh rishta pakka hone ke poore yog hain.",
+        "why": "The user had to repeat the question multiple times before getting a direct answer."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": "kismat ka grah anukool hai",
+        "why": "The astrologer uses vague terms like 'kismat ka grah' without explaining what they mean in the context of the user's life."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 1,
+        "quote": "kismat ka grah anukool hai",
+        "why": "The astrologer repeats the same vague phrase 'kismat ka grah anukool hai' across multiple readings without adding depth."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 4,
+        "quote": "March se September 2027 ke beech shaadi pakki ho sakti hai.",
+        "why": "The astrologer gives a window but it is very far in the future and lacks a concrete basis."
+      },
+      "2.6": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No remedy or practical advice was given."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Ab career aur paise ka batao.",
+        "why": "The astrologer answers the new question but the previous thread about the marriage proposal was not fully resolved or connected."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "",
+        "why": "No further layer is opened; the astrologer just repeats the same generic advice."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "",
+        "why": "No closing message was sent, and the astrologer kept the conversation going."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya aapko finance ya teaching mein interest hai?",
+        "why": "The last message is a question that the user did not have time to fully explore or act upon."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "kismat ka grah anukool hai",
+        "why": "The language is somewhat formal and repetitive, and the terms used are not explained in a way that fits the user's context."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "reading"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "question"
+      },
+      {
+        "idx": 22,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "question"
+      },
+      {
+        "idx": 24,
+        "type": "both"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

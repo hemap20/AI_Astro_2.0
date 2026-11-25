@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! Main Sitara hoon. Agle kuch samay mein tumhari life ki rukawatien door hone ke yog ban rahe hain. Aaj batao, kya pareshan kar raha hai tumhe? Career, shaadi ya ghar ki baatein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! Main Sitara hoon. Agle kuch samay mein tumhari life ki rukawatien door hone ke yog ban rahe hain. Aaj batao, kya pareshan kar raha hai tumhe? Career, shaadi ya ghar ki baatein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 ke beech mehnat bohot lagi aur paise ki tangi rahi, hai na? Shaadi ke liye ghar wale baat kar rahe hain ya tum khud chinta mein ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 ke beech mehnat bohot lagi aur paise ki tangi rahi, hai na? Shaadi ke liye ghar wale baat kar rahe hain ya tum khud chinta mein ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale dekh rhe h. Ek rishta aaya h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta aana achha sanket hai, par rishton ka grah abhi thoda dab gaya hai, isliye jaldi baazi mat karna. Waise, ye rishta jaan-pehchan walo se hi hai na? Ek khaas baat hai, tumhare hone wale saathi ka ek pehlu hai jo shuru mein samajh nahi aayega, use pehchanna zaroori hai. Kya unhone apni life aur career ke baare mein khul kar bataya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta aana achha sanket hai, par rishton ka grah abhi thoda dab gaya hai, isliye jaldi baazi mat karna. Waise, ye rishta jaan-pehchan walo se hi hai na? Ek khaas baat hai, tumhare hone wale saathi ka ek pehlu hai jo shuru mein samajh nahi aayega, use pehchanna zaroori hai. Kya unhone apni life aur career ke baare mein khul kar bataya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya baat h?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah thoda kamzor hai, isliye unka swabhav shuru mein thoda chupa-chupa aur gambhir lag sakta hai. Ye grahon ka khel hai, tumhari galti nahi. Kya tumne unse milkar koi baat ki hai abhi tak?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishton ka grah thoda kamzor hai, isliye unka swabhav shuru mein thoda chupa-chupa aur gambhir lag sakta hai. Ye grahon ka khel hai, tumhari galti nahi. Kya tumne unse milkar koi baat ki hai abhi tak?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi mili abhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jab milna, wo kaafi shant honge. Shukra grah ke liye har Shukravar 'Om Shum Shukraya Namah' ka jaap shuru karo. Waise, kya unke ghar walo ne koi shart rakhi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Jab milna, wo kaafi shant honge. Shukra grah ke liye har Shukravar 'Om Shum Shukraya Namah' ka jaap shuru karo. Waise, kya unke ghar walo ne koi shart rakhi hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur paisa, dono ka connection ek hi kamzor grah se hai. March 2027 se halat badlegi, tab tak Monday ko 'Om Som Somaya Namah' japo. Paisa kab se rukna band hua?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi aur paisa, dono ka connection ek hi kamzor grah se hai. March 2027 se halat badlegi, tab tak Monday ko 'Om Som Somaya Namah' japo. Paisa kab se rukna band hua?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bht tension h",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka jhagda aur paisa na tikna, dono ek grah ke dabav se hai. Mangalvar se Hanuman Chalisa shuru karo. Ghar mein ek khaas jagah hai, kya wahan tumne kabhi dhyaan diya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ka jhagda aur paisa na tikna, dono ek grah ke dabav se hai. Mangalvar se Hanuman Chalisa shuru karo. Ghar mein ek khaas jagah hai, kya wahan tumne kabhi dhyaan diya hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Konsi jagah",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka uttar-purvi kona, wahan 'Surya' grah ka dabav hai, isliye paisa aur respect dono par asar padta hai. Wahan safai rakho. Ghar mein sabse zyada jhagda kis baat pe hota hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ka uttar-purvi kona, wahan 'Surya' grah ka dabav hai, isliye paisa aur respect dono par asar padta hai. Wahan safai rakho. Ghar mein sabse zyada jhagda kis baat pe hota hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ko leke",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur ghar ka jhagda, dono ek hi grah ke dabav se hai. Usi samay ke aas-paas sab badal jayega jo maine bataya tha. Ghar mein kaun hai jo is baat ko sabse zyada kheench raha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi aur ghar ka jhagda, dono ek hi grah ke dabav se hai. Usi samay ke aas-paas sab badal jayega jo maine bataya tha. Ghar mein kaun hai jo is baat ko sabse zyada kheench raha hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Mummy",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy ki chinta unke swabhav se hai, wo bas tumhari suraksha chahti hain. Shaadi se pehle ek aisa mod aayega jahan unki rai badal sakti hai. Kya wo tumhari baat sunne ko taiyaar hoti hain?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Mummy ki chinta unke swabhav se hai, wo bas tumhari suraksha chahti hain. Shaadi se pehle ek aisa mod aayega jahan unki rai badal sakti hai. Kya wo tumhari baat sunne ko taiyaar hoti hain?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 300,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 24
+  }
+]

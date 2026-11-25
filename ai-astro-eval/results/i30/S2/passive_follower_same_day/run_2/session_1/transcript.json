@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Zindagi mein aage kya hone wala hai, ye janne ke liye batao ki tumhara dhyan abhi career par hai ya family aur shaadi ki baaton par?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Zindagi mein aage kya hone wala hai, ye janne ke liye batao ki tumhara dhyan abhi career par hai ya family aur shaadi ki baaton par?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech pakka hai. Rishton ka grah thoda dab gaya hai, isliye deri lag sakti hai. Kya ghar par rishte ki baat chali hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech pakka hai. Rishton ka grah thoda dab gaya hai, isliye deri lag sakti hai. Kya ghar par rishte ki baat chali hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha chal rhi hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rishta jankaron ke beech se aane ke yog hain, aur hone wala partner shant aur samajhdaar hoga. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai; kya tumne use pehchana?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ye rishta jankaron ke beech se aane ke yog hain, aur hone wala partner shant aur samajhdaar hoga. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai; kya tumne use pehchana?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kaunsa",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rishta purane kisi jan-pehchan wale se jud sakta hai, par rishton ka grah kamzor hone se abhi sab kuch dhundhla hai. Kya wo insaan tumhe pehle se jaanta hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ye rishta purane kisi jan-pehchan wale se jud sakta hai, par rishton ka grah kamzor hone se abhi sab kuch dhundhla hai. Kya wo insaan tumhe pehle se jaanta hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ka ghar kamzor hai, isliye bachat mein dikkatein aati hain. March 2027 se karz ghatne lagega aur sthiti behtar hogi. Abhi tum kya kaam ya naukri kar rahe ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ka ghar kamzor hai, isliye bachat mein dikkatein aati hain. March 2027 se karz ghatne lagega aur sthiti behtar hogi. Abhi tum kya kaam ya naukri kar rahe ho?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Student hu",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein tension h",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension karm ke grah ki nazar se hai, jo mann par bojh dal raha hai. Ye mid-2027 tak rahega. Kya tumne Hanuman Chalisa ka path shuru kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension karm ke grah ki nazar se hai, jo mann par bojh dal raha hai. Ye mid-2027 tak rahega. Kya tumne Hanuman Chalisa ka path shuru kiya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kya karna hoga",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Himmat aur gussa ke grah ke liye 24 Nov se Hanuman Chalisa shuru karo, isse ghar ki tension kam hogi. Study desk par Hanuman-ji ki tasveer rakhna madad karega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Himmat aur gussa ke grah ke liye 24 Nov se Hanuman Chalisa shuru karo, isse ghar ki tension kam hogi. Study desk par Hanuman-ji ki tasveer rakhna madad karega."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi hai. Shaadi ka samay saaf hai. Partner ka nature aur jodi kaisi rahegi, wo bhi kundli mein dikh raha hai, agli baar hum uspar detail mein baat karenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sahi hai. Shaadi ka samay saaf hai. Partner ka nature aur jodi kaisi rahegi, wo bhi kundli mein dikh raha hai, agli baar hum uspar detail mein baat karenge."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhare hone wale partner lambe, shant aur padhe-likhe honge. Wo thode guarded rahenge par dil ke saaf honge. Agli baar jab baat karenge, tab hum unke saath tumhari compatibility samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Tumhare hone wale partner lambe, shant aur padhe-likhe honge. Wo thode guarded rahenge par dil ke saaf honge. Agli baar jab baat karenge, tab hum unke saath tumhari compatibility samjhenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

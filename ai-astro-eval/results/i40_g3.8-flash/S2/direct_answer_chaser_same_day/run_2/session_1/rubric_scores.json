@@ -1,0 +1,243 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 6,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.17,
+  "shape": {
+    "M": 8,
+    "avg_words": 36.9,
+    "long_share": 0.75
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Namaste ji. Main aapki kundali dekh sakti hoon. Aap future mein career ke baare mein jaanna chahte hain ya shaadi ke?",
+        "why": "The user said 'Future', which is vague. The astrologer acknowledges the request but offers a choice rather than reading the chart immediately, which is a standard greeting/clarification."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2022 ke aaspas aapki padhai ya college mein koi bada badlav aaya tha?",
+        "why": "The question is Type A (builds on the reading/chart), and there are no Type C questions."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya yeh rishta kisi jaan-pehchan ke zariye aaya hai?",
+        "why": "The astrologer asks about the relationship source with a reason (contextualizing the reading), and does not ask for birth details of the partner."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ke dabne se thodi deri hoti hai, par kundali mein ek khaas baat bhi dikh rahi hai.",
+        "why": "The reading is about the present/future, specific, and tied to chart reasons (grah)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ka accha yog March 2027 se September 2028 ke beech ban raha hai.",
+        "why": "Provides a clear direction and time window before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah ke dabne se thodi deri hoti hai",
+        "why": "Links a life situation (delay in marriage) to a chart factor (rishton ke grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Khaas baat yeh hai ki aapke jeevansathi lambe, shant aur bohot padhe-likhe honge.",
+        "why": "Adds a new point about the partner's nature, which is new and uses the context of the marriage question."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Saal 2027 mein March aur April ke mahine sabse acche dikh rahe hain ji.",
+        "why": "Provides a clear window (March-April 2027) based on the chart, with no promise or certainty."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah ki mazbooti ke liye 20 November se safed mithai daan kijiye.",
+        "why": "Provides a remedy tied to the cause (rishton ke grah) with a specific time (20 Nov) and action."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mann ke grah par dabav June 2027 ke baad kam hoga, tabhi ghar ka mahaul poori tarah shaant dikhta hai.",
+        "why": "Answers the marriage, money, and family tension questions in order, connecting the timeline."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Khaas baat yeh hai ki aapke jeevansathi lambe, shant aur bohot padhe-likhe honge.",
+        "why": "Opens a specific further layer about the partner's nature."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mann ke grah par dabav June 2027 ke baad kam hoga, tabhi ghar ka mahaul poori tarah shaant dikhta hai.",
+        "why": "No closing message, every reply carries a reading or question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mann ke grah par dabav June 2027 ke baad kam hoga, tabhi ghar ka mahaul poori tarah shaant dikhta hai.",
+        "why": "The last message provides a concrete reading/guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ke dabne se thodi deri hoti hai",
+        "why": "Uses everyday language (grah) and no formal/bookish sentences."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Namaste ji. Main aapki kundali dekh sakti hoon. Aap future mein career ke baare mein jaanna chahte hain ya shaadi ke?",
+        "why": "The user was vague ('Future'). The astrologer asked a clarifying question rather than reading the chart immediately, which is a soft approach but not a direct reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "question"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      }
+    ]
+  }
+}

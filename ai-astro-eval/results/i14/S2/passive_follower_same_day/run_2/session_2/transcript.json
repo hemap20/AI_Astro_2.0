@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Bahut accha laga aapka aana. Kahiye, aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Bahut accha laga aapka aana. Kahiye, aaj kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar aapne shaadi ki chinta batayi thi ji. March 2027 ke baad rishta pakka hone ka yog hai. Safed mithai ka niyam shuru kiya kya ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar aapne shaadi ki chinta batayi thi ji. March 2027 ke baad rishta pakka hone ka yog hai. Safed mithai ka niyam shuru kiya kya ji?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur kharche ki baat hai ji. Kharcha zyada ho raha hai ya kamai mein dikkat aa rahi hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paisa aur kharche ki baat hai ji. Kharcha zyada ho raha hai ya kamai mein dikkat aa rahi hai ji?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Dono",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rhe",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi 2028 tak dheere-dheere sudhar jayegi ji. Ketu ke asar se karza chukne lagega. Koi naya kaam shuru karne ka socha hai kya ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki tangi 2028 tak dheere-dheere sudhar jayegi ji. Ketu ke asar se karza chukne lagega. Koi naya kaam shuru karne ka socha hai kya ji?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki choti anban mid-2027 tak theek ho jayegi ji. Mangal ke asar se ghar mein thoda gussa aur tanaav rehta hai. Yeh jhagde aamtaur par kis baat par shuru hote hain ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki choti anban mid-2027 tak theek ho jayegi ji. Mangal ke asar se ghar mein thoda gussa aur tanaav rehta hai. Yeh jhagde aamtaur par kis baat par shuru hote hain ji?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, sab theek hoga. 24 November se Hanuman Chalisa padhna shuru kariye, ghar ka tanaav kam hoga. Koi rishta abhi tak aage badha hai kya ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Koi baat nahi ji, sab theek hoga. 24 November se Hanuman Chalisa padhna shuru kariye, ghar ka tanaav kam hoga. Koi rishta abhi tak aage badha hai kya ji?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta chal rha h",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta dheere-dheere aage badhega aur mid-2027 tak baat ban sakti hai ji. Jaane-pehchane circle se hi yeh rishta aane ka yog hai. Abhi unki taraf se kya response hai ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh rishta dheere-dheere aage badhega aur mid-2027 tak baat ban sakti hai ji. Jaane-pehchane circle se hi yeh rishta aane ka yog hai. Abhi unki taraf se kya response hai ji?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Baat ho rhi",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat chal rahi hai toh mid-2027 tak rishta pakka hone ka poora yog hai ji. Jisse baat ho rahi hai, unka nature thoda shant aur samajhdar lagta hai. Unse amne-samne milna hua hai ya abhi phone par hi baat ho rahi hai ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Baat chal rahi hai toh mid-2027 tak rishta pakka hone ka poora yog hai ji. Jisse baat ho rahi hai, unka nature thoda shant aur samajhdar lagta hai. Unse amne-samne milna hua hai ya abhi phone par hi baat ho rahi hai ji?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi hui abhi",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Phone par baat chal rahi hai toh thoda dhiraj rakhiye ji. March 2027 ke baad jab agla samay aayega, tab amne-samne milne aur rishta pakka hone ka rasta khulega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Phone par baat chal rahi hai toh thoda dhiraj rakhiye ji. March 2027 ke baad jab agla samay aayega, tab amne-samne milne aur rishta pakka hone ka rasta khulega."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

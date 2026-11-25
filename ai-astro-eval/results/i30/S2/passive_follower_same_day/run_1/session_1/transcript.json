@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, batao kya chal raha hai? Zindagi ke kis pehlu ke baare mein jaanna hai, jaise career, shaadi ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, batao kya chal raha hai? Zindagi ke kis pehlu ke baare mein jaanna hai, jaise career, shaadi ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027 se banta dikh raha hai. Rishton ka grah abhi thoda kamzor hai, isliye thoda samay lagega. Kya ghar par abhi rishte ki koi baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027 se banta dikh raha hai. Rishton ka grah abhi thoda kamzor hai, isliye thoda samay lagega. Kya ghar par abhi rishte ki koi baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta dekh rhe.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Achha hai. 2023 se 2025 tak tumne bahut mehnat ki par paise ki tangi rahi, hai na? Ye rishta jahan dekh rahe hain, kya wo jaan-pehchan ke hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Achha hai. 2023 se 2025 tak tumne bahut mehnat ki par paise ki tangi rahi, hai na? Ye rishta jahan dekh rahe hain, kya wo jaan-pehchan ke hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bhut tangi thi.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke hisab se rishta jaan-pehchan mein hi hoga. Partner shant aur samajhdar honge, par ek pehlu hai jo shaadi se pehle samajhna zaroori hai. Kya tumne unse abhi baat ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli ke hisab se rishta jaan-pehchan mein hi hoga. Partner shant aur samajhdar honge, par ek pehlu hai jo shaadi se pehle samajhna zaroori hai. Kya tumne unse abhi baat ki hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner ka swabhav thoda reserved ho sakta hai, unhe samajhne mein waqt lagega. Paise ki tangi 2027 ki shuruat se kam hogi, jab career mein mauke milenge. Abhi tum kya kaam kar rahe ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Partner ka swabhav thoda reserved ho sakta hai, unhe samajhne mein waqt lagega. Paise ki tangi 2027 ki shuruat se kam hogi, jab career mein mauke milenge. Abhi tum kya kaam kar rahe ho?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job dhund rhi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi naukri ke liye agle saal March ke baad ka waqt behtar hai. Ghar ki tension himmat aur kaam ke grah ki wajah se hai, jo abhi thode bhaari hain. Hanuman Chalisa roz padho, man shant rahega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Nayi naukri ke liye agle saal March ke baad ka waqt behtar hai. Ghar ki tension himmat aur kaam ke grah ki wajah se hai, jo abhi thode bhaari hain. Hanuman Chalisa roz padho, man shant rahega."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Tension kab thik hogi?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension February 2027 ke baad kam hone lagegi. Himmat aur kaam ke grah ka bhaari asar tab hat jayega. Career ki nayi raahon par hum agli baar baat karenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension February 2027 ke baad kam hone lagegi. Himmat aur kaam ke grah ka bhaari asar tab hat jayega. Career ki nayi raahon par hum agli baar baat karenge."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab theek hoga, bas thoda dhairya rakho. Shaadi ke liye aane wale partner ka nature aur aapki compatibility kundli mein saaf hai. Agli baar uspar vistar se baat karenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sab theek hoga, bas thoda dhairya rakho. Shaadi ke liye aane wale partner ka nature aur aapki compatibility kundli mein saaf hai. Agli baar uspar vistar se baat karenge."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab theek hoga, bas dhairya rakho. Shaadi mein partner ka nature aur jodi kaisi rahegi, wo kundli mein dikh raha hai. Agli baar uspar vistar se baat karenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sab theek hoga, bas dhairya rakho. Shaadi mein partner ka nature aur jodi kaisi rahegi, wo kundli mein dikh raha hai. Agli baar uspar vistar se baat karenge."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai. Jab bhi mann mein sawal ho, message kar lena. Apna khayal rakhna.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Theek hai. Jab bhi mann mein sawal ho, message kar lena. Apna khayal rakhna."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 24
+  }
+]

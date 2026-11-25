@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 8,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.76,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.0,
+    "long_share": 0.56
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pichli baar humne aapki shaadi ke rishte aur job ki tension par baat ki thi.",
+        "why": "The astrologer acknowledges the previous conversation details."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Jo rishta abhi chal raha hai, usme baat aage badhi kya?",
+        "why": "Half of the questions are Type A, building on user input."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya unke baare mein ghar par koi baat chal rahi hai?",
+        "why": "Asks about the relationship context with a reason."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech ban raha hai.",
+        "why": "It is about the future, not the present, and lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech ban raha hai.",
+        "why": "Provides a clear direction and time window."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Abhi doosre ghar mein kamzor dasha ki wajah se paisa ruk nahi paata.",
+        "why": "Provides two linked readings with chart reasons in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar ke jhagde aur tanaav June 2027 ke baad shaant honge. Mehnat ke grah ka asar kamzor padega.",
+        "why": "Later readings are new and use user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech",
+        "why": "Provides a consistent time window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah ko mazboot karne ke liye Shukrawar se safed mithai daan kijiye.",
+        "why": "Remedy is tied to the cause (rishton ke grah)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Salary aur kamai mein bharpuri March 2027 se banti dikh rahi hai.",
+        "why": "Answers all questions including parked ones."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ek ahem baat aapke aane wale partner ke nature se judi bhi dikh rahi hai.",
+        "why": "Opens a specific further layer about the partner."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishta jaan-pehchaan ke zariye hi judta dikh raha hai ji.",
+        "why": "No early close, every reply carries value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Abhi recharge karke baat aage badhaiye.",
+        "why": "The last message is a pitch/close, not a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi doosre ghar mein kamzor dasha ki wajah se paisa ruk nahi paata.",
+        "why": "Uses easy language with no unexplained technical terms."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger found."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      }
+    ]
+  }
+}

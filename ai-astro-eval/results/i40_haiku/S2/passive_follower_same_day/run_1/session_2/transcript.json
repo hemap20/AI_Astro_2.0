@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Aap kaise hain? Batayiye, aapke mann mein kya chal raha hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Aap kaise hain? Batayiye, aapke mann mein kya chal raha hai."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichli baar shaadi ki baat aur ghar mein thoda tanav par baat hui thi. Aapne Chandra ka chanting shuru kiya tha, kya woh chal raha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, pichli baar shaadi ki baat aur ghar mein thoda tanav par baat hui thi. Aapne Chandra ka chanting shuru kiya tha, kya woh chal raha hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rahe ghar wale",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, rishta dekhna shuru ho gaya hai, yeh sunkar achha laga. Pakka bataiye, pichli baar Nov 2022 ke aaspas aapki padhai ya college mein badlav aaya tha? Us samay se kya kuch badla tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, rishta dekhna shuru ho gaya hai, yeh sunkar achha laga. Pakka bataiye, pichli baar Nov 2022 ke aaspas aapki padhai ya college mein badlav aaya tha? Us samay se kya kuch badla tha?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Course change hua tha",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, course change hona Nov 2022 ke aaspas hi hua, yeh confirm karne ke liye shukriya. Rishte ki baat par, mujhe lagta hai shaadi ka yog arranged tarike se bana hai. Mar 2027 ke baad ka samay aapke liye achha dikhta hai, ghar mein bhi thoda sukoon aayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, course change hona Nov 2022 ke aaspas hi hua, yeh confirm karne ke liye shukriya. Rishte ki baat par, mujhe lagta hai shaadi ka yog arranged tarike se bana hai. Mar 2027 ke baad ka samay aapke liye achha dikhta hai, ghar mein bhi thoda sukoon aayega."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bht tension hai",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ka tanav sunkar dukh hua. Yeh phase Mar 2027 ke baad halka hota dikhta hai. Abhi ghar mein sabse zyada kis baat par jhagda hota hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, ghar ka tanav sunkar dukh hua. Yeh phase Mar 2027 ke baad halka hota dikhta hai. Abhi ghar mein sabse zyada kis baat par jhagda hota hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Rishte ko leke",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, rishte ki baat par ghar mein jhagda hona aam hai, lekin aap akeli mat samjhiye. Shukra ka grah rishton ka hai aur uski kamzori ki wajah se ye baat thodi khinchti hai. Jab aap ghar mein sabse zyada kisse baat karti hain, woh koi bharosemand insaan hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, rishte ki baat par ghar mein jhagda hona aam hai, lekin aap akeli mat samjhiye. Shukra ka grah rishton ka hai aur uski kamzori ki wajah se ye baat thodi khinchti hai. Jab aap ghar mein sabse zyada kisse baat karti hain, woh koi bharosemand insaan hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Mummy se",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k bhi tension hai",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, mummy se baat karna achha hai, unka saath aapke liye bada sahara hoga. Paise ki tension bhi sunkar samajh aaya, aapki kamai ka hisaab Mangal ke daur se judta hai. Aapko kis cheez mein sabse zyada paisa kharch hota hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, mummy se baat karna achha hai, unka saath aapke liye bada sahara hoga. Paise ki tension bhi sunkar samajh aaya, aapki kamai ka hisaab Mangal ke daur se judta hai. Aapko kis cheez mein sabse zyada paisa kharch hota hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, paisa aksar aise hi chupchap nikal jata hai. Aapki kundli mein 2H kamzor hai, isliye kamai ruk-ruk kar aati hai. Pehle naukri pakki kijiye, business baad mein sochiye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi, paisa aksar aise hi chupchap nikal jata hai. Aapki kundli mein 2H kamzor hai, isliye kamai ruk-ruk kar aati hai. Pehle naukri pakki kijiye, business baad mein sochiye."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai 2H",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, 2H matlab kundli ka dusra ghar, jo kamai aur jama paise ko dekhta hai. Yeh kamzor hone se paisa thoda thik-thik rukta hai. Kya aap bata sakti hain ki Nov 2022 mein course badalne ke baad padhai mein kya naya hua?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, 2H matlab kundli ka dusra ghar, jo kamai aur jama paise ko dekhta hai. Yeh kamzor hone se paisa thoda thik-thik rukta hai. Kya aap bata sakti hain ki Nov 2022 mein course badalne ke baad padhai mein kya naya hua?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 270,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Zyada kuch nhi hua",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 26
+  }
+]

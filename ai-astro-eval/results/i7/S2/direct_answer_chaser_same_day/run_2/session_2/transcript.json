@@ -1,0 +1,172 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aaj kya janna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aaj kya janna chahte hain?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 aur September 2028 ke beech mein ho sakti hai ji. Shani ke aane se ab yeh rasta khul raha hai. Rishta kisi jaane-maane circle se hi aane ka yog hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 aur September 2028 ke beech mein ho sakti hai ji. Shani ke aane se ab yeh rasta khul raha hai. Rishta kisi jaane-maane circle se hi aane ka yog hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kaunse mahine mein confirm hai?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact mahina batana mushkil hai ji. March 2027 se shuruwat hogi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Exact mahina batana mushkil hai ji. March 2027 se shuruwat hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Matlab 2027 me confirm hai?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rahe hain, ek baat chal rahi hai, kya wahi final hoga?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, March 2027 ke baad baat pakki hone ka poora yog hai. Guru aur Budh ki vajah se rishta kisi apne circle se hi aayega ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan ji, March 2027 ke baad baat pakki hone ka poora yog hai. Guru aur Budh ki vajah se rishta kisi apne circle se hi aayega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Jo abhi chal raha hai, wahi final hai?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yeh baat pakki ho sakti hai. Guru aur Budh ka asar yahi dikhata hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, yeh baat pakki ho sakti hai. Guru aur Budh ka asar yahi dikhata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Career aur paisa kab tak stable hoga?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech career aur paisa stable honge ji. Guru 10th house mein strong hone se yeh badlav aayega. Is dauran teaching ya tech field mein bada mauka mil sakta hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech career aur paisa stable honge ji. Guru 10th house mein strong hone se yeh badlav aayega. Is dauran teaching ya tech field mein bada mauka mil sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya 10th house?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kab tak fix hoga?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad pakki shuruwat hogi ji. Shani ka transit 10th house se hat jayega tab. Is dauran videsh jane ka yog bhi ban raha hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad pakki shuruwat hogi ji. Shani ka transit 10th house se hat jayega tab. Is dauran videsh jane ka yog bhi ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad tension kam hogi ji. Ketu aur Mangal ki sthiti badlegi tab.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad tension kam hogi ji. Ketu aur Mangal ki sthiti badlegi tab.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 22
+  }
+]

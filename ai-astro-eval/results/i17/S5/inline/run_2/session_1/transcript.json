@@ -1,0 +1,206 @@
+[
+  {
+    "role": "USER",
+    "text": "Love life",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Love life ke baare mein baat karte hain. Yeh sab kab se chal raha hai, aur ghar pe kisi ko pata hai kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Love life ke baare mein baat karte hain. Yeh sab kab se chal raha hai, aur ghar pe kisi ko pata hai kya?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Abhi toh koi nhi hai.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Hindi me batao please.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad rishta aane lagega, baat jaan-pehchaan se hi banegi. Shuruat mein thoda delay zaroor rahega. Kya ghar wale abhi se rishte dekh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad rishta aane lagega, baat jaan-pehchaan se hi banegi. Shuruat mein thoda delay zaroor rahega. Kya ghar wale abhi se rishte dekh rahe hain?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haath ki photo kaise bheju?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Hindi me nhi ho skti?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haath ki photo ki zaroorat nahi hai, kundli se hi sab pata chal jata hai. Hone wala partner kaafi shaant, padhe-likhe aur warm nature ke honge. Kya tumhein lagta hai ki arranged rishta tumhare liye sahi rahega?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haath ki photo ki zaroorat nahi hai, kundli se hi sab pata chal jata hai. Hone wala partner kaafi shaant, padhe-likhe aur warm nature ke honge. Kya tumhein lagta hai ki arranged rishta tumhare liye sahi rahega?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Shayad.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat pakki hone se pehle ek aisa rishta aayega jise dhyan se dekhna padega, warna confusion ho sakti hai. Iske liye Friday se Om Shum Shukraya Namah ka jaap shuru karo. Kya tumne pehle kabhi aisi koi baat sochi thi?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shaadi ki baat pakki hone se pehle ek aisa rishta aayega jise dhyan se dekhna padega, warna confusion ho sakti hai. Iske liye Friday se Om Shum Shukraya Namah ka jaap shuru karo. Kya tumne pehle kabhi aisi koi baat sochi thi?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Parents bht ladte paiso ko leke.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Father ki shop bnd ho gyi last year.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension mat lo, ye waqt thoda mushkil hai. Papa ka kaam kab se band hai, aur is sab se tumhare upar kitna asar pad raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Tension mat lo, ye waqt thoda mushkil hai. Papa ka kaam kab se band hai, aur is sab se tumhare upar kitna asar pad raha hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Me mere parents ke liye unlucky hu?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Mere hone se sirf dikkat dikh rahi hai.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari galti bilkul nahi hai, ye sirf ek mushkil daur hai jo aage chal kar theek ho jayega. Kya ghar pe is baare mein zyada tension rehti hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tumhari galti bilkul nahi hai, ye sirf ek mushkil daur hai jo aage chal kar theek ho jayega. Kya ghar pe is baare mein zyada tension rehti hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Roz ladai hoti hai.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise aur ghar ke jhagde ek hi wajah se hain, jo March 2027 ke baad badlenge. Tuesday se Hanuman Chalisa padhna shuru karo. Kya tum abhi padhai kar rahi ho ya koi kaam?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise aur ghar ke jhagde ek hi wajah se hain, jo March 2027 ke baad badlenge. Tuesday se Hanuman Chalisa padhna shuru karo. Kya tum abhi padhai kar rahi ho ya koi kaam?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ladka hu. Kaam dhoond raha hu.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Acha, sorry mujhe pehle idea nahi tha. Job March 2027 ke baad pakki lag jayegi, tab tak thoda sabr rakho. 2027 mein ek mauka aisa aayega jo sab set kar dega. Kis field mein dhoond rahe ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Acha, sorry mujhe pehle idea nahi tha. Job March 2027 ke baad pakki lag jayegi, tab tak thoda sabr rakho. 2027 mein ek mauka aisa aayega jo sab set kar dega. Kis field mein dhoond rahe ho?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Sales. Hindi me bolo na.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales ke liye waqt achha hai, yeh field tumhare liye theek rahegi. March 2027 ke baad job pakki lagne ke poore yog hain.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sales ke liye waqt achha hai, yeh field tumhare liye theek rahegi. March 2027 ke baad job pakki lagne ke poore yog hain."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Theek hai. Main ja raha hu.",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai, apna khyal rakhna. March 2027 ke aas-paas job ka naya rasta khulega, use miss mat karna. Phir milenge!",
+    "sec": 285,
+    "raw_response": {
+      "message": "Theek hai, apna khyal rakhna. March 2027 ke aas-paas job ka naya rasta khulega, use miss mat karna. Phir milenge!"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok, bye.",
+    "sec": 300,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai, apna khyal rakhna. March 2027 ka wo mahina dhyan rakhna jab asli turning point aayega. Bye!",
+    "sec": 315,
+    "raw_response": {
+      "message": "Theek hai, apna khyal rakhna. March 2027 ka wo mahina dhyan rakhna jab asli turning point aayega. Bye!"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Bye.",
+    "sec": 330,
+    "idx": 26
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai, apna khyal rakhna. March 2027 ka wo mahina dhyan rakhna jab job aur ghar ka mahaul dono badal jayenge. Phir milenge!",
+    "sec": 345,
+    "raw_response": {
+      "message": "Theek hai, apna khyal rakhna. March 2027 ka wo mahina dhyan rakhna jab job aur ghar ka mahaul dono badal jayenge. Phir milenge!"
+    },
+    "idx": 27
+  }
+]

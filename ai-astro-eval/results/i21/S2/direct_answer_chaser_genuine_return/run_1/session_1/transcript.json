@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein career aur paise ke mamle mein naya rasta khulne wala hai, halat dheere-dheere sudhregi. Batao, abhi sabse zyada tension kis baat ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "2027 mein career aur paise ke mamle mein naya rasta khulne wala hai, halat dheere-dheere sudhregi. Batao, abhi sabse zyada tension kis baat ki hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 ke beech mehnat bohot karni padi thi aur paise bhi tight rahe the, hai na? Aur abhi shaadi ko lekar ghar pe koi baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 ke beech mehnat bohot karni padi thi aur paise bhi tight rahe the, hai na? Aur abhi shaadi ko lekar ghar pe koi baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta dekh rahe hain ghar wale.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak hogi shaadi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech shaadi pakki ho sakti hai, rishta jaan-pehchaan se hi aayega. Ladka calm aur thoda serious nature ka hoga. Par ek baat hai jo rishte se pehle jaan lena bohot zaroori hai. Tumhe kaise partner ki umeed hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech shaadi pakki ho sakti hai, rishta jaan-pehchaan se hi aayega. Ladka calm aur thoda serious nature ka hoga. Par ek baat hai jo rishte se pehle jaan lena bohot zaroori hai. Tumhe kaise partner ki umeed hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok, 2027 mein kaun se mahine mein?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March aur April 2027 ke beech baat pakki hone ke chances sabse zyada hain, baaki window toh aage bhi khuli hai. Ghar wale jo rishta dekh rahe hain, waha abhi kya baat chal rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March aur April 2027 ke beech baat pakki hone ke chances sabse zyada hain, baaki window toh aage bhi khuli hai. Ghar wale jo rishta dekh rahe hain, waha abhi kya baat chal rahi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab kam hogi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka yeh dabav aur tension dheere-dheere khatam hone lagegi. Ek chhota sa kaam karo, Saturday ko thode kale til daan karna shuru kar do, mann ko bohot shanti milegi. Ek aur baat hai, shaadi ke baad in-laws ki taraf se ek cheez par strictness aa sakti hai... kya unhone pehle se koi baat boli hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka yeh dabav aur tension dheere-dheere khatam hone lagegi. Ek chhota sa kaam karo, Saturday ko thode kale til daan karna shuru kar do, mann ko bohot shanti milegi. Ek aur baat hai, shaadi ke baad in-laws ki taraf se ek cheez par strictness aa sakti hai... kya unhone pehle se koi baat boli hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, kuch nahi bola.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Job mein salary hike kab hogi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye job kitne time se chal rahi hai, aur salary ko lekar abhi kya problem aa rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye job kitne time se chal rahi hai, aur salary ko lekar abhi kya problem aa rahi hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "1 saal se.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Salary hike kab hogi?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad salary hike ke pakke yog hain. Office mein ek aisi situation aayegi jo aage ki growth tay karegi. Tum kis field mein kaam kar rahi ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad salary hike ke pakke yog hain. Office mein ek aisi situation aayegi jo aage ki growth tay karegi. Tum kis field mein kaam kar rahi ho?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Software.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "June mein exact date?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact din toh nahi, par June 2027 ke shuru mein hi hike ke chances sabse strong hain jab career ka dabav hatega. Kya office mein is baare mein pehle baat hui hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Exact din toh nahi, par June 2027 ke shuru mein hi hike ke chances sabse strong hain jab career ka dabav hatega. Kya office mein is baare mein pehle baat hui hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  }
+]

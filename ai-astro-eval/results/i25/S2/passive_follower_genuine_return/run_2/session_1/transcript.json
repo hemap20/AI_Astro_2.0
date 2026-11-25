@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello, main Sitara. Agle 2 saal tumhari life mein bade badlav layenge, career aur personal life dono mein tezi dikh rahi hai. Sabse zyada tension kis baare mein hai—career, shaadi ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello, main Sitara. Agle 2 saal tumhari life mein bade badlav layenge, career aur personal life dono mein tezi dikh rahi hai. Sabse zyada tension kis baare mein hai—career, shaadi ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 tak tumne skills aur mehnat bohot ki, par paise ki tangi rahi na? March 2027 se shaadi ke yog ban rahe hain, rishta jaan-pehchaan se aayega. Ghar wale rishte dekh rahe hain kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 tak tumne skills aur mehnat bohot ki, par paise ki tangi rahi na? March 2027 se shaadi ke yog ban rahe hain, rishta jaan-pehchaan se aayega. Ghar wale rishte dekh rahe hain kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo partner milega wo kaafi samajhdaar aur shant hoga. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai, warna galat jagah baat chal sakti hai. Abhi koi baat aayi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Jo partner milega wo kaafi samajhdaar aur shant hoga. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai, warna galat jagah baat chal sakti hai. Abhi koi baat aayi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta h",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah kamzor hai, isliye clarity nahi hai. Har Friday 'Om Shum Shukraya Namah' ka jaap karo, baat bane. Kya ghar wale us rishte ko lekar zyada interested hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishton ka grah kamzor hai, isliye clarity nahi hai. Har Friday 'Om Shum Shukraya Namah' ka jaap karo, baat bane. Kya ghar wale us rishte ko lekar zyada interested hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan. Paisa kaisa rahega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa rukne ka aur shaadi ki chinta ka karan ek hi hai: dhan ka 2nd ghar aur mann ka grah dono kamzor hain, isliye paisa haath se nikal jata hai. Monday ka fast rakho, isse mann aur paisa dono sambhalenge. Kya tum abhi savings kar pa rahe ho ya kharche badh gaye hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa rukne ka aur shaadi ki chinta ka karan ek hi hai: dhan ka 2nd ghar aur mann ka grah dono kamzor hain, isliye paisa haath se nikal jata hai. Monday ka fast rakho, isse mann aur paisa dono sambhalenge. Kya tum abhi savings kar pa rahe ho ya kharche badh gaye hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kharche zyada h",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension h",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche aur ghar ka dabav 11th ghar ke malik ki wajah se hai, abhi bas samay dheema hai. Roz Hanuman Chalisa padho, rahat milegi. Kya ghar mein kisi bade se tension hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kharche aur ghar ka dabav 11th ghar ke malik ki wajah se hai, abhi bas samay dheema hai. Roz Hanuman Chalisa padho, rahat milegi. Kya ghar mein kisi bade se tension hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur shaadi ki deri, 8th ghar ke grah ke dabav se hain. Is grah ke chalte ek decision lene mein tum galti kar rahe ho. Kya ghar wale tumhari baat samajh nahi pa rahe?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension aur shaadi ki deri, 8th ghar ke grah ke dabav se hain. Is grah ke chalte ek decision lene mein tum galti kar rahe ho. Kya ghar wale tumhari baat samajh nahi pa rahe?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi samajhte",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ghar ki tension 8th ghar (family stress) ke dabav se hai. Saturday ko 'Om Sham Shanaishcharaya Namah' jaap karo, rahat milegi. Kya ghar wale tumhari career ki baaton ko bhi nazar-andaz karte hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye ghar ki tension 8th ghar (family stress) ke dabav se hai. Saturday ko 'Om Sham Shanaishcharaya Namah' jaap karo, rahat milegi. Kya ghar wale tumhari career ki baaton ko bhi nazar-andaz karte hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career 10th ghar ki wajah se abhi dheema hai, June 2027 tak ruk jao. 2027 mein ek decision tumhari job bana ya 2 saal peeche kar sakta hai. Kya job change sochi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Career 10th ghar ki wajah se abhi dheema hai, June 2027 tak ruk jao. 2027 mein ek decision tumhari job bana ya 2 saal peeche kar sakta hai. Kya job change sochi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 19
+  }
+]

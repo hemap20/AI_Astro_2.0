@@ -1,0 +1,203 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar se hai",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur is ladke ki baat hai ji. Yeh rishta ghar walon ne dekha hai ya aapki khud ki pehchaan hai ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi aur is ladke ki baat hai ji. Yeh rishta ghar walon ne dekha hai ya aapki khud ki pehchaan hai ji?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar walon ki taraf se yeh rishta March 2027 se September 2028 ke beech tay hone ka yog hai ji. Guru ka asar bata raha hai ki baat aage badhegi. Ladka lamba, shaant aur padha-likha lagta hai, kya unka nature aisa hi hai ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ghar walon ki taraf se yeh rishta March 2027 se September 2028 ke beech tay hone ka yog hai ji. Guru ka asar bata raha hai ki baat aage badhegi. Ladka lamba, shaant aur padha-likha lagta hai, kya unka nature aisa hi hai ji?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Woh gusse wale hai",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Do baar mili hu m",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa unka thoda intense ho sakta hai ji, chart mein yeh dikhta hai. Iske liye aap Tuesday se Hanuman Chalisa shuru kariye ji. Kya ghar wale is baare mein jaante hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Gussa unka thoda intense ho sakta hai ji, chart mein yeh dikhta hai. Iske liye aap Tuesday se Hanuman Chalisa shuru kariye ji. Kya ghar wale is baare mein jaante hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar walon ko nahi pata toh baat sambhal kar badhani hogi ji. Unke ghar wale thode traditional aur reserved swabhaav ke hain ji. Aapko khud ko yeh rishta andar se kaisa lag raha hai ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar walon ko nahi pata toh baat sambhal kar badhani hogi ji. Unke ghar wale thode traditional aur reserved swabhaav ke hain ji. Aapko khud ko yeh rishta andar se kaisa lag raha hai ji?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao kaisa rahega",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta aage chal kar theek rahega ji, bas shuru mein thoda adjust karna padega. Shukra ki kamzori ki wajah se bhavnaon ko sambhalna zaroori hai ji. Kya unse aage ki baatein aaram se ho paati hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishta aage chal kar theek rahega ji, bas shuru mein thoda adjust karna padega. Shukra ki kamzori ki wajah se bhavnaon ko sambhalna zaroori hai ji. Kya unse aage ki baatein aaram se ho paati hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi 2027 ke beech mein hi tay hogi ji, kyunki yeh jaan-pehchaan se judaa arranged rishta hai. Tab tak aap is baare mein kya sochti hain ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi 2027 ke beech mein hi tay hogi ji, kyunki yeh jaan-pehchaan se judaa arranged rishta hai. Tab tak aap is baare mein kya sochti hain ji?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nhi",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dil mein confusion hona aam baat hai ji. Shani ke asar se yeh samay thoda dheera chal raha hai ji. Kya unse abhi baat hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Dil mein confusion hona aam baat hai ji. Shani ke asar se yeh samay thoda dheera chal raha hai ji. Kya unse abhi baat hoti hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khtm ho rha h",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghabraiye mat ji, March 2027 ke baad hi baat pakki hogi. Ghar walo ke traditional hone se thoda waqt lag raha hai. Sab accha hoga ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghabraiye mat ji, March 2027 ke baad hi baat pakki hogi. Ghar walo ke traditional hone se thoda waqt lag raha hai. Sab accha hoga ji."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji, October 2028 ke baad jab naya samay aayega tab rishte aur in-laws ki taraf se saari baatein aur bhi clear ho jayengi. Aap apna dhyan rakhiye ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Theek hai ji, October 2028 ke baad jab naya samay aayega tab rishte aur in-laws ki taraf se saari baatein aur bhi clear ho jayengi. Aap apna dhyan rakhiye ji."
+    },
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 28
+  }
+]

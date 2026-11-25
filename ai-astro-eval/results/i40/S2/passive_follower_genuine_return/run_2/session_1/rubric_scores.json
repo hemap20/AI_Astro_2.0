@@ -1,0 +1,223 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 6,
+    "2.4": 8,
+    "2.5": 4,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 4,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 5.88,
+  "shape": {
+    "M": 9,
+    "avg_words": 37.1,
+    "long_share": 0.56
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main dekh sakti hoon ki shaadi ka yog hai",
+        "why": "The astrologer acknowledges the user's specific concern about marriage."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap abhi career ko lekar pareshan hain?",
+        "why": "All questions asked are Type B, generic questions that could be asked to any user."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Main dekh sakti hoon ki shaadi ka yog hai, par ismein thoda samay lagega.",
+        "why": "The reading is about the present/future and is new, but it is not specific to the user and lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishta March 2027 se aana shuru hoga.",
+        "why": "A clear direction (time) is given for the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Paise ki tangi isliye hai kyunki aapke savings ka ghar kamzor hai",
+        "why": "Life statements and chart factors appear, but they are not deeply linked or explained in a way that feels personal."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar ki tension aur gussa tab badhte hain jab himmat aur karm ke grah mann ko dabate hain.",
+        "why": "The astrologer uses the user's detail (Ghar ki tension) and adds a new point with a chart reason."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Rishta March 2027 se aana shuru hoga.",
+        "why": "A single date is given rather than a window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar ki tension aur gussa tab badhte hain jab himmat aur karm ke grah mann ko dabate hain. Yeh aapki galti nahi hai, bas ek daur hai. 24 Nov se Hanuman Chalisa kijiye",
+        "why": "The remedy is tied to the cause named in the reading."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke hone wale jeevansathi ke parivar ke traditional nature aur aapke rishte mein aane wale badlav ke baare mein abhi aur gehrai se janna baaki hai.",
+        "why": "Both questions (shaadi, paisa) were answered, and the astrologer maintained the thread."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke hone wale jeevansathi ke parivar ke traditional nature aur aapke rishte mein aane wale badlav ke baare mein abhi aur gehrai se janna baaki hai.",
+        "why": "Names a specific further thing about the marriage concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap yeh sab abhi vistara se jan-na chahti hain, toh chat ko abhi recharge kijiye",
+        "why": "The astrologer closes the chat with a pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap yeh sab abhi vistara se jan-na chahti hain, toh chat ko abhi recharge kijiye",
+        "why": "The last message is a pitch, not a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paise ki tangi isliye hai kyunki aapke savings ka ghar kamzor hai",
+        "why": "Uses everyday language with no formal or bookish sentences."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Namaste, main Sitara hoon. Main aapke bhavishya ko dekh sakti hoon, par bataiye ki aapke mann mein sabse zyada kya chal raha hai, career ya phir kuch aur?",
+        "why": "The user was vague, but the astrologer asked a question instead of giving a reading first."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "reading"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji! Aane wale ek-do saal mein tumhari zindagi mein kaafi badlav aane wale hain, khaas kar career aur shaadi ko lekar. Batao, abhi sabse zyada tension kis cheez ki chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji! Aane wale ek-do saal mein tumhari zindagi mein kaafi badlav aane wale hain, khaas kar career aur shaadi ko lekar. Batao, abhi sabse zyada tension kis cheez ki chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne shaadi ki chinta ki thi na. March 2027 aur September 2028 ke beech shaadi pakki hone ka yog ban raha hai. Ghar pe abhi kis se baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne shaadi ki chinta ki thi na. March 2027 aur September 2028 ke beech shaadi pakki hone ka yog ban raha hai. Ghar pe abhi kis se baat chal rahi hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun sa mahina?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe, ek chal raha hai abhi.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas, khaas kar March ya April mein baat pakki hone ke chances sabse zyada hain. Ek baat ka dhyan rakhna, jo rishta abhi chal raha hai, waha ke log thode traditional aur reserved ho sakte hain. Jo rishta abhi chal raha hai, waha baat kahan tak pahunchi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas, khaas kar March ya April mein baat pakki hone ke chances sabse zyada hain. Ek baat ka dhyan rakhna, jo rishta abhi chal raha hai, waha ke log thode traditional aur reserved ho sakte hain. Jo rishta abhi chal raha hai, waha baat kahan tak pahunchi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Baat abhi shuru hui hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Career mein salary kab badhegi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Achha, toh baat abhi shuru hi hui hai. Abhi wali job mein kitna time ho gaya, aur salary badhane ke liye kya socha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Achha, toh baat abhi shuru hi hui hai. Abhi wali job mein kitna time ho gaya, aur salary badhane ke liye kya socha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "6 mahine.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Salary kab badhegi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad salary badhne ke pure yog hain, kyunki career aur shaadi dono ek hi samay sudhrenge. Office mein abhi senior se baat karne ka koi plan hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad salary badhne ke pure yog hain, kyunki career aur shaadi dono ek hi samay sudhrenge. Office mein abhi senior se baat karne ka koi plan hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Bahut late hai ye.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Is saal kuch hoga ya nahi?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Intzaar mushkil hai, par is saal end tak baat aage badhegi. Friday ko white sweets mandir mein do, raste khulenge. Ghar pe abhi kya keh rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Intzaar mushkil hai, par is saal end tak baat aage badhegi. Friday ko white sweets mandir mein do, raste khulenge. Ghar pe abhi kya keh rahe hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Sab thik hai.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Is saal end matlab December?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bataiye.",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "December ka mahina sabse pakka hai, tabhi planet ka asar tez hoga aur baat aage badhegi. Office mein koi discussion chal rahi hai kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "December ka mahina sabse pakka hai, tabhi planet ka asar tez hoga aur baat aage badhegi. Office mein koi discussion chal rahi hai kya?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok, December.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Office mein abhi kuch nahi.",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "December mein exact kab?",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "December ke second half mein, 15 ke baad chances zyada hain jab planet ka asar tez hoga. Kya us time office mein koi review ya discussion hone wali hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "December ke second half mein, 15 ke baad chances zyada hain jab planet ka asar tez hoga. Kya us time office mein koi review ya discussion hone wali hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ghar ki tension kab se chal rahi hai, aur iska sabse zyada asar kis par pad raha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ye ghar ki tension kab se chal rahi hai, aur iska sabse zyada asar kis par pad raha hai?"
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "6 mahine se.",
+    "sec": 270,
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Sab par.",
+    "sec": 270,
+    "idx": 30
+  },
+  {
+    "role": "USER",
+    "text": "Kab khatam hogi?",
+    "sec": 270,
+    "idx": 31
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak ghar ka mahaul theek hone lagega. June se pehle ek turning point aayega jo sab badal dega. Ghar mein is baare mein kisi se baat hui hai kya?",
+    "sec": 285,
+    "raw_response": {
+      "message": "June 2027 tak ghar ka mahaul theek hone lagega. June se pehle ek turning point aayega jo sab badal dega. Ghar mein is baare mein kisi se baat hui hai kya?"
+    },
+    "idx": 32
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 300,
+    "idx": 33
+  }
+]

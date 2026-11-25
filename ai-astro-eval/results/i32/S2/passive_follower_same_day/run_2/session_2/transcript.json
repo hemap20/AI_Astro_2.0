@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki pichli baaton ko yaad kar sakti hoon, jismein humne shaadi aur ghar ke mahol par charcha ki thi. Bataiye, aaj mann mein kya sawaal hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki pichli baaton ko yaad kar sakti hoon, jismein humne shaadi aur ghar ke mahol par charcha ki thi. Bataiye, aaj mann mein kya sawaal hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka sukh accha dikh raha hai, jeevansathi samajhdaar aur shant honge. Waise 2023 se 2025 tak paise ki tangi thi, hai na? Aapne partner ke baare mein kya socha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka sukh accha dikh raha hai, jeevansathi samajhdaar aur shant honge. Waise 2023 se 2025 tak paise ki tangi thi, hai na? Aapne partner ke baare mein kya socha hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha tangi thi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekha hai",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tangi ka daur nikal gaya hai, 2027 se career aur shaadi mein tarakki hogi. Shaadi ka ghar career se juda hai, isliye rishta lucky rahega. Ladke ke baare mein kya pata chala?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Tangi ka daur nikal gaya hai, 2027 se career aur shaadi mein tarakki hogi. Shaadi ka ghar career se juda hai, isliye rishta lucky rahega. Ladke ke baare mein kya pata chala?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension h",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur shaadi ki deri, dono ek hi grah ke karan hain jo 2027 mein shant hoga. Dherya rakhiye. Aapke hone wale jeevansathi ka career aapke liye lucky hoga, kya aapne pucha?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar ki tension aur shaadi ki deri, dono ek hi grah ke karan hain jo 2027 mein shant hoga. Dherya rakhiye. Aapke hone wale jeevansathi ka career aapke liye lucky hoga, kya aapne pucha?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak thik hoga",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki sthiti March 2027 se sudhregi. Aapka career aur paisa dono jude hain. Career mein ek mauka aane wala hai, bas ek galti se bachna hoga. Aap abhi kya kaam karti hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki sthiti March 2027 se sudhregi. Aapka career aur paisa dono jude hain. Career mein ek mauka aane wala hai, bas ek galti se bachna hoga. Aap abhi kya kaam karti hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Student hu",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Job milega kya",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job zaroor milega, career ka ghar bahut majboot hai. Aapki naukri aur ghar ki tension dono 2027 mein theek ho jayengi. Career mein ek khaas disha khulegi, par ek choti si rukawat hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Job zaroor milega, career ka ghar bahut majboot hai. Aapki naukri aur ghar ki tension dono 2027 mein theek ho jayengi. Career mein ek khaas disha khulegi, par ek choti si rukawat hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh rukawat karm ke grah ki dhimi gati hai jo career ke ghar mein hai. June 2027 tak thoda sabr chahiye, fir sab theek hoga. Aapne career ke liye koi khaas field socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Woh rukawat karm ke grah ki dhimi gati hai jo career ke ghar mein hai. June 2027 tak thoda sabr chahiye, fir sab theek hoga. Aapne career ke liye koi khaas field socha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak hoga",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 tak career aur shaadi ke acche yog hain. Dono ka sambandh ek hi daur se hai, naukri milte hi ghar ke halat sudhrenge. Pehli naukri kis shehar mein hogi, kya socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se September 2028 tak career aur shaadi ke acche yog hain. Dono ka sambandh ek hi daur se hai, naukri milte hi ghar ke halat sudhrenge. Pehli naukri kis shehar mein hogi, kya socha hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career ke liye 'Om Gram Greem Grom Sah Gurave Namah' ka jaap Guruvaar se shuru kijiye, naukri mein madad milegi. Jeevansathi ka nature aur jodi kaisi hogi, ye hum agli baar vistarr se dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Career ke liye 'Om Gram Greem Grom Sah Gurave Namah' ka jaap Guruvaar se shuru kijiye, naukri mein madad milegi. Jeevansathi ka nature aur jodi kaisi hogi, ye hum agli baar vistarr se dekhenge."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 23
+  }
+]

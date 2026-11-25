@@ -1,0 +1,131 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke baad tumhara waqt kafi behtar hone wala hai aur career mein naye raste khulenge. Batao, abhi sabse zyada tension kis cheez ko lekar hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "2027 ke baad tumhara waqt kafi behtar hone wala hai aur career mein naye raste khulenge. Batao, abhi sabse zyada tension kis cheez ko lekar hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "2027 bahut dur hai. Shaadi kb hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, rishta jaan-pehchaan se aane ke chance hain. Ghar pe is baare mein abhi koi baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, rishta jaan-pehchaan se aane ke chance hain. Ghar pe is baare mein abhi koi baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Haan, abhi ek rishta chal rha hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paison ki baat hai toh ye batao, abhi job ya kisi aur zariye se income aa rahi hai ya bilkul ruk gayi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paison ki baat hai toh ye batao, abhi job ya kisi aur zariye se income aa rahi hai ya bilkul ruk gayi hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Job nhi hai. Paisa kb aayega?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech naya kaam aur paisa aane lagenge. Tab tak Thursday ko chana dal daan kiya karo, sab theek hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech naya kaam aur paisa aane lagenge. Tab tak Thursday ko chana dal daan kiya karo, sab theek hoga."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month se start hoga?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein hi, khaas kar March ya April ke dauran kaam milne ke poore asar hain. Baaki poora saal aage aur bhi raste khulenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein hi, khaas kar March ya April ke dauran kaam milne ke poore asar hain. Baaki poora saal aage aur bhi raste khulenge."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kb khatam hogi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki baat mein sabka alag alag sochna rehta hai. Ye tension kab se shuru hui hai aur kis baat ko lekar hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki baat mein sabka alag alag sochna rehta hai. Ye tension kab se shuru hui hai aur kis baat ko lekar hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Bahut time se hai.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Date batao kb khatam hogi.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka mahaul theek hone lagega aur yeh tension kam ho jayegi. Saturday ko kale til daan kiya karo, rahat milegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka mahaul theek hone lagega aur yeh tension kam ho jayegi. Saturday ko kale til daan kiya karo, rahat milegi."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 17
+  }
+]

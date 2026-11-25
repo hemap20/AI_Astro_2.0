@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale ek do saal mein life mein stability aani shuru ho jayegi ji, pichle samay ki pareshani ab dheere dheere kam hogi. Aapko kis area ki sabse zyada chinta hai ji, career, family ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aane wale ek do saal mein life mein stability aani shuru ho jayegi ji, pichle samay ki pareshani ab dheere dheere kam hogi. Aapko kis area ki sabse zyada chinta hai ji, career, family ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka khayal aana bahut natural hai ji. Kya family abhi rishte dekh rahi hai, ya aapka apna koi vichaar hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka khayal aana bahut natural hai ji. Kya family abhi rishte dekh rahi hai, ya aapka apna koi vichaar hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ke acche yog ban rahe hain ji. Shukra ki sthiti thodi kamzor hone ki wajah se baatein thoda samay leti hain, par arranged raste se baat banegi. Kya yeh rishte aapke jaan-pehchan ke circle se hain ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ke acche yog ban rahe hain ji. Shukra ki sthiti thodi kamzor hone ki wajah se baatein thoda samay leti hain, par arranged raste se baat banegi. Kya yeh rishte aapke jaan-pehchan ke circle se hain ji?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha jaan pehchan",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paison ko lekar fikar hona bilkul aam baat hai ji. Aapko paisa kahan atak raha lagta hai, kharche mein ya kamai mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paison ko lekar fikar hona bilkul aam baat hai ji. Aapko paisa kahan atak raha lagta hai, kharche mein ya kamai mein?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein thaka deti hai ji, par June 2027 ke baad yeh dabav hatne se halat sudhrenge. Chandra kamzor hone se paisa tikta nahi hai. Is tension ko kam karne ke liye har Somvaar Om Somaya Namah ka jaap karein ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein thaka deti hai ji, par June 2027 ke baad yeh dabav hatne se halat sudhrenge. Chandra kamzor hone se paisa tikta nahi hai. Is tension ko kam karne ke liye har Somvaar Om Somaya Namah ka jaap karein ji."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ya career ko lekar bhi 2027 ke shuru mein halat behtar hone lagenge ji. Shani ka dabav hatne se aage raste khulenge. Kya abhi aap kahin kaam kar rahe hain ya padhai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Job ya career ko lekar bhi 2027 ke shuru mein halat behtar hone lagenge ji. Shani ka dabav hatne se aage raste khulenge. Kya abhi aap kahin kaam kar rahe hain ya padhai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kar rhi hu",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad padhai ke baad career mein step lene ke acche yog hain ji. Guru ki majboot sthiti se sahi direction milegi. Kya aap aage higher studies chahti hain ya job?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad padhai ke baad career mein step lene ke acche yog hain ji. Guru ki majboot sthiti se sahi direction milegi. Kya aap aage higher studies chahti hain ya job?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Job",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ke liye teaching, finance ya communication ke fields aapke liye sabse behtar rahenge ji. Budh aur Guru ki sthiti se inmein achi tarakki milegi. 2027 ke baad desh se dur ya bahar jane ka yog bhi ban raha hai ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Job ke liye teaching, finance ya communication ke fields aapke liye sabse behtar rahenge ji. Budh aur Guru ki sthiti se inmein achi tarakki milegi. 2027 ke baad desh se dur ya bahar jane ka yog bhi ban raha hai ji."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Sab thik ho jayega na",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, sab bilkul theek ho jayega, yeh mushkil daur sirf ek samay hai jo nikal jayega. Chart mein yehi dikhta hai ki halat badlenge. Bas June 2027 ke baad ka samay dhyan se dekhna, wahi se asli rahat aayegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Haan ji, sab bilkul theek ho jayega, yeh mushkil daur sirf ek samay hai jo nikal jayega. Chart mein yehi dikhta hai ki halat badlenge. Bas June 2027 ke baad ka samay dhyan se dekhna, wahi se asli rahat aayegi."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

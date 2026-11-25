@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji. 2027 ka saal tumhare liye kaafi relief lekar aa raha hai, dheere dheere cheezein theek hongi. Batao, abhi sabse zyada tension kis baat ki chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji. 2027 ka saal tumhare liye kaafi relief lekar aa raha hai, dheere dheere cheezein theek hongi. Batao, abhi sabse zyada tension kis baat ki chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Meri shaadi kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne shaadi aur paise ki baat ki thi na. March 2027 se September 2028 ke beech shaadi pakki lag rahi hai, rishta jaan-pehchaan se aayega. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne shaadi aur paise ki baat ki thi na. March 2027 se September 2028 ke beech shaadi pakki lag rahi hai, rishta jaan-pehchaan se aayega. Ghar pe abhi kisi rishte ki baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta aaya hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Par kaunse mahine mein final hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-2027 mein baat pakki ho sakti hai. Unka nature calm aur educated hoga, par ek guarded side bhi hai. Kya unke ghar wale traditional hain ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Mid-2027 mein baat pakki ho sakti hai. Unka nature calm aur educated hoga, par ek guarded side bhi hai. Kya unke ghar wale traditional hain ji?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Mid-2027 matlab kaunsa mahine exact?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ya July 2027 mein baat pakki hone ke sabse zyada chance hain. Friday se Om Shum Shukraya Namah ka 108 baar jaap shuru karo, isse raste aasan honge. Par ek baat ka dhyan rakhna, June ke aas-paas ek chhoti si galatfahmi ho sakti hai. Kya abhi is rishte ko lekar ghar mein sab raazi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "June ya July 2027 mein baat pakki hone ke sabse zyada chance hain. Friday se Om Shum Shukraya Namah ka 108 baar jaap shuru karo, isse raste aasan honge. Par ek baat ka dhyan rakhna, June ke aas-paas ek chhoti si galatfahmi ho sakti hai. Kya abhi is rishte ko lekar ghar mein sab raazi hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Haan, sab raazi hain.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paise ki tangi dheere-dheere door hone lagegi, kyunki tab se kamai ke raste behtar honge. Abhi kharcha kahan zyada ho raha hai ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad paise ki tangi dheere-dheere door hone lagegi, kyunki tab se kamai ke raste behtar honge. Abhi kharcha kahan zyada ho raha hai ji?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ke kaam mein.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi aur ghar ke jhagde, dono ka ek hi reason hai: Mangal ka asar. March 2027 ke baad yeh sab khatam hone lagega. Tuesday ko Hanuman Chalisa padhte ho kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paise ki tangi aur ghar ke jhagde, dono ka ek hi reason hai: Mangal ka asar. March 2027 ke baad yeh sab khatam hone lagega. Tuesday ko Hanuman Chalisa padhte ho kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 se pehle kuch relief nahi?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Feb 2027 ke baad halat sudharni shuru ho jayengi. Tuesday se Hanuman Chalisa padhna shuru karo, mann ka bojh kam hoga. Kya raat ko neend theek se nahi aati aajkal?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Feb 2027 ke baad halat sudharni shuru ho jayengi. Tuesday se Hanuman Chalisa padhna shuru karo, mann ka bojh kam hoga. Kya raat ko neend theek se nahi aati aajkal?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi aati.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Feb 2027 final?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Feb 2027 se badlav shuru ho jayega, par June 2027 tak poori rahat milegi. Monday ko Om Som Somaya Namah jaap karo. Din mein thakaan rehti hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Feb 2027 se badlav shuru ho jayega, par June 2027 tak poori rahat milegi. Monday ko Om Som Somaya Namah jaap karo. Din mein thakaan rehti hai kya?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok, samajh gayi.",
+    "sec": 240,
+    "idx": 22
+  }
+]

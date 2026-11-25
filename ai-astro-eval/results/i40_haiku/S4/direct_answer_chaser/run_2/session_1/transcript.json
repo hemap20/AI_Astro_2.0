@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Yeh rishta mere liye sahi hai ya nahi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, rishte ka sahi hona aap dono ki kundli milan aur ghar ki soch par bhi tikta hai. Aapki kundli mein Shukra rishton ka grah hai aur abhi kamzor hai, isliye jaldbaazi na karein. Kya aap bata sakti hain ki ye rishta kisi jaan-pehchan wale ke through aaya hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Ji, rishte ka sahi hona aap dono ki kundli milan aur ghar ki soch par bhi tikta hai. Aapki kundli mein Shukra rishton ka grah hai aur abhi kamzor hai, isliye jaldbaazi na karein. Kya aap bata sakti hain ki ye rishta kisi jaan-pehchan wale ke through aaya hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi ye batao.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, seedha kahun to is rishte ke bare mein abhi pakki haan nahi nahi keh sakti, kyunki mere paas sirf unki DOB aur Bihar ki jaankari hai, unki kundli nahi. Aapki kundli mein shaadi ka time Oct 2028 se Feb 2030 ke beech majboot dikhta hai. Kya aapki shaadi ki baat abhi pehli baar uthi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, seedha kahun to is rishte ke bare mein abhi pakki haan nahi nahi keh sakti, kyunki mere paas sirf unki DOB aur Bihar ki jaankari hai, unki kundli nahi. Aapki kundli mein shaadi ka time Oct 2028 se Feb 2030 ke beech majboot dikhta hai. Kya aapki shaadi ki baat abhi pehli baar uthi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Maine pucha ladka sahi hai ya nahi.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ye batao pehle.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapka sawal samajh rahi hoon. Ladke ki kundli ke bina main uske swabhav ke bare mein pakka nahi keh sakti. Aapki kundli mein shaadi ka sahi samay Oct 2028 se Feb 2030 ke beech dikhta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, aapka sawal samajh rahi hoon. Ladke ki kundli ke bina main uske swabhav ke bare mein pakka nahi keh sakti. Aapki kundli mein shaadi ka sahi samay Oct 2028 se Feb 2030 ke beech dikhta hai."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, wo mere liye sahi hai ya nahi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Wo thoda gussa krte hain, ye sahi hai?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, seedha kahun to kundli mile bina main ye pakka nahi keh sakti ki wo aapke liye sahi hai. Gussa aapki kundli mein Mangal ka grah dikhata hai, jo himmat aur kamai ka grah hai. Kya aap bata sakti hain ki aapko unka gussa kab se mehsoos ho raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, seedha kahun to kundli mile bina main ye pakka nahi keh sakti ki wo aapke liye sahi hai. Gussa aapki kundli mein Mangal ka grah dikhata hai, jo himmat aur kamai ka grah hai. Kya aap bata sakti hain ki aapko unka gussa kab se mehsoos ho raha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Rishta sahi hai ya nahi?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein batao.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, seedha jawab: is rishte ko abhi haan ya na nahi keh sakti, kyunki ladke ki kundli mere paas nahi hai. Aapki apni kundli mein shaadi ka majboot samay Oct 2028 se Feb 2030 ke beech dikhta hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, seedha jawab: is rishte ko abhi haan ya na nahi keh sakti, kyunki ladke ki kundli mere paas nahi hai. Aapki apni kundli mein shaadi ka majboot samay Oct 2028 se Feb 2030 ke beech dikhta hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Oct 2028-2030 theek hai.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Par wo ladka mere liye sahi hai ya nahi?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na.",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, seedha haan ya na mein kahun to abhi is rishte ko pakka haan nahi keh sakti, kyunki ladke ki kundli mere paas nahi hai. Aapki kundli mein Shukra rishton ka grah hai aur abhi kamzor hai, isliye sochkar hi aage badhiye. Kya aap confirm kar sakti hain ki aapki shaadi ki baat pehli baar Nov 2026 mein hi uthi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, seedha haan ya na mein kahun to abhi is rishte ko pakka haan nahi keh sakti, kyunki ladke ki kundli mere paas nahi hai. Aapki kundli mein Shukra rishton ka grah hai aur abhi kamzor hai, isliye sochkar hi aage badhiye. Kya aap confirm kar sakti hain ki aapki shaadi ki baat pehli baar Nov 2026 mein hi uthi hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 180,
+    "idx": 21
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka sawal samajh gayi. Aapki shaadi ka sahi samay dekhne ke liye pehle ek baat confirm kijiye: kya aap abhi tak unmarried hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka sawal samajh gayi. Aapki shaadi ka sahi samay dekhne ke liye pehle ek baat confirm kijiye: kya aap abhi tak unmarried hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ji, unmarried",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, theek hai. Aapki shaadi ke liye Mar 2027 se Sep 2028 ke beech ka samay achha dikh raha hai. Aapki kundli mein Guru 2022 se kaam aur soch badalne ka sanket deta hai, kya aap confirm kar sakti hain ki Nov 2022 se padhai ya college mein badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, theek hai. Aapki shaadi ke liye Mar 2027 se Sep 2028 ke beech ka samay achha dikh raha hai. Aapki kundli mein Guru 2022 se kaam aur soch badalne ka sanket deta hai, kya aap confirm kar sakti hain ki Nov 2022 se padhai ya college mein badlaav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapke liye yeh rishta sahi ho sakta hai, kyunki aapki kundli mein partner calm, padha-likha aur garam swabhav ka dikhta hai. Ladke ki kundli mila kar hi pakka kahna theek rahega. Aapke liye kaun si baat sabse zyada maayne rakhti hai, ghar ka mahaul ya ladke ki nature?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, aapke liye yeh rishta sahi ho sakta hai, kyunki aapki kundli mein partner calm, padha-likha aur garam swabhav ka dikhta hai. Ladke ki kundli mila kar hi pakka kahna theek rahega. Aapke liye kaun si baat sabse zyada maayne rakhti hai, ghar ka mahaul ya ladke ki nature?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha short tempered h",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Mene dekha h",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapne sahi dekha. Aapki kundli mein Mangal, jo himmat aur gussa dikhata hai, ka asar ghar aur rishton par padta hai. Kya aapko yeh gussa pehle se dikhta tha, ya ladke ke saath baat karte waqt dikha?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, aapne sahi dekha. Aapki kundli mein Mangal, jo himmat aur gussa dikhata hai, ka asar ghar aur rishton par padta hai. Kya aapko yeh gussa pehle se dikhta tha, ya ladke ke saath baat karte waqt dikha?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Baat krte waqt",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, baat karte waqt gussa dikhna aapke liye ek ishara ho sakta hai. Kundli mein Mangal ki nazar aapke Chandra par hai, isliye gussa jaldi aata hai. Kya aapko lagta hai ki ladka ghar waalon ke saamne bhi aise hi baat karta hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, baat karte waqt gussa dikhna aapke liye ek ishara ho sakta hai. Kundli mein Mangal ki nazar aapke Chandra par hai, isliye gussa jaldi aata hai. Kya aapko lagta hai ki ladka ghar waalon ke saamne bhi aise hi baat karta hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, shaadi ki sabse achhi khidki Mar 2027 se Sep 2028 ke beech dikhti hai, kyunki tab Shani ka daur shuru hota hai. Aapke rishte mein Shukra kamzor hai, isliye pehle samay thoda lag sakta hai. Kya aap confirm kar sakti hain ki aapka Chandra ka daur Nov 2022 se shuru hua tha?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, shaadi ki sabse achhi khidki Mar 2027 se Sep 2028 ke beech dikhti hai, kyunki tab Shani ka daur shuru hota hai. Aapke rishte mein Shukra kamzor hai, isliye pehle samay thoda lag sakta hai. Kya aap confirm kar sakti hain ki aapka Chandra ka daur Nov 2022 se shuru hua tha?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, koi baat nahi, aap ghabraiye mat. Kundli mein Shukra kamzor hai, isliye rishte mein thoda dhairya chahiye. Abhi ek chhota kaam kijiye: subah \"Om Shum Shukraya Namah\" 108 baar bolna shuru kijiye, Shukrawar 20 Nov se.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, koi baat nahi, aap ghabraiye mat. Kundli mein Shukra kamzor hai, isliye rishte mein thoda dhairya chahiye. Abhi ek chhota kaam kijiye: subah \"Om Shum Shukraya Namah\" 108 baar bolna shuru kijiye, Shukrawar 20 Nov se."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, theek hai. Aap ghar mein ya kisi bharosemand insaan se is rishte ke baare mein baat kar paati hain? Isse aapko thoda halka lagega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, theek hai. Aap ghar mein ya kisi bharosemand insaan se is rishte ke baare mein baat kar paati hain? Isse aapko thoda halka lagega."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, koi baat nahi, sab ek saath karna zaroori nahi hai. Aap apne mann ki baat ek chhoti si shuruaat ke roop mein kisi bharosemand insaan se kijiye, isse bojh kam lagega. Kya aap batayengi ki yeh rishta aapke ghar mein kis tarah aaya hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, koi baat nahi, sab ek saath karna zaroori nahi hai. Aap apne mann ki baat ek chhoti si shuruaat ke roop mein kisi bharosemand insaan se kijiye, isse bojh kam lagega. Kya aap batayengi ki yeh rishta aapke ghar mein kis tarah aaya hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Family ne dekha",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khtam ho rha hai",
+    "sec": 270,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapki shaadi ka sawal ka jawab yeh hai ki Mar 2027 se Sep 2028 ke beech rishta pakka hone ki sambhavna achhi hai. Aapki kundli mein partner calm aur padha-likha dikhta hai, aur rishta ghar walon ki pasand se aana bhi sambhav hai. Chandra ka daur Nov 2032 tak chalega, aur uske baad mann halka lagega. Aapke ghar mein is rishte ki baat kis ko sabse zyada achhi lagi?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ji, aapki shaadi ka sawal ka jawab yeh hai ki Mar 2027 se Sep 2028 ke beech rishta pakka hone ki sambhavna achhi hai. Aapki kundli mein partner calm aur padha-likha dikhta hai, aur rishta ghar walon ki pasand se aana bhi sambhav hai. Chandra ka daur Nov 2032 tak chalega, aur uske baad mann halka lagega. Aapke ghar mein is rishte ki baat kis ko sabse zyada achhi lagi?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 26
+  }
+]

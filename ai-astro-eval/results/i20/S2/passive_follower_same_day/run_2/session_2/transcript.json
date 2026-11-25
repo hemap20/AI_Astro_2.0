@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 mein ek naya aur behtar samay shuru hone wala hai. Batao, abhi sabse zyada pareshani kis baat ki chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 mein ek naya aur behtar samay shuru hone wala hai. Batao, abhi sabse zyada pareshani kis baat ki chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai, toh yeh samajhna zaroori hai ki abhi kya chal raha hai. Ghar pe kisi ne koi rishta dekha hai ya tum khud kisi ke baare mein soch rahi ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai, toh yeh samajhna zaroori hai ki abhi kya chal raha hai. Ghar pe kisi ne koi rishta dekha hai ya tum khud kisi ke baare mein soch rahi ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan rishta chal rha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ka pakka yog lag raha hai, aur yeh rishta kisi jaan-pehchaan se hi aane ki ummeed hai. Partner kaafi calm aur padha-likha ho sakta hai. Kya yeh baat wahi se chal rahi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ka pakka yog lag raha hai, aur yeh rishta kisi jaan-pehchaan se hi aane ki ummeed hai. Partner kaafi calm aur padha-likha ho sakta hai. Kya yeh baat wahi se chal rahi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli kehti hai ki in-laws thode traditional aur reserved ho sakte hain. Par rishte ki baat aage badhane se pehle ek cheez ka dhyan rakhna padega. Kya ladke wale ghar aa chuke hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli kehti hai ki in-laws thode traditional aur reserved ho sakte hain. Par rishte ki baat aage badhane se pehle ek cheez ka dhyan rakhna padega. Kya ladke wale ghar aa chuke hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha aane wale hain",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "20 November yani Friday se Om Shum Shukraya Namah 108 baar chant karke safed mithaai daan karna shuru kar dena, isse baat pakki hone mein madad milegi. Kya unke aane ki koi date fix ho gayi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "20 November yani Friday se Om Shum Shukraya Namah 108 baar chant karke safed mithaai daan karna shuru kar dena, isse baat pakki hone mein madad milegi. Kya unke aane ki koi date fix ho gayi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, jab bhi aayein taiyar rehna. Kundli mein ek cheez aur hai jo milan ke waqt dekhna zaroori hai, warna baad mein thodi unban ho sakti hai. Kya ladke walon ke sath kundli match ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Koi baat nahi, jab bhi aayein taiyar rehna. Kundli mein ek cheez aur hai jo milan ke waqt dekhna zaroori hai, warna baad mein thodi unban ho sakti hai. Kya ladke walon ke sath kundli match ki hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paison ki tension toh sach mein bohot thaka deti hai. Yeh tangi kab se mehsus ho rahi hai, aur kya abhi khud ki kamai ka kuch soch rahe ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paison ki tension toh sach mein bohot thaka deti hai. Yeh tangi kab se mehsus ho rahi hai, aur kya abhi khud ki kamai ka kuch soch rahe ho?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kuch time se",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se paise ki tangi aur shaadi ki delay dono ek hi reason se hain. March 2027 ke baad paise ka pressure kam hoga. Par ek choti si galti se paisa rukta hai, kya khud ki kamai ka kuch socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "2023 se paise ki tangi aur shaadi ki delay dono ek hi reason se hain. March 2027 ke baad paise ka pressure kam hoga. Par ek choti si galti se paisa rukta hai, kya khud ki kamai ka kuch socha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nhi abhi. Ghar ki tension bht hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki yeh tension aur aapsi jhagde ek hi grah ki wajah se hain jo June 2027 tak asar dikha rahe hain, uske baad sab shant hoga. Ek baat hai, aane wale mahino mein ghar se juda ek bada faisla lena pad sakta hai. Kya kisi baat pe abhi sabse zyada behas ho rahi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki yeh tension aur aapsi jhagde ek hi grah ki wajah se hain jo June 2027 tak asar dikha rahe hain, uske baad sab shant hoga. Ek baat hai, aane wale mahino mein ghar se juda ek bada faisla lena pad sakta hai. Kya kisi baat pe abhi sabse zyada behas ho rahi hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab kuch ek sath handle karna bohot mushkil ho gaya hai, par ye phase bas June 2027 tak ka hai. Uske baad ghar aur career dono mein rahat milegi. 2027 ke beech mein ek aisi opportunity aane wali hai jo tumhari independent kamai ka rasta khol sakti hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Sab kuch ek sath handle karna bohot mushkil ho gaya hai, par ye phase bas June 2027 tak ka hai. Uske baad ghar aur career dono mein rahat milegi. 2027 ke beech mein ek aisi opportunity aane wali hai jo tumhari independent kamai ka rasta khol sakti hai."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 23
+  }
+]

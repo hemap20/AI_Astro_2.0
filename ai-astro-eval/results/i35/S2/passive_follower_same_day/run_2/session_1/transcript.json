@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kundli dekh kar aapke bhavishya ke baare mein sab bata sakti hoon. Kya aap career ya shaadi mein se kisi khaas vishay ke baare mein poochhna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kundli dekh kar aapke bhavishya ke baare mein sab bata sakti hoon. Kya aap career ya shaadi mein se kisi khaas vishay ke baare mein poochhna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027 ke March se banta dikh raha hai. Aapka rishta parivar ki marzi se hone ke poore aasar hain. Waise 2022 se aapki zindagi mein badlav aaye the, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027 ke March se banta dikh raha hai. Aapka rishta parivar ki marzi se hone ke poore aasar hain. Waise 2022 se aapki zindagi mein badlav aaye the, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekhre",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh achhi baat hai. Aapke rishte mein hone wale partner ka swabhav kaafi shant aur samajhdaar hoga. Waise, unke ghar wale thode paramprik aur reserved ho sakte hain. Aap khud kya ummeed rakhti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh achhi baat hai. Aapke rishte mein hone wale partner ka swabhav kaafi shant aur samajhdaar hoga. Waise, unke ghar wale thode paramprik aur reserved ho sakte hain. Aap khud kya ummeed rakhti hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k kaisa h?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka dhan ka ghar thoda kamzor hai, isliye abhi paisa haath mein tikta nahi. Shaadi ke baad sasural se jude paise ke kuch mamle sulajhne lagenge, par shuruat mein thodi uljhan ho sakti hai. Kya aapne abhi kisi naukri ya kaam ke liye try kiya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapka dhan ka ghar thoda kamzor hai, isliye abhi paisa haath mein tikta nahi. Shaadi ke baad sasural se jude paise ke kuch mamle sulajhne lagenge, par shuruat mein thodi uljhan ho sakti hai. Kya aapne abhi kisi naukri ya kaam ke liye try kiya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension h",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension aur naukri na milna ek hi wajah se hai—mann ka grah abhi dabav mein hai. Shaadi ke baad ek bada badlav aayega. Ghar mein sabse zyada chinta kis baat ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Tension aur naukri na milna ek hi wajah se hai—mann ka grah abhi dabav mein hai. Shaadi ke baad ek bada badlav aayega. Ghar mein sabse zyada chinta kis baat ki hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Sab pareshan hai.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki pareshani main samajh sakti hoon, ye waqt thoda bhari hai par aapki galti nahi. Naukri aur ghar ka paisa, dono 10th ghar ke dheeme hone se ruke hain. Waise, career mein ek naya raasta khulne ka sanket dikh raha hai. Ghar mein kis baat ka sabse zyada tension hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki pareshani main samajh sakti hoon, ye waqt thoda bhari hai par aapki galti nahi. Naukri aur ghar ka paisa, dono 10th ghar ke dheeme hone se ruke hain. Waise, career mein ek naya raasta khulne ka sanket dikh raha hai. Ghar mein kis baat ka sabse zyada tension hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Paisa aur shaadi ki",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo sanket ye hai ki teaching ya finance mein kaam jaldi banega. Paisa aur shaadi Guru se jude hain. Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' jaap shuru kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Wo sanket ye hai ki teaching ya finance mein kaam jaldi banega. Paisa aur shaadi Guru se jude hain. Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' jaap shuru kijiye."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur career ke alawa, 2027 ke baad ek aur bada badlav aapke liye likha hai. Kya aapne kabhi videsh jaane ya apne shehar se door kaam karne ka socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaadi aur career ke alawa, 2027 ke baad ek aur bada badlav aapke liye likha hai. Kya aapne kabhi videsh jaane ya apne shehar se door kaam karne ka socha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo badlav videsh ya door shehar mein naukri ka hai, jo 2027-2028 mein sambhav hai. Shaadi toh tay hai, ab career ke lambe raste ke baare mein bhi aage baat ho sakti hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Wo badlav videsh ya door shehar mein naukri ka hai, jo 2027-2028 mein sambhav hai. Shaadi toh tay hai, ab career ke lambe raste ke baare mein bhi aage baat ho sakti hai."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke shaadi aur bhavishya ke sawalon ka jawab maine de diya hai. Jab rishta aaye toh kundli milan zaroor kijiye, kyunki aapke jeevansathi ke saath jodi ke baare mein aur bhi baatein likhi hain.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Aapke shaadi aur bhavishya ke sawalon ka jawab maine de diya hai. Jab rishta aaye toh kundli milan zaroor kijiye, kyunki aapke jeevansathi ke saath jodi ke baare mein aur bhi baatein likhi hain."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 23
+  }
+]

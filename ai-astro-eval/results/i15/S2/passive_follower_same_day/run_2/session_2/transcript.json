@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 ke baad tumhari life mein kaafi achhe badlaav aane wale hain, specially career aur shaadi ki taraf. Batao, aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 ke baad tumhari life mein kaafi achhe badlaav aane wale hain, specially career aur shaadi ki taraf. Batao, aaj kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne shaadi ki baat ki thi na. Shaadi ke liye March 2027 se September 2028 ke beech ka time bohot strong hai, jaan-pehchaan se rishta aayega. Ghar pe kisi ne koi ladka dekha hai kya abhi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne shaadi ki baat ki thi na. Shaadi ke liye March 2027 se September 2028 ke beech ka time bohot strong hai, jaan-pehchaan se rishta aayega. Ghar pe kisi ne koi ladka dekha hai kya abhi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wahi rishta pakka ho sakta hai, ladka calm aur educated type ka dikh raha hai. Friday se Om Shum Shukraya Namah 108 baar chant karke white sweets donate kiya karo.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Wahi rishta pakka ho sakta hai, ladka calm aur educated type ka dikh raha hai. Friday se Om Shum Shukraya Namah 108 baar chant karke white sweets donate kiya karo."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa hoga",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa theek hone lagega aur debt bhi dheere-dheere khatam hoga. Tuesday ko Hanuman Chalisa padha karo, sab set ho jayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa theek hone lagega aur debt bhi dheere-dheere khatam hoga. Tuesday ko Hanuman Chalisa padha karo, sab set ho jayega."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me tension",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka mahaul theek ho jayega. Saturday se Om Sham Shanaishcharaya Namah 108 baar chant karo. Raat ko neend kaisi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka mahaul theek ho jayega. Saturday se Om Sham Shanaishcharaya Namah 108 baar chant karo. Raat ko neend kaisi hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kharab hai thodi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein bhi dimaag par pressure dikh raha hai. June 2027 ke baad neend theek ho jayegi. Monday se Om Som Somaya Namah 108 baar chant kiya karo.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kundli mein bhi dimaag par pressure dikh raha hai. June 2027 ke baad neend theek ho jayegi. Monday se Om Som Somaya Namah 108 baar chant kiya karo."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aur kuch bataye",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke baad career mein bhi bohot tarqqi hai, specially teaching ya communication field mein. Foreign travel ka bhi chance ban raha hai. Padhai poori ho gayi ya abhi chal rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027 ke baad career mein bhi bohot tarqqi hai, specially teaching ya communication field mein. Foreign travel ka bhi chance ban raha hai. Padhai poori ho gayi ya abhi chal rahi hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Chal rahi h",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai abhi thodi dheere chal rahi hogi, par June 2027 ke baad isme bhi tezi aayegi. Thursday ko Guru ke liye chana dal donate kiya karo.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Padhai abhi thodi dheere chal rahi hogi, par June 2027 ke baad isme bhi tezi aayegi. Thursday ko Guru ke liye chana dal donate kiya karo."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Health?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nerves, neend aur digestion ki thodi problem chal rahi hogi, par mid-2027 tak sab theek ho jayega. Kya abhi pet ya sar dard ki zyada tension rehti hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Nerves, neend aur digestion ki thodi problem chal rahi hogi, par mid-2027 tak sab theek ho jayega. Kya abhi pet ya sar dard ki zyada tension rehti hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ha sar dard",
+    "sec": 270,
+    "idx": 21
+  }
+]

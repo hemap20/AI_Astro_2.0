@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke aage ka samay mehnat aur badlav ka hai, jisme naye mauke milenge. Kya abhi aapko naukri ya career mein koi khas chinta hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapke aage ka samay mehnat aur badlav ka hai, jisme naye mauke milenge. Kya abhi aapko naukri ya career mein koi khas chinta hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aage chalkar career mein sthirta aayegi aur naye raste khulenge. Kya 2025 se 2026 ke beech aapko kaam mein thodi thakaan aur dheel mehsoos hui thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aage chalkar career mein sthirta aayegi aur naye raste khulenge. Kya 2025 se 2026 ke beech aapko kaam mein thodi thakaan aur dheel mehsoos hui thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Bht tension h.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, dabav ki wajah se yeh tension hai. Lekin jald hi ek naya mauka aapke career ko badal dega. Kya aapko kisi aur jagah jaane ki ichha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, dabav ki wajah se yeh tension hai. Lekin jald hi ek naya mauka aapke career ko badal dega. Kya aapko kisi aur jagah jaane ki ichha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka kya h",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat agle saal ke baad shuru ho sakti hai. Kya saal 2022 mein aapki padhai ya college ki life mein koi bada badlav aaya tha?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shaadi ki baat agle saal ke baad shuru ho sakti hai. Kya saal 2022 mein aapki padhai ya college ki life mein koi bada badlav aaya tha?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Gharwale to abhi dekh rhe",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gharwale dekh rahe hain toh main dekhti hoon ki agle saal rishte ki baat aage badhegi. Kya saal 2023 se 2025 ke beech aapko paise ki thodi tangi mehsoos hui thi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Gharwale dekh rahe hain toh main dekhti hoon ki agle saal rishte ki baat aage badhegi. Kya saal 2023 se 2025 ke beech aapko paise ki thodi tangi mehsoos hui thi?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan thodi hui thi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale sathi padhe-likhe aur shant nature ke honge. Kya aapko kisi jaane-pehchane daayre se hi baat aage badhne ki ummeed hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aane wale sathi padhe-likhe aur shant nature ke honge. Kya aapko kisi jaane-pehchane daayre se hi baat aage badhne ki ummeed hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Paisa kab aayega?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech paise ki halat sudhregi aur tanaav kam hoga. Kya is samay aapko koi naya kaam shuru karne ki ichha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech paise ki halat sudhregi aur tanaav kam hoga. Kya is samay aapko koi naya kaam shuru karne ki ichha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nhi. Ghar ki tension bht h.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon ki tangi se ghar mein tanaav badhta hai, kyunki mann ka grah kamzor hai. Yeh halat mid-2027 tak theek hogi. Kya isse aapki neend par asar padta hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main samajh sakti hoon ki tangi se ghar mein tanaav badhta hai, kyunki mann ka grah kamzor hai. Yeh halat mid-2027 tak theek hogi. Kya isse aapki neend par asar padta hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke sawal ka jawab de diya hai. Aapke chart mein apna ghar lene ka ek khas daur chhupa hai, jisse aage ki planning samajh aayegi. Is baare mein poori baatcheet ke liye abhi chat recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapke sawal ka jawab de diya hai. Aapke chart mein apna ghar lene ka ek khas daur chhupa hai, jisse aage ki planning samajh aayegi. Is baare mein poori baatcheet ke liye abhi chat recharge kijiye."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

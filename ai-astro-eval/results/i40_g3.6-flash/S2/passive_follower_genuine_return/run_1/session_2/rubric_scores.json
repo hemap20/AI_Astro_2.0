@@ -1,0 +1,247 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 8,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.31,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.9,
+    "long_share": 0.22
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "3rd house mein Budh-Guru ke saath Hone se kamai aur rishte ek saath jude hain.",
+        "why": "The astrologer acknowledges the user's concern about money and links it to the chart, but does not explicitly name the feeling of tension."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Baatcheet mein koi dikkat ya rukawat lag rahi hai kya?",
+        "why": "Most questions are Type A, building directly on the user's previous inputs about their life and the rishta."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user did not ask about a specific named person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise aapke chart mein late 2022 mein padhai ya routine mein bada badlaav dikhta hai",
+        "why": "The reading is about the past/present, new, and specific, but lacks a specific chart reason (e.g., dasha or planet)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 se September 2028 ke beech shaadi ka yog hai.",
+        "why": "A clear direction and time window are provided immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "3rd house mein Budh-Guru ke saath Hone se kamai aur rishte ek saath jude hain.",
+        "why": "Multiple linked readings are provided using plain language."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 ke baad paisa aur shaadi dono mein aaram milega.",
+        "why": "Later readings add new points and use details provided by the user (rishta, money, job)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech shaadi ka yog hai.",
+        "why": "A consistent time window is provided."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Guruvar se 'Om Gram Greem Grom Sah Gurave Namah' jaapein.",
+        "why": "The remedy is tied to the Guru, which is relevant to the partner/shaadi reading."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Job milte hi ghar ka mahaul bhi badlega.",
+        "why": "The astrologer addresses the shaadi, money, and ghar tension questions in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke hone wale sasural wale bohot traditional aur reserved honge",
+        "why": "Points to a specific further detail about the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi aur career ke yog ke baare mein humne baat kar li hai.",
+        "why": "No early close; every message carries value until the end."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Issi baat ko abhi aur gehraai se samajhne ke liye chat ko abhi recharge kijiye.",
+        "why": "The last message is a pitch to recharge, leaving the user with no reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki lagna lord Budh aur Guru saath hain",
+        "why": "Uses simple language without formal or bookish sentences."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "other"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      }
+    ]
+  }
+}

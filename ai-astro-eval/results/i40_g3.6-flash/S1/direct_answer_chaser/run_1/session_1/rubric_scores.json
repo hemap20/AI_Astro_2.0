@@ -1,0 +1,173 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 6,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.56,
+  "shape": {
+    "M": 8,
+    "avg_words": 31.1,
+    "long_share": 0.62
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job ko lekar aap pareshan mat hoiye, main aapki kundli dekh kar batati hoon.",
+        "why": "Acknowledges the user's worry about the old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap abhi kahin aur kaam kar rahe hain?",
+        "why": "All questions are Type B, generic life questions that could be asked to any user."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Purani job ke bajaye Mar 2027 se Sep 2028 ke beech naya accha kaam milne ke yoga hain.",
+        "why": "The first reading is entirely about the future, not the present or past."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Purani job mein wapsi ke chances kam hain, mehnat wale grah ki wajah se.",
+        "why": "Provides a clear direction regarding the main question without needing a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job mein wapsi ke chances kam hain, mehnat wale grah ki wajah se.",
+        "why": "Provides a linked reading connecting the life situation to a chart factor in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Agle hafte ke interview mein thoda delay ya rukavat aa sakti hai. Par IT kshetra aapke liye bilkul sahi hai.",
+        "why": "Later readings use the user's specific details (IT, interview) and add new points."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se Sep 2028 ke beech naya accha kaam milne ke yoga hain.",
+        "why": "Provides a window and maintains consistency throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Brihaspati grah ke liye Guruwar se chana dal ka daan kijiye.",
+        "why": "Provides a remedy but it is not clearly tied to the specific cause of the problem mentioned in the reading."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job mein wapsi ke chances kam hain... Aap kis field mein kaam karna chahte hain?",
+        "why": "Answers the first question and then addresses the new topic (IT interview) when raised."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein ek khas line mein badi taraqqi dikh rahi hai.",
+        "why": "Points to a specific further thing (career growth) within the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Is interview mein turant selection ke chances kam hain, mehnat ke grah ki rukavat ki wajah se.",
+        "why": "No closing message and every reply carries relevant content."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Karm ka grah abhi dhima chal raha hai, isliye kaam mein deri hai.",
+        "why": "The last astrologer message provides a reading/guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job mein wapsi ke chances kam hain, mehnat wale grah ki wajah se.",
+        "why": "Uses simple, everyday language with no technical jargon or formal phrasing."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      }
+    ]
+  }
+}

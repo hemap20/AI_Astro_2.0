@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle kuch mahine thode bhari hain, par March 2027 se career mein naya mod aayega. Tumhare mann mein sabse zyada tension kis cheez ki hai, kaam ki ya personal life ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Agle kuch mahine thode bhari hain, par March 2027 se career mein naya mod aayega. Tumhare mann mein sabse zyada tension kis cheez ki hai, kaam ki ya personal life ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ki tension",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 tak mehnat bohot ki, par baat ruk gayi na? Rishton ka grah dab gaya hai, isliye deri hai. March 2027 ke baad rishta aayega. Gharwale kya soch rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 tak mehnat bohot ki, par baat ruk gayi na? Rishton ka grah dab gaya hai, isliye deri hai. March 2027 ke baad rishta aayega. Gharwale kya soch rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rhega",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai achi hai, bachat ka grah kamzor hai. Dono dikkat ek hi grah ki kamzori se hai. Friday se 'Om Shum Shukraya Namah' karo; rishte ke liye ek zaruri baat hai, bataun?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kamai achi hai, bachat ka grah kamzor hai. Dono dikkat ek hi grah ki kamzori se hai. Friday se 'Om Shum Shukraya Namah' karo; rishte ke liye ek zaruri baat hai, bataun?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhare hone wale partner lambe aur shant honge, par wo andar se thode reserved rahenge. Unhe samajhne mein thoda waqt lagega. Kya tumne aise kisi ko socha hai ya bilkul naye rishte ke liye open ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Tumhare hone wale partner lambe aur shant honge, par wo andar se thode reserved rahenge. Unhe samajhne mein thoda waqt lagega. Kya tumne aise kisi ko socha hai ya bilkul naye rishte ke liye open ho?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rhe",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me tension hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka jhagda aur paise ki tangi, ek hi mehnat ke grah ki wajah se hai. Tuesday se Hanuman Chalisa padho, mahaul sudhrega. Kya ghar wale rishte ke liye pressure daal rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ka jhagda aur paise ki tangi, ek hi mehnat ke grah ki wajah se hai. Tuesday se Hanuman Chalisa padho, mahaul sudhrega. Kya ghar wale rishte ke liye pressure daal rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bahut pressure hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye tumhari galti nahi, grahon ka khel hai. Hone wale in-laws traditional honge, par ek decision tumhare haath mein hai jisse ye pressure kam ho sakta hai. Kya tumne gharwalo ko saaf-saaf bataya hai ki tumhe kya chahiye?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye tumhari galti nahi, grahon ka khel hai. Hone wale in-laws traditional honge, par ek decision tumhare haath mein hai jisse ye pressure kam ho sakta hai. Kya tumne gharwalo ko saaf-saaf bataya hai ki tumhe kya chahiye?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi darr lagta",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darr mat, ye tumhare mann ke grah ki kamzori hai. Sahi dhang se baat karne par gharwale maan sakte hain, par wo raaz tumhari baat karne ki aadat mein chhupa hai. Ghar mein tumhari baat sabse zyada kaun sunta hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Darr mat, ye tumhare mann ke grah ki kamzori hai. Sahi dhang se baat karne par gharwale maan sakte hain, par wo raaz tumhari baat karne ki aadat mein chhupa hai. Ghar mein tumhari baat sabse zyada kaun sunta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Mummy",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy se baat karna sahi rahega. Tumhara baat-cheet ka grah majboot hai, bas emotional hone ke bajaye unhe apne future ke plan logic se samjhao. Mummy se rishte ki baat chhedne mein sabse bada darr kya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mummy se baat karna sahi rahega. Tumhara baat-cheet ka grah majboot hai, bas emotional hone ke bajaye unhe apne future ke plan logic se samjhao. Mummy se rishte ki baat chhedne mein sabse bada darr kya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Naraaz ho jayengi",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy ka gussa temporary hai, ye bas abhi ke grahon ka asar hai. 2027 mein tumhari baat sabse zyada mani jayegi, tab tak patience rakho. Kya unhe tumhare career ambitions pata hain?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Mummy ka gussa temporary hai, ye bas abhi ke grahon ka asar hai. 2027 mein tumhari baat sabse zyada mani jayegi, tab tak patience rakho. Kya unhe tumhare career ambitions pata hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur shaadi dono tumhare hath mein hain, bas sahi batana zaruri hai. Teaching, finance ya media mein tumhara career bohot tezi se aage badh sakta hai, jise chupane se sirf tumhari progress ruk rahi hai. Kya tumne kabhi socha hai ki tumhare career ka asli interest kya hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Career aur shaadi dono tumhare hath mein hain, bas sahi batana zaruri hai. Teaching, finance ya media mein tumhara career bohot tezi se aage badh sakta hai, jise chupane se sirf tumhari progress ruk rahi hai. Kya tumne kabhi socha hai ki tumhare career ka asli interest kya hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

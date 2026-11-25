@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai mera future, job kab tak milegi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2023 se 2025 tak mehnat bohot rahi hogi aur paise mein bhi thoda tight chal raha hoga. Nayi job ke liye March 2027 se September 2028 ke beech ka time bohot achha hai, tabhi kaam banega. Abhi aap kya kar rahe ho, padhai ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2023 se 2025 tak mehnat bohot rahi hogi aur paise mein bhi thoda tight chal raha hoga. Nayi job ke liye March 2027 se September 2028 ke beech ka time bohot achha hai, tabhi kaam banega. Abhi aap kya kar rahe ho, padhai ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month mein confirm job milegi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se June 2027 ke beech mein hi pehla pakka mauka lag raha hai, career wali jagah tabhi sabse strong hai. Tumhari kundli mein 2027-28 ke beech videsh ya door jaane ka yog bhi ban raha hai. Tum kis field mein job try kar rahe ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March se June 2027 ke beech mein hi pehla pakka mauka lag raha hai, career wali jagah tabhi sabse strong hai. Tumhari kundli mein 2027-28 ke beech videsh ya door jaane ka yog bhi ban raha hai. Tum kis field mein job try kar rahe ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "March ya April? Exact bolo.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March mein sabse strong chance hai. Kal se Om Gram Greem Grom Sah Gurave Namah 108 baar japo aur chana dal daan karo, kaam jaldi banega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March mein sabse strong chance hai. Kal se Om Gram Greem Grom Sah Gurave Namah 108 baar japo aur chana dal daan karo, kaam jaldi banega."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Is saal ka kya scene hai?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi bache hue dinon mein thoda stress aur neend ki dikkat reh sakti hai. Waise aage chalkar apne ghar ka yog bhi ban raha hai. Neend theek aati hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Abhi bache hue dinon mein thoda stress aur neend ki dikkat reh sakti hai. Waise aage chalkar apne ghar ka yog bhi ban raha hai. Neend theek aati hai kya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Is saal job milegi ya nahi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal toh nahi, abhi career mein raftaar thodi dheemi chal rahi hai. Tumne abhi kahan interview diya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Is saal toh nahi, abhi career mein raftaar thodi dheemi chal rahi hai. Tumne abhi kahan interview diya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhara number 5 hai kyunki tumhara lagna lord Budh hai, iska matlab dimaag bohot tez hai. Kya padhai mein yeh tez dimaag help karta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tumhara number 5 hai kyunki tumhara lagna lord Budh hai, iska matlab dimaag bohot tez hai. Kya padhai mein yeh tez dimaag help karta hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab badhega?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat 2028 se sudhregi, tab bachat bhi hone lagegi. Abhi paisa rukta nahi hai. Somvaar ko Om Som Somaya Namah 108 baar jaap karo.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ki halat 2028 se sudhregi, tab bachat bhi hone lagegi. Abhi paisa rukta nahi hai. Somvaar ko Om Som Somaya Namah 108 baar jaap karo."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "2028 mein kaunse mahine se?",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 se paisa rukne lagega aur bachat bhi achhi hogi. Tumhari kundli mein 2027 se 2028 ke beech shaadi ka yog bhi ban raha hai. Ghar pe is baare mein baat chali hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "October 2028 se paisa rukne lagega aur bachat bhi achhi hogi. Tumhari kundli mein 2027 se 2028 ke beech shaadi ka yog bhi ban raha hai. Ghar pe is baare mein baat chali hai kya?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaunse mahine mein hogi 2028 mein?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2028 ke beech shaadi pakki hone ka sabse bada yog hai. October 2028 ke baad ka agla samay bhi khula rahega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March se May 2028 ke beech shaadi pakki hone ka sabse bada yog hai. October 2028 ke baad ka agla samay bhi khula rahega."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 23
+  }
+]

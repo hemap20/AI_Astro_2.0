@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello! Kaise ho tum? Batao aaj kis baare mein baat karni hai, shaadi ki baat aage badhani hai ya phir paise wali tension pe?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello! Kaise ho tum? Batao aaj kis baare mein baat karni hai, shaadi ki baat aage badhani hai ya phir paise wali tension pe?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi, exact bataiye.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye March 2027 se September 2028 ke beech ka samay pakka lag raha hai, khaas kar June 2027 ke baad. Naya phase shuru hone se ye baat aage badhegi. Par ek baat hai, isse pehle ek rishta aayega jise dhyan se dekhna hoga. Ghar pe kisi ne pehle se koi ladka dekha hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke liye March 2027 se September 2028 ke beech ka samay pakka lag raha hai, khaas kar June 2027 ke baad. Naya phase shuru hone se ye baat aage badhegi. Par ek baat hai, isse pehle ek rishta aayega jise dhyan se dekhna hoga. Ghar pe kisi ne pehle se koi ladka dekha hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta abhi chal rha hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 confirm hai kya?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ka time sabse strong hai, baat wahin se pakki hogi. Ye jo abhi rishta chal raha hai, kya ye kisi jaan-pehchaan ke through hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "June 2027 ke baad ka time sabse strong hai, baat wahin se pakki hogi. Ye jo abhi rishta chal raha hai, kya ye kisi jaan-pehchaan ke through hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan, family friend hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 mein kaunsa month?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 ke aas-paas ka time sabse strong hai baat final hone ke liye. Friday ko thodi safed mithai daan karna shuru karo, isse raste aasan honge. Par dhyan rakhna, final haan bolne se pehle unki family ke baare mein ek baat aur pata chal sakti hai. Abhi baat kahan tak pahuchi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "July 2027 ke aas-paas ka time sabse strong hai baat final hone ke liye. Friday ko thodi safed mithai daan karna shuru karo, isse raste aasan honge. Par dhyan rakhna, final haan bolne se pehle unki family ke baare mein ek baat aur pata chal sakti hai. Abhi baat kahan tak pahuchi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "July 2027 sure hai?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Family ke baare mein kya pata chalega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 sabse strong hai, baaki window khuli hai. Unki family thodi traditional aur reserved ho sakti hai. Kya unke ghar walon ka nature thoda strict lag raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "July 2027 sabse strong hai, baaki window khuli hai. Unki family thodi traditional aur reserved ho sakti hai. Kya unke ghar walon ka nature thoda strict lag raha hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak banega? Job kab lagegi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur job mein growth, dono ka time March 2027 se badlega kyunki wahi se naya phase shuru ho raha hai. Abhi tumhara naya job kaisa chal raha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi aur job mein growth, dono ka time March 2027 se badlega kyunki wahi se naya phase shuru ho raha hai. Abhi tumhara naya job kaisa chal raha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Abhi nahi hai.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi, exact month bataiye.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein job lagne ka poora yog hai. Har Thursday chana dal daan karo. Interview mein ek choti galti se bachna hoga. Pehle kahan interview diya tha?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 mein job lagne ka poora yog hai. Har Thursday chana dal daan karo. Interview mein ek choti galti se bachna hoga. Pehle kahan interview diya tha?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se ghar ka tanaav kam hona shuru ho jayega, paisa bhi dheere-dheere theek hone lagega. Paise ko lekar ghar mein ek chhoti si galatfehmi aa sakti hai, uska dhyan rakhna. Kya sabhi log milke is baare mein baat kar rahe hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se ghar ka tanaav kam hona shuru ho jayega, paisa bhi dheere-dheere theek hone lagega. Paise ko lekar ghar mein ek chhoti si galatfehmi aa sakti hai, uska dhyan rakhna. Kya sabhi log milke is baare mein baat kar rahe hain?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 23
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Shadi ka samay aur us ladke ki kundli, dono main milakar batata hoon. Kya aap dono ki baat-cheet kaafi samay se chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Shadi ka samay aur us ladke ki kundli, dono main milakar batata hoon. Kya aap dono ki baat-cheet kaafi samay se chal rahi hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nhi zyada baat nhi hui",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Do baar mile bas",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke liye ek shant aur padha-likha jeevansathi sahi rahega. Shadi ka yog 2027 se 2028 ke beech banta dikh raha hai. Kya ladka swabhav mein thoda gambhir hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapke liye ek shant aur padha-likha jeevansathi sahi rahega. Shadi ka yog 2027 se 2028 ke beech banta dikh raha hai. Kya ladka swabhav mein thoda gambhir hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha short tempered hai",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Bht gussa ata hai",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Himmat aur kamai ka grah jab mann ke grah par nazar dalta hai, toh gussa badh jata hai. Waise 2023 se 2025 tak paise ki kaafi tangi rahi thi, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Himmat aur kamai ka grah jab mann ke grah par nazar dalta hai, toh gussa badh jata hai. Waise 2023 se 2025 tak paise ki kaafi tangi rahi thi, hai na?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka dikkat tha",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ladka thik hai na",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka jeevansathi shant hona chahiye, par unka gussa aapke liye bhari pad sakta hai. Kundli mein ek zaruri milan dekhna baki hai jo rishte mein shanti la sakta hai. Kya unki kundli dikhwai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapka jeevansathi shant hona chahiye, par unka gussa aapke liye bhari pad sakta hai. Kundli mein ek zaruri milan dekhna baki hai jo rishte mein shanti la sakta hai. Kya unki kundli dikhwai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ladka thik hai na?",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jeevansathi ka shant hona zaroori hai, par unka gussa dikkat dega. Kundli mein Mangal ka milan dekhna zaroori hai, jo thoda halka hai. Kya ghar walon ne rishta pakka kar diya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Jeevansathi ka shant hona zaroori hai, par unka gussa dikkat dega. Kundli mein Mangal ka milan dekhna zaroori hai, jo thoda halka hai. Kya ghar walon ne rishta pakka kar diya hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Abhi nhi",
+    "sec": 150,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nhi?",
+    "sec": 150,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa karne wala ladka sahi nahi hai. Jeevansathi shant hona chahiye, kyunki rishton ka grah kamzor hai. Shaadi ke faisle mein ek aur badi baat hai jo aapko abhi jaan leni chahiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Gussa karne wala ladka sahi nahi hai. Jeevansathi shant hona chahiye, kyunki rishton ka grah kamzor hai. Shaadi ke faisle mein ek aur badi baat hai jo aapko abhi jaan leni chahiye."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 180,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 180,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh badi baat ye hai ki aapka vivah jaan-pehchan ke zariye hone ka yog hai, na ki is ladke se. Shadi 2027 se 2028 ke beech hogi. Kya ghar wale rishte dekh rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Woh badi baat ye hai ki aapka vivah jaan-pehchan ke zariye hone ka yog hai, na ki is ladke se. Shadi 2027 se 2028 ke beech hogi. Kya ghar wale rishte dekh rahe hain?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale dekh rahe hain",
+    "sec": 210,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale jo rishte dekh rahe hain, wahi rasta sahi hai. Aapka hone wala jeevansathi tall, shant aur padha-likha hoga, jo aapke liye sabse behtar hai. Kya aapne unhe apni pasand batayi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar wale jo rishte dekh rahe hain, wahi rasta sahi hai. Aapka hone wala jeevansathi tall, shant aur padha-likha hoga, jo aapke liye sabse behtar hai. Kya aapne unhe apni pasand batayi hai?"
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 240,
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 240,
+    "idx": 30
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ke grah ke liye 'Om Shum Shukraya Namah' 108 baar har Shukravar karein. Ghar walon ko apni pasand batayein. Agli baar compatibility aur partner ke nature ko detail mein samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Rishton ke grah ke liye 'Om Shum Shukraya Namah' 108 baar har Shukravar karein. Ghar walon ko apni pasand batayein. Agli baar compatibility aur partner ke nature ko detail mein samjhenge."
+    },
+    "idx": 31
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao",
+    "sec": 270,
+    "idx": 32
+  },
+  {
+    "role": "USER",
+    "text": "Time khatam ho raha hai",
+    "sec": 270,
+    "idx": 33
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 34
+  }
+]

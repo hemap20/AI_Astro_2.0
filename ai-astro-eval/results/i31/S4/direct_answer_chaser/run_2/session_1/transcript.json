@@ -1,0 +1,197 @@
+[
+  {
+    "role": "USER",
+    "text": "Ye ladka mere liye sahi hai ya nahi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar se hai wo",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main samajh sakti hoon aapke mann mein ye sawal hona swabhavik hai. Kya aapne unse baat ki hai ya ye rishta ghar walon ne bataya hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main samajh sakti hoon aapke mann mein ye sawal hona swabhavik hai. Kya aapne unse baat ki hai ya ye rishta ghar walon ne bataya hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar walon ne bataya.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ye batao ladka sahi hai ya nahi?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta theek lag raha hai kyunki jeevansathi ka grah calm aur educated insaan dikhata hai. Bas manglik milan zaroori hai. Kya unki kundli mein mangal ki sthiti aapko pata hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Rishta theek lag raha hai kyunki jeevansathi ka grah calm aur educated insaan dikhata hai. Bas manglik milan zaroori hai. Kya unki kundli mein mangal ki sthiti aapko pata hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Mujhe ye sab nahi pata.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Seedha batao, ladka sahi hai ya nahi mere liye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke hisaab se aapke liye ek calm aur educated partner sahi rahega, jo arranged rishte mein milne ke poore yog hain. 2023 se 2025 tak aapki life mein paise ko lekar kaafi kashmakash rahi, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli ke hisaab se aapke liye ek calm aur educated partner sahi rahega, jo arranged rishte mein milne ke poore yog hain. 2023 se 2025 tak aapki life mein paise ko lekar kaafi kashmakash rahi, hai na?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Thodi thi.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Par ladka sahi hai ya nahi, ye btaiye.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, kundli mein aapke liye ek samajhdaar aur calm partner ka yog hai, jo rishte mein achha rahega. Bas ek baat ka dhyan rakhen, shaadi ke faisle mein thodi jaldi na karein.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, kundli mein aapke liye ek samajhdaar aur calm partner ka yog hai, jo rishte mein achha rahega. Bas ek baat ka dhyan rakhen, shaadi ke faisle mein thodi jaldi na karein."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Matlab ye ladka sahi hai ya nahi?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein batao.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai ye aapke liye sahi hain. Shaadi ka grah unke liye achha hai, par unka nature thoda guarded ho sakta hai, jise samajhna zaroori hai. Kya unhone kabhi apne past ke baare mein kuch bataya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Zyada chance hai ye aapke liye sahi hain. Shaadi ka grah unke liye achha hai, par unka nature thoda guarded ho sakta hai, jise samajhna zaroori hai. Kya unhone kabhi apne past ke baare mein kuch bataya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Maine do baar mila hai, wo short-tempered lagte hain.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kya fir bhi ye ladka mere liye sahi hai?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Aur shadi kab tak hogi?",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner calm bataya hai, par aapki kundli mein himmat ke grah ki nazar se chidchidahat ho sakti hai. Shaadi ke yog March 2027 se hain. Kya wo aksar gussa karte hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Partner calm bataya hai, par aapki kundli mein himmat ke grah ki nazar se chidchidahat ho sakti hai. Shaadi ke yog March 2027 se hain. Kya wo aksar gussa karte hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ha, kaafi gussa karte hain.",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok, March 2027 pakka hai?",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 tak shaadi ka yog pakka hai. Tumhari kundli mein himmat ke grah ki nazar se gussa aata hai; 24 November se Hanuman Chalisa roz shuru karo.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se September 2028 tak shaadi ka yog pakka hai. Tumhari kundli mein himmat ke grah ki nazar se gussa aata hai; 24 November se Hanuman Chalisa roz shuru karo."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa waqt ke saath sambhal jayega, par aap unke saath compatibility bhi milwa lijiye. Kuch aur jaanna ho toh kabhi bhi pooch sakti hain.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Gussa waqt ke saath sambhal jayega, par aap unke saath compatibility bhi milwa lijiye. Kuch aur jaanna ho toh kabhi bhi pooch sakti hain."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Hanuman Chalisa kab tak karni hogi?",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aap ise kam se kam mid-2027 tak roz karein, jab tak mann ki ashanti door na ho jaye. Isse gussa kam hoga aur rishte mein sukoon aayega. Kya aap ise roz kar payengi?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aap ise kam se kam mid-2027 tak roz karein, jab tak mann ki ashanti door na ho jaye. Isse gussa kam hoga aur rishte mein sukoon aayega. Kya aap ise roz kar payengi?"
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 27
+  }
+]

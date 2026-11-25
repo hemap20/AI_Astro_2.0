@@ -1,0 +1,239 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 4,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.75,
+  "shape": {
+    "M": 9,
+    "avg_words": 28.0,
+    "long_share": 0.22
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waha se wapsi ki umeed kam hai, par nayi jagah rasta khulega.",
+        "why": "The astrologer directly addresses the user's specific question about returning to the old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Din mein chinta zyada rehti hai?",
+        "why": "The astrologer asks several questions, and while none are Type C, more than half are Type B (generic life questions)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waha se wapsi ki umeed kam hai, par nayi jagah rasta khulega.",
+        "why": "The reading is about the present/future, new information, and specific, but lacks a chart reason in the first reading."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Waha se wapsi ki umeed kam hai",
+        "why": "The astrologer gives a clear direction regarding the main question immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Karm ke grah ke asar se dono dikkat saath chal rahi hai.",
+        "why": "The astrologer links life statements (career/sleep issues) to chart factors (Karm ke grah) in plain words multiple times."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Karm ke grah ke asar se dono dikkat saath chal rahi hai.",
+        "why": "The astrologer adds new points (career/sleep issues) that use the user's details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech nayi job pakki hogi.",
+        "why": "The astrologer provides a time window and maintains consistency."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Gyaan ke grah ke liye guruwar se chana dal daan kijiye.",
+        "why": "The remedy is a stock suggestion without a clear link to the specific problem of job return."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user did not change the topic."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ek nayi jagah se achha offer aane ka sanket bhi hai.",
+        "why": "The astrologer points to a specific further thing (new offer) related to the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Nayi jagah ka rasta videsh ya bahar se jud sakta hai.",
+        "why": "No closing message was sent, and every reply carried relevant content."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Job milne ka jawab maine aapko de diya hai. Aage ke daur mein aapke liye videsh ya nayi jagah se judi sambhavna banti hai. Iski poori jankari ke liye chat recharge kijiye.",
+        "why": "The last message is a refusal to answer further and a pitch for payment."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Karm ke grah ke asar se dono dikkat saath chal rahi hai.",
+        "why": "The language is easy and uses no unexplained technical terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kayi baar dasha ke fer se samay aage-piche ho jata hai ji.",
+        "why": "The astrologer accepts the user's pushback about past dates being wrong and immediately provides a reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "question"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      }
+    ]
+  }
+}

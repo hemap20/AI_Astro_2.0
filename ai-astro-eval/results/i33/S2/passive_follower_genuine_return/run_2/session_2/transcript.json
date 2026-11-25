@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon aur aaj kya chal raha hai aapki life mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon aur aaj kya chal raha hai aapki life mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne March 2027 ke baad career mein acche badlaav ki baat ki thi. 2023 se 2025 tak kaam aur paise mein bohot mehnat karni padi thi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne March 2027 ke baad career mein acche badlaav ki baat ki thi. 2023 se 2025 tak kaam aur paise mein bohot mehnat karni padi thi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka career aur shaadi ek hi grah ke asar se ruke hain, par jaldi dono kaam banenge. Ek khas insaan aapke career mein nayi raah dikha sakta hai. Ghar pe shaadi ki baat kaun utha raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapka career aur shaadi ek hi grah ke asar se ruke hain, par jaldi dono kaam banenge. Ek khas insaan aapke career mein nayi raah dikha sakta hai. Ghar pe shaadi ki baat kaun utha raha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Mummy papa rishta dekh rhe ek aya hai",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta aana achi baat hai. Rishton aur career ka grah ek hi wajah se dheema hai. Jo rishta aaya hai, unka nature thoda reserved ho sakta hai. Aapko ye rishta kaisa laga?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta aana achi baat hai. Rishton aur career ka grah ek hi wajah se dheema hai. Jo rishta aaya hai, unka nature thoda reserved ho sakta hai. Aapko ye rishta kaisa laga?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta samajh na aana normal hai, kyunki rishton ka grah abhi dab gaya hai. Aane wale waqt mein is rishte ko lekar ek badi clarity milegi. Aapko sabse zyada dar kis baat ka hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishta samajh na aana normal hai, kyunki rishton ka grah abhi dab gaya hai. Aane wale waqt mein is rishte ko lekar ek badi clarity milegi. Aapko sabse zyada dar kis baat ka hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka tension h",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki naukri aur paise ki dikkat ek hi wajah se hai, 10th ghar jo career ka hota hai, wo abhi dheema hai. March 2027 ke baad halat jaldi badalenge. Ghar ke kharche abhi kaise chal rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki naukri aur paise ki dikkat ek hi wajah se hai, 10th ghar jo career ka hota hai, wo abhi dheema hai. March 2027 ke baad halat jaldi badalenge. Ghar ke kharche abhi kaise chal rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Mushkil se chal rhe",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi bohot pareshan karti hai. Aapka paise ka ghar abhi kamzor hai, par career mein jald ek bada mauka aane wala hai. Aap kaunse kaam mein try kar rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ki tangi bohot pareshan karti hai. Aapka paise ka ghar abhi kamzor hai, par career mein jald ek bada mauka aane wala hai. Aap kaunse kaam mein try kar rahe hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Bank job",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht h",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bank job ke liye Guru-Budh yog achha hai. Tension aur career ki rukawat ek hi bhari period ka asar hai. Ek mauka sab badal dega. Ghar mein anban kis baat par hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Bank job ke liye Guru-Budh yog achha hai. Tension aur career ki rukawat ek hi bhari period ka asar hai. Ek mauka sab badal dega. Ghar mein anban kis baat par hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Sab cheez",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki anban ke liye Hanuman Chalisa aur career ke liye Guru mantra 108 baar roz padhiye. Aapke sawalon ka jawab maine de diya hai. Agli baar hone wale partner ka nature detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki anban ke liye Hanuman Chalisa aur career ke liye Guru mantra 108 baar roz padhiye. Aapke sawalon ka jawab maine de diya hai. Agli baar hone wale partner ka nature detail mein dekhenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

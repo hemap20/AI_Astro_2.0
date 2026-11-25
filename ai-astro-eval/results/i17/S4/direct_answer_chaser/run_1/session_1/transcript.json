@@ -1,0 +1,212 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye.",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka time hai. Kundli ke hisab se ladka calm aur padha-likha hoga. Kya tumne is ladke se khud baat ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka time hai. Kundli ke hisab se ladka calm aur padha-likha hoga. Kya tumne is ladke se khud baat ki hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Short-tempered hai wo.",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi ye btao.",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein wo padha-likha aur calm dikh raha hai, par thoda gusse wala nature bhi ho sakta hai. Mangal ke asar se yeh thoda match karna zaroori hai. Kya usne aisi baat kabhi ki hai jo tumhe chubhi ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kundli mein wo padha-likha aur calm dikh raha hai, par thoda gusse wala nature bhi ho sakta hai. Mangal ke asar se yeh thoda match karna zaroori hai. Kya usne aisi baat kabhi ki hai jo tumhe chubhi ho?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan, do baar mili hun, gussa bahut hai.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nahi mere liye?",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein wo samajhdar hai, par thoda gussa dikh raha hai. Mangal milan zaroor karwana. Tuesday se Hanuman Chalisa padhna shuru karo, halat sudhregi. Kya ghar wale is baare mein sab jaante hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli mein wo samajhdar hai, par thoda gussa dikh raha hai. Mangal milan zaroor karwana. Tuesday se Hanuman Chalisa padhna shuru karo, halat sudhregi. Kya ghar wale is baare mein sab jaante hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale kya jante hai wo chhodho.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ye btao, ladka mere liye shi hai ya nahi?",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye.",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo padha-likha aur samajhdar hai, isliye fit baith sakta hai. Par ek baat aur, is rishte mein aage in-laws ki taraf se thodi rok-tok aa sakti hai. Kya tum dono ki shaadi ki baat aage badh chuki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo padha-likha aur samajhdar hai, isliye fit baith sakta hai. Par ek baat aur, is rishte mein aage in-laws ki taraf se thodi rok-tok aa sakti hai. Kya tum dono ki shaadi ki baat aage badh chuki hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Faltu ki baatein mat karo.",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Seedha btao, ladka shi h ya nahi?",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein jawab do.",
+    "sec": 120,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, kundli ke hisab se wo theek lag raha hai kyunki wo samajhdar aur padha-likha hai. Bas gussa thoda dekhna padega. Kya tumne is baare mein khud socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, kundli ke hisab se wo theek lag raha hai kyunki wo samajhdar aur padha-likha hai. Bas gussa thoda dekhna padega. Kya tumne is baare mein khud socha hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 150,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Month btao.",
+    "sec": 150,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas baat pakki hone ke sabse zyada chances hain kyunki tabhi naya samay shuru hoga. Kya ghar mein is baare mein baat hui hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas baat pakki hone ke sabse zyada chances hain kyunki tabhi naya samay shuru hoga. Kya ghar mein is baare mein baat hui hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Konse month mein shadi hogi?",
+    "sec": 180,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke mahine mein hi sabse strong yog ban raha hai kyunki tabhi naya time shuru hoga. Baaki poori window khuli hai. Kya ghar par is baare mein koi date decide hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke mahine mein hi sabse strong yog ban raha hai kyunki tabhi naya time shuru hoga. Baaki poori window khuli hai. Kya ghar par is baare mein koi date decide hui hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 hi pakka samjhu?",
+    "sec": 210,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "March aur April 2027 ko main time mano, baaki poori window September 2028 tak khuli hai. 2027 ke beech mein ek mahina aisa aayega jab is rishte ko lekar ek bada faisla lena pad sakta hai. Kya ladke ki taraf se koi date aayi hai abhi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March aur April 2027 ko main time mano, baaki poori window September 2028 tak khuli hai. 2027 ke beech mein ek mahina aisa aayega jab is rishte ko lekar ek bada faisla lena pad sakta hai. Kya ladke ki taraf se koi date aayi hai abhi?"
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Koi date nahi hai abhi.",
+    "sec": 240,
+    "idx": 30
+  }
+]

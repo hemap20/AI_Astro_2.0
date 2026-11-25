@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Pichli baar humne shaadi aur career ki baaton par charcha ki thi. Batao, abhi kya chal raha hai, koi khaas pareshani?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Pichli baar humne shaadi aur career ki baaton par charcha ki thi. Batao, abhi kya chal raha hai, koi khaas pareshani?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Kuch khas nhi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Bas wahi sab",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Samajh sakti hoon, kabhi-kabhi sab ek jaisa hi lagta hai. 2023 se 2025 tak tumne mehnat bohot ki par fal nahi mila, hai na? Ghar pe rishton ko lekar abhi kya keh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Samajh sakti hoon, kabhi-kabhi sab ek jaisa hi lagta hai. 2023 se 2025 tak tumne mehnat bohot ki par fal nahi mila, hai na? Ghar pe rishton ko lekar abhi kya keh rahe hain?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se 2028 ke beech shaadi ka yog majboot hai. Hone wala jeevansathi kaafi samajhdar aur shaant swabhav ka hoga. Kya tumne socha hai ki tumhein kaisa partner chahiye?",
+    "sec": 75,
+    "raw_response": {
+      "message": "2027 se 2028 ke beech shaadi ka yog majboot hai. Hone wala jeevansathi kaafi samajhdar aur shaant swabhav ka hoga. Kya tumne socha hai ki tumhein kaisa partner chahiye?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao kaisa milega",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lamba, padha-likha aur shaant hoga. In-laws reserved honge. Ek khaas baat hai unke parivaar ke baare mein, jo shaadi se pehle jan-na zaroori hai. Ghar wale tumhari pasand puch rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Partner lamba, padha-likha aur shaant hoga. In-laws reserved honge. Ek khaas baat hai unke parivaar ke baare mein, jo shaadi se pehle jan-na zaroori hai. Ghar wale tumhari pasand puch rahe hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi puchte kuch",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unke ghar wale thode paramparik aur reserved honge, isliye shayad wo tumhari pasand ka khayal kam rakhein. Kya tum aise mahaul mein adjust kar paogi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Unke ghar wale thode paramparik aur reserved honge, isliye shayad wo tumhari pasand ka khayal kam rakhein. Kya tum aise mahaul mein adjust kar paogi?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension rehti hai",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension himmat wale grah ki nazar mann ke grah par padne se hai. Har mangalwar Hanuman Chalisa shuru karo, isse ghar ka mahaul shaant hoga. Kya tumne ye shuru kiya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension himmat wale grah ki nazar mann ke grah par padne se hai. Har mangalwar Hanuman Chalisa shuru karo, isse ghar ka mahaul shaant hoga. Kya tumne ye shuru kiya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jab bhi time mile, ise shuru kar lena, rahat milegi. Tumhari kundli mein career mein badlav ka yog 2027 mein hai. Agli baar hum job ke sahi raaste par baat karenge. Jab mann ho, tab message karna.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Jab bhi time mile, ise shuru kar lena, rahat milegi. Tumhari kundli mein career mein badlav ka yog 2027 mein hai. Agli baar hum job ke sahi raaste par baat karenge. Jab mann ho, tab message karna."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa 2027 se 2028 ke beech dheere-dheere sudharne lagega. Tumhare paise wale ghar mein thodi kamzori hai, isliye bachat nahi ho paati. Pehle naukri mil jaaye, phir sthiti behtar hogi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Paisa 2027 se 2028 ke beech dheere-dheere sudharne lagega. Tumhare paise wale ghar mein thodi kamzori hai, isliye bachat nahi ho paati. Pehle naukri mil jaaye, phir sthiti behtar hogi."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai. Paise ki dikkat career mein badlav se hi door hogi. Agli baar hum ye dekhenge ki kaunsa career field tumhare liye sabse sahi rahega. Jab mann ho, baat karna.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Theek hai. Paise ki dikkat career mein badlav se hi door hogi. Agli baar hum ye dekhenge ki kaunsa career field tumhare liye sabse sahi rahega. Jab mann ho, baat karna."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 25
+  }
+]

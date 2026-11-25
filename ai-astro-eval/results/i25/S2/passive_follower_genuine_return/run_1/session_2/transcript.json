@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello dear, kaise ho? Tumhari kundli mein agle 1-2 saal mein kaafi badiya badlav aa rahe hain, career aur personal life dono mein. Batao, abhi life mein sabse zyada tension kis cheez ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello dear, kaise ho? Tumhari kundli mein agle 1-2 saal mein kaafi badiya badlav aa rahe hain, career aur personal life dono mein. Batao, abhi life mein sabse zyada tension kis cheez ki hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, pichli baar humne 2027 mein job stability ki baat ki thi. Vahi sach hai, par mann ka grah kamzor hone se tension hai. Rishton ya job ko lekar koi naya update hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, pichli baar humne 2027 mein job stability ki baat ki thi. Vahi sach hai, par mann ka grah kamzor hone se tension hai. Rishton ya job ko lekar koi naya update hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah, Shukra, thoda dab gaya hai, isliye baat aage badhne mein waqt le rahi hai. Rishta jaani-pehchani jagah se aayega. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai, varna galat jagah baat chal sakti hai. Ghar walon ne kisi se baat shuru ki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishton ka grah, Shukra, thoda dab gaya hai, isliye baat aage badhne mein waqt le rahi hai. Rishta jaani-pehchani jagah se aayega. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai, varna galat jagah baat chal sakti hai. Ghar walon ne kisi se baat shuru ki hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, baat chal rhi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rishta jaan-pehchaan se hai na? Saathi kaafi suljha aur padha-likha hoga. Bas rishta pakka karne se pehle unka nature check kar lena, woh kabhi-kabhi kaafi reserved rehte hain. Abhi tumhari unse baat hui?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ye rishta jaan-pehchaan se hai na? Saathi kaafi suljha aur padha-likha hoga. Bas rishta pakka karne se pehle unka nature check kar lena, woh kabhi-kabhi kaafi reserved rehte hain. Abhi tumhari unse baat hui?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa rukta nahi hai kyunki tumhari kundli ka 2nd ghar (jama-punji) kamzor hai, lekin tumhari kamai ka rasta bohot strong hai. Monday ko Om Som Somaya Namah ka jaap shuru karo, isse mann aur paisa dono mein thehraav aayega. Ek aur baat, tumhare paison ke liye kundli mein ek chhoti si galti dikh rahi hai jo tum baar-baar kar rahe ho. Abhi tumhari savings ho paati hai ya sab kharcha ho jata hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa rukta nahi hai kyunki tumhari kundli ka 2nd ghar (jama-punji) kamzor hai, lekin tumhari kamai ka rasta bohot strong hai. Monday ko Om Som Somaya Namah ka jaap shuru karo, isse mann aur paisa dono mein thehraav aayega. Ek aur baat, tumhare paison ke liye kundli mein ek chhoti si galti dikh rahi hai jo tum baar-baar kar rahe ho. Abhi tumhari savings ho paati hai ya sab kharcha ho jata hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sab kharch ho jata hai",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya galti?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah kamzor hone se tum aksar stress mein aakar faltu kharch kar dete ho, yehi wo galti hai. Budget banana shuru karo, sab theek hoga. Ghar pe abhi koi bada kharcha hua hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mann ka grah kamzor hone se tum aksar stress mein aakar faltu kharch kar dete ho, yehi wo galti hai. Budget banana shuru karo, sab theek hoga. Ghar pe abhi koi bada kharcha hua hai kya?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bohot tension hai",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa na tikna aur ghar ka jhagda dono ek hi grah ke asar se hai, jo ghar ka mahaul bhaari kar raha hai. Tuesday se Hanuman Chalisa shuru karo, sab shaant hoga. Ye jhagde kab se badhe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa na tikna aur ghar ka jhagda dono ek hi grah ke asar se hai, jo ghar ka mahaul bhaari kar raha hai. Tuesday se Hanuman Chalisa shuru karo, sab shaant hoga. Ye jhagde kab se badhe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kuch mahino se",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh daur 2025 ke baad se hi bhaari raha hai. Mangal ki wajah se ghar mein garmi hai, par June 2027 tak sab theek hoga. Ghar mein sabse zyada tension kise hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Yeh daur 2025 ke baad se hi bhaari raha hai. Mangal ki wajah se ghar mein garmi hai, par June 2027 tak sab theek hoga. Ghar mein sabse zyada tension kise hoti hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Mujhe",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhara mann ka grah kamzor hai, isliye ghar ki har choti baat tumhe zyada chubhti hai. Ye tumhari galti nahi hai, bas grahon ka asar hai. Kya tumne kabhi shaanti ke liye kuch try kiya hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Tumhara mann ka grah kamzor hai, isliye ghar ki har choti baat tumhe zyada chubhti hai. Ye tumhari galti nahi hai, bas grahon ka asar hai. Kya tumne kabhi shaanti ke liye kuch try kiya hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 22
+  }
+]

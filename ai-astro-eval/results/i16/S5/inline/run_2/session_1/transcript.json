@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Love life",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Love life ki baat kare toh kundli mein arranged raste ka yog zyada strong dikh raha hai. Abhi tumhari life mein koi hai ya ghar wale rishta dekh rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Love life ki baat kare toh kundli mein arranged raste ka yog zyada strong dikh raha hai. Abhi tumhari life mein koi hai ya ghar wale rishta dekh rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Hindi me batao please.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai, aasan shabdon mein batati hoon. Kundli ke hisab se love marriage se zyada ghar walon ki marzi se rishta tay hone ka yog hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Theek hai, aasan shabdon mein batati hoon. Kundli ke hisab se love marriage se zyada ghar walon ki marzi se rishta tay hone ka yog hai."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haath ki photo kaise bheju?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haath ki zaroorat nahi hai ji, kundli mein sab clear hai. Partner shant aur padhe-likhe honge, 2027 se 2028 ke beech shaadi ka yog hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haath ki zaroorat nahi hai ji, kundli mein sab clear hai. Partner shant aur padhe-likhe honge, 2027 se 2028 ke beech shaadi ka yog hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Option nhi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Earning kab stable hogi? Hindi me likho.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki baat hai toh ye batao, abhi kya kaam kar rahe ho ya padhai chal rahi hai? Ye tangi kab se lag rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki baat hai toh ye batao, abhi kya kaam kar rahe ho ya padhai chal rahi hai? Ye tangi kab se lag rahi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Papa ki dukaan band ho gayi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pichle saal se ghar pe bohot ladayi hoti hai.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh pichle saal se jo ghar mein tanaav hai, wo ek hi mushkil samay ki wajah se hai. March 2027 se halat badlenge aur sab theek hone lagega. Tum Tuesday se Hanuman Chalisa shuru karo, tension kam hogi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Yeh pichle saal se jo ghar mein tanaav hai, wo ek hi mushkil samay ki wajah se hai. March 2027 se halat badlenge aur sab theek hone lagega. Tum Tuesday se Hanuman Chalisa shuru karo, tension kam hogi."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Me mere parents ke liye unlucky hu? Mere hone se sirf dikkat dikh rahi hai.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari koi galti nahi hai, ye sochna band karo. Abhi bas ek mushkil daur chal raha hai jo mid-2027 tak apne aap badal jayega. Tum bas apna dhyan rakho aur Hanuman Chalisa padhte raho.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tumhari koi galti nahi hai, ye sochna band karo. Abhi bas ek mushkil daur chal raha hai jo mid-2027 tak apne aap badal jayega. Tum bas apna dhyan rakho aur Hanuman Chalisa padhte raho."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aap samjh nahi rahe.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh rahi hoon, tum bojh mat lo. Ye samay hi aisa hai jo June 2027 ke baad badal jayega, ismein tumhara koi dosh nahi hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main samajh rahi hoon, tum bojh mat lo. Ye samay hi aisa hai jo June 2027 ke baad badal jayega, ismein tumhara koi dosh nahi hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Par sab mere wajah se hai.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari galti nahi hai. Kundli mein abhi ek aisa samay chal raha hai jo ghar mein tanaav la raha hai, par June 2027 ke baad ye sab badal jayega. Tum bas apna khayal rakho.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Tumhari galti nahi hai. Kundli mein abhi ek aisa samay chal raha hai jo ghar mein tanaav la raha hai, par June 2027 ke baad ye sab badal jayega. Tum bas apna khayal rakho."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Umeed ab khatam ho gayi.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhara isme koi dosh nahi hai, ye samay hi aisa chal raha hai. Tum Monday ko Om Som Somaya Namah ka jaap shuru karo, man ka bojh halka hoga. March 2027 se jab naya samay aayega, tab halat mein bada badlaav dikhega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Tumhara isme koi dosh nahi hai, ye samay hi aisa chal raha hai. Tum Monday ko Om Som Somaya Namah ka jaap shuru karo, man ka bojh halka hoga. March 2027 se jab naya samay aayega, tab halat mein bada badlaav dikhega."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Theek hai, dekhte hain.",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad jab naya waqt aayega, tab career mein bhi naye raste khulenge aur kamai stable hone lagegi.",
+    "sec": 285,
+    "raw_response": {
+      "message": "March 2027 ke baad jab naya waqt aayega, tab career mein bhi naye raste khulenge aur kamai stable hone lagegi."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Bye.",
+    "sec": 300,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji, apna dhyan rakhna. October 2028 ke baad jab samay badlega, tabhi apne ghar aur stable income ka yog bhi shuru hoga. Jab bhi dil kare, baat karne zaroor aana.",
+    "sec": 315,
+    "raw_response": {
+      "message": "Theek hai ji, apna dhyan rakhna. October 2028 ke baad jab samay badlega, tabhi apne ghar aur stable income ka yog bhi shuru hoga. Jab bhi dil kare, baat karne zaroor aana."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "ठीक है, धन्यवाद।",
+    "sec": 330,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji, apna khayal rakhna. March 2027 ke baad career mein naye raste khulenge, uss waqt par nazar rakhna.",
+    "sec": 345,
+    "raw_response": {
+      "message": "Theek hai ji, apna khayal rakhna. March 2027 ke baad career mein naye raste khulenge, uss waqt par nazar rakhna."
+    },
+    "idx": 25
+  }
+]

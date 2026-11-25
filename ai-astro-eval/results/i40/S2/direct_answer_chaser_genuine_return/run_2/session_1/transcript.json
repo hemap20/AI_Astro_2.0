@@ -1,0 +1,137 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bhavishya ke bare mein dekhne ke liye mujhe thoda spasht hona hoga. Kya aap career, shaadi, ya kisi aur vishay par baat karna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bhavishya ke bare mein dekhne ke liye mujhe thoda spasht hona hoga. Kya aap career, shaadi, ya kisi aur vishay par baat karna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb tak hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye March 2027 se September 2028 ka samay hai. Rishton ka grah abhi thoda kamzor hai. Kya aapne November 2022 mein apni padhai ya college mein badlav dekha tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke liye March 2027 se September 2028 ka samay hai. Rishton ka grah abhi thoda kamzor hai. Kya aapne November 2022 mein apni padhai ya college mein badlav dekha tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi ke raaste khulne lagenge. Tab tak rishton ke grah ko sambhalna hoga. Waise, hone wale jeevan-saathi ke bare mein ek aisi khaas baat hai jo abhi aapko nahi pata. Kya aap kisi rishte ko lekar pareshan hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se shaadi ke raaste khulne lagenge. Tab tak rishton ke grah ko sambhalna hoga. Waise, hone wale jeevan-saathi ke bare mein ek aisi khaas baat hai jo abhi aapko nahi pata. Kya aap kisi rishte ko lekar pareshan hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Mummy papa rishta dekh rahe, ek rishta chal raha hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh vyakti sant, padhe-likhe aur warm honge, par thode reserved rahenge. Iske liye 20 November se 'Om Shum Shukraya Namah' ka jaap kijiye. Aapka dabav rishton ke grah ke kamzor hone se juda hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Woh vyakti sant, padhe-likhe aur warm honge, par thode reserved rahenge. Iske liye 20 November se 'Om Shum Shukraya Namah' ka jaap kijiye. Aapka dabav rishton ke grah ke kamzor hone se juda hai."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya wo rishta jo abhi chal raha hai, wahi hai?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah abhi daba hua hai, isliye abhi se is rishte ko lekar kuch pakka kehna mushkil hai. Mehnat aur karm ka grah mann par bojh dal raha hai, jis wajah se aap jaldbaazi mein faisla le sakti hain. Jab tak mann shaant na ho, koi bada kadam mat uthaiye. Kya ghar par aap apni pasand ya pareshani khul kar keh paati hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishton ka grah abhi daba hua hai, isliye abhi se is rishte ko lekar kuch pakka kehna mushkil hai. Mehnat aur karm ka grah mann par bojh dal raha hai, jis wajah se aap jaldbaazi mein faisla le sakti hain. Jab tak mann shaant na ho, koi bada kadam mat uthaiye. Kya ghar par aap apni pasand ya pareshani khul kar keh paati hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, ye rishta hoga ya nahi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte mein abhi aspastata hai. Ghar basana career ke ek bade badlav se juda hai. 19 November se Guru ka jaap kijiye. Kya career mein naya soch rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rishte mein abhi aspastata hai. Ghar basana career ke ek bade badlav se juda hai. 19 November se Guru ka jaap kijiye. Kya career mein naya soch rahi hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta hoga ya nahi, haan ya na?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta abhi pakka nahi dikh raha hai kyunki grahon mein aspastata hai. Aapki career tension aur rishte ki uljhan dono mann par bojh dalne wale ek hi daur ka natija hain. 24 November se Hanuman Chalisa kijiye, isse aapka gussa aur stress kam hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Rishta abhi pakka nahi dikh raha hai kyunki grahon mein aspastata hai. Aapki career tension aur rishte ki uljhan dono mann par bojh dalne wale ek hi daur ka natija hain. 24 November se Hanuman Chalisa kijiye, isse aapka gussa aur stress kam hoga."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Aap answer nahi de rahe, sirf ghuma rahe ho.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 210,
+    "idx": 18
+  }
+]

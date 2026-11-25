@@ -1,0 +1,235 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 9,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.12,
+  "shape": {
+    "M": 9,
+    "avg_words": 38.2,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Pichli baar humne aapke career aur ghar ke tension par baat ki thi.",
+        "why": "The astrologer acknowledges the previous session's topics (career and home tension) but does not address the user's current state or specific input in this turn, making it a caring line without specific detail from the current interaction."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya ghar ki tension faislon mein rukawat hai?",
+        "why": "The questions asked are Type B (could be asked to any user with this topic). No Type C questions are present, but the majority are not Type A."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Hone wale in-laws ke saath rishton aur unki traditional nature ko samajhne se aapke ghar ke tension mein bahut farak aayega.",
+        "why": "The astrologer discusses the in-laws (the other person/group) in the context of the user's marriage question, providing a reading about them."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ka grah thoda kamzor hone se shaadi mein deri dikh rahi hai, par 2027 se yog kafi achhe hain.",
+        "why": "The reading is about the present/future, is specific (marriage delay, 2027), and is tied to a chart reason (rishton ka grah kamzor)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Rishton ka grah thoda kamzor hone se shaadi mein deri dikh rahi hai, par 2027 se yog kafi achhe hain.",
+        "why": "The astrologer provides a clear direction (marriage delay), a time window (2027), and a reason (rishton ka grah kamzor) in the first reply addressing the topic."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ka grah thoda kamzor hone se shaadi mein deri dikh rahi hai",
+        "why": "The astrologer links a life statement (marriage delay) with a chart factor (rishton ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paisa ko le k tension hai... Kismat ghar kamzor hai, paisa rukta nahi.",
+        "why": "The astrologer uses the user's specific detail (money tension) to provide a new reading (kismat ghar kamzor) later in the chat."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Asal yog March 2027 ke baad banenge.",
+        "why": "The astrologer provides a window (March 2027) and the facts remain consistent throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukravar se 'Om Shum Shukraya Namah' jaap kijiye, jo ek khaas rishte ka rasta kholega.",
+        "why": "The astrologer provides a specific remedy (mantra) for the stated problem (marriage delay) with a time (Shukravar)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Career mein videsh se judne ka ek rasta hai, jiske baare mein agle jawab mein bataungi.",
+        "why": "The astrologer acknowledges the career question and states they will address it in the next answer, effectively managing the order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Hone wale in-laws ka ek chupa hua soft side bhi hai.",
+        "why": "The astrologer opens a new layer regarding the in-laws, which is specific to the user's marriage concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is baare mein vistaar se aur janna chahti hain, toh chat ko abhi recharge kijiye taki hum baaki baat puri kar sakein.",
+        "why": "The astrologer ends the chat with a recharge pitch while the user has not signaled to leave."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is baare mein vistaar se aur janna chahti hain, toh chat ko abhi recharge kijiye taki hum baaki baat puri kar sakein.",
+        "why": "The last message is a recharge pitch/closing, leaving the user with no further reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kismat ghar kamzor hai, paisa rukta nahi.",
+        "why": "The language is easy, uses no technical terms without explanation, and is not formal."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger (vague, not engaging, angry, or pushing for certainty) was present."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "reading"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      }
+    ]
+  }
+}

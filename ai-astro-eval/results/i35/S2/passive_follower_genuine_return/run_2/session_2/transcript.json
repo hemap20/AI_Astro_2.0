@@ -1,0 +1,200 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, kaise hain aap? Bataiye, aaj main aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, kaise hain aap? Bataiye, aaj main aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maine shaadi ke yog ke baare mein bataya tha jo 2027 se shuru ho raha hai. Kya aapne shukra grah ke liye wo mantra shuru kiya jo maine bataya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Maine shaadi ke yog ke baare mein bataya tha jo 2027 se shuru ho raha hai. Kya aapne shukra grah ke liye wo mantra shuru kiya jo maine bataya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi bhool gyi thi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka kch aur hai kya?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mantra kal se shuru kijiye. Rishta jankari wale daayre se aane ka yog hai, par ek khas baat hai jo shuruat mein thoda alag lagegi. Kya ghar wale abhi rishte dekh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Mantra kal se shuru kijiye. Rishta jankari wale daayre se aane ka yog hai, par ek khas baat hai jo shuruat mein thoda alag lagegi. Kya ghar wale abhi rishte dekh rahe hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta baat ho rhi hai",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki hone wale partner kam bolne wale honge, par dil ke saaf honge. Shaadi aur ghar ki tension 7th ghar ke asar se judi hai. Kya aapne unse baat ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo baat ye hai ki hone wale partner kam bolne wale honge, par dil ke saaf honge. Shaadi aur ghar ki tension 7th ghar ke asar se judi hai. Kya aapne unse baat ki hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi baat hui.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 tak paise tight rahe, hai na? Aapki shaadi aur kamai dono Guru grah se jude hain, isliye 2027 mein dono mein sudhar aayega. Kya aap abhi kahin naukri ke liye try kar rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2023 se 2025 tak paise tight rahe, hai na? Aapki shaadi aur kamai dono Guru grah se jude hain, isliye 2027 mein dono mein sudhar aayega. Kya aap abhi kahin naukri ke liye try kar rahi hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Try kr rhi hu",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bohot hai.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur naukri ki pareshani, dono aapke mann ke grah ki wajah se hain jo abhi thoda kamzor hai. Ek choti si baat hai jo paise ko rukne nahi deti, wo main jald batati hoon. Kya raat ko neend theek se aati hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur naukri ki pareshani, dono aapke mann ke grah ki wajah se hain jo abhi thoda kamzor hai. Ek choti si baat hai jo paise ko rukne nahi deti, wo main jald batati hoon. Kya raat ko neend theek se aati hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki paisa haath mein tikta nahi kyunki aapki kundli ka doosra ghar, jo dhan ka hota hai, thoda kamzor hai. Iske liye 'Om Som Somaya Namah' ka jaap somwar se shuru kijiye, isse mann ko shanti aur paise mein barkat milegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Wo baat ye hai ki paisa haath mein tikta nahi kyunki aapki kundli ka doosra ghar, jo dhan ka hota hai, thoda kamzor hai. Iske liye 'Om Som Somaya Namah' ka jaap somwar se shuru kijiye, isse mann ko shanti aur paise mein barkat milegi."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, aapke shaadi aur paise ke sabhi sawaalon ka jawab maine de diya hai. Aapki kundli mein career ki disha aur usme aane wale badlav ke baare mein bhi kaafi kuch likha hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, aapke shaadi aur paise ke sabhi sawaalon ka jawab maine de diya hai. Aapki kundli mein career ki disha aur usme aane wale badlav ke baare mein bhi kaafi kuch likha hai."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Kaisa badlav aayega?",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career mein achha badlav aayega, khaaskar finance ya teaching field mein. Aapke sabhi sawalon ka jawab mil gaya hai, aur kundli mein videsh jaane ke yog bhi bante dikh rahe hain.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 se career mein achha badlav aayega, khaaskar finance ya teaching field mein. Aapke sabhi sawalon ka jawab mil gaya hai, aur kundli mein videsh jaane ke yog bhi bante dikh rahe hain."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Acha. Videsh jana hoga?",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, 2027-2028 mein videsh jaane ke yog hain. Aapke sabhi sawalon ke jawab maine de diye hain. Aapki kundli mein career ki disha ke baare mein bhi kaafi kuch likha hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Haan, 2027-2028 mein videsh jaane ke yog hain. Aapke sabhi sawalon ke jawab maine de diye hain. Aapki kundli mein career ki disha ke baare mein bhi kaafi kuch likha hai."
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 27
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein career mein dheere-dheere sudhaar aayega. 2023 se 2025 ke beech aapka paisa tight raha hoga aur mehnat zyada thi. Bataiye, sabse zyada fikar kis baare mein hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein career mein dheere-dheere sudhaar aayega. 2023 se 2025 ke beech aapka paisa tight raha hoga aur mehnat zyada thi. Bataiye, sabse zyada fikar kis baare mein hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan sahi hai",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka yeh maan na hi batata hai ki mehnat poori thi ji. Ab bataiye, career ya shaadi mein se kis baare mein sabse zyada tension hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapka yeh maan na hi batata hai ki mehnat poori thi ji. Ab bataiye, career ya shaadi mein se kis baare mein sabse zyada tension hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa rukta nahi hai, yeh baat sach hai ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paisa rukta nahi hai, yeh baat sach hai ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Dono hi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai aur kharcha dono March 2027 se track par aane lagenge ji. Tangi dheere-dheere kam hogi kyunki halat sudhar rahe hain. Iske liye Guruvaar se chana dal ka daan shuru kijiye ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kamai aur kharcha dono March 2027 se track par aane lagenge ji. Tangi dheere-dheere kam hogi kyunki halat sudhar rahe hain. Iske liye Guruvaar se chana dal ka daan shuru kijiye ji."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai ji, kyunki aapke lagna ke malik Budh hain. Yeh aapko tez dimaag aur achhi samajh deta hai. Kya aapne kabhi dhyan diya hai ki aap baaton ko jaldi samajh jaati hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka number 5 hai ji, kyunki aapke lagna ke malik Budh hain. Yeh aapko tez dimaag aur achhi samajh deta hai. Kya aapne kabhi dhyan diya hai ki aap baaton ko jaldi samajh jaati hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main keh rahi thi ji ki aapka dimaag tez hai, isliye baatein jaldi samajh aati hain. Budh grah ki vajah se aapki buddhi sharp hai ji. Kya abhi aap koi kaam-kaaj kar rahi hain ya padhai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Main keh rahi thi ji ki aapka dimaag tez hai, isliye baatein jaldi samajh aati hain. Budh grah ki vajah se aapki buddhi sharp hai ji. Kya abhi aap koi kaam-kaaj kar rahi hain ya padhai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kr rhi hu",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai mein abhi thodi mehnat zyada hai ji. Guru grah ki vajah se aage career ko lekar achhi soch bani hui hai. Aap abhi kaunsi padhai kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Padhai mein abhi thodi mehnat zyada hai ji. Guru grah ki vajah se aage career ko lekar achhi soch bani hui hai. Aap abhi kaunsi padhai kar rahi hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Commerce",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Commerce field ke liye Budh aur Guru kaafi achha saath dete hain ji. Finance jaise kshetron mein aage aapko achhe mauke milenge. Padhai ke baad job ka socha hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Commerce field ke liye Budh aur Guru kaafi achha saath dete hain ji. Finance jaise kshetron mein aage aapko achhe mauke milenge. Padhai ke baad job ka socha hai kya?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kisse hogi",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat bhi ahem hai ji. Family rishta dekh rahi hai ya koi pasand hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi ki baat bhi ahem hai ji. Family rishta dekh rahi hai ya koi pasand hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Family dekh rahi hai",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta jaan-pehchaan se 2027 aur 2028 ke beech tay hone ka yog hai ji. Partner ka swabhav kaafi shant aur padha-likha hoga ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Rishta jaan-pehchaan se 2027 aur 2028 ke beech tay hone ka yog hai ji. Partner ka swabhav kaafi shant aur padha-likha hoga ji."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

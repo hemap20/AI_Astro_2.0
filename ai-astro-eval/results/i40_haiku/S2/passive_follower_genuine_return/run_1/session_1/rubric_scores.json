@@ -1,0 +1,179 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 6,
+    "2.7": 7,
+    "3.1": 4,
+    "3.2": 7,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.59,
+  "shape": {
+    "M": 8,
+    "avg_words": 37.8,
+    "long_share": 0.62
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar mein tension ho to man bhaari rehta hai, yeh samajh sakti hoon.",
+        "why": "The astrologer acknowledges the user's feeling of tension and the home situation."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aapko yaad hai ki Oct 2025 ke aas-paas career ke baare mein sochna shuru hua tha?",
+        "why": "The astrologer asks questions that are Type B (could be asked to anyone) and some are repetitive/not building on the user's specific life context effectively."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kundli mein Chandra, jo mann ka grah hai, abhi thoda kamzor hai, isliye neend aur sukoon par asar padta hai.",
+        "why": "The reading is about the present, new (not stated by user), specific (sleep issues), and tied to a chart reason (Chandra)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki kundli mein shaadi ki pehli khidki Mar 2027 se Sep 2028 ke beech dikhti hai.",
+        "why": "The astrologer provides a clear direction and time window for the main question (marriage) without needing a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kundli mein Chandra, jo mann ka grah hai, abhi thoda kamzor hai, isliye neend aur sukoon par asar padta hai.",
+        "why": "The astrologer links a life issue (sleep/peace) to a chart factor (Chandra) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension Mar 2027 se dheere dheere kam hone ke aasar hain.",
+        "why": "The astrologer adds a new point about the home tension timeline, using the user's previous input about tension."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se Sep 2028 ke beech dikhti hai.",
+        "why": "The astrologer provides a consistent time window for marriage and money issues."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aaj raat sone se pehle kuch der gehri saans lijiye.",
+        "why": "The advice is practical but generic; it lacks a strong link to the specific chart cause mentioned earlier."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paise ki halat abhi dheere dheere sudhar sakti hai... Ghar ki tension Mar 2027 se dheere dheere kam hone ke aasar hain.",
+        "why": "The astrologer addresses both the marriage and money questions, keeping the thread of the conversation."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": null,
+        "why": "Nothing further is opened; the astrologer just provides readings."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": null,
+        "why": "No closing message, and the astrologer continues to provide readings/guidance."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kundli mein Shani, jo mehnat aur karm ka grah hai, abhi ka daur bhaari hai, par Mar 2027 ke baad halki hone lagti hai.",
+        "why": "The last message provides a real reading/guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kundli mein Chandra, jo mann ka grah hai, abhi thoda kamzor hai",
+        "why": "The language is easy, and astrology terms are explained in plain words."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein shaadi ka samay kaafi saaf dikhta hai.",
+        "why": "The user opened with 'Future' (Vague trigger). The astrologer immediately pivoted to a reading after asking for the topic."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      }
+    ]
+  }
+}

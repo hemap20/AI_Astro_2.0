@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, kaise hain aap? Bataiye, kya pareshani hai aaj?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, kaise hain aap? Bataiye, kya pareshani hai aaj?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar jo baat adhoori thi, us par bataiye. Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 mein hi tay hogi ji. Shani ki maha-dasha yehi yog bana rahi hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 mein hi tay hogi ji. Shani ki maha-dasha yehi yog bana rahi hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein exact date kya hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date astrology nahi batati ji. Shani AD March 2027 se shuru hokar rishta pakka karegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Exact date astrology nahi batati ji. Shani AD March 2027 se shuru hokar rishta pakka karegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Gharwale rishta dekh rahe hain, ek baat chal rahi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya usse hi hogi ya koi naya aayega?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance isi baat ke hain ji. Kundli mein known circles se arranged rishte ka yog hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Zyada chance isi baat ke hain ji. Kundli mein known circles se arranged rishte ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Matlab confirm isi se hogi?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pura pakka waqt hi batayega ji. Lekin known circles se rishta lag raha hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Pura pakka waqt hi batayega ji. Lekin known circles se rishta lag raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, haan ya na?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, isi se hone ke zyada chances hain ji. Guru aur Budh ka yog known circles se rishta pakka karta hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, isi se hone ke zyada chances hain ji. Guru aur Budh ka yog known circles se rishta pakka karta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega? Job mein promotion kab hai?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 mein promotion pakka hai ji. 10th lord Guru strong hokar achhi growth dega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se September 2028 mein promotion pakka hai ji. 10th lord Guru strong hokar achhi growth dega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein ya 2028 mein?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shuruat March 2027 se hi hogi ji. Shani AD aate hi pehla breakthrough mil jayega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shuruat March 2027 se hi hogi ji. Shani AD aate hi pehla breakthrough mil jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab tak khatam hogi?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad sab theek hoga ji. Shani ki sthiti badal rahi hai tab.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke baad sab theek hoga ji. Shani ki sthiti badal rahi hai tab.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 21
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Pichle chat mein humne aapke marriage aur job ke timing par baat ki thi, aapne wo bataye gaye white sweets ke upay kiye kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Pichle chat mein humne aapke marriage aur job ke timing par baat ki thi, aapne wo bataye gaye white sweets ke upay kiye kya?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya. Shadi kab hogi, date batao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekh sakti hoon ki shaadi March 2027 se September 2028 ke beech tay hogi. Kya November 2022 mein aapki padhai mein badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Main dekh sakti hoon ki shaadi March 2027 se September 2028 ke beech tay hogi. Kya November 2022 mein aapki padhai mein badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me kaun sa mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main batati hoon, June 2027 ke aas-paas shaadi ki baat pakki hone ka yog banta hai. Ghar wale is dauran kis baat par sabse zyada tension dete hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main batati hoon, June 2027 ke aas-paas shaadi ki baat pakki hone ka yog banta hai. Ghar wale is dauran kis baat par sabse zyada tension dete hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rahe hain, ek ladka dekha hai. Ye wala sahi hai ya nahi?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka padha-likha aur shant swabhaw ka hoga, par thoda guarded nature bhi hai. Is rishte mein ek khaas baat aur hai jo baad mein khul kar aayegi. Kya unke ghar wale thode traditional hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ladka padha-likha aur shant swabhaw ka hoga, par thoda guarded nature bhi hai. Is rishte mein ek khaas baat aur hai jo baad mein khul kar aayegi. Kya unke ghar wale thode traditional hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan, traditional hain.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta sahi hai ya nahi, haan ya na?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rishta sahi hai kyunki kismat ka grah sath de raha hai. Wo khaas baat unka reserved nature hai. 21 November se kaale til ka daan kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ye rishta sahi hai kyunki kismat ka grah sath de raha hai. Wo khaas baat unka reserved nature hai. 21 November se kaale til ka daan kijiye."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Til kab tak daan karu? Aur paisa?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kaale til har Saturday daan kijiye. Paise ki halat March 2027 ke baad sudhregi jab kamai ka daur aayega. Kya aapka paisa achanak kharch ho jata hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kaale til har Saturday daan kijiye. Paise ki halat March 2027 ke baad sudhregi jab kamai ka daur aayega. Kya aapka paisa achanak kharch ho jata hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan. Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension June 2027 ke baad kam hone lagegi. Mehnat aur karm ka grah jo abhi dabav de raha hai, uska asar hatega. Kya is wajah se aapki neend kharab hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension June 2027 ke baad kam hone lagegi. Mehnat aur karm ka grah jo abhi dabav de raha hai, uska asar hatega. Kya is wajah se aapki neend kharab hoti hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Haan. Ghar ki tension ka koi exact year ya month? June 2027 fix hai?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, June 2027 ka hi samay pakka hai jab ye dabav hatega. Main samajh sakti hoon ki ye kitna mushkil hai. Kya aap ye tension apne tak hi rakhti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, June 2027 ka hi samay pakka hai jab ye dabav hatega. Main samajh sakti hoon ki ye kitna mushkil hai. Kya aap ye tension apne tak hi rakhti hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan. Ok.",
+    "sec": 240,
+    "idx": 17
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki aaj kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki aaj kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi meri. Exact batao.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichle session mein humne baat ki thi ki rishte ki baat abhi thodi dheemi hai. Shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain. Kya November 2022 mein aapki padhai ya college ki zindagi mein koi bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichle session mein humne baat ki thi ki rishte ki baat abhi thodi dheemi hai. Shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain. Kya November 2022 mein aapki padhai ya college ki zindagi mein koi bada badlav aaya tha?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, kuch khas nahi.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok, par 2027 me kaun se mahine tak confirm?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi baat aage badhne ke poore asaar hain. Aapke shaadi aur career ki pareshani, dono ki wajah mann ka grah Chandra par karm ke grah ki nazar hai, isliye deri lag rahi hai. Hone wale jeevansathi kafi shant nature ke honge, par unke baare mein ek aur baat hai jo abhi thodi chupi hui hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se hi baat aage badhne ke poore asaar hain. Aapke shaadi aur career ki pareshani, dono ki wajah mann ka grah Chandra par karm ke grah ki nazar hai, isliye deri lag rahi hai. Hone wale jeevansathi kafi shant nature ke honge, par unke baare mein ek aur baat hai jo abhi thodi chupi hui hai."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pehle date clear karo.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekha hai, kya wahi chupi hui baat hai?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruat mein hi yog majboot honge. Woh chupi hui baat aapke hone wale in-laws ka thoda reserved nature hai, jo shuru mein samajh nahi aayega. Rishton ke grah Shukra ko thoda bal dene ke liye 20 November se 'Om Shum Shukraya Namah' ka 108 baar jaap kijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke shuruat mein hi yog majboot honge. Woh chupi hui baat aapke hone wale in-laws ka thoda reserved nature hai, jo shuru mein samajh nahi aayega. Rishton ke grah Shukra ko thoda bal dene ke liye 20 November se 'Om Shum Shukraya Namah' ka 108 baar jaap kijiye."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se aayega jab Mangal majboot honge. Shaadi aur paison ki dikkat tab sulajh jayengi. Finance mein ek mauka chupa hai, jiske liye 19 Nov se Guru mantra kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa March 2027 se aayega jab Mangal majboot honge. Shaadi aur paison ki dikkat tab sulajh jayengi. Finance mein ek mauka chupa hai, jiske liye 19 Nov se Guru mantra kijiye."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi? Exact batao.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur career, dono isliye hain kyunki karm ke grah ka asar mann par hai. November 2026 se halat sudharenge. 24 November se Hanuman Chalisa shuru kijiye. Kya koi purani baat ghar mein chinta ka karan hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur career, dono isliye hain kyunki karm ke grah ka asar mann par hai. November 2026 se halat sudharenge. 24 November se Hanuman Chalisa shuru kijiye. Kya koi purani baat ghar mein chinta ka karan hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "November 2026 me konsi date tak?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki purani baatein chhoro, date batao.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani ka asar February 2027 ke baad dheere-dheere kam hone lagega. Aapke mehnat ke grah ka asar tab tak halka ho jayega, jisse ghar ka mahaul sudhregi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki pareshani ka asar February 2027 ke baad dheere-dheere kam hone lagega. Aapke mehnat ke grah ka asar tab tak halka ho jayega, jisse ghar ka mahaul sudhregi."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Feb 2027 me konsi date tak?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, date batao.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Feb 2027 mein 15 तारीख ke baad se mahaul badalne lagega. Mehnat ke grah ka asar tab kam ho jayega, jisse ghar ki chintaon se rahat milegi. Iske liye 21 November se 'Om Sham Shanaishcharaya Namah' ka 108 baar jaap kijiye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Feb 2027 mein 15 तारीख ke baad se mahaul badalne lagega. Mehnat ke grah ka asar tab kam ho jayega, jisse ghar ki chintaon se rahat milegi. Iske liye 21 November se 'Om Sham Shanaishcharaya Namah' ka 108 baar jaap kijiye."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 22
+  }
+]

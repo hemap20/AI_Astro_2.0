@@ -1,0 +1,192 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas bulane ka yog nahi hai, ji. March 2027 ke baad naya mauka milega. Guru ki kripa se growth hogi.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas bulane ka yog nahi hai, ji. March 2027 ke baad naya mauka milega. Guru ki kripa se growth hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bata do",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein Shani AD shuru hote hi, naya mauka milega ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 mein Shani AD shuru hote hi, naya mauka milega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Acha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September tak. Guru aur Shani ka yog hai. Nayi naukri pakki mil jayegi ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September tak. Guru aur Shani ka yog hai. Nayi naukri pakki mil jayegi ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi pichli baar bhi galat hua",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki baat bilkul theek hai, ji. Shani ke asar se delay ho jata hai. Ab rasta saaf hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapki baat bilkul theek hai, ji. Shani ke asar se delay ho jata hai. Ab rasta saaf hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k tension hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki tension bilkul jayaz hai, ji. Doosre ghar ki kamzor sthiti se paisa rukta nahi hai. March 2027 ke baad halat badal jayenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapki tension bilkul jayaz hai, ji. Doosre ghar ki kamzor sthiti se paisa rukta nahi hai. March 2027 ke baad halat badal jayenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab, paisa aane par bhi rukta nahi, ji. March ke baad karza bhi utrega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Matlab, paisa aane par bhi rukta nahi, ji. March ke baad karza bhi utrega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kaisa hoga",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner tall, calm aur warm honge ji. Rishta known circles se arranged hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Partner tall, calm aur warm honge ji. Rishta known circles se arranged hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Okk",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi ka yeh yog March 2027 se September 2028 ke beech ban raha hai, ji. In-laws thode traditional aur reserved ho sakte hain.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shadi ka yeh yog March 2027 se September 2028 ke beech ban raha hai, ji. In-laws thode traditional aur reserved ho sakte hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein ek aur cheez dikh rahi hai, ji. Partner ki ek guarded side bhi hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Kundli mein ek aur cheez dikh rahi hai, ji. Partner ki ek guarded side bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "D9 kundli mein Vrishchika ka asar hai. Isse partner andar se thode cautious hote hain. Shaadi ke baad apne ghar ka yog bhi hai ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "D9 kundli mein Vrishchika ka asar hai. Isse partner andar se thode cautious hote hain. Shaadi ke baad apne ghar ka yog bhi hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 24
+  }
+]

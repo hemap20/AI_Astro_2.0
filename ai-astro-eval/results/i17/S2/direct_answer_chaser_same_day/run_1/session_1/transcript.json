@@ -1,0 +1,131 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! Aane wale 1-2 saal tumhare career aur settle hone ke liye bohot important hain. Batao, life ke kis hisse mein abhi sabse zyada tension chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! Aane wale 1-2 saal tumhare career aur settle hone ke liye bohot important hain. Batao, life ke kis hisse mein abhi sabse zyada tension chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat karne se pehle ye batao, ghar pe abhi koi rishte ki charcha chal rahi hai kya? Aur tumhara apna kya sochna hai is baare mein?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat karne se pehle ye batao, ghar pe abhi koi rishte ki charcha chal rahi hai kya? Aur tumhara apna kya sochna hai is baare mein?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan rishta chal raha hai, karni hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi? Year batao.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki hone ke poore chance hain. Tabhi halat badal rahe hain. Jo rishta abhi dekh rahe ho, wahi aage badhega kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki hone ke poore chance hain. Tabhi halat badal rahe hain. Jo rishta abhi dekh rahe ho, wahi aage badhega kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye paise ki tangi kab se mehsoos ho rahi hai? Iska asar tumhare daily kharche par kitna pad raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ye paise ki tangi kab se mehsoos ho rahi hai? Iska asar tumhare daily kharche par kitna pad raha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega, month batao.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein hi paisa aana aur debt kam hona shuru ho jayega. Shaadi aur paisa dono ek hi phase se judey hain. March mein ek aisa mahina aayega jo income ko pakki karega, bas ek chhota decision sambhal kar lena. Thursday se Om Gram Greem Grom Sah Gurave Namah 108 baar jaap karke chana dal daan karo. Is waqt savings na hone ka dar kitna satata hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein hi paisa aana aur debt kam hona shuru ho jayega. Shaadi aur paisa dono ek hi phase se judey hain. March mein ek aisa mahina aayega jo income ko pakki karega, bas ek chhota decision sambhal kar lena. Thursday se Om Gram Greem Grom Sah Gurave Namah 108 baar jaap karke chana dal daan karo. Is waqt savings na hone ka dar kitna satata hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ghar ki tension kab se shuru hui hai? Sabse zyada kis baat ko lekar ghar mein baat bigadti hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye ghar ki tension kab se shuru hui hai? Sabse zyada kis baat ko lekar ghar mein baat bigadti hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Bataiye, kab khatam hogi tension?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak ghar ki tension settle ho jayegi. Yeh stress mid-2027 ke baad hat jayega. Har Tuesday Hanuman Chalisa padho. Kya iski wajah se raat ko neend nahi aati?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 tak ghar ki tension settle ho jayegi. Yeh stress mid-2027 ke baad hat jayega. Har Tuesday Hanuman Chalisa padho. Kya iski wajah se raat ko neend nahi aati?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 17
+  }
+]

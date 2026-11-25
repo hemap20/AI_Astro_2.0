@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Aap kaise hain aur aaj kis baare mein baat karna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Aap kaise hain aur aaj kis baare mein baat karna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, pichli baar humne aapki shaadi aur padhai ke baad ke finances par baat ki thi. Padhai complete hone ke baad abhi kya plan chal raha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, pichli baar humne aapki shaadi aur padhai ke baad ke finances par baat ki thi. Padhai complete hone ke baad abhi kya plan chal raha hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech ban raha hai. Kya 2022 mein aapki padhai ya college life mein koi bada badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech ban raha hai. Kya 2022 mein aapki padhai ya college life mein koi bada badlav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak 2027 me?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein April se June ke beech shaadi ka sabse sthir yog hai. Aapke pati ke nature ko lekar kundali mein ek alag baat dikhti hai. Kya abhi koi rishta chal raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2027 mein April se June ke beech shaadi ka sabse sthir yog hai. Aapke pati ke nature ko lekar kundali mein ek alag baat dikhti hai. Kya abhi koi rishta chal raha hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rhe gharwale.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo kafi padhe-likhe, shaant aur lambe honge, par thode reserved rahenge. Har Shukravar ko safed mithai daan kijiye. Kya ye rishta kisi jaan-pehchan ke zariye aaya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wo kafi padhe-likhe, shaant aur lambe honge, par thode reserved rahenge. Har Shukravar ko safed mithai daan kijiye. Kya ye rishta kisi jaan-pehchan ke zariye aaya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan, jaan-pehchan ke hain.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ye wala rishta pakka hoga ya nahi?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, 7th ghar ke maalik Guru ke kaaran jaan-pehchan wala ye rishta pakka hone ke poore aasaar hain. Kya ghar mein abhi tension thodi kam hui hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, 7th ghar ke maalik Guru ke kaaran jaan-pehchan wala ye rishta pakka hone ke poore aasaar hain. Kya ghar mein abhi tension thodi kam hui hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Job kb lagegi meri?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job lagne ka accha daur mid 2027 se shuru hoga. Kismat aur gyaan ka grah majboot hone se finance ya teaching mein safalta milegi. Abhi kis field ki tayari kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Job lagne ka accha daur mid 2027 se shuru hoga. Kismat aur gyaan ka grah majboot hone se finance ya teaching mein safalta milegi. Abhi kis field ki tayari kar rahi hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Banking.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Mid 2027 matlab kaunsa month?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "July se August 2027 ke beech banking mein job milne ke sabse acche yog hain. Har Brihaspativar chana dal daan karne se kaam jaldi banega. Kya abhi tayari sahi chal rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "July se August 2027 ke beech banking mein job milne ke sabse acche yog hain. Har Brihaspativar chana dal daan karne se kaam jaldi banega. Kya abhi tayari sahi chal rahi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Haan, theek hai.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke ghar ki tension June 2027 tak shant ho jayegi. Aapke sasural ke log aur unka nature kaisa rahega, is par baat baaki hai. Abhi recharge karke aage ki baat jaanein.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapke ghar ki tension June 2027 tak shant ho jayegi. Aapke sasural ke log aur unka nature kaisa rahega, is par baat baaki hai. Abhi recharge karke aage ki baat jaanein."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 23
+  }
+]

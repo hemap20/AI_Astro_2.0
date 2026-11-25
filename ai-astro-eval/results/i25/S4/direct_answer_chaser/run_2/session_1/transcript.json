@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar born hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai. 2022 se life mein jo badlav aaye, wo isi disha mein hain, hai na? Tumhe ek shant partner suit karega; kya ye ladka waisa hi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai. 2022 se life mein jo badlav aaye, wo isi disha mein hain, hai na? Tumhe ek shant partner suit karega; kya ye ladka waisa hi hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Wo shant nhi hai, short-tempered hai.",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Mene 2 baar dekha hai use.",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "To kya wo sahi hai ya nhi?",
+    "sec": 30,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gusse wala partner tumhare liye theek nahi hai, tumhe ek shant insaan ki zaroorat hai. Tumhara mann ka grah abhi heavy feel kar raha hai, jisse rishton mein stress badh sakta hai. Kya tumne ye baat ghar walon ko batayi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Gusse wala partner tumhare liye theek nahi hai, tumhe ek shant insaan ki zaroorat hai. Tumhara mann ka grah abhi heavy feel kar raha hai, jisse rishton mein stress badh sakta hai. Kya tumne ye baat ghar walon ko batayi?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "To kya ye rishta shi h ya nhi?",
+    "sec": 60,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Direct bataiye.",
+    "sec": 60,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nahi, ye sahi match nahi hai, kundli mein shant partner ka yog hai. Hanuman Chalisa padhna shuru karo, ye tumhare Mangal ko shant rakhega. Shaadi ke liye ek aur rishta aayega, jise pehchanna zaroori hai, warna baat galat jagah chal jayegi. Ghar pe koi aur rishta chala hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Nahi, ye sahi match nahi hai, kundli mein shant partner ka yog hai. Hanuman Chalisa padhna shuru karo, ye tumhare Mangal ko shant rakhega. Shaadi ke liye ek aur rishta aayega, jise pehchanna zaroori hai, warna baat galat jagah chal jayegi. Ghar pe koi aur rishta chala hai kya?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, koi aur rishta nhi hai.",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 90,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 ya 2028?",
+    "sec": 90,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Konse month?",
+    "sec": 90,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo samay maine bataya, uske shuru hote hi chances zyada hain. Rishton ka grah abhi kundli mein dab gaya hai, isliye deri ho rahi hai. Shukravar ko 'Om Shum Shukraya Namah' 108 baar jaap shuru karo, isse rishta aane mein asaani hogi. Hone wale in-laws thode traditional honge, par kya tumhein unka nature handle karna aayega?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jo samay maine bataya, uske shuru hote hi chances zyada hain. Rishton ka grah abhi kundli mein dab gaya hai, isliye deri ho rahi hai. Shukravar ko 'Om Shum Shukraya Namah' 108 baar jaap shuru karo, isse rishta aane mein asaani hogi. Hone wale in-laws thode traditional honge, par kya tumhein unka nature handle karna aayega?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 120,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exact shadi hogi?",
+    "sec": 120,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "2027 me ya 2028?",
+    "sec": 120,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shuruat ke chances sabse zyada hain, tabhi kismat ka naya daur shuru hoga. Baaki pura window khula hai. Ghar pe rishte ki baat abhi kahan tak pahunchi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 mein shuruat ke chances sabse zyada hain, tabhi kismat ka naya daur shuru hoga. Baaki pura window khula hai. Ghar pe rishte ki baat abhi kahan tak pahunchi hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me pakka?",
+    "sec": 150,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo maine bataya, wahi time kismat kholne wala hai. Partner lambe aur shant swabhav ke milenge, jo isi window mein aayenge. Unka ek 'guarded side' hai jise pehchanne mein bhool ho sakti hai, kya tumne future partner ke liye kuch socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Jo maine bataya, wahi time kismat kholne wala hai. Partner lambe aur shant swabhav ke milenge, jo isi window mein aayenge. Unka ek 'guarded side' hai jise pehchanne mein bhool ho sakti hai, kya tumne future partner ke liye kuch socha hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "March 2027.",
+    "sec": 180,
+    "idx": 27
+  }
+]

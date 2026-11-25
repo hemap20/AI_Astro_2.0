@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! 2027 se tumhara time badal raha hai, kaafi cheezein theek hongi. Batao, abhi sabse zyada pareshani kis cheez mein chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! 2027 se tumhara time badal raha hai, kaafi cheezein theek hongi. Batao, abhi sabse zyada pareshani kis cheez mein chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "October se hi settle hone ki baatein chal rahi hongi, par baat aage nahi badh pa rahi. Ghar pe abhi koi rishta dekh rahe hain kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "October se hi settle hone ki baatein chal rahi hongi, par baat aage nahi badh pa rahi. Ghar pe abhi koi rishta dekh rahe hain kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan ek rishta chal raha hai. Shaadi kab hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai. Shukra ki kamzori se abhi baat thodi khich rahi hai. Partner shaant honge, unse baat hoti hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai. Shukra ki kamzori se abhi baat thodi khich rahi hai. Partner shaant honge, unse baat hoti hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month tak pakka ho jayegi?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein baat pakki hone ka poora chance hai, tabhi yog ban raha hai. Waise, shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ya April 2027 mein baat pakki hone ka poora chance hai, tabhi yog ban raha hai. Waise, shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Job kab lagegi?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye job ki talaash kab se chal rahi hai, aur abhi kahan kahan apply kiya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ye job ki talaash kab se chal rahi hai, aur abhi kahan kahan apply kiya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "6 mahine se. Kab lagegi?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad job lagne ka yog shuru ho raha hai, tab tak rukawat hategi. Tumhara interest teaching ya finance mein hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad job lagne ka yog shuru ho raha hai, tab tak rukawat hategi. Tumhara interest teaching ya finance mein hai kya?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Finance.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Finance mein 2027 ke baad badiya mauka milega. Ye ghar ka tanaav kis baat ko lekar chal raha hai, aur iska sabse zyada asar kiske upar aa raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Finance mein 2027 ke baad badiya mauka milega. Ye ghar ka tanaav kis baat ko lekar chal raha hai, aur iska sabse zyada asar kiske upar aa raha hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Paisa aur ladayi. Tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad ghar ka mahaul dheere-dheere shaant hone lagega. Tuesdays ko Hanuman Chalisa padhna shuru karo, isse kaafi rahat milegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad ghar ka mahaul dheere-dheere shaant hone lagega. Tuesdays ko Hanuman Chalisa padhna shuru karo, isse kaafi rahat milegi."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna hai ye?",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh kam se kam 40 din tak karna, 24 November se start karna. March 2027 ke baad ghar ke halaat mein khud fark dikhne lagega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Yeh kam se kam 40 din tak karna, 24 November se start karna. March 2027 ke baad ghar ke halaat mein khud fark dikhne lagega."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 19
+  }
+]

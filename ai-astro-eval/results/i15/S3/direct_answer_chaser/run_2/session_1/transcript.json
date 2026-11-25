@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri job kab tak lagegi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech job ka strong yog ban raha hai ji. Pichle kuch mahino se career mein thoda slow progress raha hai na? Tumhara field kaun sa hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech job ka strong yog ban raha hai ji. Pichle kuch mahino se career mein thoda slow progress raha hai na? Tumhara field kaun sa hai."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse month?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se June 2027 ke beech ka time sabse strong hai, kyunki tabhi ruka hua kaam chal padega. Interview ki taiyari kaisi chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March se June 2027 ke beech ka time sabse strong hai, kyunki tabhi ruka hua kaam chal padega. Interview ki taiyari kaisi chal rahi hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pura saal paisa kaisa rahega?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paise ki halat sudhregi aur purana karz bhi utrega ji. Mangalwar se Hanuman Chalisa padhna shuru karo, kamai mein madad milegi. Ghar pe is baare mein kisi se baat hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad paise ki halat sudhregi aur purana karz bhi utrega ji. Mangalwar se Hanuman Chalisa padhna shuru karo, kamai mein madad milegi. Ghar pe is baare mein kisi se baat hoti hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Is saal ka btao.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa is saal aayega ya nahi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal paisa thoda tight hi chalega kyunki bachat wali jagah par dabav hai ji. March ke baad hi asli rahat milegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Is saal paisa thoda tight hi chalega kyunki bachat wali jagah par dabav hai ji. March ke baad hi asli rahat milegi."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhara number 5 hai, jo Budh ka number hai ji. Iska matlab tumhara dimag tez hai aur baatcheet se sabka dil jeet leti ho.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Tumhara number 5 hai, jo Budh ka number hai ji. Iska matlab tumhara dimag tez hai aur baatcheet se sabka dil jeet leti ho."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Baki pure saal health kaisa rahega?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal neend aur digestion thoda pareshan kar sakte hain ji. Chandra kamzor hone se ye hota hai, par mid-2027 tak sab theek ho jayega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Is saal neend aur digestion thoda pareshan kar sakte hain ji. Chandra kamzor hone se ye hota hai, par mid-2027 tak sab theek ho jayega."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Thik hai.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension mat lo ji, Monday ko Om Som Somaya Namah ka 108 baar jap shuru karo, neend ki pareshani door hone lagegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Tension mat lo ji, Monday ko Om Som Somaya Namah ka 108 baar jap shuru karo, neend ki pareshani door hone lagegi."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai ji. Rishta jaan-pehchaan ke through arranged aane ka poora chance hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai ji. Rishta jaan-pehchaan ke through arranged aane ka poora chance hai."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 ki shuruat mein baat pakki hone ka sabse strong time hai ji. 2027 ke end tak koi traditional ghar se rishta aa sakta hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "2028 ki shuruat mein baat pakki hone ka sabse strong time hai ji. 2027 ke end tak koi traditional ghar se rishta aa sakta hai."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

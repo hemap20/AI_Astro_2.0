@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Main aapki kundali dekh sakti hoon. Aap future mein career ke baare mein jaanna chahte hain ya shaadi ke?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Main aapki kundali dekh sakti hoon. Aap future mein career ke baare mein jaanna chahte hain ya shaadi ke?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka accha yog March 2027 se September 2028 ke beech ban raha hai. Kya 2022 ke aaspas aapki padhai ya college mein koi bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka accha yog March 2027 se September 2028 ke beech ban raha hai. Kya 2022 ke aaspas aapki padhai ya college mein koi bada badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan change tha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse month me?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saal 2027 mein March aur April ke mahine sabse acche dikh rahe hain ji. Rishton ke grah ke dabne se thodi deri hoti hai, par kundali mein ek khaas baat bhi dikh rahi hai. Ghar wale abhi se rishta dekh rahe hain kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Saal 2027 mein March aur April ke mahine sabse acche dikh rahe hain ji. Rishton ke grah ke dabne se thodi deri hoti hai, par kundali mein ek khaas baat bhi dikh rahi hai. Ghar wale abhi se rishta dekh rahe hain kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan dekh rahe hain, ek rishta chal raha hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya khaas baat hai?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Khaas baat yeh hai ki aapke jeevansathi lambe, shant aur bohot padhe-likhe honge. Rishton ke grah ki mazbooti ke liye 20 November se safed mithai daan kijiye. Kya yeh rishta kisi jaan-pehchan ke zariye aaya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Khaas baat yeh hai ki aapke jeevansathi lambe, shant aur bohot padhe-likhe honge. Rishton ke grah ki mazbooti ke liye 20 November se safed mithai daan kijiye. Kya yeh rishta kisi jaan-pehchan ke zariye aaya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan jaan pehchan ka hai.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche zyada hone se paisa rukta nahi, par kamai ke grah ki madad se halat sudhrenge. Kismat ke grah ka daur aapke kaam mein ek naya rasta kholne wala hai. Abhi naukri kar rahe hain ya khud ka kaam karna chahte hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kharche zyada hone se paisa rukta nahi, par kamai ke grah ki madad se halat sudhrenge. Kismat ke grah ka daur aapke kaam mein ek naya rasta kholne wala hai. Abhi naukri kar rahe hain ya khud ka kaam karna chahte hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Naukri kar rahi hoon.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak paisa aayega? Exact bataiye.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ka grah aapke kaam mein naya rasta khol raha hai, isliye March se April 2027 ke dauran acchi salary badhne ke yog hain. Abhi se thodi bachat banaye rakhein. Kya is naukri mein abhi kaam ka bohot dabav rehta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kismat ka grah aapke kaam mein naya rasta khol raha hai, isliye March se April 2027 ke dauran acchi salary badhne ke yog hain. Abhi se thodi bachat banaye rakhein. Kya is naukri mein abhi kaam ka bohot dabav rehta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan, bohot hai.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri ka dabav aur ghar ki tension dono mann ke grah par asar daal rahe hain, isliye overthinking badh jaati hai. Kismat aur gyaan ke grah ke liye guruwar se chana dal daan kijiye. Ghar par aamtaur par kis baat par jhagda hota hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Naukri ka dabav aur ghar ki tension dono mann ke grah par asar daal rahe hain, isliye overthinking badh jaati hai. Kismat aur gyaan ke grah ke liye guruwar se chana dal daan kijiye. Ghar par aamtaur par kis baat par jhagda hota hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Choti baaton pe.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Bataiye na kab tak khatam hogi.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ke grah par dabav June 2027 ke baad kam hoga, tabhi ghar ka mahaul poori tarah shaant dikhta hai. Choti baaton par react karna thoda kam kijiye. Kya is tension ki wajah se neend par bhi asar padta hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mann ke grah par dabav June 2027 ke baad kam hoga, tabhi ghar ka mahaul poori tarah shaant dikhta hai. Choti baaton par react karna thoda kam kijiye. Kya is tension ki wajah se neend par bhi asar padta hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 23
+  }
+]

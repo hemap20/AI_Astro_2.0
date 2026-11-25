@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Kahiye, kya janna chahti hain aap aaj?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Kahiye, kya janna chahti hain aap aaj?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Meri shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar maine aapko Hanuman Chalisa batayi thi. Aapki shaadi ka yog March 2027 se September 2028 ke beech hai. Kya November 2022 mein aapke college mein kuch badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar maine aapko Hanuman Chalisa batayi thi. Aapki shaadi ka yog March 2027 se September 2028 ke beech hai. Kya November 2022 mein aapke college mein kuch badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, college khatam hua tha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me 2027?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shaadi ka yog sabse pakka lagta hai. Kya ghar mein rishte ki baat aage badhane mein kisi purani baat par charcha hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 mein shaadi ka yog sabse pakka lagta hai. Kya ghar mein rishte ki baat aage badhane mein kisi purani baat par charcha hoti hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan, parents rishta dekh rahe hain, ek baat chal rahi hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke hone wale partner ke baare mein ek khaas baat kundli mein hai jo waqt aane par pata chalegi. Kya ghar wale is rishte ko lekar jaldi mein hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke hone wale partner ke baare mein ek khaas baat kundli mein hai jo waqt aane par pata chalegi. Kya ghar wale is rishte ko lekar jaldi mein hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan, jaldi mein hain.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta final hoga ya nahi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rishta pakka ho sakta hai, kyunki partner shant aur padhe-likhe hain, bas thode reserve rehte hain. Shukra ke liye Friday se white sweets donate kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ye rishta pakka ho sakta hai, kyunki partner shant aur padhe-likhe hain, bas thode reserve rehte hain. Shukra ke liye Friday se white sweets donate kijiye."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak lagegi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad aapko job milne ki poori ummeed batati hoon. Mehnat aur karm ke grah ki sthiti se abhi thoda samay lag raha hai. Kya aapko kaam ke liye kahin door jana pad sakta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad aapko job milne ki poori ummeed batati hoon. Mehnat aur karm ke grah ki sthiti se abhi thoda samay lag raha hai. Kya aapko kaam ke liye kahin door jana pad sakta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 me exact kab tak?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 ke shuru mein hi kaam pakka hone ka yog banta hai. Kya aapko pehle bhi aisi hi der ka samna karna pada hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "July 2027 ke shuru mein hi kaam pakka hone ka yog banta hai. Kya aapko pehle bhi aisi hi der ka samna karna pada hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Haan.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "April 2027 tak ghar ka mahol shant hone lagega. Himmat aur urja ke grah ke asar se yeh tanaav dheere-dheere kam hoga. Kya is tanaav ki wajah se aapki neend par asar padta hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "April 2027 tak ghar ka mahol shant hone lagega. Himmat aur urja ke grah ke asar se yeh tanaav dheere-dheere kam hoga. Kya is tanaav ki wajah se aapki neend par asar padta hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 22
+  }
+]

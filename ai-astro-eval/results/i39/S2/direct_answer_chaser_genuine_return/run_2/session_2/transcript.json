@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon aur aaj aapke man mein kya sawaal hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon aur aaj aapke man mein kya sawaal hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maine batayi thi ki shaadi aur naukri ke liye March 2027 se ache waqt ki shuruat hogi. Kya aapne pichli baar di gayi upayon ki koshish shuru ki thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Maine batayi thi ki shaadi aur naukri ke liye March 2027 se ache waqt ki shuruat hogi. Kya aapne pichli baar di gayi upayon ki koshish shuru ki thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 bohot late hai. Kuch jaldi nahi ho sakta?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon ki intezaar karna mushkil hai. Abhi mehnat ka grah thoda dheema hai, par 2026 ke ant tak raasta khulne lagega. Kya Nov 2022 mein aapki padhai ya college ki zindagi mein kuch bada badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main samajh sakti hoon ki intezaar karna mushkil hai. Abhi mehnat ka grah thoda dheema hai, par 2026 ke ant tak raasta khulne lagega. Kya Nov 2022 mein aapki padhai ya college ki zindagi mein kuch bada badlav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "College chhodo, shaadi ka batao. 2026 ya 2027?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta agle saal ke pehle chhe mahino mein pakka hoga. Hone wale sathi calm aur educated honge. Kaam aur shaadi mein deri ek hi kamzor grah se hai. Shukravar 'Om Shum Shukraya Namah' 108 baar japein. Ghar ke tanaav mein aapka kya reaction hota hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta agle saal ke pehle chhe mahino mein pakka hoga. Hone wale sathi calm aur educated honge. Kaam aur shaadi mein deri ek hi kamzor grah se hai. Shukravar 'Om Shum Shukraya Namah' 108 baar japein. Ghar ke tanaav mein aapka kya reaction hota hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Naukri kab lagegi fir?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri ke liye March 2027 se 2028 ka samay shubh hai, tabhi kismat ke grah ki madad se badlav aayega. Aapke andar sikhne ki majboot kshamta hai, jo deri ke baad kaam sambhal legi. Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' har Guruvar japein. Kya aapne pehle kisi khaas field mein kaam ki koshish ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Naukri ke liye March 2027 se 2028 ka samay shubh hai, tabhi kismat ke grah ki madad se badlav aayega. Aapke andar sikhne ki majboot kshamta hai, jo deri ke baad kaam sambhal legi. Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' har Guruvar japein. Kya aapne pehle kisi khaas field mein kaam ki koshish ki hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Field chhoro, 2027 mein kaunse mahine?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job March 2027 mein milne ki poori ummeed hai. Kismat ka grah tab majboot hoga. Teaching aur media mein ek naya mauka aapke liye hai. Kya kabhi in fields mein socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Job March 2027 mein milne ki poori ummeed hai. Kismat ka grah tab majboot hoga. Teaching aur media mein ek naya mauka aapke liye hai. Kya kabhi in fields mein socha hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "March mein kaunsi date?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke doosre hafte mein naukri ke grah sabse majboot hain. Ghabrahat kam karne se hi raasta saaf dikhega. Waise, ek purana rishtedar hai jo is career mein aapki madad kar sakta hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke doosre hafte mein naukri ke grah sabse majboot hain. Ghabrahat kam karne se hi raasta saaf dikhega. Waise, ek purana rishtedar hai jo is career mein aapki madad kar sakta hai."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh rishtedar parivar ke purane dost hain jo career mein madad kar sakte hain. Ghar ka tanaav mid-2027 tak kam ho jayega. Shanivar se 'Om Sham Shanaishcharaya Namah' 108 baar japein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Woh rishtedar parivar ke purane dost hain jo career mein madad kar sakte hain. Ghar ka tanaav mid-2027 tak kam ho jayega. Shanivar se 'Om Sham Shanaishcharaya Namah' 108 baar japein."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Mid-2027 matlab kaunsa mahina?",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshaniyan June 2027 tak dheere-dheere khatam ho jayengi. Aapke hone wale saathi ka vyaktitva kaafi shant aur samajhdaar hoga jo aapke rishte ko ek gehri samajh dega. Is baare mein aur vistaar se janne ke liye aap abhi chat recharge kar sakte hain, taaki hum ye baatein poori kar sakein.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki pareshaniyan June 2027 tak dheere-dheere khatam ho jayengi. Aapke hone wale saathi ka vyaktitva kaafi shant aur samajhdaar hoga jo aapke rishte ko ek gehri samajh dega. Is baare mein aur vistaar se janne ke liye aap abhi chat recharge kar sakte hain, taaki hum ye baatein poori kar sakein."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Time aise hi nikal gaya.",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 270,
+    "idx": 21
+  }
+]

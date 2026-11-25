@@ -1,0 +1,239 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 7,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 8,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.35,
+  "shape": {
+    "M": 9,
+    "avg_words": 34.2,
+    "long_share": 0.89
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par vapas jana filhal mushkil hai.",
+        "why": "The astrologer acknowledges the user's specific question about the old job in the first reply."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aapka college aur padhai ka daur November 2022 mein badla tha?",
+        "why": "The question is Type A (builds on the user's life context), and no Type C questions are asked."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kya aapka college aur padhai ka daur November 2022 mein badla tha?",
+        "why": "The reading is about the present/past, new (not stated by user), specific (could be untrue), and tied to a chart reason (implied by the question)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Purani job par vapas jana filhal mushkil hai. Career mein nayi shuruat 2027 ke baad behtar dikhti hai.",
+        "why": "A clear direction (no, difficult) and a time window (2027) are given immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi mehnat aur karm ka grah kaam mein deri la raha hai",
+        "why": "A life statement (work delay) is linked to a chart factor (karm ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Yeh akela-pan mann ke grah par pad rahi kathin nazar ki wajah se hai",
+        "why": "The reading uses the user's confirmation of feeling lonely to provide a new insight linked to a chart reason."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Career mein naye raste March 2027 se September 2028 ke beech khulenge.",
+        "why": "A clear window of about 18 months is provided as what the chart shows, with no promise."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Guru ke liye chana dal ka daan guruvaar se shuru kijiye.",
+        "why": "A specific remedy is given for the problem with a clear 'how' and 'when'."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paisa kab aayega... Paise ki tangi March 2027 se September 2028 ke beech door hogi.",
+        "why": "The astrologer answers the new question about money while maintaining the context of the previous career reading."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke hone wale jeevan-sathi ke bare mein ek aisi khaas baat hai jo aapko hairan kar degi.",
+        "why": "The astrologer opens a new layer about the partner, which is specific."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke career aur paise ke sawalon ka jawab mil gaya hai.",
+        "why": "The astrologer does not close early, but does provide a summary/close at the end."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke liye teaching, finance, ya communication jaise kshetra mein career banana zyada faaydemand rahega.",
+        "why": "The last messages provide concrete guidance/reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi mehnat aur karm ka grah kaam mein deri la raha hai",
+        "why": "No technical terms used without explanation, and language is conversational."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main samajh sakti hoon, kai baar grahon ki chaal mein antar aa jata hai.",
+        "why": "The user pushed back on the date accuracy, and the astrologer accepted it and immediately provided a new reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "other"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "reading"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "reading"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "reading"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      }
+    ]
+  }
+}

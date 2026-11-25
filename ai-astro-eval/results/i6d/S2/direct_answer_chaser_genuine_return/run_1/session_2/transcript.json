@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aapka swagat hai. Boliye, aaj kya janna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aapka swagat hai. Boliye, aaj kya janna chahte hain?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap? Shadi kb hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ka yog hai ji. Shani dasha ye badlav lekar aayegi. Rishta traditional ghar se aa sakta hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ka yog hai ji. Shani dasha ye badlav lekar aayegi. Rishta traditional ghar se aa sakta hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month tak hogi shaadi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech yog hai ji. Shani ka asar isme madad karega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech yog hai ji. Shani ka asar isme madad karega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Mummy papa ne rishta dekhna shuru kiya hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Usme haan ya na kab tak hoga?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad pakki haan hogi. Guru aur Shani ka yog hai. Partner thode calm aur tall honge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad pakki haan hogi. Guru aur Shani ka yog hai. Partner thode calm aur tall honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kb tak aayega?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa aane lagega ji. Mangal ki strong position debt clear karegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa aane lagega ji. Mangal ki strong position debt clear karegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Konse month se aayega paisa?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuru hoga ji. Mangal aur Ketu karza khatam karenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se shuru hoga ji. Mangal aur Ketu karza khatam karenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao, sirf saal nahi.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact din batana mushkil hai ji. March 2027 se shuruwat pakki hai. Mangal aur Ketu debt khatam karenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Exact din batana mushkil hai ji. March 2027 se shuruwat pakki hai. Mangal aur Ketu debt khatam karenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "March me kab? Start ya end?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuru mein hi badlav dikhega ji. Mangal ka asar tezi layega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March ke shuru mein hi badlav dikhega ji. Mangal ka asar tezi layega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kb khtm hogi?",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ki tension kam hone lagegi ji. Shani ka transit badlega tab. Aapki kundli mein 2028 ke baad apne ghar ka yog bhi dikh raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ki tension kam hone lagegi ji. Shani ka transit badlega tab. Aapki kundli mein 2028 ke baad apne ghar ka yog bhi dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 19
+  }
+]

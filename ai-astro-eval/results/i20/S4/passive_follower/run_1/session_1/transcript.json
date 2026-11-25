@@ -1,0 +1,212 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se hi aayega. Ghar pe abhi kisi baat ki charcha chal rahi hai kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan se hi aayega. Ghar pe abhi kisi baat ki charcha chal rahi hai kya?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke mutabiq ladka calm aur padha-likha hoga, par thoda guarded bhi. Rishte se pehle ek baar Mangal zarur milana. Ladke ka swabhav ghar walo ko kaisa laga?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kundli ke mutabiq ladka calm aur padha-likha hoga, par thoda guarded bhi. Rishte se pehle ek baar Mangal zarur milana. Ladke ka swabhav ghar walo ko kaisa laga?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Short tempered hai",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein ladka calm aur padha-likha hai, par short temper ke liye Mangal milana zaroori hai. In-laws thode traditional rahenge. Kya ye rishta jaan-pehchaan ka hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli mein ladka calm aur padha-likha hai, par short temper ke liye Mangal milana zaroori hai. In-laws thode traditional rahenge. Kya ye rishta jaan-pehchaan ka hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Jaan pehchan ka h",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaan-pehchaan ka hai toh in-laws traditional rahenge. Mangal ke liye Tuesday se Hanuman Chalisa padhna shuru kar do. Kya ghar wale is rishte se poori tarah khush hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jaan-pehchaan ka hai toh in-laws traditional rahenge. Mangal ke liye Tuesday se Hanuman Chalisa padhna shuru kar do. Kya ghar wale is rishte se poori tarah khush hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Khush hain sab",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab khush hain toh badhiya hai. Friday se Om Shum Shukraya Namah jaap karo. 2027 mein ek mahina aayega jab choti misunderstanding ho sakti hai. Tyari kaisi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sab khush hain toh badhiya hai. Friday se Om Shum Shukraya Namah jaap karo. 2027 mein ek mahina aayega jab choti misunderstanding ho sakti hai. Tyari kaisi hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech hi baat pakki hogi kyunki tab naya phase shuru ho raha hai. Rishte ki baat mein koi aur dikkat toh nahi aa rahi?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech hi baat pakki hogi kyunki tab naya phase shuru ho raha hai. Rishte ki baat mein koi aur dikkat toh nahi aa rahi?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein unka nature kaafi warm aur educated dikh raha hai, bas thode reserved rahenge. In-laws kaafi traditional honge. Tumhe kya lagta hai, unse baat karke kaisa laga?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kundli mein unka nature kaafi warm aur educated dikh raha hai, bas thode reserved rahenge. In-laws kaafi traditional honge. Tumhe kya lagta hai, unse baat karke kaisa laga?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Thik thak tha",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Bas gussa aata hai unko",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa thoda Mangal ki vajah se hai, par andar se wo bohot loyal rahenge. Shadi ke baad ek alag turn aayega jo rishte ko aur strong banayega. Tumhe unke is gusse se thoda darr lagta hai ya manage kar logi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Gussa thoda Mangal ki vajah se hai, par andar se wo bohot loyal rahenge. Shadi ke baad ek alag turn aayega jo rishte ko aur strong banayega. Tumhe unke is gusse se thoda darr lagta hai ya manage kar logi?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension mat lo, sab theek hoga. 2027 mein ek mahina aisa aayega jab is rishte par final decision lena padega. Kya shaadi ke baad job karna chahti ho?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Tension mat lo, sab theek hoga. 2027 mein ek mahina aisa aayega jab is rishte par final decision lena padega. Kya shaadi ke baad job karna chahti ho?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ha job krna hai",
+    "sec": 270,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 270,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job ka achha yog hai. 2027 mein ek mahina aisa aayega jo career ki direction poori tarah badal dega. Tumhara interest kis field mein hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "March 2027 ke baad job ka achha yog hai. 2027 mein ek mahina aisa aayega jo career ki direction poori tarah badal dega. Tumhara interest kis field mein hai?"
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 29
+  }
+]

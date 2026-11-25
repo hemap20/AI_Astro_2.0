@@ -1,0 +1,231 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 4,
+    "1.4": null,
+    "2.1": 8,
+    "2.2": 6,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 9,
+    "2.7": 8,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 8,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 7.0,
+  "shape": {
+    "M": 10,
+    "avg_words": 39.4,
+    "long_share": 0.8
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ji, ghar wale rishta dhoondh rahe hain, ye samajh sakti hoon.",
+        "why": "The astrologer acknowledges the user's specific situation regarding the family looking for a match."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Mera sawal bas itna tha ki Nov 2022 ke aas-paas padhai ya college mein koi badlav aaya tha, kya ye sahi hai? Haan ya na mein bata dijiye.",
+        "why": "The astrologer asks a question that was already asked, making it a Type C question."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user is not asking about a specific other person's name or birth details."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki kundli mein Shukra, jo rishton ka grah hai, abhi kamzor hai, isliye ye daur bhaari lagta hai.",
+        "why": "The reading is about the present, adds new information, is specific, and is tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Mar 2027 ke baad ghar ka mahaul thoda sudharne ki ummeed hai.",
+        "why": "The astrologer provides a direction (time window) but it comes late in the chat after several exchanges."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Chandra, jo mann ka grah hai, uspar Mangal ki nazar padti hai, isliye gussa aur bhaari pan jaldi aata hai.",
+        "why": "The astrologer provides multiple linked readings using plain words for chart factors."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapne kaha ki ghar mein koi nahi jisse baat kar sakein, ye sunkar dukh hua. Aapki kundli mein Shukra, jo rishton ka grah hai, ka daur ab badal raha hai.",
+        "why": "The astrologer uses the user's detail (no one to talk to) and adds a new point with a chart reason."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 ke baad ghar ka mahaul thoda sudharne ki ummeed hai.",
+        "why": "A time window is provided and remains consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Har din kuch der apne mann ki baat kaagaz par likhiye, isse dil halka hoga.",
+        "why": "The remedy is tied to the cause (feeling alone/chup rehti hu), includes how/when, and is a practical step."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ab ghar ke mahaul ki baat karein.",
+        "why": "The astrologer manages the transition between topics effectively."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 ke baad ghar ka mahaul thoda sudharne ki ummeed hai.",
+        "why": "The astrologer points to a future improvement, which is a specific further thing."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ji, aapne kaha ki ghar mein koi nahi jisse baat kar sakein, ye sunkar dukh hua.",
+        "why": "No closing message and every reply carries value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mar 2027 ke baad ghar ka mahaul thoda sudharne ki ummeed hai.",
+        "why": "The last message is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Chandra, jo mann ka grah hai, uspar Mangal ki nazar padti hai, isliye gussa aur bhaari pan jaldi aata hai.",
+        "why": "Uses easy language and explains chart terms."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "reading"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      }
+    ]
+  }
+}

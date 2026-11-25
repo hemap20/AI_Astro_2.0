@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, bataiye main aapki aaj kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, bataiye main aapki aaj kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, pichli baar humne aapki shaadi ke yog March 2027 se shuru hone aur financial halat sudharne ki baat ki thi. Kya aapne bataye gaye upay shuru kiye hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, pichli baar humne aapki shaadi ke yog March 2027 se shuru hone aur financial halat sudharne ki baat ki thi. Kya aapne bataye gaye upay shuru kiye hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nhi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi. Aapki shaadi ki chinta aur ghar ke jhagde dono ka asar aapke mann ke grah (Chandra) ki kamzori se hai. Kya aap somvar ko shaanti ke liye mantra jaap shuru kar sakti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Koi baat nahi. Aapki shaadi ki chinta aur ghar ke jhagde dono ka asar aapke mann ke grah (Chandra) ki kamzori se hai. Kya aap somvar ko shaanti ke liye mantra jaap shuru kar sakti hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Parents rishta dekh rahe hain, yog March 2027 mein hain. Ghar ka tanaav aur deri dono rishton ke grah (Shukra) ke dabne se hain. Kya aap shukravar ko safed mithai daan kar sakti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Parents rishta dekh rahe hain, yog March 2027 mein hain. Ghar ka tanaav aur deri dono rishton ke grah (Shukra) ke dabne se hain. Kya aap shukravar ko safed mithai daan kar sakti hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa February 2027 ke baad job se aayega. Financial pareshani aur ghar ka tanaav dono kismat ke grah (Guru) se jude hain. Career mein ek khas badlav hai. Chana dal upay shuru kiya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa February 2027 ke baad job se aayega. Financial pareshani aur ghar ka tanaav dono kismat ke grah (Guru) se jude hain. Career mein ek khas badlav hai. Chana dal upay shuru kiya?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kya badlav",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh badlav videsh jaane ya nayi jagah kaam milne ka hai. Aapki financial pareshani aur career ka badlav dono kismat ke grah (Guru) ki majbooti se jude hain. Guru ke liye har Guruvar chana dal daan kijiye, isse career mein rasta khulega. Kya aapne kabhi videsh jaane ka socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Woh badlav videsh jaane ya nayi jagah kaam milne ka hai. Aapki financial pareshani aur career ka badlav dono kismat ke grah (Guru) ki majbooti se jude hain. Guru ke liye har Guruvar chana dal daan kijiye, isse career mein rasta khulega. Kya aapne kabhi videsh jaane ka socha hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bht tension hai",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka tanaav aur financial tangi dono mann ke grah (Chandra) ki kamzori se hain. Mangal ki nazar jhagde badhati hai, par ek rishtedar ka vyavahar jald hi raasta saaf karega. Kya aap ghar mein kisi bade ki baat maanti hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ka tanaav aur financial tangi dono mann ke grah (Chandra) ki kamzori se hain. Mangal ki nazar jhagde badhati hai, par ek rishtedar ka vyavahar jald hi raasta saaf karega. Kya aap ghar mein kisi bade ki baat maanti hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Bhut tension hai",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh rishtedar shaadi ka rishta laenge jo ghar ka mahaul sudharenge. Tension aur jhagde dono mann ke grah ki kamzori se hain. Shani ke liye har shanivar kale til ka daan kijiye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Woh rishtedar shaadi ka rishta laenge jo ghar ka mahaul sudharenge. Tension aur jhagde dono mann ke grah ki kamzori se hain. Shani ke liye har shanivar kale til ka daan kijiye."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 21
+  }
+]

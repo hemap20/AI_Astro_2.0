@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Aap bataiye, aaj kya baat karni hai aur main aapki kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Aap bataiye, aaj kya baat karni hai aur main aapki kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, shaadi aur paise par baat hui thi. Shaadi ka yog March 2027 se shuru hai. Waise, aapke hone wale partner ka swabhav thoda alag hoga, is baare mein kuch socha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, shaadi aur paise par baat hui thi. Shaadi ka yog March 2027 se shuru hai. Waise, aapke hone wale partner ka swabhav thoda alag hoga, is baare mein kuch socha hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month tak?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog September 2028 tak rahega. Wo baat ye hai ki partner shaant aur samajhdaar honge, par thode kam bolne wale honge. Ghar mein abhi tension ka kya haal hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog September 2028 tak rahega. Wo baat ye hai ki partner shaant aur samajhdaar honge, par thode kam bolne wale honge. Ghar mein abhi tension ka kya haal hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Parents rishta dekh rahe hain, ek baat chal rahi hai wahi tension hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kb tak aayega?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki financial sthiti aur shaadi ka yog dono March 2027 se hi sudharenge. 11th ghar, jo kamai ka hota hai, tab majboot hoga. Ghar wale jo rishta dekh rahe hain, wo kaisa hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapki financial sthiti aur shaadi ka yog dono March 2027 se hi sudharenge. 11th ghar, jo kamai ka hota hai, tab majboot hoga. Ghar wale jo rishta dekh rahe hain, wo kaisa hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Rishta aaya hai, ladka acha hai kya? Sahi hai ya nahi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah majboot hai. Ghar ka tanaav aur financial pareshani isi rishte ke saath kam honge. Waise, ladke ke gharwale thode purane vicharon ke hain, kya aapne dekha?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishton ka grah majboot hai. Ghar ka tanaav aur financial pareshani isi rishte ke saath kam honge. Waise, ladke ke gharwale thode purane vicharon ke hain, kya aapne dekha?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, ye batao?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta sahi hai kyunki shaadi aur career dono ek hi waqt par sudhrenge. Shukra ke liye har Shukravar safed mithai baantna shuru kijiye. Waise, career mein ek bada mauka hai jiska aapko abhi pata nahi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Yeh rishta sahi hai kyunki shaadi aur career dono ek hi waqt par sudhrenge. Shukra ke liye har Shukravar safed mithai baantna shuru kijiye. Waise, career mein ek bada mauka hai jiska aapko abhi pata nahi hai."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Kaunsa mauka career mein?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo mauka teaching, finance ya communication mein naukri ka hai, kyunki career ka ghar majboot ho raha hai. Iske liye Guruvaar se mantra shuru kijiye aur chana dal daan kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Wo mauka teaching, finance ya communication mein naukri ka hai, kyunki career ka ghar majboot ho raha hai. Iske liye Guruvaar se mantra shuru kijiye aur chana dal daan kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Teeno me se kaunsa fix hai?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Finance ya communication mein naukri ke chances zyada hain, kyunki aapke buddhi ka grah wahan majboot hai. Waise, naukri milne ke baad hi business ka rasta khulega. Aap abhi kya kaam kar rahi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Finance ya communication mein naukri ke chances zyada hain, kyunki aapke buddhi ka grah wahan majboot hai. Waise, naukri milne ke baad hi business ka rasta khulega. Aap abhi kya kaam kar rahi hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nahi.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak milegi job?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri March 2027 se September 2028 ke beech milegi. Isi waqt shaadi aur paise ki pareshani door hogi. Aapki kundli mein career ki disha aur sahi field par kaafi kuch likha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Naukri March 2027 se September 2028 ke beech milegi. Isi waqt shaadi aur paise ki pareshani door hogi. Aapki kundli mein career ki disha aur sahi field par kaafi kuch likha hai."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me kaunsa month?",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke dusre hafte se career aur shaadi ke yog ban rahe hain. Tabhi se sab kuch theek hona shuru ho jayega. Aapki kundli mein videsh jaane ke yogon ke baare mein bhi kaafi kuch likha hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "March 2027 ke dusre hafte se career aur shaadi ke yog ban rahe hain. Tabhi se sab kuch theek hona shuru ho jayega. Aapki kundli mein videsh jaane ke yogon ke baare mein bhi kaafi kuch likha hai."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 300,
+    "idx": 23
+  }
+]

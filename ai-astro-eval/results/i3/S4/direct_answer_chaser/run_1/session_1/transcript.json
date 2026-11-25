@@ -1,0 +1,208 @@
+[
+  {
+    "role": "USER",
+    "text": "Shadi hogi ya nahi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai woh.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, shaadi zaroor hogi. March 2027 se time aayega. Partner calm aur educated milega.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Haan ji, shaadi zaroor hogi. March 2027 se time aayega. Partner calm aur educated milega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me ye ladka sahi hai ya nahi?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Wo toh thoda gusse wala lagta hai.",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa thoda ho sakta hai, par wo andar se kaafi calm aur educated hain ji. Kundli mein Guru ka asar hai, isliye rishta accha chalega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Gussa thoda ho sakta hai, par wo andar se kaafi calm aur educated hain ji. Kundli mein Guru ka asar hai, isliye rishta accha chalega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsi date?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Confirm bataiye.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date nahi batayi ja sakti, par March ki shuruwat mein Shani AD shuru hogi. Usi samay rishta pakka hoga ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Exact date nahi batayi ja sakti, par March ki shuruwat mein Shani AD shuru hogi. Usi samay rishta pakka hoga ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Date fix batao, March 2027 me kab tak?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Sirf month se kaam nahi chalega.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date batana mushkil hai ji. Shani AD March 2027 mein badlegi. Usi dauran final baat hogi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Exact date batana mushkil hai ji. Shani AD March 2027 mein badlegi. Usi dauran final baat hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, shadi kab hogi?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "March me ya uske baad?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech hogi ji. Shani AD ka yog yahi hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech hogi ji. Shani AD ka yog yahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Itni lambi range mat do.",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Specific mahina bataiye.",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak shadi hogi?",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruati mahino mein hi yog ban raha hai ji. Shani AD ka pehla phase sabse strong hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke shuruati mahino mein hi yog ban raha hai ji. Shani AD ka pehla phase sabse strong hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 ya April 2027?",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ek mahina fix bataiye.",
+    "sec": 180,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 hi pakka samjhiye ji. Shani AD lagte hi baat final hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 hi pakka samjhiye ji. Shani AD lagte hi baat final hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Koi upay karna hai kya?",
+    "sec": 210,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shukra ke liye ek chota sa upay hai ji. 'Om Shum Shukraya Namah' ka jaap karo aur safed mithai daan karo.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shukra ke liye ek chota sa upay hai ji. 'Om Shum Shukraya Namah' ka jaap karo aur safed mithai daan karo.",
+      "marital_status": "unchanged"
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna h ye upay?",
+    "sec": 240,
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 28
+  }
+]

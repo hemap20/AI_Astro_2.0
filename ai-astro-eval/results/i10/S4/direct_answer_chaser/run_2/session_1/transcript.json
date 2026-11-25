@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March 2027 se September 2028 ke beech mein hai ji. 2023 se 2025 ke beech aapki mehnat zyada rahi aur paisa bhi tight raha hoga. Yeh jo ladka aapne bataya, rishta family ne dhoondha hai ya aapki apni pasand hai ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March 2027 se September 2028 ke beech mein hai ji. 2023 se 2025 ke beech aapki mehnat zyada rahi aur paisa bhi tight raha hoga. Yeh jo ladka aapne bataya, rishta family ne dhoondha hai ya aapki apni pasand hai ji?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Family ne dhoondha hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi mere liye?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka aapke liye sahi rahega ji, woh kaafi shant, padhe-likhe aur warm nature ke honge, bas thode guarded ho sakte hain. In-laws traditional aur reserved milenge ji, aur aage chal kar inke sath ghar ka yog bhi saaf hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladka aapke liye sahi rahega ji, woh kaafi shant, padhe-likhe aur warm nature ke honge, bas thode guarded ho sakte hain. In-laws traditional aur reserved milenge ji, aur aage chal kar inke sath ghar ka yog bhi saaf hai."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Mene mila hai, woh gussa karte hai.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kaise shant?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Sahi btaiye.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi keh rahe hain ji, unka woh guarded nature hi kabhi-kabhi gusse ya stern lagne lagta hai. Chart mein woh andar se warm aur samajhdaar hain, bas shuru mein thode reserved rehte hain. Kya unse milte waqt kisi baat par unhone aisa strict reaction diya tha ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Sahi keh rahe hain ji, unka woh guarded nature hi kabhi-kabhi gusse ya stern lagne lagta hai. Chart mein woh andar se warm aur samajhdaar hain, bas shuru mein thode reserved rehte hain. Kya unse milte waqt kisi baat par unhone aisa strict reaction diya tha ji?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Woh gusse wale hai, ye bataiye ki ye rishta sahi hai ya nahi.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein boliye.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, overall yeh rishta theek baithta hai kyunki unka basic nature supportive hai. Shukra ko strong rakhne ke liye Friday ko safed mithai daan kariye ji. Shaadi ke baad apne ghar ka yog October 2028 se hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan ji, overall yeh rishta theek baithta hai kyunki unka basic nature supportive hai. Shukra ko strong rakhne ke liye Friday ko safed mithai daan kariye ji. Shaadi ke baad apne ghar ka yog October 2028 se hai."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine mein hogi shadi?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bataiye.",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas ka mahina sabse strong lag raha hai ji, jab naya samay shuru hota hai. Us waqt Shani ka prabhav is baat ko aage badhayega. 2027-28 mein videsh ya door jane ka yog bhi dikh raha hai ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas ka mahina sabse strong lag raha hai ji, jab naya samay shuru hota hai. Us waqt Shani ka prabhav is baat ko aage badhayega. 2027-28 mein videsh ya door jane ka yog bhi dikh raha hai ji."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok, March 2027.",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Unka gussa kam hoga ya aisa hi rahega?",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa dheere-dheere kam ho jayega ji, March 2027 ke baad aapas ke halaat mein kaafi sudhar aayega. Chart mein woh andar se calm hain, isliye waqt ke sath narazgi bhi kam hone lagegi. Kya aap dono ki baat-cheet mein abhi koi aisi baat hui hai jisne aapko pareshan kiya ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Gussa dheere-dheere kam ho jayega ji, March 2027 ke baad aapas ke halaat mein kaafi sudhar aayega. Chart mein woh andar se calm hain, isliye waqt ke sath narazgi bhi kam hone lagegi. Kya aap dono ki baat-cheet mein abhi koi aisi baat hui hai jisne aapko pareshan kiya ji?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 20
+  }
+]

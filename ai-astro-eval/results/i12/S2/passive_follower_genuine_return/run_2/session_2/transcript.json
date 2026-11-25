@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein aapki life mein career aur personal matters mein kaafi behtar badlav dekhne ko milenge. Bataiye, aaj sabse zyada kis cheez ko lekar pareshan hain aap?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein aapki life mein career aur personal matters mein kaafi behtar badlav dekhne ko milenge. Bataiye, aaj sabse zyada kis cheez ko lekar pareshan hain aap?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji, yeh toh bada important faisla hota hai. Mujhe yeh batayiye ki family rishta dhoondh rahi hai ya aapki apni koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji, yeh toh bada important faisla hota hai. Mujhe yeh batayiye ki family rishta dhoondh rahi hai ya aapki apni koi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents dekh rhe h rishta",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke rishte ki baat March 2027 ke baad se September 2028 ke beech pakki hone ke poore yog hain ji. Yeh kisi jaankar ya parivar ke madhyam se ek shaant aur samajhdar vyakti ke sath tay hoga. Kya abhi baat kahin chal rahi hai, ya abhi shuru hi hua hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapke rishte ki baat March 2027 ke baad se September 2028 ke beech pakki hone ke poore yog hain ji. Yeh kisi jaankar ya parivar ke madhyam se ek shaant aur samajhdar vyakti ke sath tay hoga. Kya abhi baat kahin chal rahi hai, ya abhi shuru hi hua hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rhe h",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo rishta abhi dekh rahe hain, uski baat mein thoda samay lag sakta hai kyunki abhi shuruati taur par thodi rukawat dikh rahi hai. Aapka hone wala jeevan sathi kaafi shaant, padha-likha aur samajhdar hoga ji. Yeh jo rishta abhi chal raha hai, usmein baat aage kahan tak pahunchi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jo rishta abhi dekh rahe hain, uski baat mein thoda samay lag sakta hai kyunki abhi shuruati taur par thodi rukawat dikh rahi hai. Aapka hone wala jeevan sathi kaafi shaant, padha-likha aur samajhdar hoga ji. Yeh jo rishta abhi chal raha hai, usmein baat aage kahan tak pahunchi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Bas baat chal rhi h",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat dheere-dheere aage badhegi ji, kyunki yeh jaan-pehchaan ke zariye tay hone ka yog hai. Ismein rukawat door karne ke liye har Shukrawar Om Shum Shukraya Namah ka jaap 108 baar shuru karein aur safed mithaai daan karein.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Baat dheere-dheere aage badhegi ji, kyunki yeh jaan-pehchaan ke zariye tay hone ka yog hai. Ismein rukawat door karne ke liye har Shukrawar Om Shum Shukraya Namah ka jaap 108 baar shuru karein aur safed mithaai daan karein."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k kya hal hai",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur savings ki tension sach mein thaka deti hai ji. Mujhe yeh bataiye ki paisa kahan atak raha hai, kharche zyada hain ya kamai kam ho rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa aur savings ki tension sach mein thaka deti hai ji. Mujhe yeh bataiye ki paisa kahan atak raha hai, kharche zyada hain ya kamai kam ho rahi hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kharche zyada h",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke mid ke baad se financial sthiti mein sudhar aana shuru ho jayega ji, aur aane wale samay mein kharche dheere-dheere control mein aane lagenge. Grahon ki sthiti aisi hai ki paisa rukta kam hai, lekin mehnat ka fal milne lagega. Kya yeh kharche ghar ki zarooraton ki wajah se zyada ho rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027 ke mid ke baad se financial sthiti mein sudhar aana shuru ho jayega ji, aur aane wale samay mein kharche dheere-dheere control mein aane lagenge. Grahon ki sthiti aisi hai ki paisa rukta kam hai, lekin mehnat ka fal milne lagega. Kya yeh kharche ghar ki zarooraton ki wajah se zyada ho rahe hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bhi h",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein pareshan karti hai ji, par parivarik tanav 2027 ke beech tak dheere-dheere kam ho jayega. Grahon ki sthiti badalne se ghar ka mahaul shant hone lagega. Yeh tension kisi khaas baat ko lekar hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein pareshan karti hai ji, par parivarik tanav 2027 ke beech tak dheere-dheere kam ho jayega. Grahon ki sthiti badalne se ghar ka mahaul shant hone lagega. Yeh tension kisi khaas baat ko lekar hai kya?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab kuch ek sath aana sach mein bahut bhari lagta hai ji, par June 2027 ke baad yeh saara bojh halka hone lagega. June 2027 ke baad jab yeh sthiti badlegi, tab ghar aur baaki sabhi cheezon mein ek-ek karke rahat milni shuru ho jayegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sab kuch ek sath aana sach mein bahut bhari lagta hai ji, par June 2027 ke baad yeh saara bojh halka hone lagega. June 2027 ke baad jab yeh sthiti badlegi, tab ghar aur baaki sabhi cheezon mein ek-ek karke rahat milni shuru ho jayegi."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

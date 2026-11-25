@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! Swagat hai aapka. Bataiye, aaj kya pareshan kar raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! Swagat hai aapka. Bataiye, aaj kya pareshan kar raha hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Meri shaadi kb tk hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 mein pakki hogi. Shani AD shuru hone se yeh yog hai. Rishta arranged route se aane wala hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 mein pakki hogi. Shani AD shuru hone se yeh yog hai. Rishta arranged route se aane wala hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Parents ne rishta dekhna shuru kiya hai, ek chal b rha hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March mein kab tak?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuruati hafton mein hi baat pakki hone ka yog hai. Shani AD ki shuruat se yeh rasta khulega. Partner ka nature kaafi calm aur tall ho sakta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ke shuruati hafton mein hi baat pakki hone ka yog hai. Shani AD ki shuruat se yeh rasta khulega. Partner ka nature kaafi calm aur tall ho sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Date bataiye, March mein konsi date tak?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke pehle do hafte khaas hain ji. Shani AD ki shuruat wahin se hoti hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ke pehle do hafte khaas hain ji. Shani AD ki shuruat wahin se hoti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Exact date bataiye, 14 march se pehle ya baad?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "14 March se pehle hi yog hai ji. Shani AD ki shuruat wahi ho rahi hai. Rishte ki baat aage badhegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "14 March se pehle hi yog hai ji. Shani AD ki shuruat wahi ho rahi hai. Rishte ki baat aage badhegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Career ka batao, job kab tak lagegi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job pakki lagegi ji. Guru ki strong position se rasta khulega. Finance ya tech field mein badi success ka yog hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad job pakki lagegi ji. Guru ki strong position se rasta khulega. Finance ya tech field mein badi success ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 ke baad matlab kaunsa month?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se September 2027 ke beech job pakki hai ji. Guru ki energy se rasta khulega. Videsh jaane ka chance bhi yahin hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March se September 2027 ke beech job pakki hai ji. Guru ki energy se rasta khulega. Videsh jaane ka chance bhi yahin hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Specific month bataiye. 6 mahine bahut zyada hai.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 mein pakka yog hai ji. Shani ka delay tabhi khatam hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "July 2027 mein pakka yog hai ji. Shani ka delay tabhi khatam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ki shanti lautegi ji. Shani ka pressure tab hat jayega. 2028 mein apne ghar ka yog bhi hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ki shanti lautegi ji. Shani ka pressure tab hat jayega. 2028 mein apne ghar ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 21
+  }
+]

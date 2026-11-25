@@ -1,0 +1,172 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas aana mushkil hai ji. March 2027 ke baad nayi job ka yog ban raha hai. Guru ki kripa se behtar mauka milega.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas aana mushkil hai ji. March 2027 ke baad nayi job ka yog ban raha hai. Guru ki kripa se behtar mauka milega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "March 2027?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bata do",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2027 ke beech hi mauka hai ji. Shani AD shuru hote hi rasta banega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March se May 2027 ke beech hi mauka hai ji. Shani AD shuru hote hi rasta banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar bhi date galat nikli thi",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa hona bilkul sahi hai ji. Shani ke transit ki wajah se thoda delay hota hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapka gussa hona bilkul sahi hai ji. Shani ke transit ki wajah se thoda delay hota hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa aur career ka kya hai",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa aur career dono sudhrenge ji. Mangal ki sthiti se debt dheere dheere kam hoga. Iske alawa ek khas field mein tarakki ka yog bhi hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa aur career dono sudhrenge ji. Mangal ki sthiti se debt dheere dheere kam hoga. Iske alawa ek khas field mein tarakki ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching aur tech mein badi safalta hai ji. Budh-Guru ka prabhav yahi batata hai. 2028 tak videsh ka yog bhi banega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Teaching aur tech mein badi safalta hai ji. Budh-Guru ka prabhav yahi batata hai. 2028 tak videsh ka yog bhi banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab padhai ya media line mein faayda hai ji. June 2027 tak thoda dhyan rakhna hoga. Government job ka bhi ek chance hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Matlab padhai ya media line mein faayda hai ji. June 2027 tak thoda dhyan rakhna hoga. Government job ka bhi ek chance hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 mein yog hai ji. Shani AD shuru hote hi baat banegi. Parivar ke zariye rishta tay hoga ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se September 2028 mein yog hai ji. Shani AD shuru hote hi baat banegi. Parivar ke zariye rishta tay hoga ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Agle week interview hai",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle hafte interview hai, zaroor jao ji. Mangal ki kripa se koshish safal hogi. 2028 mein ghar ka yog bhi hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Agle hafte interview hai, zaroor jao ji. Mangal ki kripa se koshish safal hogi. 2028 mein ghar ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 22
+  }
+]

@@ -1,0 +1,231 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 1,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 4,
+    "2.7": 1,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 4,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 5.06,
+  "shape": {
+    "M": 9,
+    "avg_words": 31.1,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pichli baar humne rishte aur paise ke rukaav par baat ki thi.",
+        "why": "The astrologer acknowledges the user's previous interaction."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Parivar mein paise ko lekar zyada behas hoti hai ya job ko lekar?",
+        "why": "Most questions are Type A, building on the user's previous answers."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not applicable."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Abhi kismat ke grah se career mein ek naya rasta khulne ke sanket hain.",
+        "why": "The reading is about the present but is generic."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "Provides a clear direction and time window."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Mann ke grah ke daur se yeh hua tha.",
+        "why": "Uses made-up terms like 'Mann ke grah' instead of standard astrology terms."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Partner lambe qad ke, samajhdar aur shaant nature ke honge.",
+        "why": "Multiple later readings add new points and use user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "Provides a clear window."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Guruwar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japiye",
+        "why": "Stock remedy with no stated link to the problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Kamai ka rasta aur shaadi ka time dono humne dekh liya hai.",
+        "why": "Dismisses the user's question about money."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke baad in-laws ka nature kaisa rahega aur waha se kaisa talmel banega, yeh dekhna zaroori hai.",
+        "why": "Opens a specific further layer about the marriage concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is bare mein puri baat karne ke liye abhi chat recharge kijiye.",
+        "why": "The chat ends with a pitch."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is bare mein puri baat karne ke liye abhi chat recharge kijiye.",
+        "why": "The last message is a pitch."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Mann ke grah ke daur se yeh hua tha.",
+        "why": "Uses non-standard, confusing terms."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      }
+    ]
+  }
+}

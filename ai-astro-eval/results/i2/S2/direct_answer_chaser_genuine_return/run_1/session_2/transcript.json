@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, bataiye aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, bataiye aaj kis baare mein baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Meri shaadi kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 se September 2028 ke beech hogi ji. Shani ki energy active hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 se September 2028 ke beech hogi ji. Shani ki energy active hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month tak?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shuruat March 2027 ke pehle hafte se hi ho jayegi ji. Shani ka prabhav tezi layega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shuruat March 2027 ke pehle hafte se hi ho jayegi ji. Shani ka prabhav tezi layega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Rishta aa raha hai, kya wahi final hoga?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye wala rishta shayad final na ho ji. Venus weak hone se thodi confusion rehti hai. Asli baat March 2027 ke baad hi pakki hogi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ye wala rishta shayad final na ho ji. Venus weak hone se thodi confusion rehti hai. Asli baat March 2027 ke baad hi pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "To hoga ya nahi? Seedha bataiye.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedha jawab hai, is rishte ke final hone ke chance kam hain ji. Arranged match ka yog March 2027 ke baad hi ban raha hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Seedha jawab hai, is rishte ke final hone ke chance kam hain ji. Arranged match ka yog March 2027 ke baad hi ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Job kab lagegi?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job March 2027 ke beech pakki milegi ji. Guru ki taakat career mein bada badlaav layegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Job March 2027 ke beech pakki milegi ji. Guru ki taakat career mein bada badlaav layegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Konse month mein?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke pehle hafte se hi pakka yog hai ji. Shani ka prabhav shuru hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke pehle hafte se hi pakka yog hai ji. Shani ka prabhav shuru hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad family tension khatam hogi ji. Shani ka pressure kam hoga tab.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad family tension khatam hogi ji. Shani ka pressure kam hoga tab.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 ke baad pakka?",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, bilkul pakka hai ji. Shani ka pressure hatne se rahat milegi. Time thoda kam reh gaya hai — aapke kundli mein 2028 mein ghar khareedne ka yog bhi dikh raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Haan, bilkul pakka hai ji. Shani ka pressure hatne se rahat milegi. Time thoda kam reh gaya hai — aapke kundli mein 2028 mein ghar khareedne ka yog bhi dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

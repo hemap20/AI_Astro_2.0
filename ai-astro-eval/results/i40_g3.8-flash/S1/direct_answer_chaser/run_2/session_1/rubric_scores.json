@@ -1,0 +1,247 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 3,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 4,
+    "2.7": 7,
+    "3.1": 6,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 6.41,
+  "shape": {
+    "M": 8,
+    "avg_words": 29.2,
+    "long_share": 0.25
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job se bulawa aana mushkil lag raha hai.",
+        "why": "The astrologer acknowledges the user's specific question about the old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya waha kaam chhutte waqt koi dikkat aayi thi?",
+        "why": "No Type C questions. Most questions are Type A or B."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No specific other person involved."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Purani job se bulawa aana mushkil lag raha hai.",
+        "why": "It is about the present/future, new information, and specific, but lacks a clear chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Waha wapsi ka yog nahi dikh raha hai.",
+        "why": "Clear direction given for the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Kismat aur gyaan ke grah ka daur aapko aage le jayega.",
+        "why": "No clear chart reason provided in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "2025 se abhi career mein rukawatein chal rahi hain",
+        "why": "Adds new points and uses user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 ke aakhiri hafte tak raste khulenge.",
+        "why": "Provides a window and remains consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Guruwar ko chana dal daan kijiye.",
+        "why": "Stock remedies given without clear link to the specific problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Is interview mein baat nahi banegi ji.",
+        "why": "Answers both questions (old job and new job) clearly."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aapne pehle accounts ya finance ka socha hai?",
+        "why": "Generic pointer, not a specific next layer."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Is interview mein baat nahi banegi ji.",
+        "why": "No closing message, every reply carries content."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rukawat reh sakti hai, par hausla mat chhodiye.",
+        "why": "One of the last messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Is interview mein baat nahi banegi ji.",
+        "why": "No technical terms or formal language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main aapki baat samajh sakti hoon, kabhi dasha ka asar thoda aage-piche ho jata hai.",
+        "why": "Accepts the user's pushback and gives a concrete reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "question"
+      },
+      {
+        "idx": 22,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      }
+    ]
+  }
+}

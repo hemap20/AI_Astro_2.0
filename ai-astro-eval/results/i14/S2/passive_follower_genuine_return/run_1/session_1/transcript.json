@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke baad aapke din behter hone lagenge ji. Bataiye, sabse zyada tension kis baat ki hai, career ki ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "2027 ke baad aapke din behter hone lagenge ji. Bataiye, sabse zyada tension kis baat ki hai, career ki ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji. Family rishta dekh rahi hai ya koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji. Family rishta dekh rahi hai ya koi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents dekh rhe. Ek rishta h.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech shaadi ka yog banega ji. Shukra kamzor hone ki wajah se thodi der ho sakti hai. Jo rishta abhi aaya hai, uske baare mein ghar wale kya soch rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech shaadi ka yog banega ji. Shukra kamzor hone ki wajah se thodi der ho sakti hai. Jo rishta abhi aaya hai, uske baare mein ghar wale kya soch rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Wo khush h. Paisa?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur kamai ki baat hai ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa aur kamai ki baat hai ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kharche",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 tak kharche dheere-dheere control ho jayenge ji. Doosre sthaan ki kamzori se paisa rukta nahi hai. Iske liye Monday ko Chandra ka mantra zaroor japein.",
+    "sec": 135,
+    "raw_response": {
+      "message": "2028 tak kharche dheere-dheere control ho jayenge ji. Doosre sthaan ki kamzori se paisa rukta nahi hai. Iske liye Monday ko Chandra ka mantra zaroor japein."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ki baat hai ji. Ye tanaav ghar mein kis baat ko lekar zyada chal raha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension ki baat hai ji. Ye tanaav ghar mein kis baat ko lekar zyada chal raha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, ye Shani ke asar se hota hai. 2027 ke beech tak ye tanaav khud kam ho jayega. Raat ko neend theek aati hai ya wahan bhi pareshani hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Koi baat nahi ji, ye Shani ke asar se hota hai. 2027 ke beech tak ye tanaav khud kam ho jayega. Raat ko neend theek aati hai ya wahan bhi pareshani hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pareshani hai",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Neend ki pareshani mid-2027 tak theek ho jayegi ji. Chandra kamzor hone aur Shani ke asar se dimaag par bojh rehta hai. Kya subah uth kar thakan mehsoos hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Neend ki pareshani mid-2027 tak theek ho jayegi ji. Chandra kamzor hone aur Shani ke asar se dimaag par bojh rehta hai. Kya subah uth kar thakan mehsoos hoti hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-2027 ke baad ye thakan aur dimaag ka bojh bilkul khatam ho jayega ji. June 2027 mein Shani ka asar hatne par tabiyat mein poora aaram milne lagega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Mid-2027 ke baad ye thakan aur dimaag ka bojh bilkul khatam ho jayega ji. June 2027 mein Shani ka asar hatne par tabiyat mein poora aaram milne lagega."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

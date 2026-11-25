@@ -1,0 +1,186 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Kaise ho aap? Family tension thodi kam hui kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Kaise ho aap? Family tension thodi kam hui kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, waisi hi hai.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Samajh sakti hoon ji. Ye Shani ka asar ghar mein tension aur thakaan de raha hai. June ke baad halat sudharne lagenge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Samajh sakti hoon ji. Ye Shani ka asar ghar mein tension aur thakaan de raha hai. June ke baad halat sudharne lagenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Achaa.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "June tak wait?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, June 2027 tak Shani ka dabav dheere dheere kam hoga. March ke baad se career mein bhi rahat milne lagegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, June 2027 tak Shani ka dabav dheere dheere kam hoga. March ke baad se career mein bhi rahat milne lagegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya? 2027?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Lambaa lagta hai, main samajhti hoon ji. Lekin March se Guru ka asar shuru ho jayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Lambaa lagta hai, main samajhti hoon ji. Lekin March se Guru ka asar shuru ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Rishta aa rha hai.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye achhi khabar hai ji. Guru ke asar se baat aana shuru ho gayi hai. Lekin pakki baat March 2027 ke baad hi banegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye achhi khabar hai ji. Guru ke asar se baat aana shuru ho gayi hai. Lekin pakki baat March 2027 ke baad hi banegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko leke?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 ke baad sudhrega ji. Mangal ki wajah se income badhegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa March 2027 ke baad sudhrega ji. Mangal ki wajah se income badhegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension ka kya?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June tak tension kam hogi ji. Shani ka asar hat raha hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June tak tension kam hogi ji. Shani ka asar hat raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein ek aur baat hai. March ke baad career mein bada badlaav aayega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki kundli mein ek aur baat hai. March ke baad career mein bada badlaav aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Achaa.",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baad apna ghar banega ji. Oct 2028 ke baad ye yog hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Shaadi ke baad apna ghar banega ji. Oct 2028 ke baad ye yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 23
+  }
+]

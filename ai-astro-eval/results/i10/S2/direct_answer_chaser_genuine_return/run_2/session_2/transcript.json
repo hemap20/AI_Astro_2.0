@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise ho aap? Bataiye aaj kis baare mein aage baat karein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise ho aap? Bataiye aaj kis baare mein aage baat karein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 se September 2028 ke beech pakki hone ke poore yog hain ji. Pichli baar aapne jo rishte ki baat chhedi thi, usme abhi shani ke prabhav se thodi der chal rahi hai. Behtar ke liye Friday se Shukra ka jaap shuru karein ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 se September 2028 ke beech pakki hone ke poore yog hain ji. Pichli baar aapne jo rishte ki baat chhedi thi, usme abhi shani ke prabhav se thodi der chal rahi hai. Behtar ke liye Friday se Shukra ka jaap shuru karein ji."
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak confirm hai?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2027 ke beech baat pakki hone ke sabse zyada chance hain ji, baaki poora window khula rahega. Us dauran naya samay shuru hone se cheezein tezi pakdegi. Shaadi ke baad videsh jaane ka yog bhi ban raha hai ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se May 2027 ke beech baat pakki hone ke sabse zyada chance hain ji, baaki poora window khula rahega. Us dauran naya samay shuru hone se cheezein tezi pakdegi. Shaadi ke baad videsh jaane ka yog bhi ban raha hai ji."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Job mein promotion ya paisa kab badhega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job mein promotion aur paisa March 2027 se September 2028 ke beech badhega ji, June tak thoda dhiraj rakhein. Career ka sthaan majboot hone se aamdani mein sudhaar aayega ji. Abhi aap kis field mein kaam kar rahe hain ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Job mein promotion aur paisa March 2027 se September 2028 ke beech badhega ji, June tak thoda dhiraj rakhein. Career ka sthaan majboot hone se aamdani mein sudhaar aayega ji. Abhi aap kis field mein kaam kar rahe hain ji?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "IT sector.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "June mein exact date kya hai?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ke pehle hafte mein hi sthiti badalni shuru ho jayegi ji. Career ke sthaan par Shani ka dheema asar us samay poora ho raha hai. 2027 se 2028 ke beech videsh relocation ka yog bhi ban raha hai ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "June ke pehle hafte mein hi sthiti badalni shuru ho jayegi ji. Career ke sthaan par Shani ka dheema asar us samay poora ho raha hai. 2027 se 2028 ke beech videsh relocation ka yog bhi ban raha hai ji."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension June 2027 tak poori tarah khatam ho jayegi ji. Mangal aur Shani ka jo dabav parivar par chal raha tha, woh samay ke saath shant ho jayega. 2028 mein apna ghar banne ka yog bhi hai ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension June 2027 tak poori tarah khatam ho jayegi ji. Mangal aur Shani ka jo dabav parivar par chal raha tha, woh samay ke saath shant ho jayega. 2028 mein apna ghar banne ka yog bhi hai ji."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 mein kaunsa week?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Doosre hafte ke aas-paas June mein ghar ka mahol shant ho jayega ji. Parivar par jo grahon ka dabav tha, woh us samay badal raha hai ji. Ghar ke is mahol mein koi naya faisla lene ki baat chal rahi hai kya ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Doosre hafte ke aas-paas June mein ghar ka mahol shant ho jayega ji. Parivar par jo grahon ka dabav tha, woh us samay badal raha hai ji. Ghar ke is mahol mein koi naya faisla lene ki baat chal rahi hai kya ji?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekha hai, baat chal rhi.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh toh bahut achhi baat hai ji, parivar dwara dekha gaya yeh rishta aage safal hoga. Jeevan saathi thode calm, educated aur warm nature ke milenge ji. Aage chal kar in-laws thode traditional aur reserved rahenge ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Yeh toh bahut achhi baat hai ji, parivar dwara dekha gaya yeh rishta aage safal hoga. Jeevan saathi thode calm, educated aur warm nature ke milenge ji. Aage chal kar in-laws thode traditional aur reserved rahenge ji."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta hi final hoga ya 2027 tak wait karna padega?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta hi aage badhega ji, aur March 2027 ke aas-paas baat pakki hone ki poori ummeed hai. Guru ka samay is rishte ko aage le jaane mein madad kar raha hai ji. Inka ek thoda guarded side bhi hoga, jiske baare mein hum baad mein baat karenge ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Yeh rishta hi aage badhega ji, aur March 2027 ke aas-paas baat pakki hone ki poori ummeed hai. Guru ka samay is rishte ko aage le jaane mein madad kar raha hai ji. Inka ek thoda guarded side bhi hoga, jiske baare mein hum baad mein baat karenge ji."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 22
+  }
+]

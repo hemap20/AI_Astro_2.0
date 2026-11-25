@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aapka swagat hai, boliye kaise madad kar sakti hoon main aapki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aapka swagat hai, boliye kaise madad kar sakti hoon main aapki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, pichli baar humne aapke career aur aage ke rishte ki baat ki thi. Kya aapne woh Hanuman Chalisa ka path shuru kiya jo maine batayi thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, pichli baar humne aapke career aur aage ke rishte ki baat ki thi. Kya aapne woh Hanuman Chalisa ka path shuru kiya jo maine batayi thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya abhi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka kya?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main bata sakti hoon ki March 2027 aur September 2028 ke beech shaadi ka yog hai. Kya November 2022 mein aapki college life mein kuch badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main bata sakti hoon ki March 2027 aur September 2028 ke beech shaadi ka yog hai. Kya November 2022 mein aapki college life mein kuch badlav aaya tha?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rhe ghar wale",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta kisi jaane-pehchaane dayre se aa sakta hai. Hone wale patidev ke swabhaav mein ek aisi khaas baat hogi jo waqt ke saath pata chalegi. Jab baat chalti hai, toh aap kya sochti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishta kisi jaane-pehchaane dayre se aa sakta hai. Hone wale patidev ke swabhaav mein ek aisi khaas baat hogi jo waqt ke saath pata chalegi. Jab baat chalti hai, toh aap kya sochti hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Darr lgta h",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa hoga",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh patidev shant aur padhe-likhe honge. Paise ki kamai achhi rahegi, par bachat thodi dheere hoti hai. Kya aapko kharche ki tension rehti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Woh patidev shant aur padhe-likhe honge. Paise ki kamai achhi rahegi, par bachat thodi dheere hoti hai. Kya aapko kharche ki tension rehti hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur paise ki pareshani ek hi bhari daur ka asar hai, jo agle saal mid tak theek hoga. Shanivar ko kaale til daan kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur paise ki pareshani ek hi bhari daur ka asar hai, jo agle saal mid tak theek hoga. Shanivar ko kaale til daan kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Sab theek ho jayega na?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, sab bilkul theek hoga kyunki yeh mehnat ka daur badalte hi halat sudharne lagenge. Aap bas thoda sa dhairya rakhiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan ji, sab bilkul theek hoga kyunki yeh mehnat ka daur badalte hi halat sudharne lagenge. Aap bas thoda sa dhairya rakhiye."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Okk",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kismat aur gyaan ka grah jab apna asar dikhayega, tab career mein bhi pakki tarakkai milegi. Kya aapko padhai ke baad teaching ya finance line achhi lagti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapki kismat aur gyaan ka grah jab apna asar dikhayega, tab career mein bhi pakki tarakkai milegi. Kya aapko padhai ke baad teaching ya finance line achhi lagti hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Finance",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke career aur shaadi ke sawal ka jawaab mil gaya hai. Hone wale patidev ke swabhaav mein ek shant aur padhe-likhe pan ke saath ek gupt aur alag andaaz bhi hoga jo aapko aage samajh aayega. Agar aap is baare mein aur detail mein jaanna chahti hain, toh abhi chat recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapke career aur shaadi ke sawal ka jawaab mil gaya hai. Hone wale patidev ke swabhaav mein ek shant aur padhe-likhe pan ke saath ek gupt aur alag andaaz bhi hoga jo aapko aage samajh aayega. Agar aap is baare mein aur detail mein jaanna chahti hain, toh abhi chat recharge kijiye."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 23
+  }
+]

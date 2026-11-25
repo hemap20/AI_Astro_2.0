@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Main Sitara hoon. Kahiye, aaj kis baat se mann pareshaan hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Main Sitara hoon. Kahiye, aaj kis baat se mann pareshaan hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne rishte aur paise ke rukaav par baat ki thi. Kya chana dal daan karna shuru kiya aapne?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne rishte aur paise ke rukaav par baat ki thi. Kya chana dal daan karna shuru kiya aapne?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji. Kya 2022 ke aakhiri mahino mein padhai ya college ki jagah mein koi bada badlav hua tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Koi baat nahi ji. Kya 2022 ke aakhiri mahino mein padhai ya college ki jagah mein koi bada badlav hua tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ke grah ke daur se yeh hua tha. Abhi kismat ke grah se career mein ek naya rasta khulne ke sanket hain. Parivar mein paise ko lekar zyada behas hoti hai ya job ko lekar?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Mann ke grah ke daur se yeh hua tha. Abhi kismat ke grah se career mein ek naya rasta khulne ke sanket hain. Parivar mein paise ko lekar zyada behas hoti hai ya job ko lekar?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Dono ko lekar",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ka grah media ya hisab-kitab ke kaam mein nayi raah dikha raha hai. Guruwar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japiye, raste khulenge. Jab ghar mein behas hoti hai, toh aap shant rehte hain ya gussa aa jata hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kismat ka grah media ya hisab-kitab ke kaam mein nayi raah dikha raha hai. Guruwar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar japiye, raste khulenge. Jab ghar mein behas hoti hai, toh aap shant rehte hain ya gussa aa jata hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Gussa aata hai",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai. Mehnat ke grah ka asar pehle ghar par hone se baat mein thodi deri hui. Kya rishte ki baat mein parivar ke log hi aage rehte hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai. Mehnat ke grah ka asar pehle ghar par hone se baat mein thodi deri hui. Kya rishte ki baat mein parivar ke log hi aage rehte hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rhe",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Parivar ke zariye hi rishta tay hoga, aur partner ke nature mein ek khas baat dikhti hai. Ghar par gusse ke waqt chup rehna behtar hoga. Kis baat se chid hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Parivar ke zariye hi rishta tay hoga, aur partner ke nature mein ek khas baat dikhti hai. Ghar par gusse ke waqt chup rehna behtar hoga. Kis baat se chid hoti hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ke pressure se",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lambe qad ke, samajhdar aur shaant nature ke honge. Shukrawar ko safed meethi cheez daan kijiye, mann halka hoga. Kya aapko lagta hai ki parivar aapki baat samajh nahi raha?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Partner lambe qad ke, samajhdar aur shaant nature ke honge. Shukrawar ko safed meethi cheez daan kijiye, mann halka hoga. Kya aapko lagta hai ki parivar aapki baat samajh nahi raha?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ka rasta aur shaadi ka time dono humne dekh liya hai. Shaadi ke baad in-laws ka nature kaisa rahega aur waha se kaisa talmel banega, yeh dekhna zaroori hai. Is bare mein puri baat karne ke liye abhi chat recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Kamai ka rasta aur shaadi ka time dono humne dekh liya hai. Shaadi ke baad in-laws ka nature kaisa rahega aur waha se kaisa talmel banega, yeh dekhna zaroori hai. Is bare mein puri baat karne ke liye abhi chat recharge kijiye."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

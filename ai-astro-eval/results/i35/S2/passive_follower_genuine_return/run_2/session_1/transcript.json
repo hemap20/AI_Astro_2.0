@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Zindagi ke kin pehluon ke baare mein aap jaan-na chahti hain, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Zindagi ke kin pehluon ke baare mein aap jaan-na chahti hain, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, zyada chance ghar walon ki pasand se hain. Waise 2023 se 2025 tak paise thode tight rahe the, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, zyada chance ghar walon ki pasand se hain. Waise 2023 se 2025 tak paise thode tight rahe the, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rhe ghar wale",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar walon ka faisla aapke liye sahi rahega, kyunki rishton ka grah aur career ka grah ek saath chal rahe hain. Waise, shaadi ke liye ek chhota sa sanket aapki kundli mein hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ghar walon ka faisla aapke liye sahi rahega, kyunki rishton ka grah aur career ka grah ek saath chal rahe hain. Waise, shaadi ke liye ek chhota sa sanket aapki kundli mein hai."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki aapke hone wale partner lambe aur samajhdaar honge, par thode kam bolne wale hain. Clarity ke liye 20 Nov se 'Om Shum Shukraya Namah' ka jaap kijiye. Kya koi rishta abhi chal raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo baat ye hai ki aapke hone wale partner lambe aur samajhdaar honge, par thode kam bolne wale hain. Clarity ke liye 20 Nov se 'Om Shum Shukraya Namah' ka jaap kijiye. Kya koi rishta abhi chal raha hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek baat chal rhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta chal raha hai toh achhi baat hai. Aapke rishte aur paise ki sthiti dono Guru ke daur se judi hain, jo abhi chal raha hai. Waise, hone wale sasural wale kaafi paramparik honge. Kya aapne unse abhi baat ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishta chal raha hai toh achhi baat hai. Aapke rishte aur paise ki sthiti dono Guru ke daur se judi hain, jo abhi chal raha hai. Waise, hone wale sasural wale kaafi paramparik honge. Kya aapne unse abhi baat ki hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se badhega. Aapka rishta aur paisa ek hi daur se jude hain, isliye dono saath sudhrenge. Kya aap abhi kaam kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa March 2027 se badhega. Aapka rishta aur paisa ek hi daur se jude hain, isliye dono saath sudhrenge. Kya aap abhi kaam kar rahi hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bohot hai",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar aur career ki tension aapke mann ke grah ke dabav se hai. Somvar ko 'Om Som Somaya Namah' ka jaap kijiye, isse mann shant hoga. Kya neend mein bhi pareshani rehti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar aur career ki tension aapke mann ke grah ke dabav se hai. Somvar ko 'Om Som Somaya Namah' ka jaap kijiye, isse mann shant hoga. Kya neend mein bhi pareshani rehti hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Bahut tension hoti h",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, ye waqt thoda bhari hai. Aapke mann ke grah par abhi ek kathin daur ka asar hai, jo mid-2027 tak dheere-dheere khatam ho jayega. Is beech roz thodi der baahar khuli hawa mein baithna aapko sukoon dega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, ye waqt thoda bhari hai. Aapke mann ke grah par abhi ek kathin daur ka asar hai, jo mid-2027 tak dheere-dheere khatam ho jayega. Is beech roz thodi der baahar khuli hawa mein baithna aapko sukoon dega."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  }
+]

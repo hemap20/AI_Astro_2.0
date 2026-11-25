@@ -1,0 +1,225 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 7,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": null,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 5.87,
+  "shape": {
+    "M": 10,
+    "avg_words": 28.8,
+    "long_share": 0.5
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Career aur kamai mein agle saal se sudhaar aane ka yog hai.",
+        "why": "The astrologer acknowledges the user's concern about career and money."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aap abhi kis field mein kaam ya padhai kar rahi hain?",
+        "why": "More than half of the questions are Type B (generic life questions)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Career aur kamai mein agle saal se sudhaar aane ka yog hai.",
+        "why": "The reading is about the future and is generic."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Career aur kamai mein agle saal se sudhaar aane ka yog hai.",
+        "why": "A clear direction is given regarding the user's career concern."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mehnat ke grah ki dheemi chal se ye pareshani aayi thi",
+        "why": "A life statement is linked to a chart factor in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Wahi rasta padhai aur gyaan se juda hai, jismein teaching ya finance ka yog hai.",
+        "why": "The reading adds a new point and uses the user's detail about being a student."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Career aur kamai mein agle saal se sudhaar aane ka yog hai.",
+        "why": "A time window is given and facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Wahi rasta padhai aur gyaan se juda hai, jismein teaching ya finance ka yog hai. Veervaar ko chana dal daan kijiye.",
+        "why": "The remedy is tied to the cause named in the reading."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Teaching ya finance ke kshetra ka naya daur aapko saaf samajh aa jata.",
+        "why": "Names a specific further thing about the career concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Poori baat ke liye chat abhi recharge kijiye.",
+        "why": "The astrologer closes the chat with a pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Poori baat ke liye chat abhi recharge kijiye.",
+        "why": "The last message is a pitch, not a reading."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke aane wale waqt ke baare mein main kundali se sab samajh sakti hoon. Aapko abhi sabse zyada kis cheez ki fikar ho rahi hai?",
+        "why": "The astrologer changes the approach from the vague request to a specific question within the first reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "reading"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      }
+    ]
+  }
+}

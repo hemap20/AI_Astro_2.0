@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji, kaise hain aap? Boliye, aaj kya jaan na chahte hain, koi nayi chinta hai ya wahi purani baaton par baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji, kaise hain aap? Boliye, aaj kya jaan na chahte hain, koi nayi chinta hai ya wahi purani baaton par baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar aapne shaadi ki hi chinta share ki thi ji, aur ab aapke liye March 2027 se September 2028 ka samay shaadi ke liye sabse behtar hai. Pichle samay mein thodi deri Shukra ki kamzor sthiti ki wajah se thi, par ab rishte ki baat aage badhegi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar aapne shaadi ki hi chinta share ki thi ji, aur ab aapke liye March 2027 se September 2028 ka samay shaadi ke liye sabse behtar hai. Pichle samay mein thodi deri Shukra ki kamzor sthiti ki wajah se thi, par ab rishte ki baat aage badhegi."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok, March 2027 me hi hoga kya?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne ek rishta dekha hai, baat chal rahi hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 ke aas-paas baat pakki hone ke sabse zyada yog hain kyunki tabhi naya samay shuru ho raha hai ji. Baaki poora window September 2028 tak khula hai. Yeh jo rishta aapke parents dekh rahe hain, yeh kisi jaan-pehchaan ke zariye hi judne ke yog hain.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ya April 2027 ke aas-paas baat pakki hone ke sabse zyada yog hain kyunki tabhi naya samay shuru ho raha hai ji. Baaki poora window September 2028 tak khula hai. Yeh jo rishta aapke parents dekh rahe hain, yeh kisi jaan-pehchaan ke zariye hi judne ke yog hain."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Job me promotion ya paisa kab badhega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paise ki fikar bhi zaroori hai ji. Purani jagah hi koshish chal rahi hai ya abhi kahin aur naye mauke dekh rahe ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Career aur paise ki fikar bhi zaroori hai ji. Purani jagah hi koshish chal rahi hai ya abhi kahin aur naye mauke dekh rahe ho?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Vahi purani jagah.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Promotion kab tak hoga?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wahi purani jagah par hi mid-2027 ke baad tarakki aur promotion ke yog banenge ji. Abhi kaam wale sthaan par Shani ka thoda dabav chal raha hai, isliye mehnat ka fal thoda ruk kar mil raha hai. Is dauran 2027 se 2028 ke beech door ki yatra ya transfer ka yog bhi nazar aa raha hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wahi purani jagah par hi mid-2027 ke baad tarakki aur promotion ke yog banenge ji. Abhi kaam wale sthaan par Shani ka thoda dabav chal raha hai, isliye mehnat ka fal thoda ruk kar mil raha hai. Is dauran 2027 se 2028 ke beech door ki yatra ya transfer ka yog bhi nazar aa raha hai."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "June ya July 2027?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Specific month bataiye.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke aas-paas hi promotion ka sabse pakka yog ban raha hai ji. Woh isliye kyunki tabhi kaam par se Shani ka dabav poori tarah hat raha hai. 2027 ke is dauran aapki savings aur financial sthiti mein bhi bada badlav aane laga hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke aas-paas hi promotion ka sabse pakka yog ban raha hai ji. Woh isliye kyunki tabhi kaam par se Shani ka dabav poori tarah hat raha hai. 2027 ke is dauran aapki savings aur financial sthiti mein bhi bada badlav aane laga hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab tak khatam hogi?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani sach mein dimaag par bojh daal deti hai ji. Yeh batayiye ki ghar mein yeh kalesh kisi naye faisle ko lekar hai ya purane kisi mudde par chal raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki pareshani sach mein dimaag par bojh daal deti hai ji. Yeh batayiye ki ghar mein yeh kalesh kisi naye faisle ko lekar hai ya purane kisi mudde par chal raha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Purana issue.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak khatam hogi?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purane kalesh mid-2027 ke baad se dheere-dheere kam hone lagenge ji. Yeh isliye kyunki tabhi ghar ke maamlo par se kathin grahon ka prabhav hatne lagega. Kya is mudde par ghar ke baaki sadasya bhi aapse aakar baat karte hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Purane kalesh mid-2027 ke baad se dheere-dheere kam hone lagenge ji. Yeh isliye kyunki tabhi ghar ke maamlo par se kathin grahon ka prabhav hatne lagega. Kya is mudde par ghar ke baaki sadasya bhi aapse aakar baat karte hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Haan, karte hain.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Mid-2027 matlab kaunsa mahina exact?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke aas-paas ka mahina hi sabse pakka hai ji jab yeh kalesh thanda hone lagega. Tabhi ghar ke sthaan par se kathin prabhav hatega. Aage chal kar 2028 ke baad apne ghar ka yog bhi khulega ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke aas-paas ka mahina hi sabse pakka hai ji jab yeh kalesh thanda hone lagega. Tabhi ghar ke sthaan par se kathin prabhav hatega. Aage chal kar 2028 ke baad apne ghar ka yog bhi khulega ji."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

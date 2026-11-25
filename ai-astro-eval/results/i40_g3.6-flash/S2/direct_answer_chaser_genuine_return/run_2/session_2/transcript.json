@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Aaj kis baare mein baat karna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Aaj kis baare mein baat karna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, pichli baar humne aapke rishte aur chana dal ke upay ki baat ki thi. Shaadi ka yoga March 2027 se September 2028 tak hai. Kya 2022 mein padhai mein bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, pichli baar humne aapke rishte aur chana dal ke upay ki baat ki thi. Shaadi ka yoga March 2027 se September 2028 tak hai. Kya 2022 mein padhai mein bada badlav aaya tha?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaun se mahine mein?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan padhai change hui thi.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se May 2027 ke beech rishta pakka hone ke achhe mauke hain. Aapke pati ki ek khas baat chart mein dikhti hai. Abhi ghar par rishte ko lekar kya chal raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se May 2027 ke beech rishta pakka hone ke achhe mauke hain. Aapke pati ki ek khas baat chart mein dikhti hai. Abhi ghar par rishte ko lekar kya chal raha hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe, ek baat chal rhi.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke pati bohot shant, padhe-likhe aur thode reserved nature ke honge. Rishton ke grah ke liye 20 Nov se Shukravar safed mithai daan kijiye. Kya yeh rishta jaan-pehchan se aaya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke pati bohot shant, padhe-likhe aur thode reserved nature ke honge. Rishton ke grah ke liye 20 Nov se Shukravar safed mithai daan kijiye. Kya yeh rishta jaan-pehchan se aaya hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan, jaan pehchan ki hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi job ka yog March 2027 se September 2028 ke beech hai. Kismat ke grah ki madad se career mein badhtav aayega. Abhi aap kis field mein try kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Nayi job ka yog March 2027 se September 2028 ke beech hai. Kismat ke grah ki madad se career mein badhtav aayega. Abhi aap kis field mein try kar rahe hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Marketing field.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se month mein confirm milegi?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "July se August 2027 ke beech job lagne ke sabse achhe chance hain. Buddhi ke grah ki wajah se marketing aapke liye badiya hai. Abhi tayyari mein kya dikkat aa rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "July se August 2027 ke beech job lagne ke sabse achhe chance hain. Buddhi ke grah ki wajah se marketing aapke liye badiya hai. Abhi tayyari mein kya dikkat aa rahi hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension rehti hai.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak thik hogi?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension June 2027 tak kam ho jayegi. Money aur family stress ek saath juda hai, 19 Nov se chana dal daan karne se rahat milegi. Kya tension ki wajah se neend par asar pad raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension June 2027 tak kam ho jayegi. Money aur family stress ek saath juda hai, 19 Nov se chana dal daan karne se rahat milegi. Kya tension ki wajah se neend par asar pad raha hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 22
+  }
+]

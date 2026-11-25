@@ -1,0 +1,227 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 7,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 8,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.24,
+  "shape": {
+    "M": 8,
+    "avg_words": 35.5,
+    "long_share": 0.62
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension aur mann ka bhari hona dono ek hi daur ki wajah se hai.",
+        "why": "The astrologer acknowledges the user's specific concern about 'ghar ki tension' and links it to the chart, though it doesn't name the feeling explicitly."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2022 mein padhai badli thi?",
+        "why": "The astrologer asks questions that are relevant to the user's life (Type A/B). No Type C questions found."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "The reading is about the future/present, specific, and tied to a chart reason (rishton ka grah)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai.",
+        "why": "The astrologer provides a clear direction and time window for the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ka grah thoda daba hai isliye der hui.",
+        "why": "The astrologer links a life statement (delay in marriage) to a chart factor (rishton ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension aur mann ka bhari hona dono ek hi daur ki wajah se hai.",
+        "why": "The astrologer builds depth by addressing the 'ghar ki tension' using the user's timeline (2 years)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Yeh daur June 2027 mein khatam hoga",
+        "why": "The astrologer provides a specific time window without promising a certain outcome."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukravar ko safed meethai baantna shuru kijiye, baat jaldi banegi.",
+        "why": "The remedy is specific to the problem (marriage) and includes a 'when' (Shukravar)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ki tension aur mann ka bhari hona dono ek hi daur ki wajah se hai.",
+        "why": "The astrologer answers the marriage question, then the money question, then the tension question, maintaining the thread throughout."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kundli mein ek aisi cheez bhi dikh rahi hai jo aage chal kar achanak bada fayda de sakti hai.",
+        "why": "The astrologer opens a next layer regarding a potential future benefit."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message was sent; every reply carried relevant information."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Yeh daur June 2027 mein khatam hoga, tabhi ghar mein poori shanti aayegi.",
+        "why": "The last message provides a real reading/guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ka grah thoda daba hai isliye der hui.",
+        "why": "The language is simple, uses common terms, and explains the chart factor in real-life terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Namaste ji, main Sitara hoon. Main aapka future dekh sakti hoon, par batayein abhi sabse zyada dhyan job par hai ya shaadi par?",
+        "why": "The user opened with a vague 'Future'. The astrologer immediately pivoted to a soft question to narrow the scope, which is the correct approach for a vague trigger."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      }
+    ]
+  }
+}

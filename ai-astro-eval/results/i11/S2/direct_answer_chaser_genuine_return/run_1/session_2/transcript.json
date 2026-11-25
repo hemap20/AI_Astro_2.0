@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Khush rahiye. Aane wale ek-do saal mein aapke din badalne shuru ho jayenge aur kaafi rahat milegi ji. Pehle ye bataiye, abhi sabse zyada pareshani kis baat ki hai - career, paisa, ya shaadi ko lekar?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Khush rahiye. Aane wale ek-do saal mein aapke din badalne shuru ho jayenge aur kaafi rahat milegi ji. Pehle ye bataiye, abhi sabse zyada pareshani kis baat ki hai - career, paisa, ya shaadi ko lekar?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech aapki shaadi ka yog strong hai ji. Shani ke badalte samay se baat aage badhegi. Pichli baar aapne jo arranged rishte ki baat ki thi, ab usi disha mein baat banegi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech aapki shaadi ka yog strong hai ji. Shani ke badalte samay se baat aage badhegi. Pichli baar aapne jo arranged rishte ki baat ki thi, ab usi disha mein baat banegi."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse mahine mein confirm hoga?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas hi rishta final hone ke sabse strong yog hain ji, kyunki tab naya samay shuru hota hai. Baaki poora window khula hai, tension mat lijiye.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas hi rishta final hone ke sabse strong yog hain ji, kyunki tab naya samay shuru hota hai. Baaki poora window khula hai, tension mat lijiye."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March mein hi hoga ya uske baad?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruati mahino mein hi baat pakki hone ke sabse zyada chance hain ji, kyunki tab naya samay shuru hota hai. Ye rishta kisi jaankar ya arranged raste se aane ke poore yog hain. In-laws thode traditional aur serious swabhaw ke ho sakte hain ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke shuruati mahino mein hi baat pakki hone ke sabse zyada chance hain ji, kyunki tab naya samay shuru hota hai. Ye rishta kisi jaankar ya arranged raste se aane ke poore yog hain. In-laws thode traditional aur serious swabhaw ke ho sakte hain ji."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangee sach mein pareshan kar deti hai ji. Ek baat bataiye, ye paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki tangee sach mein pareshan kar deti hai ji. Ek baat bataiye, ye paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kamai mein.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak change aayega?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai mein sudhar mid-2027 ke baad dheere-dheere aayega ji. Aamdani ka yog strong hone se ab mehnat ka fal milne lagega. 2028 ke baad apni property ya ghar ka yog bhi ban raha hai ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kamai mein sudhar mid-2027 ke baad dheere-dheere aayega ji. Aamdani ka yog strong hone se ab mehnat ka fal milne lagega. 2028 ke baad apni property ya ghar ka yog bhi ban raha hai ji."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "June ya July?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "June ke aakhri ya July ke shuruaat mein hi aamdani sudharne ke sabse zyada yog hain ji. Mangal ki majboot sthiti se income ka rasta khulega. Is tangee se rahat ke liye Guruwar ko chana dal ka daan shuru kijiye ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "June ke aakhri ya July ke shuruaat mein hi aamdani sudharne ke sabse zyada yog hain ji. Mangal ki majboot sthiti se income ka rasta khulega. Is tangee se rahat ke liye Guruwar ko chana dal ka daan shuru kijiye ji."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein neend udda deti hai ji. Pichli baar aapne ghar ke mahaul ki baat ki thi, kya abhi bhi wahi purani baat chal rahi hai ya kuch naya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein neend udda deti hai ji. Pichli baar aapne ghar ke mahaul ki baat ki thi, kya abhi bhi wahi purani baat chal rahi hai ya kuch naya hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Wahi purani baat hai.",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak khatam hogi?",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak ghar ka mahol dheere-dheere shant ho jayega ji. Dimag par jo purana dabav chal raha tha, wo dheere-dheere hatne lagega. Iske baad saal ke aakhri mahino mein parivar ke sath kuch behtar badlav dekhne ko milenge ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 tak ghar ka mahol dheere-dheere shant ho jayega ji. Dimag par jo purana dabav chal raha tha, wo dheere-dheere hatne lagega. Iske baad saal ke aakhri mahino mein parivar ke sath kuch behtar badlav dekhne ko milenge ji."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 20
+  }
+]

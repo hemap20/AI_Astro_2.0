@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Batao, aaj kya chal raha hai aur main tumhari kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Batao, aaj kya chal raha hai aur main tumhari kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, humne shaadi aur ghar ki tension ke baare mein baat ki thi. Shaadi mein deri aur ghar ka tanaav dono ek hi daur ki wajah se hai, jo thoda mushkil hai. Abhi gharwale kya keh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, humne shaadi aur ghar ki tension ke baare mein baat ki thi. Shaadi mein deri aur ghar ka tanaav dono ek hi daur ki wajah se hai, jo thoda mushkil hai. Abhi gharwale kya keh rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rahe hain wo.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte ki baat chalna achha hai. Shaadi ka yog 2027 se 2028 ke beech ban raha hai, shayad kisi jaani-pehchani jagah se. Kya gharwale kisi khaas rishte par zor de rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishte ki baat chalna achha hai. Shaadi ka yog 2027 se 2028 ke beech ban raha hai, shayad kisi jaani-pehchani jagah se. Kya gharwale kisi khaas rishte par zor de rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek baat kar rahe.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo rishta shant aur samajhdar insaan ka lagta hai, par wo thode reserved rahenge. Is rishte mein ek aisi baat hai jise main abhi dekh rahi hoon. Kya tumne unse baat ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo rishta shant aur samajhdar insaan ka lagta hai, par wo thode reserved rahenge. Is rishte mein ek aisi baat hai jise main abhi dekh rahi hoon. Kya tumne unse baat ki hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, unka nature thoda reserved hai, isliye shayad abhi zyada baat nahi hui. Is rishte ko lekar tumhare mann mein kya dar ya umeed hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Koi baat nahi, unka nature thoda reserved hai, isliye shayad abhi zyada baat nahi hui. Is rishte ko lekar tumhare mann mein kya dar ya umeed hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Dar lagta hai",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darne ki baat nahi, ye sab ek bhari daur ka asar hai jo tumhe jun 2027 tak pareshan kar sakta hai. Ye waqt nikal jayega aur halat behtar honge. Kya gharwale tumhari pasand ka khayal rakh rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Darne ki baat nahi, ye sab ek bhari daur ka asar hai jo tumhe jun 2027 tak pareshan kar sakta hai. Ye waqt nikal jayega aur halat behtar honge. Kya gharwale tumhari pasand ka khayal rakh rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gharwale thode traditional hain, isliye shayad tumse zyada nahi pooch rahe. Shaadi ka yog 2027 se 2028 mein hai, aur hone wala partner kaafi samajhdar hoga. Ek khaas baat hai jo unke parivaar ke baare mein dikh rahi hai, kya tum wo jaanna chahti ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Gharwale thode traditional hain, isliye shayad tumse zyada nahi pooch rahe. Shaadi ka yog 2027 se 2028 mein hai, aur hone wala partner kaafi samajhdar hoga. Ek khaas baat hai jo unke parivaar ke baare mein dikh rahi hai, kya tum wo jaanna chahti ho?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unke gharwale reserved aur paramparik hain. Is tanaav ke liye har shanivar \"Om Sham Shanaishcharaya Namah\" ka jaap aur kaale til ka daan karo. Agli baar jodi ka bhavishya detail mein dekh lenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Unke gharwale reserved aur paramparik hain. Is tanaav ke liye har shanivar \"Om Sham Shanaishcharaya Namah\" ka jaap aur kaale til ka daan karo. Agli baar jodi ka bhavishya detail mein dekh lenge."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega?",
+    "sec": 240,
+    "idx": 17
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Mere liye ladka shi h ya nhi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/01/1995 ladke ka dob h.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar me paida hua h.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke rishte ke liye kundali milan zaroori hai, par aapke grah ek shant jeevansathi ki taraf ishara karte hain. Kya aapne 2022 mein apni padhai mein bada badlav dekha tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapke rishte ke liye kundali milan zaroori hai, par aapke grah ek shant jeevansathi ki taraf ishara karte hain. Kya aapne 2022 mein apni padhai mein bada badlav dekha tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Padhai chodo, ladka shi h ya nhi?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Wo thoda gusse wala lagta hai.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unka gussa aur aapki apni neend ki pareshani, dono himmat ka grah ke asar se hain, isliye aapko thoda dhiraj rakhna hoga. Waise wo shant hain, par unke ghar ki ek aisi parampara hai jiske bare mein aapne socha nahi hoga. Roz Hanuman Chalisa padhna shuru kijiye, isse aapke rishte ki uljhan aur gussa dono theek ho jayenge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Unka gussa aur aapki apni neend ki pareshani, dono himmat ka grah ke asar se hain, isliye aapko thoda dhiraj rakhna hoga. Waise wo shant hain, par unke ghar ki ek aisi parampara hai jiske bare mein aapne socha nahi hoga. Roz Hanuman Chalisa padhna shuru kijiye, isse aapke rishte ki uljhan aur gussa dono theek ho jayenge."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Matlab, shi h ya nahi?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Milan hone par ye ladka sahi hai, kyunki rishton ka grah aur unke ghar ke paramparik riwaz dono aapko sthirta denge. Kya aapne ghar walon se is rishte ki baat shuru ki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Milan hone par ye ladka sahi hai, kyunki rishton ka grah aur unke ghar ke paramparik riwaz dono aapko sthirta denge. Kya aapne ghar walon se is rishte ki baat shuru ki hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi ke yog March 2027 se September 2028 hain. Rishta aur neend ki dikkat mehnat ke grah se hai, isliye dhiraj rakhein. Jeevansathi mein ek khaas baat hai jo shuru mein alag lagegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shadi ke yog March 2027 se September 2028 hain. Rishta aur neend ki dikkat mehnat ke grah se hai, isliye dhiraj rakhein. Jeevansathi mein ek khaas baat hai jo shuru mein alag lagegi."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Exact batao.",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jeevansathi thode reserved honge. March 2027 mein shadi ke yog hain. Aapki neend aur rishton ki uljhan ke liye Shukravar se 'Om Shum Shukraya Namah' ka jaap kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Jeevansathi thode reserved honge. March 2027 mein shadi ke yog hain. Aapki neend aur rishton ki uljhan ke liye Shukravar se 'Om Shum Shukraya Namah' ka jaap kijiye."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Reserved ya gusse wala?",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Sahi btao.",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo swabhav se shant aur educated hain, par thode guarded yani reserved hain. Aapka stress aur unka ye nature dono mehnat ke grah ke asar se hain, isliye aap dono ko ek-dusre ko samajhne mein waqt lagega. Kya aapne kabhi Guru ke liye chana dal ka daan kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Wo swabhav se shant aur educated hain, par thode guarded yani reserved hain. Aapka stress aur unka ye nature dono mehnat ke grah ke asar se hain, isliye aap dono ko ek-dusre ko samajhne mein waqt lagega. Kya aapne kabhi Guru ke liye chana dal ka daan kiya hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Chana dal chhodo.",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Wo gusse wala hai ya nahi?",
+    "sec": 180,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Seedha btao.",
+    "sec": 180,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo gusse wala nahi, bas apne bhao chupane wale insaan hain. Aapka stress aur unka ye nature dono mehnat ke grah se hai, isliye aapko wo gusse wala lagte hain. Guru ke liye chana dal ka daan Thursday se kijiye, isse aapke career aur rishte dono mein tarki hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Wo gusse wala nahi, bas apne bhao chupane wale insaan hain. Aapka stress aur unka ye nature dono mehnat ke grah se hai, isliye aapko wo gusse wala lagte hain. Guru ke liye chana dal ka daan Thursday se kijiye, isse aapke career aur rishte dono mein tarki hogi."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Samajh gayi.",
+    "sec": 210,
+    "idx": 26
+  }
+]

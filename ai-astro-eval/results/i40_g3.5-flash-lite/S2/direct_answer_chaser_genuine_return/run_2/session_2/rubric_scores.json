@@ -1,0 +1,271 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 7,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 1,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.0,
+  "shape": {
+    "M": 9,
+    "avg_words": 27.3,
+    "long_share": 0.22
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapne pehle bhi baat ki thi hamse, shaadi aur ghar ke halat ko lekar.",
+        "why": "The astrologer acknowledges the previous chat about marriage and home."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya November 2022 ke aaspaas aapki padhai mein koi badlaav aaya tha?",
+        "why": "Most questions are Type B, generic questions that could be asked to any user."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aap unhe pehle se jaanti hain?",
+        "why": "Asks about the arranged marriage partner with a reason."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March se June 2027 ke beech ban raha hai.",
+        "why": "The reading is about the present/future, new, specific, but lacks a chart reason in the first reading."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March se June 2027 ke beech ban raha hai.",
+        "why": "Provides a clear direction (time window) without the user repeating, but after a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ke grah ki majbooti se karza dheere-dheere utrega.",
+        "why": "Links a life statement (debt/money) to a chart factor (kamai ke grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paise ki halat March 2027 ke baad sudharegi",
+        "why": "The later reading uses the user's topic (money) and adds a new point."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March se June 2027 ke beech ban raha hai.",
+        "why": "Provides a consistent time window throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Har Shukrawar safed mithai daan kijiye.",
+        "why": "Provides a specific remedy for the stated problem (marriage) with a time (Friday)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension aur naukri ki pareshani March 2027 ke baad theek ho jayegi.",
+        "why": "Answers the user's multiple questions (marriage, money, job, family tension) in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke hone wale pati ka ek alag roop bhi hai.",
+        "why": "Names a specific further thing about the concern (the partner's nature)."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aap abhi chat recharge karke ise poora jaan sakti hain.",
+        "why": "The astrologer ends the chat with a recharge pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aap abhi chat recharge karke ise poora jaan sakti hain.",
+        "why": "The last message is a recharge pitch, not a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ke grah ki majbooti se karza dheere-dheere utrega.",
+        "why": "Uses easy language with no formal/bookish sentences."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Main March 2027 hi dekhti hoon, kyonki kismat aur gyaan ka grah tab majboot hai.",
+        "why": "The user is pushing for certainty, and the astrologer repeats the same date without adapting or providing a deeper reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "other"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "reading"
+      },
+      {
+        "idx": 18,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "question"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "question"
+      },
+      {
+        "idx": 24,
+        "type": "question"
+      },
+      {
+        "idx": 25,
+        "type": "both"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      },
+      {
+        "idx": 27,
+        "type": "question"
+      },
+      {
+        "idx": 28,
+        "type": "other"
+      },
+      {
+        "idx": 29,
+        "type": "other"
+      },
+      {
+        "idx": 30,
+        "type": "other"
+      }
+    ]
+  }
+}

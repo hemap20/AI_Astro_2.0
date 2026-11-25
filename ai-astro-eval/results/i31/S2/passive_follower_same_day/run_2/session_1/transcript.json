@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bhavishya ke baare mein kya janne ki ichha hai, career ya rishte? Batao abhi kya chal raha hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bhavishya ke baare mein kya janne ki ichha hai, career ya rishte? Batao abhi kya chal raha hai."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke yog 2027 se 2028 ke beech ban rahe hain. Abhi rishton ka grah kamzor hone se deri ho rahi hai. Kya ghar wale abhi rishta dekh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke yog 2027 se 2028 ke beech ban rahe hain. Abhi rishton ka grah kamzor hone se deri ho rahi hai. Kya ghar wale abhi rishta dekh rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Ek rishta hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta aage badh sakta hai, kyunki kismat ka grah abhi majboot hai. Partner shaant aur padha-likha ho sakta hai. Kya ladke ka nature shaant hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh rishta aage badh sakta hai, kyunki kismat ka grah abhi majboot hai. Partner shaant aur padha-likha ho sakta hai. Kya ladke ka nature shaant hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa hoga?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa 2027 ke baad dheere-dheere sudharega. Tumhare paise ka ghar aur shaadi ka ghar dono judey hain, isliye shaadi ke baad hi arthik sthiti mein badlav aayega. Kya tum abhi naukri ki talash mein ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa 2027 ke baad dheere-dheere sudharega. Tumhare paise ka ghar aur shaadi ka ghar dono judey hain, isliye shaadi ke baad hi arthik sthiti mein badlav aayega. Kya tum abhi naukri ki talash mein ho?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur shaadi mein deri ek hi grah ke dabav se hai. Mehnat aur karm ka grah abhi mann ko bhari rakhega. Ye pareshani kis baare mein hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension aur shaadi mein deri ek hi grah ke dabav se hai. Mehnat aur karm ka grah abhi mann ko bhari rakhega. Ye pareshani kis baare mein hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Bas ghar ki baatein",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah kamzor hone se ghar ki tension shaadi aur career par asar daal rahi hai. Ghar mein ek aisi baat chhupi hai jo aage sab badal degi. Rishte par ghar se dabav hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mann ka grah kamzor hone se ghar ki tension shaadi aur career par asar daal rahi hai. Ghar mein ek aisi baat chhupi hai jo aage sab badal degi. Rishte par ghar se dabav hai kya?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Bahut hai.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye dabav mehnat aur karm ke grah ke karan hai jo mann ko bhari rakhe hai. Ye tumhari galti nahi hai. Aage ka raasta saaf karne ke liye shaniwar se kale til daan karna shuru karo.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ye dabav mehnat aur karm ke grah ke karan hai jo mann ko bhari rakhe hai. Ye tumhari galti nahi hai. Aage ka raasta saaf karne ke liye shaniwar se kale til daan karna shuru karo."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna h",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye upay mid-2027 tak karna, tab tak mann ka bhari-pan kam ho jayega. Rishte mein partner ka nature aur jodi kaisi rahegi, wo agli baar detail mein dekh sakte hain.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye upay mid-2027 tak karna, tab tak mann ka bhari-pan kam ho jayega. Rishte mein partner ka nature aur jodi kaisi rahegi, wo agli baar detail mein dekh sakte hain."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  }
+]

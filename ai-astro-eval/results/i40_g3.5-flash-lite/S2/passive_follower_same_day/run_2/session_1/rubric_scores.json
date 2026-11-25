@@ -1,0 +1,227 @@
+{
+  "scores": {
+    "1.1": 9,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 3,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 5.94,
+  "shape": {
+    "M": 9,
+    "avg_words": 31.9,
+    "long_share": 0.56
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ki tension se mann bhari ho jata hai, main samajh sakti hoon.",
+        "why": "The astrologer acknowledges the user's specific feeling of tension and validates it."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapko aage job karni hai ya apna kaam?",
+        "why": "All questions are Type B; they are relevant to the topic but could be asked to any user."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No specific other person mentioned."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Padhai aur career mein aage acche din aane wale hain.",
+        "why": "The reading is about the future and is generic, applicable to almost anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar wale rishta dekh rahe hain toh March 2027 se September 2028 ke beech baat pakki hone ka yog hai ji.",
+        "why": "Provides a clear direction and time window for the marriage question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Paise ki halat abhi thodi tight reh sakti hai kyunki bachat thodi kam hoti hai, main yahi dekhti hoon.",
+        "why": "No chart reason is provided for the reading."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension se mann bhari ho jata hai, main samajh sakti hoon. Ye mehnat ka daur June 2027 tak thoda dabav de raha hai",
+        "why": "Uses the user's detail about tension and adds a new point about the timeline."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech baat pakki hone ka yog hai ji.",
+        "why": "Provides a window and the facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap roz Hanuman Chalisa padha kijiye.",
+        "why": "Provides a practical remedy for the stated problem of tension."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension se mann bhari ho jata hai, main samajh sakti hoon.",
+        "why": "The astrologer addresses the new topic of tension while maintaining the flow."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Guru ke is daur mein teaching ya finance ki field se judne wali ek khaas line aapke liye kya badlav layegi, yeh jaan sakti hoon.",
+        "why": "Points to a specific further thing (career field) related to the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is baare mein poori jankari ke liye aap abhi chat recharge kar lijiye ji.",
+        "why": "The chat ends with a pitch, which acts as an early close."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is baare mein poori jankari ke liye aap abhi chat recharge kar lijiye ji.",
+        "why": "The last message is a pressure pitch."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension se mann bhari ho jata hai, main samajh sakti hoon.",
+        "why": "Uses simple, everyday language with no technical terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji. Aapko aage ke baare mein zaroor bataati hoon. Aap abhi kya padhai ya job kar rahi hain?",
+        "why": "The user opened with a vague trigger, and the astrologer responded by asking a soft question and then providing a reading in the next turn."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      }
+    ]
+  }
+}

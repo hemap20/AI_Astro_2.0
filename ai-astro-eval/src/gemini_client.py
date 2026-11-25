@@ -6,6 +6,7 @@ name / retry / JSON-mode behavior is consistent across the pipeline.
 
 import json
 import os
+import threading
 import time
 
 from google import genai
@@ -20,8 +21,31 @@ DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 # accuracy matters more than per-call cost there.
 MODEL_CONVERSATIONAL = os.environ.get("GEMINI_MODEL_CONVERSATIONAL", "gemini-3.5-flash-lite")
 MODEL_ANALYSIS = os.environ.get("GEMINI_MODEL_ANALYSIS", "gemini-3.5-flash")
+# Simulated user in the Sitara pipeline (same model as the event judge).
+MODEL_SIMULATOR = os.environ.get("GEMINI_MODEL_SIMULATOR", "gemini-3.1-flash-lite")
 
 _client = None
+
+# Per-thread token totals by role ({"astro": {"calls", "input", "output", "thinking"}, ...}),
+# collected only after start_usage() was called on that thread.
+_usage = threading.local()
+
+
+def start_usage():
+    _usage.totals = {}
+    return _usage.totals
+
+
+def record_usage(role, response):
+    totals = getattr(_usage, "totals", None)
+    meta = getattr(response, "usage_metadata", None)
+    if totals is None or meta is None:
+        return
+    t = totals.setdefault(role, {"calls": 0, "input": 0, "output": 0, "thinking": 0})
+    t["calls"] += 1
+    t["input"] += meta.prompt_token_count or 0
+    t["output"] += meta.candidates_token_count or 0
+    t["thinking"] += getattr(meta, "thoughts_token_count", None) or 0
 
 
 def _get_client():
@@ -59,10 +83,15 @@ def _to_contents(messages):
 # it more frequent, so this is set higher than the bare minimum (128) that
 # was tried first, trading a little latency/cost for reliability.
 THINKING_CONFIG_MINIMAL = types.ThinkingConfig(thinking_budget=512)
+
+# Optional thinking level (LOW / MEDIUM / HIGH) for the astro bot only, replacing the
+# 512-token budget. The SDK on Python 3.9 has no thinking_level field, so it is sent
+# in the raw request body.
+ASTRO_THINKING_LEVEL = os.environ.get("GEMINI_ASTRO_THINKING_LEVEL")
 MAX_OUTPUT_TOKENS = 8192
 
 
-def generate_text(system_prompt, messages, temperature=0.85, model=None, max_retries=7):
+def generate_text(system_prompt, messages, temperature=0.85, model=None, max_retries=7, role="other"):
     """
     Returns the raw text of the model's reply.
 
@@ -93,6 +122,7 @@ def generate_text(system_prompt, messages, temperature=0.85, model=None, max_ret
                     max_output_tokens=MAX_OUTPUT_TOKENS,
                 ),
             )
+            record_usage(role, response)
             if not response.text:
                 # Happens on safety filtering / non-STOP finish reasons (e.g.
                 # MAX_TOKENS, RECITATION) or an empty-but-non-None string.
@@ -109,7 +139,7 @@ def generate_text(system_prompt, messages, temperature=0.85, model=None, max_ret
 
 
 def generate_json(system_prompt, messages, schema_hint="", temperature=0.4, model=None, max_retries=7,
-                   response_schema=None):
+                   response_schema=None, role="other"):
     """
     Generate JSON output. schema_hint is appended to the prompt describing the
     exact JSON shape expected. Returns a parsed Python object.
@@ -155,6 +185,10 @@ def generate_json(system_prompt, messages, schema_hint="", temperature=0.4, mode
                 thinking_config=THINKING_CONFIG_MINIMAL,
                 max_output_tokens=MAX_OUTPUT_TOKENS,
             )
+            if role == "astro" and ASTRO_THINKING_LEVEL:
+                config_kwargs.pop("thinking_config")
+                config_kwargs["http_options"] = types.HttpOptions(extra_body={
+                    "generationConfig": {"thinkingConfig": {"thinkingLevel": ASTRO_THINKING_LEVEL}}})
             if response_schema is not None:
                 config_kwargs["response_schema"] = response_schema
             response = client.models.generate_content(
@@ -162,6 +196,7 @@ def generate_json(system_prompt, messages, schema_hint="", temperature=0.4, mode
                 contents=contents,
                 config=types.GenerateContentConfig(**config_kwargs),
             )
+            record_usage(role, response)
             if not response.text:
                 candidates = getattr(response, "candidates", None) or []
                 finish_reason = candidates[0].finish_reason if candidates else "unknown"

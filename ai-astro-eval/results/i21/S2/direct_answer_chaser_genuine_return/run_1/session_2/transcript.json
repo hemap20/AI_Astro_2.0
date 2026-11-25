@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji, kaisi ho? Batao aaj kis baare mein baat karni hai, career ya ghar ki koi tension?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji, kaisi ho? Batao aaj kis baare mein baat karni hai, career ya ghar ki koi tension?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu. Meri shaadi kb hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichle saal October ke baad se hi ghar par thodi baatein shuru ho gayi thi na? Ghar wale rishte dekh rahe hain, ya abhi baat chal rahi hai kahin?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichle saal October ke baad se hi ghar par thodi baatein shuru ho gayi thi na? Ghar wale rishte dekh rahe hain, ya abhi baat chal rahi hai kahin?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta aaya h ek. Kab tak fix hoga?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki hone ka yog hai. Jo rishta aaya hai, uska nature thoda shant aur reserved ho sakta hai. Ye jaan-pehchaan se hi hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki hone ka yog hai. Jo rishta aaya hai, uska nature thoda shant aur reserved ho sakta hai. Ye jaan-pehchaan se hi hai na?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month mein sabse strong chance hai?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein sabse strong chance hai. Friday 20 November se white sweets donate karna shuru kar do. Ghar wale is rishte par kya bol rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 mein sabse strong chance hai. Friday 20 November se white sweets donate karna shuru kar do. Ghar wale is rishte par kya bol rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak badhega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi mehnat ke hisaab se paisa tight chal raha hai na? Abhi office mein hike ke baare mein kuch baat hui hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2023 se hi mehnat ke hisaab se paisa tight chal raha hai na? Abhi office mein hike ke baare mein kuch baat hui hai kya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi hui. Kab tak badhega?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur salary hike mein delay ka ek hi karan hai, wo Shani ka asar hai, tumhari galti nahi hai. March 2027 ke baad salary badhne ka rasta khulega. Guruwar ko chana dal donate karna shuru karo. Office mein abhi sab theek chal raha hai na?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi aur salary hike mein delay ka ek hi karan hai, wo Shani ka asar hai, tumhari galti nahi hai. March 2027 ke baad salary badhne ka rasta khulega. Guruwar ko chana dal donate karna shuru karo. Office mein abhi sab theek chal raha hai na?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Sab theek h. Ghar ki tension kb khatam hogi?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein ye khich-khich kab se chal rahi hai, aur iska sabse zyada asar kis par pad raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar mein ye khich-khich kab se chal rahi hai, aur iska sabse zyada asar kis par pad raha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kuch mahino se. Kab khatam hogi?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad ghar ka mahaul shant hone lagega, ye sab ek hi daur ka asar hai. Isse pehle ek chhota sa faisla aage ka rasta tay karega. Tumhare ghar mein is baare mein kiski chalti hai sabse zyada?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad ghar ka mahaul shant hone lagega, ye sab ek hi daur ka asar hai. Isse pehle ek chhota sa faisla aage ka rasta tay karega. Tumhare ghar mein is baare mein kiski chalti hai sabse zyada?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Papa ki.",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 17
+  }
+]

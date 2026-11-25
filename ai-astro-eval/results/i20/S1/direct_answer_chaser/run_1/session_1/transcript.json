@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job chhorre hue kitna time ho gaya, aur waha se wapas aane ki koi baat chal rahi hai kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job chhorre hue kitna time ho gaya, aur waha se wapas aane ki koi baat chal rahi hai kya?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "3 mahine.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Manager ne bola bulayenge.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak wapas bulayenge?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad wapas bulane ke chances ban rahe hain, kyuki tabhi career wali jagah par achha samay shuru hoga. Manager se abhi koi contact me hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad wapas bulane ke chances ban rahe hain, kyuki tabhi career wali jagah par achha samay shuru hoga. Manager se abhi koi contact me hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month bata do.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ka pehla hafta sabse strong hai, kyuki tabhi career wali jagah par badlav shuru hoga; baki pura saal bhi open hai. Tum waha same profile chahte ho?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ka pehla hafta sabse strong hai, kyuki tabhi career wali jagah par badlav shuru hoga; baki pura saal bhi open hai. Tum waha same profile chahte ho?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Itna late kyun? Jaldi nahi ho sakta?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension mat lo, kabhi-kabhi samay dheere chalta hai, ye grahon ka khel hai. June tak kaam mein rukawat ki yahi wajah hai. Ghar pe is baare mein kya bol rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Tension mat lo, kabhi-kabhi samay dheere chalta hai, ye grahon ka khel hai. June tak kaam mein rukawat ki yahi wajah hai. Ghar pe is baare mein kya bol rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi hone ka koi chance hai ya nahi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaldi ka rasta abhi thoda tight hai kyuki waqt dheere chal raha hai. Thursday ko chana dal daan karo, kaam jaldi banega. Is beech koi aur jagah try kiya kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Jaldi ka rasta abhi thoda tight hai kyuki waqt dheere chal raha hai. Thursday ko chana dal daan karo, kaam jaldi banega. Is beech koi aur jagah try kiya kya?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Agli hafte interview hai dusri jagah.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe, jaldi ka chance hai ya nahi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, agle hafte wale interview mein chance ban sakta hai agar tumhara field communication ya tech se ho. Kis role ke liye hai interview?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, agle hafte wale interview mein chance ban sakta hai agar tumhara field communication ya tech se ho. Kis role ke liye hai interview?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Tech role hai.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Purani job ka batao, 2027 se pehle bulayenge ya nahi?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se pehle waha bulana mushkil hai, kyuki abhi career mein samay dheere chal raha hai. 2027 shuru hote hi ek bada turning point aayega. Is naye interview ki taiyaari kaisi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027 se pehle waha bulana mushkil hai, kyuki abhi career mein samay dheere chal raha hai. 2027 shuru hote hi ek bada turning point aayega. Is naye interview ki taiyaari kaisi hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Bahut late hai.",
+    "sec": 210,
+    "idx": 20
+  }
+]

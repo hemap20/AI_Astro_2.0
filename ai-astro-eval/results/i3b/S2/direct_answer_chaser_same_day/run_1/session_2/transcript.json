@@ -1,0 +1,144 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! March 2027 ke baad se aapke life mein kaafi rahat aane wali hai. Bataiye, aaj sabse zyada kis baat ki fikar hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! March 2027 ke baad se aapke life mein kaafi rahat aane wali hai. Bataiye, aaj sabse zyada kis baat ki fikar hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai ji. Shani AD ki vajah se ye time strong hai. Rishta ghar ke through hi aayega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai ji. Shani AD ki vajah se ye time strong hai. Rishta ghar ke through hi aayega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Specific month bataiye?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Gharwale ek rishta dekh rhe hain, kya wo final hoga?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "June-July 2027 mein baat ban sakti hai ji. Abhi wala rishta hi final hone ka yog hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "June-July 2027 mein baat ban sakti hai ji. Abhi wala rishta hi final hone ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Job aur paisa kab tak stable hoga?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job aur paisa dono stable ho jayenge ji. 10th house mein Guru ki strength aur Mangal ki vajah se debt bhi dheere-dheere khatam hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad job aur paisa dono stable ho jayenge ji. 10th house mein Guru ki strength aur Mangal ki vajah se debt bhi dheere-dheere khatam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein specific month bataiye?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March aur June 2027 ke beech pakka yog hai ji. Shani ka transit tabhi 10H se hategi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March aur June 2027 ke beech pakka yog hai ji. Shani ka transit tabhi 10H se hategi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "May 2027 ya June?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ek hi mahina bataiye.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 pakka hai ji. Shani tabhi 10H se hategi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 pakka hai ji. Shani tabhi 10H se hategi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-June 2027 ke baad tension khatam hogi ji. Shani ka asar tabhi kam hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mid-June 2027 ke baad tension khatam hogi ji. Shani ka asar tabhi kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  }
+]

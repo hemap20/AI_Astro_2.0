@@ -1,0 +1,116 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par vapas aane ka yog nahi hai ji. March 2027 ke baad Guru ki kripa se nayi aur achhi job zaroor milegi.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par vapas aane ka yog nahi hai ji. March 2027 ke baad Guru ki kripa se nayi aur achhi job zaroor milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nahi milegi? Confirm?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani jagah wapas jana nahi likha ji. Shani ki chal wahan rok rahi hai. Lekin March 2027 ke baad naye mauke aayenge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Purani jagah wapas jana nahi likha ji. Shani ki chal wahan rok rahi hai. Lekin March 2027 ke baad naye mauke aayenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 me kaun se month tak?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech mein yog hai ji. Shani AD shuru hone par naye raste khulenge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech mein yog hai ji. Shani AD shuru hone par naye raste khulenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "2027 me exact month batao.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa hona bilkul sahi hai ji. March 2027 ke shuru mein Shani ka asar kam hote hi naya mauka aayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapka gussa hona bilkul sahi hai ji. March 2027 ke shuru mein Shani ka asar kam hote hi naya mauka aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao. March ya April?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka shak karna bilkul sahi hai ji. March ke aakhir mein pehla rasta khulega. Tab tak thoda sabr rakhiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka shak karna bilkul sahi hai ji. March ke aakhir mein pehla rasta khulega. Tab tak thoda sabr rakhiye.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Agle hafte ek interview hai, wahan hoga kya?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle hafte selection thoda mushkil hai ji. Shani ka dabav abhi 10th house par hai. Asli safalta March 2027 ke baad hi likhi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Agle hafte selection thoda mushkil hai ji. Shani ka dabav abhi 10th house par hai. Asli safalta March 2027 ke baad hi likhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 14
+  }
+]

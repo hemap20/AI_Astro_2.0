@@ -1,0 +1,255 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.24,
+  "shape": {
+    "M": 9,
+    "avg_words": 39.9,
+    "long_share": 0.89
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pichli baar humne shaadi aur ghar ke kharche par baat ki thi ji.",
+        "why": "The astrologer acknowledges the user's previous context about marriage and expenses."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya 2022 mein padhai ya college ko lekar koi bada badlav hua tha?",
+        "why": "No Type C questions, but more than half are Type B (generic life questions)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ladke ka kaam-kaaj kaisa hai?",
+        "why": "Asks for details about the partner with a reason (to understand the situation)."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Rishton ke grah par dabav hone se baat aage badhne mein thodi deri dikhti hai.",
+        "why": "It is about the present, but the reading is generic and could apply to almost anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 se September 2028 ke beech pakka yog banta hai, khaaskar March ka mahina bohot accha hai.",
+        "why": "Provides a clear direction and time window before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Himmat aur kamai ke grah ke majboot hone se karz aur tangi 2027 tak dheere-dheere kam hogi.",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise aane wale time mein aapke khud ke kaam ko lekar ek accha rasta banta dikh raha hai.",
+        "why": "One later reading is both New and Uses a detail (job search)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech pakka yog banta hai",
+        "why": "Provides a window and the facts remain consistent throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "20 November se har shukrawar safed mithai daan kijiye.",
+        "why": "Provides a remedy for the stated problem with a specific time."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Karm ke grah ke hisaab se June 2027 tak ghar ka tanaav theek hone ka yog poora ban gaya hai.",
+        "why": "Answers all questions (marriage, money, family) in a logical flow."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise aapke hone wale jeevansathi ke nature ko lekar ek bohot khas baat dikh rahi hai.",
+        "why": "Names a specific further thing about the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is bare mein poori baat janne ke liye abhi chat recharge kijiye.",
+        "why": "A pitch/closing message is sent while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is bare mein poori baat janne ke liye abhi chat recharge kijiye.",
+        "why": "The last message is a pressure pitch."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah par dabav hone se baat aage badhne mein thodi deri dikhti hai.",
+        "why": "Uses easy language with no technical terms or formal sentences."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger present."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "question"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "question"
+      },
+      {
+        "idx": 24,
+        "type": "both"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! 2027 aate hi tumhari zindagi mein career aur baaki cheezon mein bada badlaav aane wala hai. Batao, abhi sabse zyada kis baat ki tension chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! 2027 aate hi tumhari zindagi mein career aur baaki cheezon mein bada badlaav aane wala hai. Batao, abhi sabse zyada kis baat ki tension chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar tumne career aur shaadi ki tension ke baare mein bataya tha na. Wahi se aage baat shuru karte hain, abhi rishte ko lekar ghar mein kya chal raha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar tumne career aur shaadi ki tension ke baare mein bataya tha na. Wahi se aage baat shuru karte hain, abhi rishte ko lekar ghar mein kya chal raha hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rhe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ek baat ho rhi hai",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaan-pehchaan ke zariye hi baat chal rahi hogi na, kundli mein wahi yog dikh raha hai. Jiske liye baat ho rahi hai, woh kaafi shant aur padhe-likhe honge, par unka ek guarded nature bhi ho sakta hai jise samajhna zaroori hai. Is rishte ko pakka karne se pehle ek cheez ka dhyan rakhna padega. Yeh baat ghar mein kab se chal rahi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Jaan-pehchaan ke zariye hi baat chal rahi hogi na, kundli mein wahi yog dikh raha hai. Jiske liye baat ho rahi hai, woh kaafi shant aur padhe-likhe honge, par unka ek guarded nature bhi ho sakta hai jise samajhna zaroori hai. Is rishte ko pakka karne se pehle ek cheez ka dhyan rakhna padega. Yeh baat ghar mein kab se chal rahi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kuch mahino se",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k tension h",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi paisa nahi ruk raha hoga. March 2027 ke baad isme badlaav aayega. Abhi kharche kaise manage ho rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2023 se hi paisa nahi ruk raha hoga. March 2027 ke baad isme badlaav aayega. Abhi kharche kaise manage ho rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Mushkil se",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh sab paisa na rukne ki wajah se hai. Iske liye Saturday ko Om Sham Shanaishcharaya Namah ka jaap karo aur kaale til daan karo. March 2027 ke baad halat badlenge, par ek galat faisla sab bigad sakta hai. Tumne abhi koi kaam dhundha hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Yeh sab paisa na rukne ki wajah se hai. Iske liye Saturday ko Om Sham Shanaishcharaya Namah ka jaap karo aur kaale til daan karo. March 2027 ke baad halat badlenge, par ek galat faisla sab bigad sakta hai. Tumne abhi koi kaam dhundha hai kya?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bohot tension hai",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur job ki chinta March 2027 ke baad khatam hogi. Tuesday ko Hanuman Chalisa padhna shuru karo. Ghar pe sabse zyada kis baat pe jhagda hota hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur job ki chinta March 2027 ke baad khatam hogi. Tuesday ko Hanuman Chalisa padhna shuru karo. Ghar pe sabse zyada kis baat pe jhagda hota hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Paisa hi hai",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur ghar ki tension ek hi wajeh se hai, March 2027 ke baad ye sab badlega. 2027 mein ek mahina aisa aayega jo financial halat palat sakta hai. Tumne job ke liye kya socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa aur ghar ki tension ek hi wajeh se hai, March 2027 ke baad ye sab badlega. 2027 mein ek mahina aisa aayega jo financial halat palat sakta hai. Tumne job ke liye kya socha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kuch acha milega?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, teaching, communication ya office work mein bohot achha mauka milega. Kundli mein inhi fields ke yog strong hain. Tumhe inmein se kis kaam mein zyada interest hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, teaching, communication ya office work mein bohot achha mauka milega. Kundli mein inhi fields ke yog strong hain. Tumhe inmein se kis kaam mein zyada interest hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi, office work shayad",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Office work ke liye June 2027 ke baad raste khulenge, tab tak thoda patience rakhna padega. Thursday ko chana dal daan kiya karo, isse raste aasan honge. Pehle kabhi office mein kaam kiya hai ya bilkul fresh start karoge?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Office work ke liye June 2027 ke baad raste khulenge, tab tak thoda patience rakhna padega. Thursday ko chana dal daan kiya karo, isse raste aasan honge. Pehle kabhi office mein kaam kiya hai ya bilkul fresh start karoge?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kia",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

@@ -1,0 +1,189 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 4,
+    "2.3": 3,
+    "2.4": 4,
+    "2.5": 7,
+    "2.6": 6,
+    "2.7": null,
+    "3.1": 6,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": null,
+    "5.1": 3,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 4.6,
+  "shape": {
+    "M": 10,
+    "avg_words": 28.1,
+    "long_share": 0.4
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension main samajh sakti hoon",
+        "why": "The astrologer acknowledges the user's specific mention of tension at home."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya ghar wale ismein aapka saath denge?",
+        "why": "The questions are Type B (could be asked to anyone) and there are no Type C questions, but they are not Type A (building on specific user details)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's main question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "ye thoda mushkil daur mid-2027 tak badal jayega",
+        "why": "The reading is about the future, not the present or past."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Rishte ki baat ka samay agle saal se ban raha hai",
+        "why": "The user asked about love life, and the astrologer gave a vague direction without a clear reason or context."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": "dhan ka bhav kamzor hone se paise ki tangi ghar mein ladai ban jaati hai",
+        "why": "The astrologer mentions 'dhan ka bhav' (house of wealth) but it is not explained in everyday terms, and the reading is generic."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Papa ki dukaan band hone se pareshani aayi hai, par mehnat aur karm ka daur mid-2027 tak theek ho jayega",
+        "why": "The reading adds a new point (papa's shop) but does not use the user's specific details to build depth."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "ye thoda mushkil daur mid-2027 tak badal jayega",
+        "why": "The astrologer provides a window (mid-2027) and the facts remain consistent throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aap bas roz subah Hanuman Chalisa padhiye",
+        "why": "The remedy is given for the problem, but lacks the 'how' or 'when' details to make it actionable."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user did not change topics; they stayed on the theme of their life struggles."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aage chal kar aapke hone wale sathi ka shant swabhaw aur unka parivaar kaisa hoga, isse aapko poori clarity milti.",
+        "why": "This is a generic pointer used to encourage a recharge, not a specific insight into the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise aur acche se janne ke liye aap abhi chat recharge kar sakti hain.",
+        "why": "The astrologer attempts to close the chat and push for a recharge while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise poora janne ke liye aap abhi chat recharge kar sakti hain ji.",
+        "why": "The last messages are a pitch for a recharge, not a reading or guidance."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Yeh thoda mushkil daur mid-2027 tak badal jayega. Aap bas roz subah Hanuman Chalisa padhiye aur hausla rakhiye.",
+        "why": "The user expressed frustration ('aap samajh nahi rahe'), and the astrologer repeated the same generic advice instead of adapting."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "reading"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      }
+    ]
+  }
+}

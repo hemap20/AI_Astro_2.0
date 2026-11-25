@@ -1,0 +1,144 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Kaise hain aap? Aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Kaise hain aap? Aaj kis baare mein baat karni hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 ke baad hogi ji. Shani ka prabhav ye badlav la raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 ke baad hogi ji. Shani ka prabhav ye badlav la raha hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "September 2028 tak yog hai ji. Shani ka prabhav ye timing de raha hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "September 2028 tak yog hai ji. Shani ka prabhav ye timing de raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega mere paas?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa aayega ji. Mangal ki sthiti ye badlav layegi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa aayega ji. Mangal ki sthiti ye badlav layegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaun se mahine?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuru mein hi ji. Shani ki dasha ye badlav layegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March ke shuru mein hi ji. Shani ki dasha ye badlav layegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ji. Shani ka transit ye shanti layega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad ji. Shani ka transit ye shanti layega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "June me kaunsi date?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-June ke aas-paas ji. Shani ka rukh tabhi badlega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mid-June ke aas-paas ji. Shani ka rukh tabhi badlega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  }
+]

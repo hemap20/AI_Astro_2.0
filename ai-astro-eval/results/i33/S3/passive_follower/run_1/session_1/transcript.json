@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Future mein aap career, shaadi ya kisi aur cheez ke baare mein khaas jaanna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Future mein aap career, shaadi ya kisi aur cheez ke baare mein khaas jaanna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke liye paisa aane ke yog hain, par 2027 se sthiti behtar hogi. 2023 se 2025 tak paise thode tight rahe, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapke liye paisa aane ke yog hain, par 2027 se sthiti behtar hogi. 2023 se 2025 tak paise thode tight rahe, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bhut dikkat tha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka career ka ghar abhi dheema hai, isliye paise ki dikkat rahi. Agle saal career mein ek bada badlav aane wala hai jo kamai badhayega. Aap abhi kya kaam kar rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapka career ka ghar abhi dheema hai, isliye paise ki dikkat rahi. Agle saal career mein ek bada badlav aane wala hai jo kamai badhayega. Aap abhi kya kaam kar rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa student hu",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Student hona achi baat hai. Aapki padhai aur career ek hi ghar se jude hain, jo abhi slow hai; par ek field kismat badal sakta hai. Aap kya padhai kar rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Student hona achi baat hai. Aapki padhai aur career ek hi ghar se jude hain, jo abhi slow hai; par ek field kismat badal sakta hai. Aap kya padhai kar rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Bcom final year",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "B.Com sahi hai, finance ke yog kundli mein majboot hain. Maine dekha hai ki padhai ke baad ek khaas field naukri ke raaste kholegi. Aage kya karne ka socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "B.Com sahi hai, finance ke yog kundli mein majboot hain. Maine dekha hai ki padhai ke baad ek khaas field naukri ke raaste kholegi. Aage kya karne ka socha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Preshan mat hoiye, finance ya teaching aapke liye behtar field rahengi. Aapki kundli mein videsh jaane ka yog bhi ban raha hai, jo career ko nayi disha dega. Kya aapne sarkari naukri ke liye socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Preshan mat hoiye, finance ya teaching aapke liye behtar field rahengi. Aapki kundli mein videsh jaane ka yog bhi ban raha hai, jo career ko nayi disha dega. Kya aapne sarkari naukri ke liye socha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Meh kitne number ki hu",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai, jo buddhi aur communication ka hai. Ye finance mein aapko safalta dilayega. Desh se bahar jaane ka mauka bhi hai, par usse pehle ek choti rukawat hai. Kya aapne kabhi ghar se door naukri ka socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka number 5 hai, jo buddhi aur communication ka hai. Ye finance mein aapko safalta dilayega. Desh se bahar jaane ka mauka bhi hai, par usse pehle ek choti rukawat hai. Kya aapne kabhi ghar se door naukri ka socha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha socha h",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri aur paise ki dikkat ek hi ghar se judi hai, jo abhi dheema hai. 2027 mein bahar jaane ke yog hain, ek bada mauka aayega. Kya ghar wale bahar jaane ke liye maan jayenge?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Naukri aur paise ki dikkat ek hi ghar se judi hai, jo abhi dheema hai. 2027 mein bahar jaane ke yog hain, ek bada mauka aayega. Kya ghar wale bahar jaane ke liye maan jayenge?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Puri saal kaisa hoga",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein career aur paise mein badlav aayega. Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar shuru kijiye, job mein madad milegi. Shaadi ka yog bhi kundli mein hai, agli baar detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "2027 mein career aur paise mein badlav aayega. Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar shuru kijiye, job mein madad milegi. Shaadi ka yog bhi kundli mein hai, agli baar detail mein dekhenge."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

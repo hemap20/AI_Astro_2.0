@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par vapas aane ke yog hain, iska sahi samay March 2027 ke baad dekhti hoon. Kya November 2022 mein aapki padhai ya college life mein koi badlaav aaya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par vapas aane ke yog hain, iska sahi samay March 2027 ke baad dekhti hoon. Kya November 2022 mein aapki padhai ya college life mein koi badlaav aaya tha?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "2027 bhot door hai",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Kch jaldi ni ho skta?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Samajh sakti hoon ji ki intezaar lamba lagta hai. Mehnat aur karm ka grah abhi sthiti ko dheere chala raha hai. Aapko abhi is baare mein sabse zyada kya pareshan karta hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Samajh sakti hoon ji ki intezaar lamba lagta hai. Mehnat aur karm ka grah abhi sthiti ko dheere chala raha hai. Aapko abhi is baare mein sabse zyada kya pareshan karta hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Paisa",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Job chali gyi",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job jaane se paise ki tangi isliye hai kyunki mann ka grah kamzor hai aur doosra ghar bhi kamzor hai. Yeh daur badlega. Kya is vajah se raat ko neend mein bhi pareshani hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Job jaane se paise ki tangi isliye hai kyunki mann ka grah kamzor hai aur doosra ghar bhi kamzor hai. Yeh daur badlega. Kya is vajah se raat ko neend mein bhi pareshani hoti hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan hoti h",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job aur paise ki tangi se neend udna, yeh kamzor mann ke grah ka asar hai. Subah thoda tahla kijiye. Kya aap is baare mein ghar mein kisi se baat karti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Job aur paise ki tangi se neend udna, yeh kamzor mann ke grah ka asar hai. Subah thoda tahla kijiye. Kya aap is baare mein ghar mein kisi se baat karti hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baatein andar rakhne se mann aur bhaari hota hai. Ek naya career ka rasta aapke liye banne wala hai, jiska waqt kareeb hai. Kya aapko pehle padhane ya likhne mein shauk tha?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Baatein andar rakhne se mann aur bhaari hota hai. Ek naya career ka rasta aapke liye banne wala hai, jiska waqt kareeb hai. Kya aapko pehle padhane ya likhne mein shauk tha?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Interview hai next week.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main aapki baat samajhti hoon ji. Woh naya rasta padhai ya communication ke field mein hai, aur kismat ka grah wahan madad karega. Kya aapko wahan jaane mein darr lag raha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Main aapki baat samajhti hoon ji. Woh naya rasta padhai ya communication ke field mein hai, aur kismat ka grah wahan madad karega. Kya aapko wahan jaane mein darr lag raha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Thoda sa",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Purani job ka kuch confirmation milega?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka shak karna theek hai ji. Purane kaam ke bajaye naye mauke ke yog hain, kyunki kaam ka sthaan andar se majboot hai. Kya aapne interview ki taiyari kar li hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka shak karna theek hai ji. Purane kaam ke bajaye naye mauke ke yog hain, kyunki kaam ka sthaan andar se majboot hai. Kya aapne interview ki taiyari kar li hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Purani job milegi ya nahi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekhti hoon ki purani jagah se bulawa mushkil hai, par naya mauka milega. Mehnat ke grah ki chal wahan dheeri hai. Kya aapko is interview par bharosa hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main dekhti hoon ki purani jagah se bulawa mushkil hai, par naya mauka milega. Mehnat ke grah ki chal wahan dheeri hai. Kya aapko is interview par bharosa hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kb ayega",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekhti hoon ki paise ki tangi agle saal ke baad kam hogi, kyunki kamai ka grah bohot majboot hai. Kya ghar ke kharche sambhalne mein abhi pareshani hoti hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Main dekhti hoon ki paise ki tangi agle saal ke baad kam hogi, kyunki kamai ka grah bohot majboot hai. Kya ghar ke kharche sambhalne mein abhi pareshani hoti hai?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 26
+  }
+]

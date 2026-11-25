@@ -1,0 +1,186 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shadi March 2027 aur September 2028 ke beech ho sakti hai ji. Kundli ke anusar aapke partner kaafi samajhdar aur shaant swabhav ke rahenge. Lekin is ladke ke liye unka exact time bhi batana zaroori hai ji.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapki shadi March 2027 aur September 2028 ke beech ho sakti hai ji. Kundli ke anusar aapke partner kaafi samajhdar aur shaant swabhav ke rahenge. Lekin is ladke ke liye unka exact time bhi batana zaroori hai ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Wo shant nahi hai, gussa bahut jaldi aata hai usko.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Time nahi pta uska.",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa jaldi aana thoda pareshani ki baat hai ji. Aapki kundli mein toh shaadi ke baad rishte mein dhairya ki zaroorat padegi ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Gussa jaldi aana thoda pareshani ki baat hai ji. Aapki kundli mein toh shaadi ke baad rishte mein dhairya ki zaroorat padegi ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, ladka shi hai ya nahi?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein batao.",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance nahi hai ki ye ladka aapke liye sahi rahe ji. Unka gussa aur aapka yog match nahi ho raha ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Zyada chance nahi hai ki ye ladka aapke liye sahi rahe ji. Unka gussa aur aapka yog match nahi ho raha ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi exact mahina btao.",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 aur September 2028 ke beech yog hai ji. Shani ke prabhav se ye samay pakka hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 aur September 2028 ke beech yog hai ji. Shani ke prabhav se ye samay pakka hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine mein?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2027 ya 2028?",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Exact month btao.",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aaspaas hi yog ban raha hai ji. Shani ka prabhav tabhi shuru hota hai ji. Rishta ghar ke through pakka hoga ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke aaspaas hi yog ban raha hai ji. Shani ka prabhav tabhi shuru hota hai ji. Rishta ghar ke through pakka hoga ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "March ya April?",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Btao na, confirm kya hai.",
+    "sec": 150,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog pakka hai ji. Shani ka asar tabhi shuru hota hai ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se yog pakka hai ji. Shani ka asar tabhi shuru hota hai ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 fix hai?",
+    "sec": 180,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Aur koi upay batana hai kya?",
+    "sec": 180,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, March 2027 se yog pakka hai. Shukra ke liye white sweets donate karein ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan ji, March 2027 se yog pakka hai. Shukra ke liye white sweets donate karein ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 25
+  }
+]

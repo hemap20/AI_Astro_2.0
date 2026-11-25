@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "Aur ye ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Bihar me born h",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka pehla yog March 2027 se Sep 2028 ke beech hai. 2023-25 mein mehnat bohot ki par paisa nahi ruka. Is ladke se milan utna majboot nahi hai. Kya ghar pe baat ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ka pehla yog March 2027 se Sep 2028 ke beech hai. 2023-25 mein mehnat bohot ki par paisa nahi ruka. Is ladke se milan utna majboot nahi hai. Kya ghar pe baat ki hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi nhi hai to kya problem hai",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Uska nature ka kuch dikh rha hai kya?",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhare 7th ghar ke hisaab se tumhe shant saathi chahiye. Ye ladka shayad zyada gusse wala hai jo match nahi hoga. Rishta kahan se aayega, uska ek khas sanket kundli mein abhi dikh raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Tumhare 7th ghar ke hisaab se tumhe shant saathi chahiye. Ye ladka shayad zyada gusse wala hai jo match nahi hoga. Rishta kahan se aayega, uska ek khas sanket kundli mein abhi dikh raha hai."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan, gussa bohot hai iska",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Maine 2 baar mil liya hai, gusse wala hi laga",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shadi ka exact time batao, 2027-2028 bohot bada time hai",
+    "sec": 60,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me hogi?",
+    "sec": 60,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari parakh sahi hai. Shadi ka yog April-May 2027 mein sabse mazboot hai. Mangal ke liye roz Hanuman Chalisa padhna shuru karo, isse gusse wale rishton se tumhara mann shant rahega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Tumhari parakh sahi hai. Shadi ka yog April-May 2027 mein sabse mazboot hai. Mangal ke liye roz Hanuman Chalisa padhna shuru karo, isse gusse wale rishton se tumhara mann shant rahega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "April-May 2027 mein pakka ho jayega?",
+    "sec": 90,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Aur koi dikkat to nahi hai kundli mein?",
+    "sec": 90,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, us window mein yog majboot hai. Kundli mein koi badi dikkat nahi, bas mann kabhi-kabhi restless rehta hai. Agli baar jab baat karenge, tab tumhare hone wale saathi par detail mein baat karenge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, us window mein yog majboot hai. Kundli mein koi badi dikkat nahi, bas mann kabhi-kabhi restless rehta hai. Agli baar jab baat karenge, tab tumhare hone wale saathi par detail mein baat karenge."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Samajh gaya",
+    "sec": 120,
+    "idx": 19
+  }
+]

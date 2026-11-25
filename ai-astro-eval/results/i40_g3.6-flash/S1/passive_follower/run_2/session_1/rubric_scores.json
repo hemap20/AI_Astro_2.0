@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 9,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 7,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.47,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.0,
+    "long_share": 0.22
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Purani job ko lekar aap pareshan lag rahe hain.",
+        "why": "The astrologer acknowledges the user's worry about the old job and builds the next question on the user's specific situation."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aap wahan se khud hate the ya unhone nikala tha?",
+        "why": "The questions are relevant and build on the user's input (Type A). No Type C questions found."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kya 2023 se 2025 ke beech aapki mehnat zyada aur kamai kam rahi thi?",
+        "why": "The reading is about the past/present, new to the user, specific, and tied to a chart reason (implied by the context of the reading)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Purani job me vapas jaane ke mauke kam hain",
+        "why": "The astrologer gives a clear direction (low chance) regarding the main question before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi aathve ghar ke dabav se kaam me deri aati hai.",
+        "why": "The astrologer links a life statement (delays in work) to a chart factor (8th house pressure) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Sales ka kaam baat-cheet se juda hai, jaha aapki boli achha sath degi.",
+        "why": "The astrologer adds a new point about the sales job and uses the user's detail (sales associate)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paise me achhi sthiti 2028 se banegi.",
+        "why": "The astrologer provides a window (2028) and the facts remain consistent throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Guru ko majboot karne ke liye Guruwar se chana dal daan kijiye.",
+        "why": "The remedy is practical and has a specific time (Guruwar) and action (chana dal daan)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke job aur kamai ko lekar jo sawal tha, uska jawab mil gaya hai.",
+        "why": "The astrologer addresses the job question and then moves to the money question, keeping the thread clear."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki patri me 2027-2028 ke beech videsh se jude kaam ya trade business ka ek khas yog bhi banta hai.",
+        "why": "The astrologer opens a new layer regarding foreign work/trade business."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke job aur kamai ko lekar jo sawal tha, uska jawab mil gaya hai. Aapki patri me 2027-2028 ke beech videsh se jude kaam ya trade business ka ek khas yog bhi banta hai.",
+        "why": "No closing message, and the astrologer continues to provide value until the end."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki patri me 2027-2028 ke beech videsh se jude kaam ya trade business ka ek khas yog bhi banta hai.",
+        "why": "The last message provides a real reading/insight."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi aathve ghar ke dabav se kaam me deri aati hai.",
+        "why": "The language is easy and uses common terms. No formal or bookish language found."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kabhie grahon ki dhimi chaal se samay aage-peeche ho jata hai. Abhi aathve ghar ke dabav se kaam me deri aati hai.",
+        "why": "The user pushed back on the accuracy of dates, and the astrologer accepted the feedback and immediately provided a concrete reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello! March 2027 ke baad se halat tezi se badal rahi hai aur rahat milegi. Batao, abhi sabse zyada kis cheez ki tension chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello! March 2027 ke baad se halat tezi se badal rahi hai aur rahat milegi. Batao, abhi sabse zyada kis cheez ki tension chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi pakki lag rahi hai, rishta jaan-pehchaan se aayega. Par ek baat aur, isse pehle ek rishta aayega jise pehchanna zaroori hai warna galat jagah baat chal sakti hai. Ghar pe abhi kisi ke baare mein baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi pakki lag rahi hai, rishta jaan-pehchaan se aayega. Par ek baat aur, isse pehle ek rishta aayega jise pehchanna zaroori hai warna galat jagah baat chal sakti hai. Ghar pe abhi kisi ke baare mein baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, mummy papa rishta dekh rhe.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ek ki baat chal rhi hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Wahi hai kya wo jo aap bol rhe?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, wahi rishta ho sakta hai. Inka nature calm aur educated hai, par thoda guarded side bhi hai. Tumne unse akele mein baat ki hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan, wahi rishta ho sakta hai. Inka nature calm aur educated hai, par thoda guarded side bhi hai. Tumne unse akele mein baat ki hai kya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi ki baat.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta pakka hoga ya nahi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Final hone mein thoda time lagega kyunki in-laws thode traditional aur reserved hain. Friday se Om Shum Shukraya Namah 108 baar chant karna shuru karo, sab theek hoga. Tumhe kya lagta hai, unse akele mein baat karne ka mauka kab milega?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Final hone mein thoda time lagega kyunki in-laws thode traditional aur reserved hain. Friday se Om Shum Shukraya Namah 108 baar chant karna shuru karo, sab theek hoga. Tumhe kya lagta hai, unse akele mein baat karne ka mauka kab milega?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta pakka hoga ya nahi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, yahi rishta pakka hone ka chance zyada hai kyunki ye jaan-pehchaan se hi aaya hai. Par ek baat aur hai, inki family thodi traditional aur reserved hai. Ghar pe unke baare mein aur kya bataya gaya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, yahi rishta pakka hone ka chance zyada hai kyunki ye jaan-pehchaan se hi aaya hai. Par ek baat aur hai, inki family thodi traditional aur reserved hai. Ghar pe unke baare mein aur kya bataya gaya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak final hoga?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad, mid-2027 tak baat pakki hone ke chances sabse zyada hain. Shaadi ke baad paisa thoda in-laws ke sath jud sakta hai, iska dhyan rakhna padega. Tumhe kya lagta hai, yeh log tumhari expectations se match karte hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad, mid-2027 tak baat pakki hone ke chances sabse zyada hain. Shaadi ke baad paisa thoda in-laws ke sath jud sakta hai, iska dhyan rakhna padega. Tumhe kya lagta hai, yeh log tumhari expectations se match karte hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak milegi?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ke liye kahan interview diya tha aur result ka kab se wait chal raha hai? Ghar pe isko lekar kya lagta hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Job ke liye kahan interview diya tha aur result ka kab se wait chal raha hai? Ghar pe isko lekar kya lagta hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "2 mahine pehle interview diya",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Result ka wait hai",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak milegi?",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dono mein deri ka ek hi grah asar hai, tumhari galti nahi. June 2027 ke baad raste khul jayenge. Interview mein kya lagta hai kahan baat atki?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Dono mein deri ka ek hi grah asar hai, tumhari galti nahi. June 2027 ke baad raste khul jayenge. Interview mein kya lagta hai kahan baat atki?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Pta nahi.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok, June 2027.",
+    "sec": 240,
+    "idx": 25
+  }
+]

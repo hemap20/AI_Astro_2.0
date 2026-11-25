@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain. Kya November 2022 mein aapki padhai ya college ki life mein koi badlav aaya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapki shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain. Kya November 2022 mein aapki padhai ya college ki life mein koi badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ladka calm hai, par kundali milan zaroori hai. Padhai badlav aur rishta, dono mein dhiraj rakhen kyunki rishton ka grah kamzor hai. Is ladke ki family mein ek purani parampara hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ye ladka calm hai, par kundali milan zaroori hai. Padhai badlav aur rishta, dono mein dhiraj rakhen kyunki rishton ka grah kamzor hai. Is ladke ki family mein ek purani parampara hai."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Par wo gussa krta hai",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unke ghar wale kaafi paramparik aur sakht hain, jisse wo dabav mein rehte hain. Aapki career ki uljhan aur unka gussa dono ka asar mann par hai, kyunki himmat ka grah tez hai. Mangal ke liye mangalwar se Hanuman Chalisa padhiye, isse shanti milegi. Kya pehle bhi aapko rishton mein aisi takleef hui hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Unke ghar wale kaafi paramparik aur sakht hain, jisse wo dabav mein rehte hain. Aapki career ki uljhan aur unka gussa dono ka asar mann par hai, kyunki himmat ka grah tez hai. Mangal ke liye mangalwar se Hanuman Chalisa padhiye, isse shanti milegi. Kya pehle bhi aapko rishton mein aisi takleef hui hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke career ki susti aur rishte mein gussa, dono ka kaaran karm aur himmat ke grah ka asar hai. Shukra ke liye 'Om Shum Shukraya Namah' 108 baar kijiye, jisse naukri ka naya rasta khulega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke career ki susti aur rishte mein gussa, dono ka kaaran karm aur himmat ke grah ka asar hai. Shukra ke liye 'Om Shum Shukraya Namah' 108 baar kijiye, jisse naukri ka naya rasta khulega."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke chart mein ghar se door ya videsh mein naukri ka ek khaas yog dikh raha hai. Kya aapne kabhi apne sheher se bahar jaakar kaam karne ka socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapke chart mein ghar se door ya videsh mein naukri ka ek khaas yog dikh raha hai. Kya aapne kabhi apne sheher se bahar jaakar kaam karne ka socha hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka dusra yog October 2028 se February 2030 hai. Career ki susti aur rishte ka gussa kismat ke grah se jude hain, isliye Guruwar ko 108 baar Guru mantra ka jaap kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi ka dusra yog October 2028 se February 2030 hai. Career ki susti aur rishte ka gussa kismat ke grah se jude hain, isliye Guruwar ko 108 baar Guru mantra ka jaap kijiye."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki neend aur sehat mein thodi dikkat lag sakti hai, par 2027 ke beech tak sab theek ho jayega. Kya aapko sone mein aksar pareshani hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapki neend aur sehat mein thodi dikkat lag sakti hai, par 2027 ke beech tak sab theek ho jayega. Kya aapko sone mein aksar pareshani hoti hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Btaiye",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Neend aur career ki susti, dono ka kaaran mann ka grah kamzor hona hai, isliye Somvar ko 'Om Som Somaya Namah' ka jaap kijiye. Aapki naukri aur तरक्की March 2027 se shuru hogi, tab tak dhiraj rakhein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Neend aur career ki susti, dono ka kaaran mann ka grah kamzor hona hai, isliye Somvar ko 'Om Som Somaya Namah' ka jaap kijiye. Aapki naukri aur तरक्की March 2027 se shuru hogi, tab tak dhiraj rakhein."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi aur career ke sawalon ka jawab maine de diya hai. Aapke hone wale jeevan-saathi ka swabhav lamba aur shaant hoga, jise jaan lene se aapke rishte ki compatibility ka sahi andaza mil sakta hai. Aap is baare mein abhi aur vistar se samajh sakti hain, bas chat ko abhi recharge kijiye taki hum baat jaari rakh sakein.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki shaadi aur career ke sawalon ka jawab maine de diya hai. Aapke hone wale jeevan-saathi ka swabhav lamba aur shaant hoga, jise jaan lene se aapke rishte ki compatibility ka sahi andaza mil sakta hai. Aap is baare mein abhi aur vistar se samajh sakti hain, bas chat ko abhi recharge kijiye taki hum baat jaari rakh sakein."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 25
+  }
+]

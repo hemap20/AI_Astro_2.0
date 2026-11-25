@@ -1,0 +1,202 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab tak hogi aur ladka sahi hai kya?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai woh.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shadi ka yog hai ji. Arrange match ka yog strong dikh raha hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shadi ka yog hai ji. Arrange match ka yog strong dikh raha hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Aur ladka sahi hai ya nahi mere liye?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shuruwat 2027 ke mid me lag rahi hai ji. Ladka calm, educated aur warm nature ka hoga.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shuruwat 2027 ke mid me lag rahi hai ji. Ladka calm, educated aur warm nature ka hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Par maine milke dekha, wo short tempered hai.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "To mere liye sahi hai ya nahi? Yes ya no.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki observation bilkul theek ho sakti hai ji. Chart mein unka ek guarded side bhi hai jo shuru mein dikhta hai. Ye 8th house Shani ka prabhav hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki observation bilkul theek ho sakti hai ji. Chart mein unka ek guarded side bhi hai jo shuru mein dikhta hai. Ye 8th house Shani ka prabhav hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Matlab?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, yes ya no me bolo.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aise yes-no mein kehna mushkil hai ji. Mangal ka asar hai unme, jo thoda anger deta hai. Par aage chal ke ye balance ho jayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aise yes-no mein kehna mushkil hai ji. Mangal ka asar hai unme, jo thoda anger deta hai. Par aage chal ke ye balance ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Aap spasht kijiye.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ladka mere liye sahi hai ya nahi?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Yes ya no.",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa bilkul theek hai ji. Chart mein thoda temper dikhta hai, par aage sab theek ho jayega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka gussa bilkul theek hai ji. Chart mein thoda temper dikhta hai, par aage sab theek ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, itna bolo bas.",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa bilkul sahi hai ji. Yes-no kehna mushkil hai. Chart mein thodi chunautiyaan dikh rahi hain.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka gussa bilkul sahi hai ji. Yes-no kehna mushkil hai. Chart mein thodi chunautiyaan dikh rahi hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Aap bilkul bhi seedha jawab nahi de rahe.",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi, haan ya na?",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa bilkul jayaz hai ji. Seedha yes-no bolna mushkil hai. Yeh rishta thodi mehnat mangega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka gussa bilkul jayaz hai ji. Seedha yes-no bolna mushkil hai. Yeh rishta thodi mehnat mangega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Aap meri baat samajh nahi rahe.",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, bas haan ya na bolo.",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa bilkul jayaz hai ji. Seedha haan-na kehna theek nahi. Rishta chalega, par mehnat lagegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapka gussa bilkul jayaz hai ji. Seedha haan-na kehna theek nahi. Rishta chalega, par mehnat lagegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "5 minute aise hi nikal gaye.",
+    "sec": 240,
+    "idx": 27
+  }
+]

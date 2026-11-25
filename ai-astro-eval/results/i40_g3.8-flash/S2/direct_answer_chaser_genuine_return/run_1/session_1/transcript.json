@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Main aapka future dekh sakti hoon, par batayein abhi sabse zyada dhyan job par hai ya shaadi par?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Main aapka future dekh sakti hoon, par batayein abhi sabse zyada dhyan job par hai ya shaadi par?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai. Rishton ka grah thoda daba hai isliye der hui. Kya 2022 mein padhai badli thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai. Rishton ka grah thoda daba hai isliye der hui. Kya 2022 mein padhai badli thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month confirm hai?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Us daur mein March ya April ka time sabse pakka dikhta hai. Aapki kundli mein ek khaas baat partner ke milne ko lekar bhi dikh rahi hai. Kya ghar wale rishta dhoondh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Us daur mein March ya April ka time sabse pakka dikhta hai. Aapki kundli mein ek khaas baat partner ke milne ko lekar bhi dikh rahi hai. Kya ghar wale rishta dhoondh rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ghar wale dekh rahe hain, ek rishta chal bhi raha hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Aur wo khaas baat kya hai? Bataiye.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Khaas baat yeh hai ki partner kisi jaane-pehchaane zariye se hi aayenge, jo lamba aur shant nature ka hoga. Shukravar ko safed meethai baantna shuru kijiye, baat jaldi banegi. Jo rishta chal raha hai, usme kya baat atak rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Khaas baat yeh hai ki partner kisi jaane-pehchaane zariye se hi aayenge, jo lamba aur shant nature ka hoga. Shukravar ko safed meethai baantna shuru kijiye, baat jaldi banegi. Jo rishta chal raha hai, usme kya baat atak rahi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Rishta chodo. Paisa kab tak banega?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kamai ka grah bohot majboot hai, par doosre ghar mein thoda dabav hone se paisa tikta nahi. Pehle job kijiye, phir business se accha paisa banega. Abhi kharch zyada rehta hai ya kamai hi kam hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapki kamai ka grah bohot majboot hai, par doosre ghar mein thoda dabav hone se paisa tikta nahi. Pehle job kijiye, phir business se accha paisa banega. Abhi kharch zyada rehta hai ya kamai hi kam hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kamai kam hai. Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat aur gyaan ke grah ka daur 2027 ke shuru tak chal raha hai, toh March 2027 se kamai mein achha sudhaar aane lagega. Kundli mein ek aisi cheez bhi dikh rahi hai jo aage chal kar achanak bada fayda de sakti hai. Abhi aap kis line mein kaam kar rahe hain ya dhoondh rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kismat aur gyaan ke grah ka daur 2027 ke shuru tak chal raha hai, toh March 2027 se kamai mein achha sudhaar aane lagega. Kundli mein ek aisi cheez bhi dikh rahi hai jo aage chal kar achanak bada fayda de sakti hai. Abhi aap kis line mein kaam kar rahe hain ya dhoondh rahe hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo cheez trade ya service ke business ka yog hai. Guruvaar ko chana dal daan karna shuru kijiye, raste khulenge. Ghar ki yeh tension kab se chal rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Wo cheez trade ya service ke business ka yog hai. Guruvaar ko chana dal daan karna shuru kijiye, raste khulenge. Ghar ki yeh tension kab se chal rahi hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2 saal se.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur mann ka bhari hona dono ek hi daur ki wajah se hai. Yeh daur June 2027 mein khatam hoga, tabhi ghar mein poori shanti aayegi. Roz thoda waqt shaant baithne ki aadat daaliye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension aur mann ka bhari hona dono ek hi daur ki wajah se hai. Yeh daur June 2027 mein khatam hoga, tabhi ghar mein poori shanti aayegi. Roz thoda waqt shaant baithne ki aadat daaliye."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 19
+  }
+]

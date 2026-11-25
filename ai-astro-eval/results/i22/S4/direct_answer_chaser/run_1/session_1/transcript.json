@@ -1,0 +1,239 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ye ladka sahi hai ya nahi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai. Partner shant, padha-likha aur warm nature ka dikh raha hai. Tumhari is ladke se baat kaise hui?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai. Partner shant, padha-likha aur warm nature ka dikh raha hai. Tumhari is ladke se baat kaise hui?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Par ladka shant nahi hai",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Gussa bahut karta hai",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi mere liye?",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladke ka gussa Mangal ki wajah se hai, kundli mein yeh asar dikhta hai. Tuesday se Hanuman Chalisa shuru karo. Kya ghar walo ko is baare mein pata hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladke ka gussa Mangal ki wajah se hai, kundli mein yeh asar dikhta hai. Tuesday se Hanuman Chalisa shuru karo. Kya ghar walo ko is baare mein pata hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Matlab shi hai ya nhi mere liye?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye.",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedha bole toh, partner waise calm nature ka hai par abhi gussa Mangal ke asar se dikh raha hai. Manglik matching zaroor karwana. Is rishte par ghar walo ka kya kehna hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Seedha bole toh, partner waise calm nature ka hai par abhi gussa Mangal ke asar se dikh raha hai. Manglik matching zaroor karwana. Is rishte par ghar walo ka kya kehna hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo mai puchh rha wo bta ni rhe.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Sidha batao, rishta karu ya na karu?",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedha bolu toh, bina proper matching ke jaldi mat karo kyunki kundli mein Shukra weak hone se aage nibhana mushkil ho sakta hai. Friday se Om Shum Shukraya Namah 108 baar jaap shuru karo. Kya is baare mein ghar mein aur kisi ko pata hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Seedha bolu toh, bina proper matching ke jaldi mat karo kyunki kundli mein Shukra weak hone se aage nibhana mushkil ho sakta hai. Friday se Om Shum Shukraya Namah 108 baar jaap shuru karo. Kya is baare mein ghar mein aur kisi ko pata hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na, ye batao?",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Rishta karu ya na karu?",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedha haan nahi bol sakti, kyunki Shukra weak hone ki wajah se aage nibhana mushkil ho sakta hai. Kya ghar wale is rishte ke liye bohot zoor de rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Seedha haan nahi bol sakti, kyunki Shukra weak hone ki wajah se aage nibhana mushkil ho sakta hai. Kya ghar wale is rishte ke liye bohot zoor de rahe hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Aap baat ghumate ho.",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 150,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "2027 ya 2028 me?",
+    "sec": 150,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad hi yog pakka ban raha hai, tabhi naya samay shuru hoga. Waise jaan-pehchaan ke zariye aane wale rishte ka yog zyada hai. Tum khud kya chahti ho, kaisa ladka chahiye tumhe?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad hi yog pakka ban raha hai, tabhi naya samay shuru hoga. Waise jaan-pehchaan ke zariye aane wale rishte ka yog zyada hai. Tum khud kya chahti ho, kaisa ladka chahiye tumhe?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Par ye rishta sahi hai ya nahi?",
+    "sec": 180,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein partner warm aur padha-likha dikh raha hai, par agar gussa bohot hai toh thoda sochna padega. March 2027 ke baad hi baat aage badhana theek rahega. Kya tumne yeh baat apne ghar mein batayi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kundli mein partner warm aur padha-likha dikh raha hai, par agar gussa bohot hai toh thoda sochna padega. March 2027 ke baad hi baat aage badhana theek rahega. Kya tumne yeh baat apne ghar mein batayi hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Matlab is ladke se shadi na karu?",
+    "sec": 210,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Seedha bolo.",
+    "sec": 210,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedha bolu toh, is ladke ka gussa aur kundli ka yog keh raha hai ki bina soche aage mat bado. Kya is baare mein ghar mein baat hui hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Seedha bolu toh, is ladke ka gussa aur kundli ka yog keh raha hai ki bina soche aage mat bado. Kya is baare mein ghar mein baat hui hai?"
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Aap sahi jawab nahi de rhe.",
+    "sec": 240,
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Faltu mein time waste ho raha hai.",
+    "sec": 240,
+    "idx": 30
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, bas ye bolo.",
+    "sec": 240,
+    "idx": 31
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedha bolu toh, gussa karne wale se rishta nibhana mushkil hoga kyunki Shukra weak hai. 2027 mein ek mahina aisa aayega jab sach saamne aa jayega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Seedha bolu toh, gussa karne wale se rishta nibhana mushkil hoga kyunki Shukra weak hai. 2027 mein ek mahina aisa aayega jab sach saamne aa jayega."
+    },
+    "idx": 32
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 270,
+    "idx": 33
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 270,
+    "idx": 34
+  }
+]

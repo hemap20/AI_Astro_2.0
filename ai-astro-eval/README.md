@@ -80,3 +80,33 @@ test a new prompt.
   a style-shift overlay (`ALT_PERSONA_STYLE_SHIFT`) on top of the same
   situation/facts — same content, different formality/directness/regional
   flavor — so a finding that replicates across both is a real finding.
+
+## Sitara pipeline (metrics v2, event judge)
+
+`run_sitara.py` runs the Sitara cases in `test_cases/memory_test_cases.py`
+(`SITARA_TEST_CASES`, S1–S5). Background: `../integration.md`.
+
+- **User LLM:** `personas/sitara_1_direct_answer_chaser.md` or
+  `personas/sitara_2_passive_follower.md`, with `{scenario}` filled from the case and the
+  case's pressure points added. Cases asking for 2 persona variants also run with the
+  other persona on the same scenario. S5's inline persona runs as-is.
+- **Clock:** each astro reply goes to the simulator as `[mm:ss] <reply>`, 30 s per
+  exchange. The persona leaves at 05:00 with `[LEAVE]` + `[VERDICT]`.
+- **Memory:** multi-session cases (S2) chain the production summarizer as before;
+  session 2 gets the session-1 summary (`memory_summary.json`).
+- **Scoring:** `src/event_judge.py` labels every message (gemini-3.1-flash-lite,
+  temperature 0, seed 42); metrics are computed from labels by script and described
+  in `metrics/metrics_v2.py`. No 1–10 scores, no composite.
+- **Scorecard:** `results/<version>/scorecard_v2.md`: raw values vs target and the
+  real-Sitara baseline (`metrics/baseline_scorecard.csv`), VERDICT rates, and the
+  prompt lever + example messages for every DRIVER that misses. With `--baseline <version>`
+  it applies `DECISION_RULE`.
+
+```bash
+python run_sitara.py --prompt-version v1 --all                       # 63 runs
+python run_sitara.py --prompt-version v1 --test-case S2 --persona passive_follower --gap-variant same_day --runs 1
+python run_sitara.py --prompt-version v2 --scorecard-only --baseline v1
+```
+
+Per run: `results/<version>/<case>/<persona>[_<gap>]/run_<n>/meta.json` and
+`session_<k>/{transcript.json,transcript.md,labels.json,metrics.json,verdict.json}`.

@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bhavishya mein aap khaas taur par kis baare mein jaanna chahti hain, career ya rishte?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bhavishya mein aap khaas taur par kis baare mein jaanna chahti hain, career ya rishte?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai, aur rishta arranged hone ke chances zyada hain. 2022 mein aapki padhai ya college life mein badlav aaye the, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai, aur rishta arranged hone ke chances zyada hain. 2022 mein aapki padhai ya college life mein badlav aaye the, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Us badlav ke baad abhi thoda samay rukawat bhara hai, par 2027 mein sab theek hoga. Aapke hone wale jeevansathi kaafi samajhdaar honge. Abhi ghar wale rishte ki baat kahan tak le gaye hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Us badlav ke baad abhi thoda samay rukawat bhara hai, par 2027 mein sab theek hoga. Aapke hone wale jeevansathi kaafi samajhdaar honge. Abhi ghar wale rishte ki baat kahan tak le gaye hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rhe",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Vivah ke liye ye samay achha hai aur ghar wale sahi disha mein dekh rahe hain. Is rishte mein hone wale jeevansathi ka swabhav kaafi shant rahega, bas ek baat ka dhyan rakhna zaroori hai. Aapko is rishte se kya umeed hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Vivah ke liye ye samay achha hai aur ghar wale sahi disha mein dekh rahe hain. Is rishte mein hone wale jeevansathi ka swabhav kaafi shant rahega, bas ek baat ka dhyan rakhna zaroori hai. Aapko is rishte se kya umeed hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi mann ke kamzor grah se hai, jo 2027 mein shaadi ke sath sudhar jayegi. Aapki kundli mein achanak dhan labh ka yog hai. Business ka socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki tangi mann ke kamzor grah se hai, jo 2027 mein shaadi ke sath sudhar jayegi. Aapki kundli mein achanak dhan labh ka yog hai. Business ka socha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bohot hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur paisa, dono ek hi grah ke bhari daur se hain. 2028 mein rishte aur ghar mein badi khushi aane wali hai. Ghar mein sabse zyada tension kis baat ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur paisa, dono ek hi grah ke bhari daur se hain. 2028 mein rishte aur ghar mein badi khushi aane wali hai. Ghar mein sabse zyada tension kis baat ki hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Sabki ladai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki ladai aur aapki rukawat, dono ek hi heavy phase se hain jo gusse aur heavy-pan ko badhata hai. Agle kuch mahino mein halaat mein badlav aayega. Kya ghar ke bade log is tension se pareshan hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki ladai aur aapki rukawat, dono ek hi heavy phase se hain jo gusse aur heavy-pan ko badhata hai. Agle kuch mahino mein halaat mein badlav aayega. Kya ghar ke bade log is tension se pareshan hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha bahut",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki ladai aur aapki rukawat, dono ek hi grah ke asar se hain. Agle saal se ek aisa mauka ban raha hai jo ghar mein shanti layega. Is mahol mein aap khud ko kaise sambhalti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki ladai aur aapki rukawat, dono ek hi grah ke asar se hain. Agle saal se ek aisa mauka ban raha hai jo ghar mein shanti layega. Is mahol mein aap khud ko kaise sambhalti hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Bas chup rehti hu",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka chup rehna hi abhi ke liye sahi hai. Gusse aur tension ko kam karne ke liye Mangalvaar se Hanuman Chalisa padhna shuru kijiye, isse ghar mein shanti aayegi. Aapki naukri aur parivaar ki pareshani, dono iske baad dheere-dheere sudharne lagenge, kya aap ye kar sakti hain?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapka chup rehna hi abhi ke liye sahi hai. Gusse aur tension ko kam karne ke liye Mangalvaar se Hanuman Chalisa padhna shuru kijiye, isse ghar mein shanti aayegi. Aapki naukri aur parivaar ki pareshani, dono iske baad dheere-dheere sudharne lagenge, kya aap ye kar sakti hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi aur tension ka jawab maine de diya hai. Aapke hone wale jeevansathi ka nature aur aapki compatibility kundli mein saaf hai; agli baar milenge toh uspar detail mein baat karenge.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Shaadi aur tension ka jawab maine de diya hai. Aapke hone wale jeevansathi ka nature aur aapki compatibility kundli mein saaf hai; agli baar milenge toh uspar detail mein baat karenge."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

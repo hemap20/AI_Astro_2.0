@@ -1,0 +1,168 @@
+[
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar born",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Unki exact birth time aur place bataiye, tabhi sahi match dekh sakti hoon.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Unki exact birth time aur place bataiye, tabhi sahi match dekh sakti hoon.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Time pata nahi hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Bas ye batao ladka shi h ya nahi?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bina time ke exact matching mushkil hai ji. Aapki kundli mein 2027 ke baad acche rishte ka yog hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Bina time ke exact matching mushkil hai ji. Aapki kundli mein 2027 ke baad acche rishte ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Matlab ye ladka mere liye shi nahi hai?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein batao.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada strong match nahi dikh raha ji. Venus combust hone se clarity nahi hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Zyada strong match nahi dikh raha ji. Venus combust hone se clarity nahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi ka yog hai ji. Shani dasha shuru hone se ye mauka aayega. Rishta kisi jaane-maane circle se pakka hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se shaadi ka yog hai ji. Shani dasha shuru hone se ye mauka aayega. Rishta kisi jaane-maane circle se pakka hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok, March 2027.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ladka short-tempered hai, isi wajah se match nahi h?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, wahi guarded nature hai. D9 chart mein Vrishchika hone se wo thode reserved hote hain. In-laws side traditional aur strict rahegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, wahi guarded nature hai. D9 chart mein Vrishchika hone se wo thode reserved hote hain. In-laws side traditional aur strict rahegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "In-laws strict rahenge?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, 8th house wahi batata hai. Ghar wale kaafi disciplined rahenge. Partner ka nature kaafi calm hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan ji, 8th house wahi batata hai. Ghar wale kaafi disciplined rahenge. Partner ka nature kaafi calm hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Maine mil ke dekha, wo gusse wala hai.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Aap galat bol rhe ho.",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka experience bilkul sahi hai ji. Unka wo guarded aur strict roop wahi hai jo dikhta hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka experience bilkul sahi hai ji. Unka wo guarded aur strict roop wahi hai jo dikhta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Samajh gaya.",
+    "sec": 210,
+    "idx": 22
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main samajh sakti hoon ki aap apne bhavishya ko lekar thoda chintit hain. Aap career ke baare mein jaanna chahte hain ya shaadi aur rishton ke baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main samajh sakti hoon ki aap apne bhavishya ko lekar thoda chintit hain. Aap career ke baare mein jaanna chahte hain ya shaadi aur rishton ke baare mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 mein shaadi ka yog hai. Kismat ka grah tab rishton ke liye sahayak hoga. 2023 se 2025 tak mehnat aur paise ki tangi thi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 mein shaadi ka yog hai. Kismat ka grah tab rishton ke liye sahayak hoga. 2023 se 2025 tak mehnat aur paise ki tangi thi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tangi aur shaadi mein deri, dono ka ek hi karan hai jo ab theek ho raha hai. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Ghar wale abhi rishta dekh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Tangi aur shaadi mein deri, dono ka ek hi karan hai jo ab theek ho raha hai. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Ghar wale abhi rishta dekh rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta hai",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rishta jaan-pehchan mein hi lagta hai. Wo insaan kafi samajhdaar aur shant honge, par unka ek hissa thoda chup-chaap rehta hai. Abhi sleep aur stress kam karne ke liye kuch kar rahi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ye rishta jaan-pehchan mein hi lagta hai. Wo insaan kafi samajhdaar aur shant honge, par unka ek hissa thoda chup-chaap rehta hai. Abhi sleep aur stress kam karne ke liye kuch kar rahi hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah kamzor hone se stress badhta hai, jo shaadi aur career pe asar dalta hai. Career mein ek mauka aane wala hai, bas ek galti se bachna hoga. Aap abhi kya kaam kar rahi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Mann ka grah kamzor hone se stress badhta hai, jo shaadi aur career pe asar dalta hai. Career mein ek mauka aane wala hai, bas ek galti se bachna hoga. Aap abhi kya kaam kar rahi hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kar rhi hu",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise March 2027 se aayenge. Padhai aur kamai dono ek hi ghar se jude hain. Career mein ek bada badlav aane wala hai, par aap kya padh rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paise March 2027 se aayenge. Padhai aur kamai dono ek hi ghar se jude hain. Career mein ek bada badlav aane wala hai, par aap kya padh rahi hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Bcom",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension h",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension, aapke mann ke grah par bhari nazar ka asar hai. Abhi koi bada faisla na lein, bas Somvar ka vrat karein. Kya ghar mein kisi khas se tension hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension, aapke mann ke grah par bhari nazar ka asar hai. Abhi koi bada faisla na lein, bas Somvar ka vrat karein. Kya ghar mein kisi khas se tension hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Papa se",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Papa se tension mann ke grah par dabanv ke karan hai. Kundli mein ek vyakti ki madad saaf dikh rahi hai, jo ghar ke halat sudharenge. Kya wo aapki padhai ko lekar chintit rehte hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Papa se tension mann ke grah par dabanv ke karan hai. Kundli mein ek vyakti ki madad saaf dikh rahi hai, jo ghar ke halat sudharenge. Kya wo aapki padhai ko lekar chintit rehte hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unki chinta aapke career ke daur se judi hai, jo jald badlega. Guru ka mantra 19 November se shuru kijiye; isse padhai aur ghar ka mahaul shant hoga. Career ke best fields agli baar samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Unki chinta aapke career ke daur se judi hai, jo jald badlega. Guru ka mantra 19 November se shuru kijiye; isse padhai aur ghar ka mahaul shant hoga. Career ke best fields agli baar samjhenge."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maine aapke career aur shaadi ke sawalon ka jawab de diya hai. Agli baar hum career ke maukon aur shaadi ki jodi par baat karenge, jab bhi aap free hon message kijiye.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Maine aapke career aur shaadi ke sawalon ka jawab de diya hai. Agli baar hum career ke maukon aur shaadi ki jodi par baat karenge, jab bhi aap free hon message kijiye."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

@@ -1,0 +1,215 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 4,
+    "2.5": 9,
+    "2.6": null,
+    "2.7": 7,
+    "3.1": 4,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.81,
+  "shape": {
+    "M": 6,
+    "avg_words": 27.8,
+    "long_share": 0.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job ki baat aapke liye zaroori hai, ye main samajh sakti hoon.",
+        "why": "The astrologer acknowledges the user's specific concern about their old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya 2023 mein aapki skills aur mehnat par zyada zor raha tha?",
+        "why": "No Type C questions, but more than half are Type B (generic life questions)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Purani job mein wapas aane ka yog agle saal mid-2027 ke aas-paas ban raha hai.",
+        "why": "The reading is about the future, not the present or past."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 ki shuruat mein bulane ka yog hai",
+        "why": "A clear direction is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March mein kismat aur gyaan ka grah majboot hokar rasta banata hai.",
+        "why": "One linked reading provided with a chart factor in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 4,
+        "quote": "March 2027 ki shuruat mein bulane ka yog hai",
+        "why": "One later reading is New, but none use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aise samay mein thoda badlaav ho sakta hai ji, kyunki mehnat aur karm ka grah thoda samay leta hai.",
+        "why": "A window is provided, stated as what the kundli shows, with no promise."
+      },
+      "2.6": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": null
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job mein wapas aane ka yog agle saal mid-2027 ke aas-paas ban raha hai.",
+        "why": "The astrologer stays on the main question throughout."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": null,
+        "why": "Nothing further is opened."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message and no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March mein kismat aur gyaan ka grah majboot hokar rasta banata hai.",
+        "why": "One of the last two messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": null,
+        "why": "U is 0 and F is 0."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki narazgi main samajh sakti hoon ji. March mein kismat aur gyaan ka grah majboot hokar rasta banata hai.",
+        "why": "Accepts the pushback in the very next reply and gives a concrete reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      }
+    ]
+  }
+}

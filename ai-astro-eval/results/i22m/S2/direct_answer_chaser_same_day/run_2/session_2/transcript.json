@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! Main Sitara hoon. Aane wale 1-2 saal tumhare liye kaafi badlav wale hain, khaaskar March 2027 ke baad zindagi mein thodi shanti aane lagegi. Zindagi ke kis hisse ko lekar tum sabse zyada pareshan ho, career ya phir kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! Main Sitara hoon. Aane wale 1-2 saal tumhare liye kaafi badlav wale hain, khaaskar March 2027 ke baad zindagi mein thodi shanti aane lagegi. Zindagi ke kis hisse ko lekar tum sabse zyada pareshan ho, career ya phir kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye March 2027 se September 2028 ka time best hai. 2025 se ghar pe baat chal rahi hai na? Ek rishta aayega jise pehchanna zaroori hai, warna galat jagah baat chal sakti hai. Ghar wale kya kehte hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke liye March 2027 se September 2028 ka time best hai. 2025 se ghar pe baat chal rahi hai na? Ek rishta aayega jise pehchanna zaroori hai, warna galat jagah baat chal sakti hai. Ghar wale kya kehte hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hain mummy papa.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta sahi hai ya nahi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo rishta ghar wale dekh rahe hain, usme ladka tall, calm aur educated hai, lekin uska ek side thoda guarded ya chup-chap rehta hai. 2027 mein ek mahina aisa hai jab tumhara decision is rishte ko pakka kar sakta hai, ya fir ise 2 saal peeche kar sakta hai. Ladke ka nature tumhe kaisa laga, kya tumne unse baat ki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Jo rishta ghar wale dekh rahe hain, usme ladka tall, calm aur educated hai, lekin uska ek side thoda guarded ya chup-chap rehta hai. 2027 mein ek mahina aisa hai jab tumhara decision is rishte ko pakka kar sakta hai, ya fir ise 2 saal peeche kar sakta hai. Ladke ka nature tumhe kaisa laga, kya tumne unse baat ki hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Baat nahi hui zyada.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta sahi hai ya nahi, haan ya na?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, ye rishta tumhare liye sahi hai aur favorable hai. Kundli mein Guru ki position arranged shaadi ke liye achhi hai, bas Shukra ki kamzori ke kaaran rishte mein shuruat mein thodi jhijhak ho sakti hai. Tum 20 November se 'Om Shum Shukraya Namah' ka jaap shuru karo, isse tumhare aur hone wale jeevansathi ke beech samjhauta behtar hoga. Kya tumne ghar par is rishte ke baare mein apni koi pasand ya sawal bataya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, ye rishta tumhare liye sahi hai aur favorable hai. Kundli mein Guru ki position arranged shaadi ke liye achhi hai, bas Shukra ki kamzori ke kaaran rishte mein shuruat mein thodi jhijhak ho sakti hai. Tum 20 November se 'Om Shum Shukraya Namah' ka jaap shuru karo, isse tumhare aur hone wale jeevansathi ke beech samjhauta behtar hoga. Kya tumne ghar par is rishte ke baare mein apni koi pasand ya sawal bataya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kaunse mahine mein?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 ke baad hi strong ban raha hai, kyunki tabhi se tumhare career mein bhi naya mod aayega. Pichli baar tumne financial stress aur ghar ke jhagdo ki baat ki thi, ye sab Shani ke dabav ki wajah se hai jo abhi tumhare mann par bojh daal raha hai. March se job aur shaadi dono ke raaste khulenge. Ek baat aur hai, shaadi ke baad tumhare in-laws ka nature thoda traditional aur reserved hoga, kya tumne unke baare mein kabhi kuch suna hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 ke baad hi strong ban raha hai, kyunki tabhi se tumhare career mein bhi naya mod aayega. Pichli baar tumne financial stress aur ghar ke jhagdo ki baat ki thi, ye sab Shani ke dabav ki wajah se hai jo abhi tumhare mann par bojh daal raha hai. March se job aur shaadi dono ke raaste khulenge. Ek baat aur hai, shaadi ke baad tumhare in-laws ka nature thoda traditional aur reserved hoga, kya tumne unke baare mein kabhi kuch suna hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "In-laws ki baat mat karo.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsa mahina?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March aur April 2027 ke beech mein shaadi ke chances sabse zyada hain, kyunki tabhi se tumhare career aur ghar ke halat mein badlav aana shuru hoga. Tab tak thoda dhiraj rakho, kyunki tabhi tumhari kundli mein naye rishte ke liye rasta poori tarah saaf hoga. Waise, kya tumne socha hai ki shaadi ke baad tum apni job ya career kaise manage karogi?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March aur April 2027 ke beech mein shaadi ke chances sabse zyada hain, kyunki tabhi se tumhare career aur ghar ke halat mein badlav aana shuru hoga. Tab tak thoda dhiraj rakho, kyunki tabhi tumhari kundli mein naye rishte ke liye rasta poori tarah saaf hoga. Waise, kya tumne socha hai ki shaadi ke baad tum apni job ya career kaise manage karogi?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab badhega mera?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ka masla aur ghar ke jhagde dono ek hi wajah se hain, tumhara Chandra kamzor hai isliye mann bhaari rehta hai aur paisa tikta nahi. March 2027 se tumhari kamai ke raste khulenge, par ek chhoti si galti hai jo tum bachat mein baar baar kar rahe ho. Guru ke liye 19 November se 'Om Gram Greem Grom Sah Gurave Namah' jaap shuru karo. Ghar ke kalesh mein paisa kahan zyada khatam ho raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ka masla aur ghar ke jhagde dono ek hi wajah se hain, tumhara Chandra kamzor hai isliye mann bhaari rehta hai aur paisa tikta nahi. March 2027 se tumhari kamai ke raste khulenge, par ek chhoti si galti hai jo tum bachat mein baar baar kar rahe ho. Guru ke liye 19 November se 'Om Gram Greem Grom Sah Gurave Namah' jaap shuru karo. Ghar ke kalesh mein paisa kahan zyada khatam ho raha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsi date?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Astrology mein koi ek date fix nahi hoti kyunki grahon ka asar poore mahine rehta hai. March 2027 se tumhare career aur paisa aane ke raste khulenge, kyunki tabhi se tumhari kundli mein kamai ka yog majboot ho raha hai. Tumhare liye ek zaroori baat ye hai ki job se kamai ka yog business se zyada achha hai, isliye abhi job par hi focus karna behtar hoga. Kya tumne March ke liye koi job search ya naya interview plan kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Astrology mein koi ek date fix nahi hoti kyunki grahon ka asar poore mahine rehta hai. March 2027 se tumhare career aur paisa aane ke raste khulenge, kyunki tabhi se tumhari kundli mein kamai ka yog majboot ho raha hai. Tumhare liye ek zaroori baat ye hai ki job se kamai ka yog business se zyada achha hai, isliye abhi job par hi focus karna behtar hoga. Kya tumne March ke liye koi job search ya naya interview plan kiya hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Sirf ghumate ho.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 240,
+    "idx": 23
+  }
+]

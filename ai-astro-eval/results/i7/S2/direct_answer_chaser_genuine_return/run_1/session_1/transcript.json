@@ -1,0 +1,142 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. 2027 ke baad career mein achhi rahat dikh rahi hai. Bataiye, kis cheez ki chinta hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. 2027 ke baad career mein achhi rahat dikh rahi hai. Bataiye, kis cheez ki chinta hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai ji. Shani ki nayi dasha isme madad karegi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai ji. Shani ki nayi dasha isme madad karegi.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month tak pakka h?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuruwat ho jayegi ji. Shani ki energy se baat aage badhegi. Rishta known circles se aa sakta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se shuruwat ho jayegi ji. Shani ki energy se baat aage badhegi. Rishta known circles se aa sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paise ki sthiti sudhregi ji. Ketu aur Mangal milkar debt kam karenge. Pehle job aur phir business ka yog hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se paise ki sthiti sudhregi ji. Ketu aur Mangal milkar debt kam karenge. Pehle job aur phir business ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine se salary badhegi?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se salary badhne ki shuruwat hogi ji. Guru ki strong position se growth pakki hai. 2027 ke baad videsh jane ka yog bhi hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se salary badhne ki shuruwat hogi ji. Guru ki strong position se growth pakki hai. 2027 ke baad videsh jane ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Rishta abhi chal raha hai, ghar wale dekh rahe hain.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab kam hogi?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension kam hogi ji. Shani ka asar tab hat jayega. Hone wala partner calm aur educated hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad tension kam hogi ji. Shani ka asar tab hat jayega. Hone wala partner calm aur educated hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Yeh rishta final ho jayega kya?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, March 2027 ke baad rishta pakka hone ka poora yog hai. Shani ki dasha se baat aage badhegi ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, March 2027 ke baad rishta pakka hone ka poora yog hai. Shani ki dasha se baat aage badhegi ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Pakka na?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, kundli mein yog poora saaf hai ji. Guru aur Budh ka milna is baat ko pakka karta hai. In-laws thode traditional aur reserved rahenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, kundli mein yog poora saaf hai ji. Guru aur Budh ka milna is baat ko pakka karta hai. In-laws thode traditional aur reserved rahenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 17
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 se tumhare din behtar hone wale hain, khaas kar career aur shaadi mein. Batao, abhi sabse zyada kis baat ki tension hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 se tumhare din behtar hone wale hain, khaas kar career aur shaadi mein. Batao, abhi sabse zyada kis baat ki tension hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi. Rishta dekh rahe hai.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ke pakke yog hain, rishta jaan-pehchaan se hi aayega. Ghar pe abhi kisi khaas jagah baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ke pakke yog hain, rishta jaan-pehchaan se hi aayega. Ghar pe abhi kisi khaas jagah baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta aaya hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke hisaab se jinka rishta aaya hai, woh kaafi calm aur padhe-likhe honge. Par in-laws thode reserved ho sakte hain. Tumhe yeh rishta kaisa lag raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli ke hisaab se jinka rishta aaya hai, woh kaafi calm aur padhe-likhe honge. Par in-laws thode reserved ho sakte hain. Tumhe yeh rishta kaisa lag raha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Darr lag raha hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darr lagna bilkul normal hai ji, naya badlaav hai na. Har Friday safed mithaai daan karo aur Om Shum Shukraya Namah ka jaap karo, man shant rahega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Darr lagna bilkul normal hai ji, naya badlaav hai na. Har Friday safed mithaai daan karo aur Om Shum Shukraya Namah ka jaap karo, man shant rahega."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichle kuch samay se kamai aane ke baad bhi haath mein rukti nahi hogi na? Yeh dikkat kab se zyada shuru hui hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Pichle kuch samay se kamai aane ke baad bhi haath mein rukti nahi hogi na? Yeh dikkat kab se zyada shuru hui hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Boht time se.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paise ki dikkat door hone lagegi aur savings bhi hone legi. Ek aur baat hai, iske baad career mein bhi naye mauke milenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad paise ki dikkat door hone lagegi aur savings bhi hone legi. Ek aur baat hai, iske baad career mein bhi naye mauke milenge."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe boht tension hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar pe aisi baatein thodi mushkil ho jaati hain. Yeh tension kis baat ko lekar sabse zyada hai aur kab se chal rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar pe aisi baatein thodi mushkil ho jaati hain. Yeh tension kis baat ko lekar sabse zyada hai aur kab se chal rahi hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sab ladte rehte hai",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad ghar ka mahol theek hone lagega aur jhagde kam honge. Har Mangwar Hanuman Chalisa padha karo, bohot shanti milegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad ghar ka mahol theek hone lagega aur jhagde kam honge. Har Mangwar Hanuman Chalisa padha karo, bohot shanti milegi."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 18
+  }
+]

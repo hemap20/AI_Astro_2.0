@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hi! 2027 ka saal tumhare liye kaafi naya badlav laane wala hai. Abhi sabse zyada kaunsi baat pareshan kar rahi hai, shaadi ya paise wali tension?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hi! 2027 ka saal tumhare liye kaafi naya badlav laane wala hai. Abhi sabse zyada kaunsi baat pareshan kar rahi hai, shaadi ya paise wali tension?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ko leke. Mummy papa rishta dekh rhe.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 ke beech mehnat bohot karni padi aur cheezein slow rahi hain, hai na? March 2027 ke baad rishta pakka hone ke acche yog hain. Abhi koi baat aage badh rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 ke beech mehnat bohot karni padi aur cheezein slow rahi hain, hai na? March 2027 ke baad rishta pakka hone ke acche yog hain. Abhi koi baat aage badh rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rishta kisi jaan-pehchaan se hi lagta hai, jahan samne wale kaafi calm aur padhe-likhe honge. Tumne abhi tak unse baat ki hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ye rishta kisi jaan-pehchaan se hi lagta hai, jahan samne wale kaafi calm aur padhe-likhe honge. Tumne abhi tak unse baat ki hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Nahi abhi tak",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh kaafi calm, padhe-likhe aur warm nature ke honge, par unka ek guarded side bhi hai. Rishte ki baat mein ek choti si cheez hai jo dhyan rakhni padegi. Unke ghar wale kaise hain, kuch pata chala?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Woh kaafi calm, padhe-likhe aur warm nature ke honge, par unka ek guarded side bhi hai. Rishte ki baat mein ek choti si cheez hai jo dhyan rakhni padegi. Unke ghar wale kaise hain, kuch pata chala?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa 2023 se hi thoda tight chal raha hai na? Abhi kharcha kahan ho raha hai ya savings kyu nahi ruk pa rahi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa 2023 se hi thoda tight chal raha hai na? Abhi kharcha kahan ho raha hai ya savings kyu nahi ruk pa rahi?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension hai",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur paisa na tikna, dono Chandra ke kamzor hone ki wajah se hai. June 2027 ke baad sab theek hoga. Har Monday 'Om Som Somaya Namah' 108 baar chant kiya karo. Ye baat ghar mein kisi se share ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur paisa na tikna, dono Chandra ke kamzor hone ki wajah se hai. June 2027 ke baad sab theek hoga. Har Monday 'Om Som Somaya Namah' 108 baar chant kiya karo. Ye baat ghar mein kisi se share ki hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Apne andar hi rakhne se tension aur badh jati hai ji. 2027 ke baad ek bada financial mauka aane wala hai jo halat badal dega. Tum abhi padhai kar rahi ho ya koi job?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Apne andar hi rakhne se tension aur badh jati hai ji. 2027 ke baad ek bada financial mauka aane wala hai jo halat badal dega. Tum abhi padhai kar rahi ho ya koi job?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Job dhund rhi hu.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job pakki ho jayegi. Thursday ko 'Om Gram Greem Grom Sah Gurave Namah' 108 baar chant kiya karo. Tum kis field mein try kar rahi ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad job pakki ho jayegi. Thursday ko 'Om Gram Greem Grom Sah Gurave Namah' 108 baar chant kiya karo. Tum kis field mein try kar rahi ho?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Marketing.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Acha hoga?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Marketing field communication ke liye kaafi acchi hai, yaha tarakki ke acche yog hain. Marketing mein ek aisi opportunity aane wali hai jo career set kar degi, par usse pehle ek interview mein choti si mistake avoid karni padegi. Tumne isse pehle kahin try kiya hai kya?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Marketing field communication ke liye kaafi acchi hai, yaha tarakki ke acche yog hain. Marketing mein ek aisi opportunity aane wali hai jo career set kar degi, par usse pehle ek interview mein choti si mistake avoid karni padegi. Tumne isse pehle kahin try kiya hai kya?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek baar.",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 23
+  }
+]

@@ -1,0 +1,235 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 10,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.59,
+  "shape": {
+    "M": 9,
+    "avg_words": 40.0,
+    "long_share": 1.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par wapas bulaya jana mushkil lagta hai",
+        "why": "The astrologer directly addresses the user's specific question about returning to their old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya interview dete waqt aap nervous hoti hain?",
+        "why": "The astrologer asks questions that build on the user's input (interview, tension) and avoids Type C questions."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's main question was not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Purani job par wapas bulaya jana mushkil lagta hai, kyunki abhi career mein dheema daur chal raha hai. Naye avsar March 2027 ke baad banenge",
+        "why": "The reading is about the present/future, adds new information (dheema daur), is specific (March 2027), and is tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Purani job par wapas bulaya jana mushkil lagta hai",
+        "why": "The astrologer provides a clear direction regarding the main question immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Nervousness mann ke grah par nazar ka asar hai.",
+        "why": "The astrologer links a life experience (nervousness) to a chart factor (mann ke grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki ghabrahat hi kamayi rok rahi hai... Aapki kundli mein himmat aur energy ke grah ka asar hai",
+        "why": "The astrologer builds depth by linking the user's nervousness to their career and providing chart reasons."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Naye avsar March 2027 ke baad banenge",
+        "why": "The astrologer provides a consistent time window without making promises."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Interview se pehle 5 minute shant baithiye.",
+        "why": "The astrologer provides a practical step tied to the user's problem (interview nervousness) along with remedies."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke career ke sawaal ka jawaab maine de diya hai. 2027-2028 ke beech aapki kundli mein videsh jane ke yog ban rahe hain",
+        "why": "The astrologer addresses the career question and then provides additional insights, maintaining the thread."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise, aapke jeevan-sathi mein ek khaas baat chupi hai.",
+        "why": "The astrologer introduces a new, specific topic (life partner) after answering the main question."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke career ke sawaal ka jawaab maine de diya hai.",
+        "why": "No early close; every message provides value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "2027-2028 ke beech aapki kundli mein videsh jane ke yog ban rahe hain",
+        "why": "The last message provides a concrete reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Nervousness mann ke grah par nazar ka asar hai.",
+        "why": "The astrologer uses simple, accessible language without formal or bookish phrasing."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapka bura lagna sahi hai. Ghabrahat aur kaam mein deri ka kaaran mann ke grah par mehnat ke grah ki nazar hai.",
+        "why": "The astrologer accepts the user's pushback and immediately provides a concrete reading."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "reading"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "other"
+      },
+      {
+        "idx": 4,
+        "type": "reading"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "reading"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "reading"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "reading"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "reading"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      }
+    ]
+  }
+}

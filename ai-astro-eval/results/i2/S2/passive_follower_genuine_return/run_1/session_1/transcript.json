@@ -1,0 +1,166 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, future dekhte hain. 2027 se career badlega. Unmarried hain ya married?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, future dekhte hain. 2027 se career badlega. Unmarried hain ya married?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Unmarried",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji, note kar liya. March 2027 se shaadi yog hai. Shani AD yeh badlaav layega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Theek hai ji, note kar liya. March 2027 se shaadi yog hai. Shani AD yeh badlaav layega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ke yog hain ji. Shani ki nayi dasha ye badlaav layegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ke yog hain ji. Shani ki nayi dasha ye badlaav layegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Acha. Paisa ka kya?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke baad money situation sudhregi ji. Ketu debt dheere dheere khatam karega. Par 2H weak hone se bachat kam hogi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "2027 ke baad money situation sudhregi ji. Ketu debt dheere dheere khatam karega. Par 2H weak hone se bachat kam hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, ghar mein tension ka yog hai. Shani ki dasha abhi pressure de rahi hai. June 2027 ke baad relief milega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, ghar mein tension ka yog hai. Shani ki dasha abhi pressure de rahi hai. June 2027 ke baad relief milega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Bahut tension hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Samajh sakti hoon ji, ye waqt mushkil hai. Shani ka prabhav abhi asar dikha raha hai. Shanivar ko kale til daan kijiye, rahat milegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Samajh sakti hoon ji, ye waqt mushkil hai. Shani ka prabhav abhi asar dikha raha hai. Shanivar ko kale til daan kijiye, rahat milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kaha pe",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kisi bhi Shani mandir mein daan kar sakte hain ji. Shanivar ke din kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kisi bhi Shani mandir mein daan kar sakte hain ji. Shanivar ke din kijiye.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh kijiye, dil ko sukun milega. Guru ka asar career mein bhi dikhega. March 2027 ke baad naye raste khulenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Yeh kijiye, dil ko sukun milega. Guru ka asar career mein bhi dikhega. March 2027 ke baad naye raste khulenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 21
+  }
+]

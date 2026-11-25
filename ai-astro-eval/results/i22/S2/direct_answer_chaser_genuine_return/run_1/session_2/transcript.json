@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 se tumhari life mein cheezein kaafi behtar hone wali hain. Batao, abhi sabse zyada tension kis baat ki hai - shaadi, job ya paisa?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 se tumhari life mein cheezein kaafi behtar hone wali hain. Batao, abhi sabse zyada tension kis baat ki hai - shaadi, job ya paisa?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 tak mehnat bohot lagi, hai na? March 2027 se September 2028 ke beech shaadi pakki ho sakti hai. Ghar pe abhi koi rishta dekh rahe hain kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 tak mehnat bohot lagi, hai na? March 2027 se September 2028 ke beech shaadi pakki ho sakti hai. Ghar pe abhi koi rishta dekh rahe hain kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan rishta dekh rahe hain, ek baat chal rahi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se June 2027 ke beech baat pakki hone ke poore chance hain. Jo rishta chal raha hai, waha ladka calm aur educated hoga par uska ek guarded side bhi dekhne ko milega. Ye baat jaan-pehchaan mein hi chal rahi hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se June 2027 ke beech baat pakki hone ke poore chance hain. Jo rishta chal raha hai, waha ladka calm aur educated hoga par uska ek guarded side bhi dekhne ko milega. Ye baat jaan-pehchaan mein hi chal rahi hai na?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March ya April? Konsa month exact.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March mein hi baat pakki hone ke sabse zyada chance hain kyunki tabhi naya phase shuru ho raha hai. March mein ek din aisa aayega jo final decision ke liye sabse important hoga. Ghar wale is rishte se khush hain na?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March mein hi baat pakki hone ke sabse zyada chance hain kyunki tabhi naya phase shuru ho raha hai. March mein ek din aisa aayega jo final decision ke liye sabse important hoga. Ghar wale is rishte se khush hain na?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan khush hain.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "March mein kaunsi date?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date kundli mein tithi se dekhi jati hai, par March ka pehla hafta hi pakka samjho. Kya ghar walon ne abhi koi tithi ya muhurat socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Exact date kundli mein tithi se dekhi jati hai, par March ka pehla hafta hi pakka samjho. Kya ghar walon ne abhi koi tithi ya muhurat socha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wedding ka agla bada window September 2028 tak hai. Kundli mein in-laws thode traditional aur reserved lag rahe hain. Unse jab baat hoti hai, toh wo kaise lagte hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Wedding ka agla bada window September 2028 tak hai. Kundli mein in-laws thode traditional aur reserved lag rahe hain. Unse jab baat hoti hai, toh wo kaise lagte hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak set hoga?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paisa aur savings theek hone lagenge. Shaadi ki tension aur paisa na tikna, dono ka karan Chandra kamzor hona hai. Monday fast rakha karo.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se paisa aur savings theek hone lagenge. Shaadi ki tension aur paisa na tikna, dono ka karan Chandra kamzor hona hai. Monday fast rakha karo."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna hai fast?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein tension rehti hai, uska kya?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Somwar ka vrat kam se kam solah somwar tak rakho, isse mann ko bohot rahat milegi. Yeh ghar ki tension kab se chal rahi hai, aur kis baat ko lekar sabse zyada baat bigadti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Somwar ka vrat kam se kam solah somwar tak rakho, isse mann ko bohot rahat milegi. Yeh ghar ki tension kab se chal rahi hai, aur kis baat ko lekar sabse zyada baat bigadti hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "2 saal se. Khatam kab hogi?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad yeh jhagde khatam hone lagenge kyunki tabhi se mahaul badlega. 2028 mein ek nayi jagah shift hone ya property ka yog bhi hai. Kya ghar mein is baare mein koi baat chal rahi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ke baad yeh jhagde khatam hone lagenge kyunki tabhi se mahaul badlega. 2028 mein ek nayi jagah shift hone ya property ka yog bhi hai. Kya ghar mein is baare mein koi baat chal rahi hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, abhi koi baat nahi.",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 22
+  }
+]

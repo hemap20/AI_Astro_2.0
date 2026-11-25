@@ -1,0 +1,171 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 6,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 8,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.24,
+  "shape": {
+    "M": 6,
+    "avg_words": 37.7,
+    "long_share": 1.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par wapas bulane ke yog kam hain",
+        "why": "The astrologer acknowledges the user's specific question about the old job in the first reply."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2023 se 2025 ke beech aapne skills par mehnat ki thi par paise ki tangi thi?",
+        "why": "The questions are Type A (building on the user's situation) and Type B. No Type C questions were asked."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par wapas bulane ke yog kam hain, par naye mauke jaldi milenge.",
+        "why": "The reading is about the present/future, new information, specific to the user's job query, and tied to the chart (yog)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Nayi naukri March 2027 se September 2028 ke beech mil sakti hai.",
+        "why": "A clear direction (window) is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mehnat ke grah ka asar abhi thoda dheema hai, isi wajah se kaam mein deri ho rahi hai.",
+        "why": "A life statement (work delay) is linked to a chart factor (mehnat ke grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Agle hafte naukri milne ke yog nahi hain kyunki mann ke grah par abhi June 2027 tak dabav hai.",
+        "why": "The reading uses the user's specific detail (next week's interview) and adds a new point (pressure on the mind planet)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Nayi naukri March 2027 se September 2028 ke beech mil sakti hai.",
+        "why": "A clear window is provided as what the chart shows, with no promise."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Guruwar se chana dal ka daan kijiye.",
+        "why": "The remedy is given for the problem, but lacks the 'how' or 'when' (other than the day) and is a stock remedy."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Agle hafte naukri milne ke yog nahi hain kyunki mann ke grah par abhi June 2027 tak dabav hai.",
+        "why": "The astrologer addresses the new question (next week's job) while maintaining the context of the previous reading (March 2027)."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Career mein ek naye kshetra ka yog hai.",
+        "why": "The astrologer points to a specific further thing (new field) within the career concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki baat main samajh sakti hoon, kabhi-kabhi cheezein waise nahi hoti jaise socha jata hai.",
+        "why": "No closing message and every reply carries a reading or relevant question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Agle hafte naukri milne ke yog nahi hain kyunki mann ke grah par abhi June 2027 tak dabav hai.",
+        "why": "The last message provides a real reading regarding the user's concern."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job par wapas bulane ke yog kam hain",
+        "why": "No technical terms used without explanation and no formal/bookish language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki baat main samajh sakti hoon, kabhi-kabhi cheezein waise nahi hoti jaise socha jata hai. Agle hafte naukri milne ke yog nahi hain",
+        "why": "The user pushed back ('Faltu', 'Not satisfied'), and the astrologer accepted the pushback and gave a concrete reading in the very next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "reading"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      }
+    ]
+  }
+}

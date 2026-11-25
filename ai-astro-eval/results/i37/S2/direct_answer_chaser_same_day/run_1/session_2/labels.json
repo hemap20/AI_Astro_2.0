@@ -1,0 +1,334 @@
+{
+  "user_questions": [
+    {
+      "idx": 1,
+      "kind": "timing",
+      "repeat_of": null,
+      "answered_idx": 2,
+      "answer_has_window": true
+    },
+    {
+      "idx": 3,
+      "kind": "timing",
+      "repeat_of": null,
+      "answered_idx": 6,
+      "answer_has_window": true
+    },
+    {
+      "idx": 5,
+      "kind": "timing",
+      "repeat_of": 3,
+      "answered_idx": 6,
+      "answer_has_window": true
+    },
+    {
+      "idx": 8,
+      "kind": "timing",
+      "repeat_of": null,
+      "answered_idx": 9,
+      "answer_has_window": true
+    },
+    {
+      "idx": 11,
+      "kind": "timing",
+      "repeat_of": null,
+      "answered_idx": 12,
+      "answer_has_window": true
+    },
+    {
+      "idx": 13,
+      "kind": "timing",
+      "repeat_of": 11,
+      "answered_idx": 15,
+      "answer_has_window": true
+    },
+    {
+      "idx": 14,
+      "kind": "open",
+      "repeat_of": null,
+      "answered_idx": 17,
+      "answer_has_window": false
+    },
+    {
+      "idx": 16,
+      "kind": "yes_no",
+      "repeat_of": 14,
+      "answered_idx": 17,
+      "answer_has_window": false
+    },
+    {
+      "idx": 18,
+      "kind": "timing",
+      "repeat_of": null,
+      "answered_idx": 19,
+      "answer_has_window": true
+    },
+    {
+      "idx": 20,
+      "kind": "timing",
+      "repeat_of": 18,
+      "answered_idx": 22,
+      "answer_has_window": true
+    },
+    {
+      "idx": 21,
+      "kind": "timing",
+      "repeat_of": 20,
+      "answered_idx": 22,
+      "answer_has_window": true
+    }
+  ],
+  "astro": [
+    {
+      "idx": 2,
+      "reading": true,
+      "personal": true,
+      "question": true,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 4,
+      "reading": true,
+      "personal": true,
+      "question": true,
+      "tease": true,
+      "tease_delivered_idx": 6,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 6,
+      "reading": true,
+      "personal": true,
+      "question": false,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": true,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 9,
+      "reading": true,
+      "personal": true,
+      "question": true,
+      "tease": true,
+      "tease_delivered_idx": 12,
+      "jargon_unexplained": 0,
+      "remedy": true,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 12,
+      "reading": true,
+      "personal": true,
+      "question": false,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 15,
+      "reading": true,
+      "personal": true,
+      "question": true,
+      "tease": true,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 17,
+      "reading": true,
+      "personal": true,
+      "question": false,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": true,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 19,
+      "reading": true,
+      "personal": true,
+      "question": false,
+      "tease": false,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": false,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    },
+    {
+      "idx": 22,
+      "reading": true,
+      "personal": true,
+      "question": false,
+      "tease": true,
+      "tease_delivered_idx": null,
+      "jargon_unexplained": 0,
+      "remedy": false,
+      "time_or_pay": true,
+      "refusal": false,
+      "generic": false,
+      "empathy": false,
+      "asks_known_info": false,
+      "goodbye": false
+    }
+  ],
+  "user": [
+    {
+      "idx": 0,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 1,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 3,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 5,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 7,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 8,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 10,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 11,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 13,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 14,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": true,
+      "distress": false
+    },
+    {
+      "idx": 16,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 18,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 20,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 21,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    },
+    {
+      "idx": 23,
+      "confused": false,
+      "frustrated": false,
+      "disclosure": false,
+      "distress": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab tak hogi aur ladka shi h ya nhi mere liye.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/01/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka achha daur agle saal se shuru hoga. Kya aapko yaad hai ki saal 2023 mein mehnat karne ke baad bhi paise ki thodi tangi mehsoos hui thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapki shaadi ka achha daur agle saal se shuru hoga. Kya aapko yaad hai ki saal 2023 mein mehnat karne ke baad bhi paise ki thodi tangi mehsoos hui thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Bataiye, ye main hai.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon. Woh ladka padha-likha, shant aur warm swabhav ka hoga, par thoda guarded reh sakta hai. Kya ghar walon ke zariye yeh baat aage badhi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Main samajh sakti hoon. Woh ladka padha-likha, shant aur warm swabhav ka hoga, par thoda guarded reh sakta hai. Kya ghar walon ke zariye yeh baat aage badhi hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Mene usse do baar mil liya hai, wo short-tempered lagta hai.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye? Spasht kijiye.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main dekh sakti hoon, yeh gussa himmat aur kamai ka grah ki nazar se hai. In-laws ki taraf ek aisi baat hai jo waqt par khulegi. Kya unke ghar ka mahaul formal hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main dekh sakti hoon, yeh gussa himmat aur kamai ka grah ki nazar se hai. In-laws ki taraf ek aisi baat hai jo waqt par khulegi. Kya unke ghar ka mahaul formal hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi hai ya nahi?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Seedha bataiye, haan ya na.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, woh ladka theek ho sakta hai. Unke ghar ke log paramparik aur reserved hain. Iske asar ke liye aap 21 Nov se kale til ka daan kijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, woh ladka theek ho sakta hai. Unke ghar ke log paramparik aur reserved hain. Iske asar ke liye aap 21 Nov se kale til ka daan kijiye."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi, mahina bataiye.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke aas-paas ka samay shaadi ke liye theek lagta hai. Karm aur mehnat ka daur badalne par baat aage badhegi. Kya ghar wale is rishte par poori tarah razi hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke aas-paas ka samay shaadi ke liye theek lagta hai. Karm aur mehnat ka daur badalne par baat aage badhegi. Kya ghar wale is rishte par poori tarah razi hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan razi hain.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 hi pakka samjhu?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, woh daur kismat aur mehnat ke badlav se pakka ho sakta hai. Kya aapko lagta hai ki is faisle mein thoda sabra rakhna padega?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, woh daur kismat aur mehnat ke badlav se pakka ho sakta hai. Kya aapko lagta hai ki is faisle mein thoda sabra rakhna padega?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Samajh gaya.",
+    "sec": 180,
+    "idx": 20
+  }
+]

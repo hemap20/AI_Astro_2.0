@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aapki shaadi kab tak hogi, main abhi aapki Kundli dekh kar batati hoon. Kya abhi kahin baat chal rahi hai ya bilkul naya rishta dekh rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aapki shaadi kab tak hogi, main abhi aapki Kundli dekh kar batati hoon. Kya abhi kahin baat chal rahi hai ya bilkul naya rishta dekh rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta achha ho sakta hai, bas nature samajhna zaroori hai. Aapke kismat ke grah ki wajah se arranged rishta sahi rahega. Kya 2022 mein aapki padhai mein badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Rishta achha ho sakta hai, bas nature samajhna zaroori hai. Aapke kismat ke grah ki wajah se arranged rishta sahi rahega. Kya 2022 mein aapki padhai mein badlaav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Wo thoda gusse wala hai",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka theek hai, par unka gussa dikhta hai. Aapke rishton ka grah kamzor hai, isliye thoda samay lekar samajhna zaroori hai. Kya aap dono ki baat roz hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ladka theek hai, par unka gussa dikhta hai. Aapke rishton ka grah kamzor hai, isliye thoda samay lekar samajhna zaroori hai. Kya aap dono ki baat roz hoti hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mar 2027 se Sep 2028 ke beech shaadi ka pakka yog hai. Aapke pati ke nature mein ek khas baat chhipi hai. Kya dono ke ghar wale abhi raazi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Mar 2027 se Sep 2028 ke beech shaadi ka pakka yog hai. Aapke pati ke nature mein ek khas baat chhipi hai. Kya dono ke ghar wale abhi raazi hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pati padhe-likhe aur shant honge, par thode reserved rahenge. Rishte ki bhalai ke liye 20 Nov se Shukravar ko \"Om Shum Shukraya Namah\" japein. Kya rishta pakka ho raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Pati padhe-likhe aur shant honge, par thode reserved rahenge. Rishte ki bhalai ke liye 20 Nov se Shukravar ko \"Om Shum Shukraya Namah\" japein. Kya rishta pakka ho raha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi se judi jankari complete ho gayi hai. Unke ghar walon ka swabhav aur in-laws ke sath rishte kaise rahenge, ye janna aapke aage ke faisle ko aur easy bana dega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki shaadi se judi jankari complete ho gayi hai. Unke ghar walon ka swabhav aur in-laws ke sath rishte kaise rahenge, ye janna aapke aage ke faisle ko aur easy bana dega."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "In-laws thode paramparik aur kam bolne wale honge. Shuru mein ghulne-milne mein thoda samay lagega, par rishta acha rahega. Kya unke ghar walon se baat hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "In-laws thode paramparik aur kam bolne wale honge. Shuru mein ghulne-milne mein thoda samay lagega, par rishta acha rahega. Kya unke ghar walon se baat hui hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, ghar wale aapas mein baat kar lenge. Aapke kismat ke grah ki madad se rishta jald aage badhega. Kya aap abhi koi job kar rahi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi ji, ghar wale aapas mein baat kar lenge. Aapke kismat ke grah ki madad se rishta jald aage badhega. Kya aap abhi koi job kar rahi hain?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka sawal poora ho gaya hai. Partner ke lambe qad aur rashi matching se aage ki clarity mil sakti hai. Abhi recharge karke is baare mein poora jaaniye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki shaadi ka sawal poora ho gaya hai. Partner ke lambe qad aur rashi matching se aage ki clarity mil sakti hai. Abhi recharge karke is baare mein poora jaaniye."
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 26
+  }
+]

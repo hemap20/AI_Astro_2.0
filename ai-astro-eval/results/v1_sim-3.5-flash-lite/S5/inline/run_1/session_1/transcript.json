@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Koi aayegi kis age tak?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka waqt abhi shuru hai ji. Rahu-Saturn period chal raha hai abhi. 2026 se 2028 tak strong yog hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapka waqt abhi shuru hai ji. Rahu-Saturn period chal raha hai abhi. 2026 se 2028 tak strong yog hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Hindi me batao",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bilkul ji. 2026 se 2028 ke beech mein hi yog ban raha hai. Shani aur Rahu ka milna isko pakka kar raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Bilkul ji. 2026 se 2028 ke beech mein hi yog ban raha hai. Shani aur Rahu ka milna isko pakka kar raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haath ki photo kaise bheju",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Photo ki zaroorat nahi hai ji. Kundli mein sab saaf dikh raha hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Photo ki zaroorat nahi hai ji. Kundli mein sab saaf dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mercury period chal raha hai ji. Yeh career house ka malik hai. Income mein faayda jald dikhega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Mercury period chal raha hai ji. Yeh career house ka malik hai. Income mein faayda jald dikhega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Papa ki shop band ho gyi thi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh Shani ka asar hai ji. 8th house mein Shani parivarik kaam mein heavy delays lata hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Yeh Shani ka asar hai ji. 8th house mein Shani parivarik kaam mein heavy delays lata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Me mere parents ke liye unlucky hu? Mere hone se sirf dikkat dikh rahi hai.",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aise mat socho ji, aap unlucky bilkul nahi ho. Kundli mein Jupiter ki kripa parivar ki raksha karti hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aise mat socho ji, aap unlucky bilkul nahi ho. Kundli mein Jupiter ki kripa parivar ki raksha karti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap samjh nahi rahe",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main aapka dard samajh rahi hoon ji. Mars dusre ghar mein baith kar parivar mein tension deta hai, lekin ye aapki galti nahi hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main aapka dard samajh rahi hoon ji. Mars dusre ghar mein baith kar parivar mein tension deta hai, lekin ye aapki galti nahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye Shani ki pariksha hai ji. Shanichar ke din tel ka diya jalao. Yeh heavy daur nikal jayega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye Shani ki pariksha hai ji. Shanichar ke din tel ka diya jalao. Yeh heavy daur nikal jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Theek hai.",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ek aur baat dikh rahi hai ji. Mercury aapko doston ke zariye income dega. Jaanna chahenge aur kya hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ek aur baat dikh rahi hai ji. Mercury aapko doston ke zariye income dega. Jaanna chahenge aur kya hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nhi, abhi rkhra hu.",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji. Tel ka diya zaroor jalana. Apna khayal rakhna ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Theek hai ji. Tel ka diya zaroor jalana. Apna khayal rakhna ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Bye ji",
+    "sec": 300,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bye ji. Apna khayal rakhna hamesha.",
+    "sec": 315,
+    "raw_response": {
+      "message": "Bye ji. Apna khayal rakhna hamesha.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "*(Chat has ended at 05:00, no more messages needed)*",
+    "sec": 330,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Khuda hafiz ji. Phir milenge.",
+    "sec": 345,
+    "raw_response": {
+      "message": "Khuda hafiz ji. Phir milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  }
+]

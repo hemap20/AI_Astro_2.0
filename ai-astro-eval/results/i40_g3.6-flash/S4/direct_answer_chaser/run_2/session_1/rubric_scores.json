@@ -1,0 +1,165 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 3,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.76,
+  "shape": {
+    "M": 6,
+    "avg_words": 29.0,
+    "long_share": 0.33
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya abhi iss rishte ki baat ghar par chal rahi hai?",
+        "why": "The astrologer acknowledges the user's concern about the relationship by asking a relevant follow-up question about the status of the talks at home."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya abhi iss rishte ki baat ghar par chal rahi hai?",
+        "why": "The questions are relevant to the user's situation (Type A/B). No Type C questions found."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main aap dono ke rishte ke baare mein dekh kar batati hoon.",
+        "why": "The astrologer asks for the boy's details (implied by the user providing them) and uses them to read the relationship, though the boy's name is not used."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Rishta achha lagta hai, dono ka milan aage chal kar sahi rahega.",
+        "why": "The reading is about the present/future but is generic and could apply to almost anyone asking about a relationship."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi Mar 2027 se Sep 2028 ke beech hone ke majboot yog hain.",
+        "why": "A clear direction (time window) is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": null,
+        "why": "No specific chart factors (like dasha, rashi, etc.) are mentioned in the readings."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ha, unka gussa zaroor hai, par unke nature mein ek khas baat bhi dikhti hai jo abhi chhupi hai.",
+        "why": "The astrologer uses the user's detail about the boy being short-tempered to add a new point about his nature."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi Mar 2027 se Sep 2028 ke beech hone ke majboot yog hain.",
+        "why": "A clear window is provided and maintained consistently throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ke yog majboot karne ko Shukrawar se 'Om Shum Shukraya Namah' jaap kijiye.",
+        "why": "A specific remedy is provided with a clear 'how' (jaap) and 'when' (Shukrawar)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "2027 mein Mar se May ke mahine sabse sahi hain.",
+        "why": "The astrologer answers the specific question about the month while maintaining the context of the previous marriage timing question."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "par unke nature mein ek khas baat bhi dikhti hai jo abhi chhupi hai.",
+        "why": "The astrologer opens a new layer regarding the boy's nature, which is specific to the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message was sent, and every reply carried relevant content."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ka grah kamzor hone se thodi deri hoti hai, par upay se kaam ban jayega.",
+        "why": "The last message provides a reading/guidance, leaving the user with a relevant point."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": null,
+        "why": "The language is simple, conversational, and free of unexplained technical jargon or formal/bookish sentences."
+      }
+    },
+    "labels": [
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      }
+    ]
+  }
+}

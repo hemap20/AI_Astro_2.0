@@ -1,0 +1,179 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 1,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.61,
+  "shape": {
+    "M": 8,
+    "avg_words": 43.2,
+    "long_share": 0.88
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aapne pichli baar wala Somvaar vrat shuru kiya?",
+        "why": "The astrologer acknowledges the previous interaction and the user's specific question about marriage timing."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap abhi career mein kuch badlav soch rahi hain?",
+        "why": "The astrologer asks several questions, most of which are Type B (relevant to the topic but could be asked to any user). No Type C questions were found."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ghar wale kya kehte hain?",
+        "why": "The astrologer never asks for the other person's name or birth details, nor does it use any specific details about the person to read the match."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ka yog March 2027 se September 2028 ke beech hai.",
+        "why": "The reading is specific, about the future/past, and new to the user, but lacks a specific chart reason in the first reading."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ka yog March 2027 se September 2028 ke beech hai.",
+        "why": "The astrologer provides a clear time window for the marriage question without needing the user to repeat it."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukra grah ko majboot karne ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye, isse vivaah mein aa rahi rukawatein door hongi.",
+        "why": "The astrologer links the remedy to the chart factor (Shukra) and the life problem (marriage obstacles)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paisa kab tak set hoga mera? ... Paise ki sthiti March 2027 se behtar hogi.",
+        "why": "The astrologer adds new points about career and money, using the user's input."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech hai.",
+        "why": "The astrologer provides a consistent time window throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shukra grah ko majboot karne ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye, isse vivaah mein aa rahi rukawatein door hongi.",
+        "why": "The remedy is tied to the cause (Shukra) and the problem (marriage obstacles), with specific instructions."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paise ki sthiti March 2027 se behtar hogi.",
+        "why": "The astrologer answers both the marriage and money questions clearly."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "In-laws ka ek raaz hai jo shaadi ke baad ghar ka mahaul badal dega.",
+        "why": "The astrologer opens a specific further layer regarding the in-laws."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Abhi ghar par hi koi chhota course seekhna shuru kijiye, taaki jab samay badle to aap taiyaar rahen.",
+        "why": "No closing message was sent, and every reply carried relevant guidance or reading."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi ghar par hi koi chhota course seekhna shuru kijiye, taaki jab samay badle to aap taiyaar rahen.",
+        "why": "The last message provides practical guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukra grah ko majboot karne ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye",
+        "why": "The language is easy and uses common astrological terms with their real-life implications."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main samajh sakti hoon ki intezar karna mushkil hai. Aapki mehnat aur paisa dono March 2027 se ek saath jud rahe hain",
+        "why": "The astrologer adapts to the user's dissatisfaction by acknowledging the frustration and providing a concrete reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "reading"
+      }
+    ]
+  }
+}

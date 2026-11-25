@@ -1,0 +1,239 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 6,
+    "2.7": 9,
+    "3.1": 6,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.31,
+  "shape": {
+    "M": 9,
+    "avg_words": 28.4,
+    "long_share": 0.33
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Career aur paisa",
+        "why": "The astrologer acknowledges the user's focus on career and money in the subsequent reading."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aapko naye rasto ki ummeed hai?",
+        "why": "The astrologer asks multiple questions that are Type B (could be asked to anyone), and no Type C questions are present."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user's main question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2023 se 2025 ke beech aapko mehnat jyada karni padi aur paise thode tang rahe?",
+        "why": "The reading is about the past/present, is specific, and is tied to a chart-based inquiry."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shaadi ke liye March 2027 se September 2028 ka samay sahi rahega.",
+        "why": "The astrologer provides a clear direction and time window for the marriage question without needing a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ki kamzori se thodi der ho sakti hai",
+        "why": "The astrologer links the life statement (delay in marriage) to a chart factor (rishton ke grah ki kamzori) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ki kamzori se thodi der ho sakti hai, par baat jaane-pehchane daayre mein banegi.",
+        "why": "The reading adds a new point about the marriage (it will happen within a known circle) and uses the user's context."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi ke liye March 2027 se September 2028 ka samay sahi rahega.",
+        "why": "A clear window of about 18 months is provided as what the chart shows, with no promise."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kal se jaap kijiye aur chana dal daan kijiye.",
+        "why": "The remedy is given but lacks a specific link to the problem or a clear 'how' beyond the action itself."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Career aur shaadi ki baat ho chuki hai.",
+        "why": "The astrologer addresses both career and marriage questions, summarizing the discussion."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Finance ya tech ke naye mauke aapko kya nayi disha denge, iski poori clarity mil sakti hai.",
+        "why": "A generic pointer is used to encourage further chat."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Iske liye aap abhi chat recharge kar lijiye.",
+        "why": "The astrologer ends the chat with a pitch while time remains, effectively closing the session."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Iske liye aap abhi chat recharge kar lijiye.",
+        "why": "The last message is a pitch/request for payment, not a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ki kamzori",
+        "why": "The language is easy, uses no technical terms without explanation, and is not formal."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No trigger (vague, not engaging, angry, or pushing for certainty) occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      }
+    ]
+  }
+}

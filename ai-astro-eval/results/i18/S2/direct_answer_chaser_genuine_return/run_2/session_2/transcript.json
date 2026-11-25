@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 ka saal tumhare liye bohot saare badlaav aur achhi khabrein lekar aa raha hai. Batao, abhi sabse zyada tension kis baat ki hai, career ki ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 ka saal tumhare liye bohot saare badlaav aur achhi khabrein lekar aa raha hai. Batao, abhi sabse zyada tension kis baat ki hai, career ki ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar pe rishte ki baat chal rahi hai kya kahin, ya abhi bas soch rahe ho? Tum khud kya chahte ho is baare mein?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ghar pe rishte ki baat chal rahi hai kya kahin, ya abhi bas soch rahe ho? Tum khud kya chahte ho is baare mein?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, rishta aaya hai. Shadi kab tak hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi pakki hone ke poore yog hain. Par rishta final karne se pehle ek zaroori cheez dekhni padegi warna baad mein sochna padega. Jo rishta abhi aaya hai, waha sab theek lag raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi pakki hone ke poore yog hain. Par rishta final karne se pehle ek zaroori cheez dekhni padegi warna baad mein sochna padega. Jo rishta abhi aaya hai, waha sab theek lag raha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me kaunse mahine me sabse strong hai?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nov-Dec 2027 mein baat pakki hone ke sabse zyada chances hain, kyunki tab naya phase shuru ho raha hai. Jo rishta abhi aaya hai, wo pehle se jaan-pehchaan ka hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Nov-Dec 2027 mein baat pakki hone ke sabse zyada chances hain, kyunki tab naya phase shuru ho raha hai. Jo rishta abhi aaya hai, wo pehle se jaan-pehchaan ka hai kya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, jaan-pehchaan ka nahi hai.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ke liye kahan try kar rahi ho, aur savings ko lekar kitni pareshani chal rahi hai abhi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Job ke liye kahan try kar rahi ho, aur savings ko lekar kitni pareshani chal rahi hai abhi?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega, ye batao.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad se steady paisa aane lagega, pehle job pakki hogi. Thursday ko thodi chana dal daan karna shuru karo, halat sudhregi. Marketing job ke liye abhi kahan apply kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad se steady paisa aane lagega, pehle job pakki hogi. Thursday ko thodi chana dal daan karna shuru karo, halat sudhregi. Marketing job ke liye abhi kahan apply kiya hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab tak khatam hogi?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "May-June 2027 tak ghar ki tension khatam ho jayegi, halat sudhrenge. 2027 mein ek mahina aayega jab sab theek hoga. Ghar pe is baare mein sabse zyada pareshan kaun rehta hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "May-June 2027 tak ghar ki tension khatam ho jayegi, halat sudhrenge. 2027 mein ek mahina aayega jab sab theek hoga. Ghar pe is baare mein sabse zyada pareshan kaun rehta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Mummy pareshan rehti hai.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Sab theek ho jayega na?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, bilkul sab theek hoga, tension mat lo. Monday ko safed cheezein daan karna shuru karo, mann ko shanti milegi. Aane wale partner ka nature bohot calm hoga jo ghar ki tension khatam kar dega. Mummy kya chahti hain, wo is rishte ke liye kitni raazi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, bilkul sab theek hoga, tension mat lo. Monday ko safed cheezein daan karna shuru karo, mann ko shanti milegi. Aane wale partner ka nature bohot calm hoga jo ghar ki tension khatam kar dega. Mummy kya chahti hain, wo is rishte ke liye kitni raazi hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 19
+  }
+]

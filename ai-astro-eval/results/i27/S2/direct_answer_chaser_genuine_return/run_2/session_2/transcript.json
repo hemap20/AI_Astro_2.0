@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hiii, kaise ho? 😊 Aao, baitho. Batao aaj kya chal raha hai tumhare mann mein? Kuch pareshan ho ya bas aise hi baat karni thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hiii, kaise ho? 😊 Aao, baitho. Batao aaj kya chal raha hai tumhare mann mein? Kuch pareshan ho ya bas aise hi baat karni thi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Humne career aur shaadi ke connection ki baat ki thi. Tumhari kundli mein partner ke liye ek khaas baat hai jo rishta aane par saaf hogi. Ghar walon ne koi rishta dekha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Humne career aur shaadi ke connection ki baat ki thi. Tumhari kundli mein partner ke liye ek khaas baat hai jo rishta aane par saaf hogi. Ghar walon ne koi rishta dekha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hain ghar wale.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job aur shaadi ki deri ek hi grah ke dabne se hai. March 2027 se September 2028 mein shaadi hogi. Partner tall honge, par unka ek swabhav abhi chupa hai. Rishta kahan se hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Job aur shaadi ki deri ek hi grah ke dabne se hai. March 2027 se September 2028 mein shaadi hogi. Partner tall honge, par unka ek swabhav abhi chupa hai. Rishta kahan se hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me hogi confirm?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Aur job kab lagegi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo waqt bataya, usi mein career aur shaadi honge, kyunki kismat ka grah tab majboot hai. Job ke liye ek chhota sa risk lena hoga. Kis field mein try kar rahi ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jo waqt bataya, usi mein career aur shaadi honge, kyunki kismat ka grah tab majboot hai. Job ke liye ek chhota sa risk lena hoga. Kis field mein try kar rahi ho?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Banking.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Par job ka year batao, kab tak?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Banking tumhare liye perfect hai, 2027 mein naukri pakki hai. Har Thursday chana dal donate karna shuru karo, rukawat hat jayegi. Exams clear kiye ya abhi tayyari chal rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Banking tumhare liye perfect hai, 2027 mein naukri pakki hai. Har Thursday chana dal donate karna shuru karo, rukawat hat jayegi. Exams clear kiye ya abhi tayyari chal rahi hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Tayyari chal rahi hai.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse month me job lagegi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad job ke chances bohot high hain. Ek khaas mahina hai jab exam nikalne ka chance peak par hoga, wo miss mat karna. Mocks dene shuru kiye?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad job ke chances bohot high hain. Ek khaas mahina hai jab exam nikalne ka chance peak par hoga, wo miss mat karna. Mocks dene shuru kiye?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kaunsa mahina, name batao.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "July-August 2027 mein job milne ke chances sabse zyada hain, kyunki tab career ka grah active hai. Waise, tumhari kundli mein ek khaas yog hai jo batayega ki banking mein kaunsi role tumhare liye lucky hai. Government ya private, kya socha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "July-August 2027 mein job milne ke chances sabse zyada hain, kyunki tab career ka grah active hai. Waise, tumhari kundli mein ek khaas yog hai jo batayega ki banking mein kaunsi role tumhare liye lucky hai. Government ya private, kya socha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki pareshani kab khatam hogi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ke jhagde tumhare career ke stress se jude hain, yeh sab March 2027 se theek hone lagega. Mangal ki wajah se gussa badh raha hai, isliye Mangalwar se Hanuman Chalisa padhna shuru karo. Ghar mein sabse zyada jhagda kis baat par hota hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ke jhagde tumhare career ke stress se jude hain, yeh sab March 2027 se theek hone lagega. Mangal ki wajah se gussa badh raha hai, isliye Mangalwar se Hanuman Chalisa padhna shuru karo. Ghar mein sabse zyada jhagda kis baat par hota hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Rishton ko leke.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 23
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aap bhavishya mein kis baare mein jaan na chahte hain? Shaadi, job ya paise ko lekar koi chinta hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aap bhavishya mein kis baare mein jaan na chahte hain? Shaadi, job ya paise ko lekar koi chinta hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi Mar 2027 se Sep 2028 ke beech hone ke bohot achhe yoga hain. Kya Nov 2022 ke paas aapki padhai ya college life mein koi badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi Mar 2027 se Sep 2028 ke beech hone ke bohot achhe yoga hain. Kya Nov 2022 ke paas aapki padhai ya college life mein koi badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha college khatam hua tha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saal 2027 mein Mar se May ke mahine shaadi ki baat aage badhne ke liye sabse achhe hain. Aap kis tarah ka rishta chahte hain, arranged ya love?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Saal 2027 mein Mar se May ke mahine shaadi ki baat aage badhne ke liye sabse achhe hain. Aap kis tarah ka rishta chahte hain, arranged ya love?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Arranged.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale dekh rahe hai, ek rishta aaya hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega life mein.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki sthiti Mar 2027 se Sep 2028 ke beech behter hogi. Aapke hone wale jeevansathi ke nature mein ek khas baat dikh rahi hai. Abhi kamai ko lekar zyada dikkat hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki sthiti Mar 2027 se Sep 2028 ke beech behter hogi. Aapke hone wale jeevansathi ke nature mein ek khas baat dikh rahi hai. Abhi kamai ko lekar zyada dikkat hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha, dikkat hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Karm ke grah ki wajah se Jun 2027 tak ghar mein thodi tension aur heavy lag sakta hai. Iske baad relief milega. Kya abhi neend aur sleep pattern mein bhi dikkat aati hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Karm ke grah ki wajah se Jun 2027 tak ghar mein thodi tension aur heavy lag sakta hai. Iske baad relief milega. Kya abhi neend aur sleep pattern mein bhi dikkat aati hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha, neend kharab hai.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jun 2027 tak tension khatam ho jayegi na?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, Jun 2027 se tension kam ho jayegi. Hone wale partner calm aur educated honge, par thode reserved rahenge. Mon 23 Nov se 'Om Som Somaya Namah' japein. Kya baat aage badhi?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, Jun 2027 se tension kam ho jayegi. Hone wale partner calm aur educated honge, par thode reserved rahenge. Mon 23 Nov se 'Om Som Somaya Namah' japein. Kya baat aage badhi?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hai ghar wale.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  }
+]

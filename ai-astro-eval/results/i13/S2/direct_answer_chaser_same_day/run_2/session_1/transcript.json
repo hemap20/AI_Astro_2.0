@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein career aur life mein dheere-dheere badlav aayega. Aapko sabse zyada kis baare mein fikar hai, career ya shaadi ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein career aur life mein dheere-dheere badlav aayega. Aapko sabse zyada kis baare mein fikar hai, career ya shaadi ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji, yeh sawaal sabke mann mein hota hai. Family rishta dekh rahi hai ya aapki apni koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji, yeh sawaal sabke mann mein hota hai. Family rishta dekh rahi hai ya aapki apni koi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe, ek chal raha hai. Kab tak hogi meri shaadi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai ji. Shukra kamzor hone ki wajah se thoda waqt lag raha hai. Isliye 20 November se Shuklavaar ko safed mithai daan kariye ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai ji. Shukra kamzor hone ki wajah se thoda waqt lag raha hai. Isliye 20 November se Shuklavaar ko safed mithai daan kariye ji."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me chance zyada hai?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein naya samay shuru hote hi chance sabse zyada hai ji. Baaki window September 2028 tak khuli hai. Jo rishta abhi chal raha hai, unke ghar walon se baat aage badhi hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 mein naya samay shuru hote hi chance sabse zyada hai ji. Baaki window September 2028 tak khuli hai. Jo rishta abhi chal raha hai, unke ghar walon se baat aage badhi hai kya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Career aur paisa kab tak?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paise ki baat hai ji. Abhi aap kahin job kar rahe hain ya naya kaam shuru karne ki soch rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Career aur paise ki baat hai ji. Abhi aap kahin job kar rahe hain ya naya kaam shuru karne ki soch rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Job me hu. Career kab set hoga?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad career mein achi tarah rasta khulega ji. Abhi kaam par thoda boj Shani ke asar ki wajah se hai. Current job mein promotion ya badlav ki baat chal rahi hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad career mein achi tarah rasta khulega ji. Abhi kaam par thoda boj Shani ke asar ki wajah se hai. Current job mein promotion ya badlav ki baat chal rahi hai kya?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab tak rahegi?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein thaka deti hai ji. Yeh tension ghar walon ki health ko lekar hai ya aapas ki baaton par?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein thaka deti hai ji. Yeh tension ghar walon ki health ko lekar hai ya aapas ki baaton par?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Kab tak khatam hogi?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "February 2027 ke baad ghar ke halat mein sudhaar aane lagega ji. Shani ka kathin samay nikalte hi mann ko bhi shanti milegi. Kya is tension ki wajah se aapka daily routine disturb ho raha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "February 2027 ke baad ghar ke halat mein sudhaar aane lagega ji. Shani ka kathin samay nikalte hi mann ko bhi shanti milegi. Kya is tension ki wajah se aapka daily routine disturb ho raha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 19
+  }
+]

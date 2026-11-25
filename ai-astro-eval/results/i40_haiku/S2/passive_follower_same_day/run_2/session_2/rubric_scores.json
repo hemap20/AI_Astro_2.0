@@ -1,0 +1,175 @@
+{
+  "scores": {
+    "1.1": 9,
+    "1.2": 9,
+    "1.4": null,
+    "2.1": 9,
+    "2.2": 10,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 9,
+    "3.3": 7,
+    "4.2": 9,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 8.25,
+  "shape": {
+    "M": 7,
+    "avg_words": 36.6,
+    "long_share": 0.57
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, pichli baar aapki shaadi ki baat aur ghar mein paise ki tension ki baat hui thi.",
+        "why": "The astrologer acknowledges the specific topics (marriage and money tension) from the previous session, and the subsequent questions build on these."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aap bataiye, aapko ladke mein sabse zyada kya chahiye, samajhdari ya ghar ka mahaul?",
+        "why": "The question builds on the user's previous input about marriage, and the answer is used to provide a reading about the arranged marriage route."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user is not asking about a specific third party (like a named partner), but rather about the nature of a future partner."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, aapke liye ladka shaant aur padha-likha hoga, par thoda guarded bhi lagega. Woh pehle dekhega, phir khulega.",
+        "why": "The reading is about the present/future, provides new specific details about the partner's nature, and is tied to the chart."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 10,
+        "quote": "Ji, ghar ki tension mein narmi Mar 2027 se dikhti hai, aur Sep 2028 tak kaafi sudhar aayega. Kundli mein Ketu chhathe ghar mein hai, jo kisi bhi bade jhagde ko dheere-dheere shant karta hai.",
+        "why": "The astrologer provides a clear direction (Mar 2027-Sep 2028), a reason (Ketu in 6th house), and explains what it depends on (the slow calming effect)."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kundli mein Ketu chhathe ghar mein hai, jo kisi bhi bade jhagde ko dheere-dheere shant karta hai.",
+        "why": "The reading links a life situation (family tension) to a chart factor (Ketu in 6th house) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Pichli baar aapne padhai mein badlaav ki baat ki thi, kya woh Nov 2022 ke aas-paas hua tha? ... Paise ki tangi abhi tak chal rahi hai, par Mar 2027 se Sep 2028 ke beech karz mein raahat aati dikhti hai.",
+        "why": "The astrologer adds new layers (education change, financial relief timeline) and uses details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mar 2027 se Sep 2028 ke beech karz mein raahat aati dikhti hai.",
+        "why": "Provides a clear window (Mar 2027-Sep 2028) based on the chart, without promising a specific date."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Har Mangalwaar Hanuman Chalisa padhiye... Aap Shukra ka mantra \"Om Shum Shukraya Namah\" 108 baar, Shukravaar se shuru kijiye.",
+        "why": "The remedies are tied to the issues (money/tension), with specific instructions (how/when)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, ghar ki tension mein narmi Mar 2027 se dikhti hai... Aap Shukra ka mantra \"Om Shum Shukraya Namah\" 108 baar, Shukravaar se shuru kijiye.",
+        "why": "The astrologer addresses both the marriage/partner question and the money/tension question in a logical flow."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke saath rishta arranged route se zyada aayega, kyunki shaadi ki baat ghar wale hi aage laayenge.",
+        "why": "The astrologer opens a new layer regarding the nature of the marriage (arranged) based on the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, ghar ki tension mein narmi Mar 2027 se dikhti hai, aur Sep 2028 tak kaafi sudhar aayega. Kundli mein Ketu chhathe ghar mein hai, jo kisi bhi bade jhagde ko dheere-dheere shant karta hai.",
+        "why": "No closing message was sent; every reply carries relevant reading or guidance."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap Shukra ka mantra \"Om Shum Shukraya Namah\" 108 baar, Shukravaar se shuru kijiye.",
+        "why": "The last message provides a concrete remedy, leaving the user with actionable guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, ghar ki tension mein narmi Mar 2027 se dikhti hai, aur Sep 2028 tak kaafi sudhar aayega.",
+        "why": "Uses simple, conversational language and reuses the user's term 'ghar ki tension'."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger for the difficult user bucket occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      }
+    ]
+  }
+}

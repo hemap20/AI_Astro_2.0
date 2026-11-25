@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad halat sudharne wali hai, naye mauke milenge. Batao, abhi sabse zyada tension kis cheez ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 ke baad halat sudharne wali hai, naye mauke milenge. Batao, abhi sabse zyada tension kis cheez ki hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ki tension",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2022 ke aas-paas padhai ya college ki life mein bada badlav aaya tha na? Ghar pe shaadi ki baat kahin chal rahi hai, ya bas khud hi tension ho rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2022 ke aas-paas padhai ya college ki life mein bada badlav aaya tha na? Ghar pe shaadi ki baat kahin chal rahi hai, ya bas khud hi tension ho rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta aaya.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo rishta aaya hai wo jaan-pehchaan se hi hai, partner calm aur educated honge. Par in-laws thode reserved ho sakte hain, ek baat aur hai jo isme dhyan rakhni padegi. Ye rishta tumhe kaisa lag raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Jo rishta aaya hai wo jaan-pehchaan se hi hai, partner calm aur educated honge. Par in-laws thode reserved ho sakte hain, ek baat aur hai jo isme dhyan rakhni padegi. Ye rishta tumhe kaisa lag raha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Kya hai?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shukra kamzor hone ki wajah se shuru mein thoda confusion ho sakta hai, isliye jaldi mein faisla mat lena. Friday se Om Shum Shukraya Namah 108 baar jap karke white sweets donate karna, sab theek hoga. Tumne ghar pe bataya ki abhi thoda waqt chahiye?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shukra kamzor hone ki wajah se shuru mein thoda confusion ho sakta hai, isliye jaldi mein faisla mat lena. Friday se Om Shum Shukraya Namah 108 baar jap karke white sweets donate karna, sab theek hoga. Tumne ghar pe bataya ki abhi thoda waqt chahiye?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi bataya",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa 2023 se hi tight chal raha hai na? Abhi savings mein dikkat aa rahi hai ya kharcha zyada hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa 2023 se hi tight chal raha hai na? Abhi savings mein dikkat aa rahi hai ya kharcha zyada hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kharcha zyada hai",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki tension aur paise ka kharcha, dono ka karan tumhara kamzor Chandra hai. March 2027 se halat badlegi. Monday ko Om Som Somaya Namah jap karo. Kya ghar pe is baare mein kisi se baat ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi ki tension aur paise ka kharcha, dono ka karan tumhara kamzor Chandra hai. March 2027 se halat badlegi. Monday ko Om Som Somaya Namah jap karo. Kya ghar pe is baare mein kisi se baat ki hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi ki",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka dabav aur kharcha, dono ek hi daur ki wajah se hain. 2027 mein ek mahina aayega jab yeh sari tension khatam hogi. Kya is baare mein kisi dost se baat ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ka dabav aur kharcha, dono ek hi daur ki wajah se hain. 2027 mein ek mahina aayega jab yeh sari tension khatam hogi. Kya is baare mein kisi dost se baat ki hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kisi se nahi kari",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Akeli mat rakho sab apne andar, 2027 ke baad halat tezi se badlegi aur kamai bhi rukne lagegi. Kya is tension ki wajah se raat ko neend nahi aati?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Akeli mat rakho sab apne andar, 2027 ke baad halat tezi se badlegi aur kamai bhi rukne lagegi. Kya is tension ki wajah se raat ko neend nahi aati?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kabhi kabhi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Raat ki neend na aana kamzor Chandra ka asar hai, mid-2027 tak yeh theek ho jayega. Par career mein ek aisa naya rasta khulne wala hai jo tumhari saari tension ek baar mein khatam kar dega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Raat ki neend na aana kamzor Chandra ka asar hai, mid-2027 tak yeh theek ho jayega. Par career mein ek aisa naya rasta khulne wala hai jo tumhari saari tension ek baar mein khatam kar dega."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad ek khaas field mein naya mauka ban raha hai jo tumhari saari dikkat door kar dega. Tumne abhi tak kis line mein try kiya hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "March 2027 ke baad ek khaas field mein naya mauka ban raha hai jo tumhari saari dikkat door kar dega. Tumne abhi tak kis line mein try kiya hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nhi",
+    "sec": 300,
+    "idx": 23
+  }
+]

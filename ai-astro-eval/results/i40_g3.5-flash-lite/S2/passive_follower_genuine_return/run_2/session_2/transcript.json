@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Main aapki kya madad kar sakti hoon aaj?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Main aapki kya madad kar sakti hoon aaj?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, pichli baar humne shaadi aur paise ki baat ki thi. Kya aapne shukrawar ko safed mithai daan karna shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, pichli baar humne shaadi aur paise ki baat ki thi. Kya aapne shukrawar ko safed mithai daan karna shuru kiya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, jab time mile tab kijiye ga. Kya November 2022 mein aapki padhai ya college ki halat mein koi badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Koi baat nahi ji, jab time mile tab kijiye ga. Kya November 2022 mein aapki padhai ya college ki halat mein koi badlav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha aaya tha",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wahi badlav ab aapke aane wale rishte se juda hai. Aapke sathi ke swabhav mein ek khaas pehlu hai jo jald samne aayega. Kya yeh rishta kisi jaane-maane circle se aayega?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wahi badlav ab aapke aane wale rishte se juda hai. Aapke sathi ke swabhav mein ek khaas pehlu hai jo jald samne aayega. Kya yeh rishta kisi jaane-maane circle se aayega?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha parents rishta dekh rhe",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, woh rishta jaane-maane circle se hi aayega aur sathi ka swabhav bohot samajhdar hoga. Shukra ko majboot karne ke liye shukrawar se safed mithai daan kijiye.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, woh rishta jaane-maane circle se hi aayega aur sathi ka swabhav bohot samajhdar hoga. Shukra ko majboot karne ke liye shukrawar se safed mithai daan kijiye."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat agle saal se behtar hogi aur kamai sudhregi. Kya aapko lagta hai ki kamai ke baad bhi bachat nahi ho paati?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paise ki halat agle saal se behtar hogi aur kamai sudhregi. Kya aapko lagta hai ki kamai ke baad bhi bachat nahi ho paati?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dhan sthan kamzor hone se paise rukte nahi hain, par aane wale samay mein halat sudhregi. Kya aapko lagta hai ki achanak kharche zyada ho jaate hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Dhan sthan kamzor hone se paise rukte nahi hain, par aane wale samay mein halat sudhregi. Kya aapko lagta hai ki achanak kharche zyada ho jaate hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein tension hai",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur achanak kharche aapas mein jude hain. Main samajh sakti hoon ki isse mann par kitna dabav padta hai. Kya aapko raat ko sone mein pareshani hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension aur achanak kharche aapas mein jude hain. Main samajh sakti hoon ki isse mann par kitna dabav padta hai. Kya aapko raat ko sone mein pareshani hoti hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Bahut tension hai",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon ki mann par kitna bojh hai. Mid-2027 tak yeh daur badal jayega aur shanti aayegi. Aap raat ko sone se pehle thoda shant baithne ki koshish kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Main samajh sakti hoon ki mann par kitna bojh hai. Mid-2027 tak yeh daur badal jayega aur shanti aayegi. Aap raat ko sone se pehle thoda shant baithne ki koshish kijiye."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

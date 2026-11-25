@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad se zindagi mein naye mauke aane lagenge aur cheezein track pe aane lagengi. Yeh batao, abhi sabse zyada tension kis cheez ki hai, career ki ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 ke baad se zindagi mein naye mauke aane lagenge aur cheezein track pe aane lagengi. Yeh batao, abhi sabse zyada tension kis cheez ki hai, career ki ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Career",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2025 se hi career mein slow progress aur tension chal rahi hai na? June ke baad ek naya mauka aane wala hai. Tum khud kis field mein try kar rahe ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2025 se hi career mein slow progress aur tension chal rahi hai na? June ke baad ek naya mauka aane wala hai. Tum khud kis field mein try kar rahe ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Job",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job na milna aur paise ka na tikna, dono ka ek hi reason hai: Chandra weak hone se savings nahi banti. March 2027 se halat palatne lagegi, tab tak naya karz mat lo. Monday ko Om Som Somaya Namah ka 108 baar jaap shuru karo, rahat milegi. Ghar pe is tension ke baare mein kis se share karte ho?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Job na milna aur paise ka na tikna, dono ka ek hi reason hai: Chandra weak hone se savings nahi banti. March 2027 se halat palatne lagegi, tab tak naya karz mat lo. Monday ko Om Som Somaya Namah ka 108 baar jaap shuru karo, rahat milegi. Ghar pe is tension ke baare mein kis se share karte ho?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kisi se nhi",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Akele sab kuch jhelna tough hota hai ji. 2027 mein ek mahina aisa aane wala hai jab ek decision tumhari job pakki kar sakta hai. Tumne padhai kis field mein ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Akele sab kuch jhelna tough hota hai ji. 2027 mein ek mahina aisa aane wala hai jab ek decision tumhari job pakki kar sakta hai. Tumne padhai kis field mein ki hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "MBA",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahiMBA kiya h",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "MBA se finance ya management ki line tumhare liye best hai, waha growth milegi. March ke baad isme mauka pakka banega. Abhi interview kahan de rahe ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "MBA se finance ya management ki line tumhare liye best hai, waha growth milegi. March ke baad isme mauka pakka banega. Abhi interview kahan de rahe ho?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nhi de rahi",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhara number 5 hai, kyunki tumhara lagna lord Budh hai. Iska matlab hai ki dimaag bohot tez hai aur finance ya management ki line mein tum aaram se grow kar sakti ho. Interview abhi nahi de rahi ho toh kya khud ka kuch shuru karne ka soch rahi ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tumhara number 5 hai, kyunki tumhara lagna lord Budh hai. Iska matlab hai ki dimaag bohot tez hai aur finance ya management ki line mein tum aaram se grow kar sakti ho. Interview abhi nahi de rahi ho toh kya khud ka kuch shuru karne ka soch rahi ho?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kisse hogi",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar pe shaadi ya rishte ki baat abhi chal rahi hai kya? Tum apne liye kaisa partner sochti ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar pe shaadi ya rishte ki baat abhi chal rahi hai kya? Tum apne liye kaisa partner sochti ho?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nhi chal rhi",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Acha insaan bas",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ka yog hai, rishta jaan-pehchaan se aayega aur partner calm, educated aur thoda guarded nature ka hoga. Shaadi se pehle ek aisa rishta aayega jise dhyan se dekhna padega. Ghar wale kya is baare mein kuch sochte hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ka yog hai, rishta jaan-pehchaan se aayega aur partner calm, educated aur thoda guarded nature ka hoga. Shaadi se pehle ek aisa rishta aayega jise dhyan se dekhna padega. Ghar wale kya is baare mein kuch sochte hain?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi nahi, waqt aane par sab clear hoga. Bas itna samajh lo ki in-laws thode traditional aur reserved honge. Kya job ke liye kisi bade sheher ka plan hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi nahi, waqt aane par sab clear hoga. Bas itna samajh lo ki in-laws thode traditional aur reserved honge. Kya job ke liye kisi bade sheher ka plan hai?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 26
+  }
+]

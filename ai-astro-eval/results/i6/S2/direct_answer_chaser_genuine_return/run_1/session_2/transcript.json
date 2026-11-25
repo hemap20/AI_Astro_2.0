@@ -1,0 +1,178 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aapki shaadi ki baat abhi kahan tak hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aapki shaadi ki baat abhi kahan tak hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe h, ek ladka dekha hai.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog pakka hai ji. Shani ka naya period tabhi shuru ho raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog pakka hai ji. Shani ka naya period tabhi shuru ho raha hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exactly?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein baat pakki hogi ji. Shani ke naye phase ka ye asar hai. Partner ke swabhav ki ek khas baat aur hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 mein baat pakki hogi ji. Shani ke naye phase ka ye asar hai. Partner ke swabhav ki ek khas baat aur hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pehle ye batao ki shaadi kab hogi?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me hogi ki nahi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, March 2027 mein pakki hogi ji. Shani ka naya phase yehi karwa raha hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, March 2027 mein pakki hogi ji. Shani ka naya phase yehi karwa raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein job pakki hai ji. Guru ka strong asar hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 mein job pakki hai ji. Guru ka strong asar hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "March me exact date kya hogi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date nahi bata sakte ji, lekin March ke shuru mein hi kaam banega. Guru ka strong asar wahi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Exact date nahi bata sakte ji, lekin March ke shuru mein hi kaam banega. Guru ka strong asar wahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad ghar ki tension khatam ho jayegi ji. Ketu ka asar 6th house mein shanti la raha hai tab.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad ghar ki tension khatam ho jayegi ji. Ketu ka asar 6th house mein shanti la raha hai tab.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Matlab?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact kab?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke first week mein hi yog hai ji. Budh aur Guru ka milna yehi tayari kar raha hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March ke first week mein hi yog hai ji. Budh aur Guru ka milna yehi tayari kar raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  }
+]

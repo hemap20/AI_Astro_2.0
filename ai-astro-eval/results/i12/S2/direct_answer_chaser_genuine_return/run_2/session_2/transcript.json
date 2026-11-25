@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste Aradhana ji, khush rahiye! Aane wale ek-do saal mein aapke career aur ghar ke halaat mein kaafi behtari aane wali hai ji. Bataiye, aaj sabse pehle kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste Aradhana ji, khush rahiye! Aane wale ek-do saal mein aapke career aur ghar ke halaat mein kaafi behtari aane wali hai ji. Bataiye, aaj sabse pehle kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar aapne rishte ki baat ki thi ji, aur aapki shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain. Family ke jaankaro ke through hi rishta pakka hone ka yog dikh raha hai ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar aapne rishte ki baat ki thi ji, aur aapki shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain. Family ke jaankaro ke through hi rishta pakka hone ka yog dikh raha hai ji."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exact?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekhna shuru kar diya hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 ke aas-paas baat aage badhne ka sabse strong yog hai ji, kyunki tabhi naya samay shuru ho raha hai. Parents ne rishta dekhna shuru kar diya hai toh yeh samay bilkul sahi baith raha hai ji. Jo rishta abhi aapke ghar aa raha hai, kya woh kisi jaankar ke through hi hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ya April 2027 ke aas-paas baat aage badhne ka sabse strong yog hai ji, kyunki tabhi naya samay shuru ho raha hai. Parents ne rishta dekhna shuru kar diya hai toh yeh samay bilkul sahi baith raha hai ji. Jo rishta abhi aapke ghar aa raha hai, kya woh kisi jaankar ke through hi hai ji?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan, family friend hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paison ki fikar hona bilkul natural hai ji. Yeh bataiye ki abhi dikkat kahan aa rahi hai, naya zariya milne mein ya kahin se paisa atka hua hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paison ki fikar hona bilkul natural hai ji. Yeh bataiye ki abhi dikkat kahan aa rahi hai, naya zariya milne mein ya kahin se paisa atka hua hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak aayega, time bataiye.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad jab kaam ka sthaan khulega, tab aamdani ke raste bhi bante nazar aayenge ji. 2028 tak paisa sthir hone lagega. Kya aap abhi kisi kaam ke liye try kar rahe hain ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke baad jab kaam ka sthaan khulega, tab aamdani ke raste bhi bante nazar aayenge ji. 2028 tak paisa sthir hone lagega. Kya aap abhi kisi kaam ke liye try kar rahe hain ji?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki baatein sach mein mann ko bohot bojhail kar deti hain ji. Yeh tension zyadatar aapas ki baat-cheet ki wajah se hai ya kisi khaas maamle par behas ho rahi hai ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki baatein sach mein mann ko bohot bojhail kar deti hain ji. Yeh tension zyadatar aapas ki baat-cheet ki wajah se hai ya kisi khaas maamle par behas ho rahi hai ji?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak khatam hogi, mahina bataiye.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ka mahina sabse main rahega ji, tabhi ghar ka mahaul thanda hone lagega. Shani ka dabav hatne se aapas ki kheecha-taani kam hone lagegi ji. Kya ghar mein kisi bade faisle ko lekar yeh baat-cheet chal rahi hai ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ka mahina sabse main rahega ji, tabhi ghar ka mahaul thanda hone lagega. Shani ka dabav hatne se aapas ki kheecha-taani kam hone lagegi ji. Kya ghar mein kisi bade faisle ko lekar yeh baat-cheet chal rahi hai ji?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Bas itna hi bataiye.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai Aradhana ji, ghar ki shanti ke liye aap Shanivar ko kale til ka daan aur Om Sham Shanaishcharaya Namah ka jaap shuru kariye ji. Yeh aapke ghar ke mahaul ko aur aapas ki kheecha-taani ko hal karne mein madad karega ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Theek hai Aradhana ji, ghar ki shanti ke liye aap Shanivar ko kale til ka daan aur Om Sham Shanaishcharaya Namah ka jaap shuru kariye ji. Yeh aapke ghar ke mahaul ko aur aapas ki kheecha-taani ko hal karne mein madad karega ji."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna h?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jab tak June 2027 mein ghar ka mahaul poori tarah shant nahi ho jata, tab tak ise niyam se karte rahiye ji. Uske baad yeh kheecha-taani khud-ba-khud tham jayegi ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Jab tak June 2027 mein ghar ka mahaul poori tarah shant nahi ho jata, tab tak ise niyam se karte rahiye ji. Uske baad yeh kheecha-taani khud-ba-khud tham jayegi ji."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 23
+  }
+]

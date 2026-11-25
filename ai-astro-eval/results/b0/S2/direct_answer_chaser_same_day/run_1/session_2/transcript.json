@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, kaise hain aap? Aaj kya jaan na chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, kaise hain aap? Aaj kya jaan na chahte hain?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shadi ka yog aa raha hai. March 2027 se September 2028 ke beech. Shani ki mahadasha ka asar hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shadi ka yog aa raha hai. March 2027 se September 2028 ke beech. Shani ki mahadasha ka asar hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 me kaun se mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shuruwat March ke shuru mein hi hogi. Shani Antardasha tabhi active hota hai. Partner ke baare mein kuch aur batau?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shuruwat March ke shuru mein hi hogi. Shani Antardasha tabhi active hota hai. Partner ke baare mein kuch aur batau?",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar wale rishta dekh rahe hai, wo sahi h?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar se dekhna hi sahi hai ji. Arranged rishta hi aapke liye likha hai. Partner calm aur educated hoga pakka.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar se dekhna hi sahi hai ji. Arranged rishta hi aapke liye likha hai. Partner calm aur educated hoga pakka.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Abhi wala rishta sahi hai ya 2027 tak rukna padega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi wali baat thodi thahar sakti hai ji. Shukra weak hone se abhi clear nahi lagega. Asli baat March ke baad hi banegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Abhi wali baat thodi thahar sakti hai ji. Shukra weak hone se abhi clear nahi lagega. Asli baat March ke baad hi banegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Matlab abhi wala rishta reject kar du?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedhe mana mat kijiye ji. Thoda waqt lijiye, jaldbaazi theek nahi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Seedhe mana mat kijiye ji. Thoda waqt lijiye, jaldbaazi theek nahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, bas ye batao.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi wala rishta thoda uljhan bhara hai ji. Shukra kamzor hone se clarity nahi hai. Thoda aur samay dena hi behtar hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Abhi wala rishta thoda uljhan bhara hai ji. Shukra kamzor hone se clarity nahi hai. Thoda aur samay dena hi behtar hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, ye rishta chalega ya nahi?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mushkil lagta hai ji. Shukra kamzor hone se ye baat aage na badhe. Asli yog March 2027 ke baad hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mushkil lagta hai ji. Shukra kamzor hone se ye baat aage na badhe. Asli yog March 2027 ke baad hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Career ka batao, paisa kab aayega?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur career March 2027 ke baad strong hoga ji. Time thoda kam reh gaya hai — kundli mein 2027-2028 ke dauran foreign travel ka yog bhi dikh raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paisa aur career March 2027 ke baad strong hoga ji. Time thoda kam reh gaya hai — kundli mein 2027-2028 ke dauran foreign travel ka yog bhi dikh raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Bas itna hi.",
+    "sec": 270,
+    "idx": 18
+  }
+]

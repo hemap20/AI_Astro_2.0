@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, main aapka future dekh sakti hoon. Sabse pehle batayiye, aap kis baat ko lekar zyada soch rahi hain, kaam, shaadi, ya paise ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Ji, main aapka future dekh sakti hoon. Sabse pehle batayiye, aap kis baat ko lekar zyada soch rahi hain, kaam, shaadi, ya paise ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, shaadi ke liye aapki kundli mein achha samay dikh raha hai. Mar 2027 se Sep 2028 ke beech baat pakki hone ke chances zyada hain. Kya aap confirm kar sakti hain ki Nov 2022 mein padhai ya college life mein badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, shaadi ke liye aapki kundli mein achha samay dikh raha hai. Mar 2027 se Sep 2028 ke beech baat pakki hone ke chances zyada hain. Kya aap confirm kar sakti hain ki Nov 2022 mein padhai ya college life mein badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, hua tha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine me exact",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, Mar 2027 se Sep 2028 ke beech shaadi ki baat aage badhne ka sabse achha daur hai. Mar 2027 aur uske baad ke kuch mahine sabse zyada saath dete dikhte hain. Shukra kamzor hai, isliye rishta dhire aata hai, par aapke liye shubh hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, Mar 2027 se Sep 2028 ke beech shaadi ki baat aage badhne ka sabse achha daur hai. Mar 2027 aur uske baad ke kuch mahine sabse zyada saath dete dikhte hain. Shukra kamzor hai, isliye rishta dhire aata hai, par aapke liye shubh hai."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak set hoga mera",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, paise ki halat dheere-dheere sudhregi, Mar 2027 se Sep 2028 ke beech. Pehle naukri, phir kaam mein aage badhna achha rahega. Kya aap batayengi ki abhi kamai naukri se hai ya padhai chal rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, paise ki halat dheere-dheere sudhregi, Mar 2027 se Sep 2028 ke beech. Pehle naukri, phir kaam mein aage badhna achha rahega. Kya aap batayengi ki abhi kamai naukri se hai ya padhai chal rahi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Padhai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, naukri ke liye bhi Mar 2027 se Sep 2028 ka daur achha dikhta hai. Guru ka saath hai, isliye kaam mil sakta hai. Padhai ke saath kaunsa vishay aapka pasandida hai, bataiye?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, naukri ke liye bhi Mar 2027 se Sep 2028 ka daur achha dikhta hai. Guru ka saath hai, isliye kaam mil sakta hai. Padhai ke saath kaunsa vishay aapka pasandida hai, bataiye?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Vishay chhodo",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Job ka specific month btao",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, naukri ke liye Mar 2027 se Sep 2028 ke beech sabse achha samay hai. Mar 2027 ke aas-paas shuruaat ho sakti hai, kyunki Guru kaam wale ghar mein majboot hai. Shani ki wajah se Jun 2027 tak thoda intezaar lag sakta hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, naukri ke liye Mar 2027 se Sep 2028 ke beech sabse achha samay hai. Mar 2027 ke aas-paas shuruaat ho sakti hai, kyunki Guru kaam wale ghar mein majboot hai. Shani ki wajah se Jun 2027 tak thoda intezaar lag sakta hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ki tension mein Mar 2027 se Sep 2028 ke beech kami aane lagegi. Mangal ki wajah se jhagde bhi dheere-dheere shant honge. Kya aap batayengi ki ghar mein zyada tension kis baat par hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, ghar ki tension mein Mar 2027 se Sep 2028 ke beech kami aane lagegi. Mangal ki wajah se jhagde bhi dheere-dheere shant honge. Kya aap batayengi ki ghar mein zyada tension kis baat par hoti hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe, ek rishta chal rha",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Tension kb khtm hogi exact date batao",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ki tension ka sabse achha daur Mar 2027 se Sep 2028 ke beech hai. Rishte wali baat ka faisla bhi isi samay ke aas-paas saaf hota dikhta hai. Kya aap confirm kar sakti hain ki Nov 2026 mein Mangal ke daur ki wajah se ghar mein bahas badhi thi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, ghar ki tension ka sabse achha daur Mar 2027 se Sep 2028 ke beech hai. Rishte wali baat ka faisla bhi isi samay ke aas-paas saaf hota dikhta hai. Kya aap confirm kar sakti hain ki Nov 2026 mein Mangal ke daur ki wajah se ghar mein bahas badhi thi?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "2026 ka yaad nahi",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Exact date bataiye tension kab khatam hogi",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ki tension ke liye sabse saaf samay Mar 2027 ke aas-paas ka hai. Mangal ki wajah se jhagde Mar 2027 se Sep 2028 ke beech dheere-dheere shant honge. Pakka exact din nahi bata sakti, par daur saaf dikhta hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, ghar ki tension ke liye sabse saaf samay Mar 2027 ke aas-paas ka hai. Mangal ki wajah se jhagde Mar 2027 se Sep 2028 ke beech dheere-dheere shant honge. Pakka exact din nahi bata sakti, par daur saaf dikhta hai."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Faltu",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch 2027 hi bta rhe ho",
+    "sec": 270,
+    "idx": 26
+  }
+]

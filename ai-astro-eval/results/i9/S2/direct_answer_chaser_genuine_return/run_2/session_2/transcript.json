@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal aapke liye badlaav wale aur behtar hain, khaas kar 2027 ke baad raste khulne lagenge. Aaj bataiye, career, ghar ya shaadi mein se kis baat ki sabse zyada chinta hai ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal aapke liye badlaav wale aur behtar hain, khaas kar 2027 ke baad raste khulne lagenge. Aaj bataiye, career, ghar ya shaadi mein se kis baat ki sabse zyada chinta hai ji?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, aur February 2027 ke baad halaat mein tezi aayegi ji. Shukra ki kamzori ki wajah se thodi der hui hai, par ab samay badal raha hai. Yeh rishta kisi jaan-pehchan ke zariye hi aane ke poore chance hain ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, aur February 2027 ke baad halaat mein tezi aayegi ji. Shukra ki kamzori ki wajah se thodi der hui hai, par ab samay badal raha hai. Yeh rishta kisi jaan-pehchan ke zariye hi aane ke poore chance hain ji."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Gharwale ek rishta dekh rahe hai, wo wala fix hoga kya?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, agar yeh rishta kisi jaan-pehchan ke zariye hai toh pakke hone ke acche chance hain. Guru ke prabhav se aise rishte jaane-maane circle se hi judte hain ji. Kya parivar ki taraf se baat aage badh chuki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan ji, agar yeh rishta kisi jaan-pehchan ke zariye hai toh pakke hone ke acche chance hain. Guru ke prabhav se aise rishte jaane-maane circle se hi judte hain ji. Kya parivar ki taraf se baat aage badh chuki hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, baat chal rahi hai. Wo rishta pakka kab tak hoga?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta March 2027 ke baad hi pakka hone ke sabse zyada chance hain ji, jab naya samay shuru hoga. Shani ke prabhav se yeh baat aage badhegi. Inke gharwale thode traditional aur serious swabhav ke ho sakte hain ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Yeh rishta March 2027 ke baad hi pakka hone ke sabse zyada chance hain ji, jab naya samay shuru hoga. Shani ke prabhav se yeh baat aage badhegi. Inke gharwale thode traditional aur serious swabhav ke ho sakte hain ji."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaunsa mahina?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruati mahino mein hi is baat ke pakke hone ke sabse strong yog ban rahe hain ji. February ke baad grahki sthiti badalte hi rishte ki baat tezi se aage badhegi ji. Inke swabhav aur parivar ke baare mein ek khaas baat aur dikh rahi hai ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke shuruati mahino mein hi is baat ke pakke hone ke sabse strong yog ban rahe hain ji. February ke baad grahki sthiti badalte hi rishte ki baat tezi se aage badhegi ji. Inke swabhav aur parivar ke baare mein ek khaas baat aur dikh rahi hai ji."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pehle mera jawab do, exact kaunsa mahina?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka pehla mahina hi sabse strong hai ji, jab shani ke prabhav se yeh baat final hogi. Kya ladke ke parivar se abhi koi direct baat hui hai aapki?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ka pehla mahina hi sabse strong hai ji, jab shani ke prabhav se yeh baat final hogi. Kya ladke ke parivar se abhi koi direct baat hui hai aapki?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak banega?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi March 2027 se September 2028 ke beech dheere-dheere door hone lagegi ji. Aamdani ke sthaan par mazboot yog banne se dhan tikne lagega ji. Iske sath hi 2027 mein kaam ko lekar ek bada avsar bhi khulega ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ki tangi March 2027 se September 2028 ke beech dheere-dheere door hone lagegi ji. Aamdani ke sthaan par mazboot yog banne se dhan tikne lagega ji. Iske sath hi 2027 mein kaam ko lekar ek bada avsar bhi khulega ji."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsa month?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke pehle hafte ke aas-paas hi yeh samay sabse mazboot rahega ji. Us samay grahon ki sthiti badalne se paise aur kaam ke raste tezi se khulne lagenge ji. 2027-28 ke beech hi ek aur bada avsar door sthan ya videsh se jud sakta hai ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke pehle hafte ke aas-paas hi yeh samay sabse mazboot rahega ji. Us samay grahon ki sthiti badalne se paise aur kaam ke raste tezi se khulne lagenge ji. 2027-28 ke beech hi ek aur bada avsar door sthan ya videsh se jud sakta hai ji."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension June 2027 ke baad tezi se kam hone lagegi ji, tab tak thoda dhairya rakhna hoga. Shani ka jo dabav ghar mein chal raha hai, woh us samay hat jayega. Feb 2027 mein Guru ka samay badalte hi parivar ke halaat mein ek bada sudhaar dekhne ko milega ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki tension June 2027 ke baad tezi se kam hone lagegi ji, tab tak thoda dhairya rakhna hoga. Shani ka jo dabav ghar mein chal raha hai, woh us samay hat jayega. Feb 2027 mein Guru ka samay badalte hi parivar ke halaat mein ek bada sudhaar dekhne ko milega ji."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 18
+  }
+]

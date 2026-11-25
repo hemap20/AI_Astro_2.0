@@ -1,0 +1,223 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 6,
+    "1.4": 1,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 3,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 8,
+    "4.2": 7,
+    "5.1": 4,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.29,
+  "shape": {
+    "M": 6,
+    "avg_words": 33.8,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": "none"
+      },
+      "G2": {
+        "fail": false,
+        "quote": "none"
+      },
+      "G3": {
+        "fail": false,
+        "quote": "none"
+      },
+      "G4": {
+        "fail": false,
+        "quote": "none"
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "none",
+        "why": "User shared no worry, feeling or story, only a topic request."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya neend bhi theek se nahi aa rahi?",
+        "why": "No Type C questions, but more than half are Type B (generic)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 1,
+        "quote": "none",
+        "why": "Never asked for or used the other person's details."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai ji.",
+        "why": "Now, New, and Specific are yes, but Reason is no."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai ji.",
+        "why": "Clear direction given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 3,
+        "quote": "none",
+        "why": "No chart reference in any reading; 'doosre ghar' is a house number and not everyday language."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Saal 2027 ke aakhiri mahino mein baat pakki hone ke aasaar zyada hain.",
+        "why": "One later reading is both New and Uses."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka pakka yog March 2027 se September 2028 ke beech banta hai ji.",
+        "why": "A window is given, and facts stay consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Roz thoda hisaab likhiye.",
+        "why": "One practical step for the stated problem, with how/when."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar aur mann ki yeh tension June 2027 ke baad hi poori tarah shant hogi ji.",
+        "why": "Both questions (shaadi, paisa, tension) get a full answer."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke jeevansathi ke nature ko lekar ek khaas baat dikh rahi hai.",
+        "why": "Names one specific further thing about their concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "none",
+        "why": "No closing message and no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar aur mann ki yeh tension June 2027 ke baad hi poori tarah shant hogi ji.",
+        "why": "Both of the last two messages are real readings."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "none",
+        "why": "U is 0 and F is 0."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aane wale waqt mein aap career ko lekar zyada sochte hain ya shaadi ko lekar?",
+        "why": "Triggered by vague user, but asked a question instead of giving a reading first."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      }
+    ]
+  }
+}

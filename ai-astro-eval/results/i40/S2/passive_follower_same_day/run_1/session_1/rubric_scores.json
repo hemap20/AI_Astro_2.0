@@ -1,0 +1,239 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.0,
+  "shape": {
+    "M": 9,
+    "avg_words": 40.7,
+    "long_share": 0.78
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User only said 'Future', no worry or story shared."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aap career ke bare mein janna chahti hain ya shaadi se judi baatein?",
+        "why": "No Type C questions, but more than half are Type B (generic)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User did not ask about a specific person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Shaadi ka yog arranged rishte mein hai, par rishton ke grah ke dabne se thoda intezar hai.",
+        "why": "About the present, new, but generic (true for many)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Parents jo rishta dekh rahe hain, usme March 2027 ke baad baat banegi.",
+        "why": "Clear direction and time window given."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ghar ka tanav aur paise ki kami ek saath chal rahe hain kyunki mann ka grah abhi dabav mein hai.",
+        "why": "Two or more linked readings using plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Parents jo rishta dekh rahe hain, usme March 2027 ke baad baat banegi.",
+        "why": "Later readings are new and use user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 ke baad baat banegi.",
+        "why": "Consistent window, no promise."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Hanuman Chalisa padhna shuru kijiye, isse gussa kam hoga aur ghar ka mahaul theek hoga.",
+        "why": "Tied to cause, with how and when."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paisa aur rishte dono par abhi dabav hai",
+        "why": "Both questions (shaadi, career/money) answered."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke hone wale jeevansathi ka ek aisa swabhav hai jo ghar ke tanav ko kam karne mein madad karega.",
+        "why": "Names a specific further thing."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Haan, sab bilkul theek hoga.",
+        "why": "No closing message, no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is baare mein vistaar se baat karne ke liye aap abhi chat recharge kar sakti hain.",
+        "why": "Last message is a pitch."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ka tanav aur paise ki kami ek saath chal rahe hain kyunki mann ka grah abhi dabav mein hai.",
+        "why": "No technical terms without explanation, no formal language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aap career ke bare mein janna chahti hain ya shaadi se judi baatein?",
+        "why": "Vague user trigger, astrologer asked a soft question to guide."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "reading"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      }
+    ]
+  }
+}

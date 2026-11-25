@@ -1,0 +1,243 @@
+{
+  "scores": {
+    "1.1": 9,
+    "1.2": 9,
+    "1.4": 7,
+    "2.1": 9,
+    "2.2": 9,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 9,
+    "3.2": 9,
+    "3.3": 9,
+    "4.2": 9,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 8.33,
+  "shape": {
+    "M": 8,
+    "avg_words": 40.5,
+    "long_share": 0.88
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, pichli baar aapki shadi aur naukri ki baat hui thi.",
+        "why": "The astrologer acknowledges the user's previous context and current questions directly."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kya aapko abhi koi rishta aaya hai, ya ghar par baat chal rahi hai?",
+        "why": "All questions are Type A, building directly on the user's input."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishte mein jaldi haan mat kijiye, pehle ladke ke baare mein poochh lijiye.",
+        "why": "The astrologer advises checking on the boy, which is relevant to the marriage question."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shadi ke liye mera dekha hua samay Mar 2027 se Sep 2028 ke beech ka hai.",
+        "why": "The reading is specific, new, and tied to chart reasons."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shadi ke liye mera dekha hua samay Mar 2027 se Sep 2028 ke beech ka hai.",
+        "why": "The astrologer provides a clear direction and time window for the main questions."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ka mahaul shant karne mein aapki boli ka bada haath hai, kyunki Budh baat-cheet ka grah hai.",
+        "why": "Chart reasons are explained in plain, everyday language."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ka mahaul shant karne mein aapki boli ka bada haath hai, kyunki Budh baat-cheet ka grah hai.",
+        "why": "Later readings add new layers and use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mera andaza Mar se May ke beech ka hai, kyunki Shani ka asar tab tak halka hota hai.",
+        "why": "Provides a clear window without making false promises."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mummy ki baat par jhagda karne se pehle thoda shant rahiye, uska asar seedha hota hai.",
+        "why": "Guidance is tied to the cause and includes a practical step."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, naukri ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai.",
+        "why": "The astrologer answers all questions in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar mein sabse zyada kaun baat badhata hai, mummy, papa ya koi aur?",
+        "why": "Opens a new layer based on the user's concern about home tension."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, Feb 2027 mein Guru ka daur khatam hota hai, aur uske baad ghar ka bojh kam hone lagta hai.",
+        "why": "No early close; every message provides value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Feb 2027 ke aaspaas ghar ka bojh kam hota dikhta hai.",
+        "why": "Ends on a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ka mahaul shant karne mein aapki boli ka bada haath hai, kyunki Budh baat-cheet ka grah hai.",
+        "why": "Uses easy language and explains terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ji, exact din ka hisaab kundli se nahi nikalti, isliye main sirf mahina aur samay bata sakti hoon.",
+        "why": "The astrologer accepts the user's frustration without arguing and explains the limitation."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "reading"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      },
+      {
+        "idx": 20,
+        "type": "question"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      }
+    ]
+  }
+}

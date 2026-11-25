@@ -1,0 +1,206 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad yog hai ji. Shani AD shuru hone se ye hoga.",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 ke baad yog hai ji. Shani AD shuru hone se ye hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bin matching poori baat kehna mushkil hai ji. Aapke liye calm aur educated partner ka yog hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Bin matching poori baat kehna mushkil hai ji. Aapke liye calm aur educated partner ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha. Wo gussa krta h.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Shi h kya?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein partner calm dikh raha hai ji. Thoda gussa Mangal ka asar ho sakta hai. Puri shanti ke liye matching zaroori hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli mein partner calm dikh raha hai ji. Thoda gussa Mangal ka asar ho sakta hai. Puri shanti ke liye matching zaroori hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein partner calm hi hai ji. Bas Mangal thoda gussa deta hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli mein partner calm hi hai ji. Bas Mangal thoda gussa deta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Shi h kya?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghabraiyye mat ji. Mangal ki wajah se gussa hai. Baaki wo theek hi rahenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghabraiyye mat ji. Mangal ki wajah se gussa hai. Baaki wo theek hi rahenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shadi ka yog hai ji. Shani AD aane par ye baat pakki hogi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se shadi ka yog hai ji. Shani AD aane par ye baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Shani AD kya",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani AD matlab Shani ka time hota hai ji. Ye March 2027 se shuru hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Shani AD matlab Shani ka time hota hai ji. Ye March 2027 se shuru hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job mein tarakki hogi ji. Guru ki kripa se ye hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke baad job mein tarakki hogi ji. Guru ki kripa se ye hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Time thoda kam reh gaya hai ji. Aapki kundli mein October 2028 ke baad apne ghar ka yog bhi hai, thoda aur time hoga toh wo bhi bata sakti hoon.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Time thoda kam reh gaya hai ji. Aapki kundli mein October 2028 ke baad apne ghar ka yog bhi hai, thoda aur time hoga toh wo bhi bata sakti hoon.",
+      "marital_status": "unchanged"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 270,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 27
+  }
+]

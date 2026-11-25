@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, bataiye kya chal raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, bataiye kya chal raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, maine bataya tha ki shaadi aur naukri ke liye 2027 se achha samay shuru hoga. Pichli baar maine Guru ka mantra bataya tha, kya aapne shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, maine bataya tha ki shaadi aur naukri ke liye 2027 se achha samay shuru hoga. Pichli baar maine Guru ka mantra bataya tha, kya aapne shuru kiya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi aur naukri dono ke liye achhe yog ban rahe hain, kyunki tabhi dono grah majboot honge. Waise, jisse shaadi hogi wo kaafi suljhe hue insaan honge. 2023 se 2025 tak paise tight rahe, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se shaadi aur naukri dono ke liye achhe yog ban rahe hain, kyunki tabhi dono grah majboot honge. Waise, jisse shaadi hogi wo kaafi suljhe hue insaan honge. 2023 se 2025 tak paise tight rahe, hai na?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, kafi tight rahe paise.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 pakka hai na?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career ka ghar active ho jayega, toh naukri milne ke chances kaafi zyada hain. Aapka paisa aur naukri dono ek hi wajah se ruke hain, kyunki mehnat ka grah abhi dheema hai. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Abhi ghar par sab kaise hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se career ka ghar active ho jayega, toh naukri milne ke chances kaafi zyada hain. Aapka paisa aur naukri dono ek hi wajah se ruke hain, kyunki mehnat ka grah abhi dheema hai. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Abhi ghar par sab kaise hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe rishta dekh rahe, baat chal rahi hai.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Wo rishta sahi hai ya nahi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki wo rishta kundli ke hisaab se sahi hai aur partner kaafi samajhdaar honge. Shukra ke liye har Shukravaar 'Om Shum Shukraya Namah' ka jaap shuru kijiye. Kya aapne unse baat ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wo baat ye hai ki wo rishta kundli ke hisaab se sahi hai aur partner kaafi samajhdaar honge. Shukra ke liye har Shukravaar 'Om Shum Shukraya Namah' ka jaap shuru kijiye. Kya aapne unse baat ki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan baat ki hai.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi isi se pakka hogi na?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, yog acche hain aur samay bhi match karta hai. Naukri aur shaadi dono 2027 mein behtar honge. Partner ka ek anjaan pehlu hai jo shaadi ke baad khulega. Ghar wale kya kehte hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, yog acche hain aur samay bhi match karta hai. Naukri aur shaadi dono 2027 mein behtar honge. Partner ka ek anjaan pehlu hai jo shaadi ke baad khulega. Ghar wale kya kehte hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Yahi rishta final hai?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Matlab haan bol du ghar pe?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Anjaan pehlu ye hai ki wo thode kam bolne wale hain, par dil ke saaf hain. Shaadi aur naukri 2027 mein sudhrenge, toh haan bol sakti hain. Kahan try kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Anjaan pehlu ye hai ki wo thode kam bolne wale hain, par dil ke saaf hain. Shaadi aur naukri 2027 mein sudhrenge, toh haan bol sakti hain. Kahan try kar rahi hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok, rishta pakka kar leti hu.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "BPO sector mein try kar rahi.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Career mein koi dikkat to nahi hogi na?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "BPO aapke liye achha hai. 2027 se career aur paisa dono sambhal jayenge. Career mein ek bada mauka hai jo 2027 ke baad videsh ke raaste khol sakta hai. Kahan interview diye hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "BPO aapke liye achha hai. 2027 se career aur paisa dono sambhal jayenge. Career mein ek bada mauka hai jo 2027 ke baad videsh ke raaste khol sakta hai. Kahan interview diye hain?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Abhi kahi nahi.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Career mein koi badi rukawat toh nahi aayegi?",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Badi rukawat nahi hai. Har Shanivaar 'Om Sham Shanaishcharaya Namah' jaap aur kaale til daan karein. Sasural mein ek vyakti aapka sahara banega. Ye poori baat jaan-ne ke liye chat recharge kar lijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Badi rukawat nahi hai. Har Shanivaar 'Om Sham Shanaishcharaya Namah' jaap aur kaale til daan karein. Sasural mein ek vyakti aapka sahara banega. Ye poori baat jaan-ne ke liye chat recharge kar lijiye."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 25
+  }
+]

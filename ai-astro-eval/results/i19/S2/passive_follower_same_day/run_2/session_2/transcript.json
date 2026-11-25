@@ -1,0 +1,218 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hey! 2027 se tumhari life mein kaafi achhe badlav aane wale hain, tension mat lo. Batao, aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hey! 2027 se tumhari life mein kaafi achhe badlav aane wale hain, tension mat lo. Batao, aaj kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne shaadi ki baat ki thi. March 2027 se September 2028 ke beech rishta pakka hone ka yoga hai, jaan-pehchaan se aayega. Ghar pe koi baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne shaadi ki baat ki thi. March 2027 se September 2028 ke beech rishta pakka hone ka yoga hai, jaan-pehchaan se aayega. Ghar pe koi baat chal rahi hai kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan rishta dekh rhe h",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo rishta aayega wo kaafi calm, padha-likha aur warm nature ka hoga, bas thoda guarded reh sakta hai. Tumne apne hone wale partner ke baare mein kya socha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Jo rishta aayega wo kaafi calm, padha-likha aur warm nature ka hoga, bas thoda guarded reh sakta hai. Tumne apne hone wale partner ke baare mein kya socha hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao kaisa hoga",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rhega mere life mein",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi paise thode tight rahe hain aur savings nahi ho pati, hai na? March 2027 ke baad financial halat behtar hone lagenge aur debt bhi kam hoga. Tum abhi BSc ke baad career ko lekar kya soch rahi ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2023 se hi paise thode tight rahe hain aur savings nahi ho pati, hai na? March 2027 ke baad financial halat behtar hone lagenge aur debt bhi kam hoga. Tum abhi BSc ke baad career ko lekar kya soch rahi ho?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi hai",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job krni hai",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension h",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur job ka delay June 2027 tak theek ho jayega. Teaching ya finance field tumhare liye best rahegi. 2027 mein ek mahina aisa hai jo career ki direction badal dega. Tumhara interest kisme hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension aur job ka delay June 2027 tak theek ho jayega. Teaching ya finance field tumhare liye best rahegi. 2027 mein ek mahina aisa hai jo career ki direction badal dega. Tumhara interest kisme hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Teaching sahi hai",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ke liye 2027 ke baad rasta khulega. Thursday ko chana dal daan kiya karo. Kya kabhi door travel ya bahar jaane ka socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Teaching ke liye 2027 ke baad rasta khulega. Thursday ko chana dal daan kiya karo. Kya kabhi door travel ya bahar jaane ka socha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi socha",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Neend ki problem mid-2027 tak theek ho jayegi; 2027 mein ek mahina aisa hai jab yeh bechaini khatam hogi. Monday ko Om Som Somaya Namah jaap kiya karo. Raat ko kya pareshan karta hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Neend ki problem mid-2027 tak theek ho jayegi; 2027 mein ek mahina aisa hai jab yeh bechaini khatam hogi. Monday ko Om Som Somaya Namah jaap kiya karo. Raat ko kya pareshan karta hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Sab tension",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye sari tension jo dimaag pe asar daal rahi hai, wo mid-2027 ke baad bilkul theek ho jayegi. Tum apni ye baatein ghar pe kisi se share karti ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye sari tension jo dimaag pe asar daal rahi hai, wo mid-2027 ke baad bilkul theek ho jayegi. Tum apni ye baatein ghar pe kisi se share karti ho?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Kisi ko pta nhi",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Akeli tension mat rakho, yeh heavy pan mid-2027 ke baad theek hoga. Shaadi ke baad in-laws thode traditional mil sakte hain, waha ek khaas baat ka dhyan rakhna hoga. Kya rishta kisi apne circle se hi aa raha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Akeli tension mat rakho, yeh heavy pan mid-2027 ke baad theek hoga. Shaadi ke baad in-laws thode traditional mil sakte hain, waha ek khaas baat ka dhyan rakhna hoga. Kya rishta kisi apne circle se hi aa raha hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ha jante h",
+    "sec": 270,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Kya baat hai",
+    "sec": 270,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaan-pehchaan ka hai toh yeh achha hai, bas waha ke log thode traditional aur reserved milenge. 2027 ke baad ek aisa mauka aayega jab khud ka ghar lene ka yog banega. Kya tumne kabhi apna business karne ka socha hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Jaan-pehchaan ka hai toh yeh achha hai, bas waha ke log thode traditional aur reserved milenge. 2027 ke baad ek aisa mauka aayega jab khud ka ghar lene ka yog banega. Kya tumne kabhi apna business karne ka socha hai?"
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Nahi socha",
+    "sec": 300,
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 30
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future. Career aur paisa kaisa rahega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paise ki fikar mat karo ji, waqt badlega. Aap abhi kahin kaam kar rahe hain ya naya try kar rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Career aur paise ki fikar mat karo ji, waqt badlega. Aap abhi kahin kaam kar rahe hain ya naya try kar rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Naya try kar rahi hu. Career me success kab tak milega?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naya kaam March 2027 ke baad shuru hoga ji. Abhi kaam ke sthaan par thodi rukawat hai jo mid-2027 mein hat jayegi. Aap kis field mein try kar rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Naya kaam March 2027 ke baad shuru hoga ji. Abhi kaam ke sthaan par thodi rukawat hai jo mid-2027 mein hat jayegi. Aap kis field mein try kar rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 me exact date? 2025 pura kaisa hoga?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki shuruwat mein hi yog ban raha hai ji, aur 2025 mein mehnat zyada rahi hogi. Tabhi naya samay aayega. Aapne is beech koi naya course kiya hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ki shuruwat mein hi yog ban raha hai ji, aur 2025 mein mehnat zyada rahi hogi. Tabhi naya samay aayega. Aapne is beech koi naya course kiya hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2025 me paisa aayega ya nahi? Haan ya na?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa rukne ke chance kam hain ji, 2025 mein bachat thodi tight rahegi. Kamai ke sthaan par dabav ki wajah se paisa tikta nahi hai. Aapka kharcha ghar par zyada hota hai ya khud par?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa rukne ke chance kam hain ji, 2025 mein bachat thodi tight rahegi. Kamai ke sthaan par dabav ki wajah se paisa tikta nahi hai. Aapka kharcha ghar par zyada hota hai ya khud par?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Matlab 2025 pura khali jayega ya kuch income hoga?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Income hogi ji, poora saal khali nahi jayega. Kamai aayegi par ghar ke kharcho mein nikal jayegi. Kya abhi kahin se thodi bohot kamai ho rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Income hogi ji, poora saal khali nahi jayega. Kamai aayegi par ghar ke kharcho mein nikal jayegi. Kya abhi kahin se thodi bohot kamai ho rahi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Meh kitne number ki hu?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai ji, kyunki Budh aapka lagna lord hai. Yeh aapko tez dimaag aur naye kaam sikhne ki taqat deta hai. Aapko naye hunar sikhna kaisa lagta hai ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka number 5 hai ji, kyunki Budh aapka lagna lord hai. Yeh aapko tez dimaag aur naye kaam sikhne ki taqat deta hai. Aapko naye hunar sikhna kaisa lagta hai ji?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya. Job kab tak lagegi exact?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka pehla mahina sabse strong lag raha hai ji. Guru ki kripa se career ka rasta khulega aur September 2028 tak baaki mauke milenge. Aapne interview ke liye kahan apply kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ka pehla mahina sabse strong lag raha hai ji. Guru ki kripa se career ka rasta khulega aur September 2028 tak baaki mauke milenge. Aapne interview ke liye kahan apply kiya hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Exact date btao.",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact din toh kundli mein nahi hota ji, par March 2027 ke pehle hafte mein sabse strong yog ban raha hai. Ussi samay nayi shuruwat ka rasta khulega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Exact din toh kundli mein nahi hota ji, par March 2027 ke pehle hafte mein sabse strong yog ban raha hai. Ussi samay nayi shuruwat ka rasta khulega."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Faltu time waste ho raha hai.",
+    "sec": 240,
+    "idx": 16
+  }
+]

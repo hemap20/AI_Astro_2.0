@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Mera rishta aa rha h, ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/01/1995 ladke ka dob hai.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar me born hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli kehti hai ladka lamba, shaant aur padha-likha hoga, par thoda guarded nature ka hai. Rishta ghar ki jaan-pehchaan se hi lag raha hai. Tumne abhi kya socha hai is baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Kundli kehti hai ladka lamba, shaant aur padha-likha hoga, par thoda guarded nature ka hai. Rishta ghar ki jaan-pehchaan se hi lag raha hai. Tumne abhi kya socha hai is baare mein?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Maine do baar mili hu, wo short-tempered lag raha tha.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Fir btao, ladka shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo andar se calm hain, par unka guarded nature gussa lag sakta hai. In-laws bhi traditional hain. 2027 mein ek aisi baat samne aayegi jo sab clear kar degi. Kya unke ghar wale thode strict hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Wo andar se calm hain, par unka guarded nature gussa lag sakta hai. In-laws bhi traditional hain. 2027 mein ek aisi baat samne aayegi jo sab clear kar degi. Kya unke ghar wale thode strict hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan strict hain.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye, yes or no?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai ki yeh theek rahega, bas kundli mein Mangal ka asar halka sa hai toh matching dhyan se karwana. Kya tumne apne ghar pe ye baat share ki?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Zyada chance hai ki yeh theek rahega, bas kundli mein Mangal ka asar halka sa hai toh matching dhyan se karwana. Kya tumne apne ghar pe ye baat share ki?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Matlab shadi kr lu? Yes or no btao.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, zyada chance hai ki yeh theek rahega. March 2027 ke baad waise bhi raste aur clear ho jayenge. Tuesday se Hanuman Chalisa padhna shuru kar do, sab theek hoga. Kya ghar wale is rishte ke liye poori tarah ready hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, zyada chance hai ki yeh theek rahega. March 2027 ke baad waise bhi raste aur clear ho jayenge. Tuesday se Hanuman Chalisa padhna shuru kar do, sab theek hoga. Kya ghar wale is rishte ke liye poori tarah ready hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog pakka ban raha hai. Par isse pehle in-laws ki taraf se ek choti si condition aa sakti hai jise samajhna zaroori hai. Kya tumne aur ladke ne aage ke baare mein kuch socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog pakka ban raha hai. Par isse pehle in-laws ki taraf se ek choti si condition aa sakti hai jise samajhna zaroori hai. Kya tumne aur ladke ne aage ke baare mein kuch socha hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak exact?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas ka mahina sabse strong lag raha hai, kyunki tabhi naya samay shuru hoga. Baaki window open hai. Kya ghar walon ne abhi se baat aage badhayi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas ka mahina sabse strong lag raha hai, kyunki tabhi naya samay shuru hoga. Baaki window open hai. Kya ghar walon ne abhi se baat aage badhayi hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Aap exact date btao.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "March me kaunse date tak?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date toh nahi bol sakte, par March 2027 ke shuru ke hafton mein baat pakki hone ke chances sabse zyada hain. Kya ghar walon ne abhi se taiyari shuru ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Exact date toh nahi bol sakte, par March 2027 ke shuru ke hafton mein baat pakki hone ke chances sabse zyada hain. Kya ghar walon ne abhi se taiyari shuru ki hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Wo choti si condition kya hogi?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Condition yeh ho sakti hai ki woh log kuch purane riti-riwazo ko lekar strict hon. In-laws kafi traditional hain. Kya tumhein pehle se yeh andaza tha?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Condition yeh ho sakti hai ki woh log kuch purane riti-riwazo ko lekar strict hon. In-laws kafi traditional hain. Kya tumhein pehle se yeh andaza tha?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok, samjh gayi.",
+    "sec": 240,
+    "idx": 23
+  }
+]

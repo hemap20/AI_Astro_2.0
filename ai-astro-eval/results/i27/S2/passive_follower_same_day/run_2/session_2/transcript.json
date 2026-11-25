@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hiii, kaise ho? 😊 Batao, aaj kya chal raha hai tumhare mann mein, kuch pareshani hai ya bas aise hi baat karni thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hiii, kaise ho? 😊 Batao, aaj kya chal raha hai tumhare mann mein, kuch pareshani hai ya bas aise hi baat karni thi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ji.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, pichli baar humne baat ki thi ki kaise tumhara career aur shaadi dono ek saath atak rahe hain. Abhi tumhare mann mein sabse badi tension kya hai, job ki ya ghar walon ki baaton ki?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, pichli baar humne baat ki thi ki kaise tumhara career aur shaadi dono ek saath atak rahe hain. Abhi tumhare mann mein sabse badi tension kya hai, job ki ya ghar walon ki baaton ki?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale. Rishta dekh rhe h.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah abhi kamzor hai, isliye baat atak rahi hai. Rishta jaan-pehchaan se aayega, jo kaafi samajhdaar hoga. Kundli mein ek yog hai jo rishte ke final hone ka waqt batata hai. Tumhe abhi koi ladka pasand aaya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishton ka grah abhi kamzor hai, isliye baat atak rahi hai. Rishta jaan-pehchaan se aayega, jo kaafi samajhdaar hoga. Kundli mein ek yog hai jo rishte ke final hone ka waqt batata hai. Tumhe abhi koi ladka pasand aaya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dono ek hi wajah se hai: tumhara rishton aur paise ka grah kamzor hai, isliye shaadi ki baat aur savings dono mein rukawat aa rahi hai. Friday ko white sweets donate karna shuru karo, isse ye grah majboot hoga. Waise, paisa kahan sabse zyada kharch ho raha hai, koi purana karz hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Dono ek hi wajah se hai: tumhara rishton aur paise ka grah kamzor hai, isliye shaadi ki baat aur savings dono mein rukawat aa rahi hai. Friday ko white sweets donate karna shuru karo, isse ye grah majboot hoga. Waise, paisa kahan sabse zyada kharch ho raha hai, koi purana karz hai kya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension mann ke grah ke dabne se hai, jo gussa badha rahi hai. Himmat ke grah ke liye Hanuman Chalisa padho. Kya ghar pe koi aisa bada faisla lene wale ho jo career badal dega?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension mann ke grah ke dabne se hai, jo gussa badha rahi hai. Himmat ke grah ke liye Hanuman Chalisa padho. Kya ghar pe koi aisa bada faisla lene wale ho jo career badal dega?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career ka grah March 2027 se majboot hoga. 2027 mein ek mahina hai jo tumhari job pakki kar sakta hai, par savdhani zaroori hai. Kya tumne abhi koi interview diya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Career ka grah March 2027 se majboot hoga. 2027 mein ek mahina hai jo tumhari job pakki kar sakta hai, par savdhani zaroori hai. Kya tumne abhi koi interview diya hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kaisa hoga sab?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab theek hoga. Kismat ka grah March 2027 se naya mod layega. Ek khaas insaan tumhari career mein help karega, par use pehchanna hoga. Ghar mein kisi ne koi salah di?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Sab theek hoga. Kismat ka grah March 2027 se naya mod layega. Ek khaas insaan tumhari career mein help karega, par use pehchanna hoga. Ghar mein kisi ne koi salah di?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kuch nhi bola",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ka grah abhi sust hai, isliye madad nahi mil rahi. Har Guruvar chana dal daan karo, kaam banne lagenge. Ek job ka mauka hai jo tum nazar-andaz kar rahe ho, bataun kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kismat ka grah abhi sust hai, isliye madad nahi mil rahi. Har Guruvar chana dal daan karo, kaam banne lagenge. Ek job ka mauka hai jo tum nazar-andaz kar rahe ho, bataun kya?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhare chart mein media ya tech field mein ek mauka dikh raha hai, jise tum shayad chota samajh kar ignore kar rahe ho. Abhi choti shuruat karo, kyunki yahi aage badhne ka raasta banegi. Kya kisi aisi field mein koi offer aaya tha?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Tumhare chart mein media ya tech field mein ek mauka dikh raha hai, jise tum shayad chota samajh kar ignore kar rahe ho. Abhi choti shuruat karo, kyunki yahi aage badhne ka raasta banegi. Kya kisi aisi field mein koi offer aaya tha?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 26
+  }
+]

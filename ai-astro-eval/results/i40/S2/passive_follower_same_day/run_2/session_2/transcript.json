@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Bataiye, aaj main aapke liye kya dekh sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Bataiye, aaj main aapke liye kya dekh sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, humne aapke career ke naye maukon aur shaadi ke sahi samay par charcha ki thi. Kya aapne un upayon ko shuru kiya jo maine bataye the, ya abhi stress kam hua?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, humne aapke career ke naye maukon aur shaadi ke sahi samay par charcha ki thi. Kya aapne un upayon ko shuru kiya jo maine bataye the, ya abhi stress kam hua?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale rishta dekh rhe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Waise, kya November 2022 mein aapke college ki padhai aur zindagi mein bada badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Waise, kya November 2022 mein aapke college ki padhai aur zindagi mein bada badlav aaya tha?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan, hua tha",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa ki tangi March 2027 se September 2028 ke beech kam hogi. Mann ke grah ki kamzori se bachat nahi ho pati. Ek naya rasta bhi khulne wala hai. Aap kya kaam kar rahi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa ki tangi March 2027 se September 2028 ke beech kam hogi. Mann ke grah ki kamzori se bachat nahi ho pati. Ek naya rasta bhi khulne wala hai. Aap kya kaam kar rahi hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Job search kr rhi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bahut tension hai",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh naya rasta teaching, finance ya banking ka kshetra hai. Ghar ki tension se aapka dhyan bhatak raha hai, jo job search mein rukawat daal raha hai. Guru ke grah ko majboot karne ke liye 'Om Gram Greem Grom Sah Gurave Namah' ka jaap kijiye, kya aapne pehle kabhi in kshetro mein kaam karne ka socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Woh naya rasta teaching, finance ya banking ka kshetra hai. Ghar ki tension se aapka dhyan bhatak raha hai, jo job search mein rukawat daal raha hai. Guru ke grah ko majboot karne ke liye 'Om Gram Greem Grom Sah Gurave Namah' ka jaap kijiye, kya aapne pehle kabhi in kshetro mein kaam karne ka socha hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nhi socha",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bhot tension hai",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani samajh sakti hoon. Yeh daur mid-2027 tak hai, tab tak grah bhari hain. Mangal ke asar ko shant karne ke liye har Mangalwar Hanuman Chalisa ka path kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki pareshani samajh sakti hoon. Yeh daur mid-2027 tak hai, tab tak grah bhari hain. Mangal ke asar ko shant karne ke liye har Mangalwar Hanuman Chalisa ka path kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh naya rasta career ghar ke majboot hone se juda hai. Mehnat aur karm ke grah ka mantra 108 baar shanivar se shuru karein. Jab tension hoti hai, toh kya aap khud ko akela kar leti hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Woh naya rasta career ghar ke majboot hone se juda hai. Mehnat aur karm ke grah ka mantra 108 baar shanivar se shuru karein. Jab tension hoti hai, toh kya aap khud ko akela kar leti hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan, akeli rehna pasand hai",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Akela rehna aapke mann ke grah ki kamzori ka asar hai. Har Somwar 'Om Som Somaya Namah' ka jaap karein aur logon se milna shuru karein, isse mann ka bojh kam hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Akela rehna aapke mann ke grah ki kamzori ka asar hai. Har Somwar 'Om Som Somaya Namah' ka jaap karein aur logon se milna shuru karein, isse mann ka bojh kam hoga."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  }
+]

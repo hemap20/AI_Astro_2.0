@@ -1,0 +1,168 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, welcome here. Future ki baatein karte hain. Shaadi ya career, kya jaanna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, welcome here. Future ki baatein karte hain. Shaadi ya career, kya jaanna hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein shaadi ka yog chal raha hai ji. 2026 se 2028 ke beech Saturn aur Jupiter milkar serious commitment denge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki kundli mein shaadi ka yog chal raha hai ji. 2026 se 2028 ke beech Saturn aur Jupiter milkar serious commitment denge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Paisa",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Investment advice nahi deti main ji. Par kundli mein wealth yog achha hai. Shaadi ke baad stability milti hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Investment advice nahi deti main ji. Par kundli mein wealth yog achha hai. Shaadi ke baad stability milti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki baaton mein tension hai ji. 2nd house ka Mars aisi garmi deta hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar ki baaton mein tension hai ji. 2nd house ka Mars aisi garmi deta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab ghar mein garmi badhti hai. Mars 2nd house mein baatcheet tez karta hai. Ek aur cheez hai, sunna chahengi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Matlab ghar mein garmi badhti hai. Mars 2nd house mein baatcheet tez karta hai. Ek aur cheez hai, sunna chahengi?",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "7th house Pisces hai ji. Partner kaafi sensitive aur spiritual honge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "7th house Pisces hai ji. Partner kaafi sensitive aur spiritual honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka Jupiter Ashwini nakshatra mein hai. Partner kaafi dynamic aur fast-moving honge. Ek aur khaas cheez batau kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka Jupiter Ashwini nakshatra mein hai. Partner kaafi dynamic aur fast-moving honge. Ek aur khaas cheez batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "D9 kundli mein Jupiter Cancer mein hai ji. Partner ghar par poora dhyaan denge. Ek aur baat batau kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "D9 kundli mein Jupiter Cancer mein hai ji. Partner ghar par poora dhyaan denge. Ek aur baat batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "8th house mein Jupiter Saturn hain. Sasural ki taraf se zimmedari milti hai. Aur kuch sunna hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "8th house mein Jupiter Saturn hain. Sasural ki taraf se zimmedari milti hai. Aur kuch sunna hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rahu ka aspect hai seventh house par. Isse thodi early curiosity milti hai.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Rahu ka aspect hai seventh house par. Isse thodi early curiosity milti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 20
+  }
+]

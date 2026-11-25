@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Batao, aaj kaise ho aur kya chal raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Batao, aaj kaise ho aur kya chal raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu. Shadi kab tak hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Shaadi ka ghar tab majboot sthiti mein hoga. Vaise 2023 se 2025 ke beech paise ki tangi rahi thi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Shaadi ka ghar tab majboot sthiti mein hoga. Vaise 2023 se 2025 ke beech paise ki tangi rahi thi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me exactly?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is beech mein shuruaati mahino mein chance zyada hain kyunki tab kismat ka grah support karta hai. Rishta pehchanna zaroori hoga, usse judi ek khaas baat hai jo bataunga. Kya aapne ghar par baat shuru kar di hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Is beech mein shuruaati mahino mein chance zyada hain kyunki tab kismat ka grah support karta hai. Rishta pehchanna zaroori hoga, usse judi ek khaas baat hai jo bataunga. Kya aapne ghar par baat shuru kar di hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta chal raha hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Exactly kaunsa month?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuru ke mahino mein yog sabse zyada majboot hai. Rishte ki baat chal rahi hai toh focus wahi rakhein. Aapke rishte mein aage kya dikkat ya khushi dikh rahi hai, wo janna chahenge?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se shuru ke mahino mein yog sabse zyada majboot hai. Rishte ki baat chal rahi hai toh focus wahi rakhein. Aapke rishte mein aage kya dikkat ya khushi dikh rahi hai, wo janna chahenge?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact date kya hai?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Grah koi ek din fix nahi karte, bas woh samay batate hain jab yog banta hai. Us daur ka pura waqt rishte ke liye behtar hai. Kya aapko apne hone wale partner ke nature ke baare mein kuch pata hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Grah koi ek din fix nahi karte, bas woh samay batate hain jab yog banta hai. Us daur ka pura waqt rishte ke liye behtar hai. Kya aapko apne hone wale partner ke nature ke baare mein kuch pata hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rahi, wo bata nahi rahe.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aap naraz na ho, grah bas ek samay ka daur batate hain, koi ek tarikh fix nahi hoti. Waise, hone wala partner shaant aur padha-likha hoga, par thoda reserved rahenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aap naraz na ho, grah bas ek samay ka daur batate hain, koi ek tarikh fix nahi hoti. Waise, hone wala partner shaant aur padha-likha hoga, par thoda reserved rahenge."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Faltu baat mat karo.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega mere paas?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aane aur karz se rahat March 2027 se shuru hogi. Mehnat ka fal tabhi milna shuru hoga jab himmat ka grah majboot hoga. Aapne abhi koi naya kaam shuru kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa aane aur karz se rahat March 2027 se shuru hogi. Mehnat ka fal tabhi milna shuru hoga jab himmat ka grah majboot hoga. Aapne abhi koi naya kaam shuru kiya hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunsi date?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Grahon ka daur mahino ka hota hai, koi ek din nahi. Us samay kamai ka grah majboot hoga, jisse dhan aane lagega. Har mangalwar Hanuman Chalisa padhein, isse paise ki rukawat dur hogi. Kya ye upaay kabhi kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Grahon ka daur mahino ka hota hai, koi ek din nahi. Us samay kamai ka grah majboot hoga, jisse dhan aane lagega. Har mangalwar Hanuman Chalisa padhein, isse paise ki rukawat dur hogi. Kya ye upaay kabhi kiya hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 240,
+    "idx": 20
+  }
+]

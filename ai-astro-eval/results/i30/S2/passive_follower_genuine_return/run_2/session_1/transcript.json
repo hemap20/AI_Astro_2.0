@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, batao kya chal raha hai? Future ke baare mein jaan-na hai toh batayein, aap career, shaadi ya kisi aur cheez ki chinta kar rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, batao kya chal raha hai? Future ke baare mein jaan-na hai toh batayein, aap career, shaadi ya kisi aur cheez ki chinta kar rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi zyada chance hai ki jaan-pehchan mein arranged tarike se hogi. Partner kaafi samajhdaar aur calm honge. Waise 2023 se 2025 tak paise ki thodi tangi rahi thi, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi zyada chance hai ki jaan-pehchan mein arranged tarike se hogi. Partner kaafi samajhdaar aur calm honge. Waise 2023 se 2025 tak paise ki thodi tangi rahi thi, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bht thi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kb ayega?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se dheere-dheere badhega, kyunki mehnat ka grah tab career mein madad karega. Career mein ek badlav aayega jo abhi socha nahi hai. Kya aapne iske liye koi plan banaya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Paisa March 2027 se dheere-dheere badhega, kyunki mehnat ka grah tab career mein madad karega. Career mein ek badlav aayega jo abhi socha nahi hai. Kya aapne iske liye koi plan banaya hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension h bht",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani aapke mann ke grah par asar daal rahi hai, isliye neend aur sukoon mein kami hai. Ye daur mid-2027 tak dheere-dheere khatam hoga. Kya ye tension family mein kisi khaas baat ko lekar hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar ki pareshani aapke mann ke grah par asar daal rahi hai, isliye neend aur sukoon mein kami hai. Ye daur mid-2027 tak dheere-dheere khatam hoga. Kya ye tension family mein kisi khaas baat ko lekar hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta dekh rhe.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta pakki hone mein abhi thoda waqt hai. Partner shant aur thode guarded honge. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Ghar wale kahan rishta dekh rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Rishta pakki hone mein abhi thoda waqt hai. Partner shant aur thode guarded honge. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai. Ghar wale kahan rishta dekh rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nandyal mein",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ke grah Shukra ko bal dene ke liye, is Shukravar se 'Om Shum Shukraya Namah' 108 baar japein. Isse shaadi mein aasani hogi. Ghar wale rishte ke liye jaldi kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rishton ke grah Shukra ko bal dene ke liye, is Shukravar se 'Om Shum Shukraya Namah' 108 baar japein. Isse shaadi mein aasani hogi. Ghar wale rishte ke liye jaldi kar rahe hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan, bht jaldi mein h",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar walon ki jaldi samjh aati hai, par rishte ka sahi yog March 2027 se shuru hoga. Partner ke saath aapki judayi kaisi rahegi, ye kundli mein aur saaf dikh raha hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar walon ki jaldi samjh aati hai, par rishte ka sahi yog March 2027 se shuru hoga. Partner ke saath aapki judayi kaisi rahegi, ye kundli mein aur saaf dikh raha hai."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya dikh rha",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lambe, shaant aur padhe-likhe honge, par thode guarded rahenge. In-laws traditional aur gambhir swabhav ke milenge. Jodi ka bhavishya agli baar detail mein dekh sakte hain, zaroor milna.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Partner lambe, shaant aur padhe-likhe honge, par thode guarded rahenge. In-laws traditional aur gambhir swabhav ke milenge. Jodi ka bhavishya agli baar detail mein dekh sakte hain, zaroor milna."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kab",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Partner ka nature aur jodi ki compatibility par agli baar detail mein baat karenge, zaroor aana.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Partner ka nature aur jodi ki compatibility par agli baar detail mein baat karenge, zaroor aana."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

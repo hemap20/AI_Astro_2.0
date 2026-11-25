@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, kaise hain aap? Main aapki chinta samajh sakti hoon, batayiye aaj main aapki kya sahayata kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, kaise hain aap? Main aapki chinta samajh sakti hoon, batayiye aaj main aapki kya sahayata kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb tak hogi meri",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kya aapne pichli baar wala Somvaar vrat shuru kiya? Shaadi ka yog March 2027 se September 2028 ke beech hai. November 2022 mein kya aapki padhai ya college mein badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Kya aapne pichli baar wala Somvaar vrat shuru kiya? Shaadi ka yog March 2027 se September 2028 ke beech hai. November 2022 mein kya aapki padhai ya college mein badlav aaya tha?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse mahine me confirm hai?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein shuruat ke acche yog hain. Aapke hone wale jeevansathi ke swabhav mein ek khaas baat hai, jo ghar ki pareshaniyan kam karegi. Kya aap abhi career mein kuch badlav soch rahi hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 mein shuruat ke acche yog hain. Aapke hone wale jeevansathi ke swabhav mein ek khaas baat hai, jo ghar ki pareshaniyan kam karegi. Kya aap abhi career mein kuch badlav soch rahi hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein pakka?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe ek rishta dekh rahe hain, wo sahi hai kya?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka samay kafi mazboot hai, toh wahan se rishta pakka hone ki poori sambhavna hai. Jo rishta aap dekh rahi hain, unka swabhav shaant aur padha-likha hai, bas wo thode sambhal kar baat karte hain. Shukra grah ko majboot karne ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye, isse vivaah mein aa rahi rukawatein door hongi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ka samay kafi mazboot hai, toh wahan se rishta pakka hone ki poori sambhavna hai. Jo rishta aap dekh rahi hain, unka swabhav shaant aur padha-likha hai, bas wo thode sambhal kar baat karte hain. Shukra grah ko majboot karne ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap shuru kijiye, isse vivaah mein aa rahi rukawatein door hongi."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "To ye wala rishta sahi hai ya nahi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, ye rishta accha hai kyunki kismat ka grah jaani-pehchani jagah se rishta dilane mein saksham hai. In-laws ka ek raaz hai jo shaadi ke baad ghar ka mahaul badal dega. Ghar wale kya kehte hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, ye rishta accha hai kyunki kismat ka grah jaani-pehchani jagah se rishta dilane mein saksham hai. In-laws ka ek raaz hai jo shaadi ke baad ghar ka mahaul badal dega. Ghar wale kya kehte hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak set hoga mera?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sasural wale paramparik aur gambhir hain, isliye shuru mein thoda ajeeb lag sakta hai. Iske liye 21 November se 'Om Sham Shanaishcharaya Namah' ka jaap kijiye. Paise ki sthiti March 2027 se behtar hogi. Kya aap abhi kahin kaam karti hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Sasural wale paramparik aur gambhir hain, isliye shuru mein thoda ajeeb lag sakta hai. Iske liye 21 November se 'Om Sham Shanaishcharaya Namah' ka jaap kijiye. Paise ki sthiti March 2027 se behtar hogi. Kya aap abhi kahin kaam karti hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, abhi unemployed hoon.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "2027 tak wait krna padega? Kuch jaldi nahi?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon ki intezar karna mushkil hai. Aapki mehnat aur paisa dono March 2027 se ek saath jud rahe hain, isliye job milte hi ghar mein aamdani sudharne lagegi. Career mein badlav ke liye 19 November se 'Om Gram Greem Grom Sah Gurave Namah' ka jaap kijiye, isse kaam ke naye raste khulenge. Kya aapne kabhi teaching ya finance mein try kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main samajh sakti hoon ki intezar karna mushkil hai. Aapki mehnat aur paisa dono March 2027 se ek saath jud rahe hain, isliye job milte hi ghar mein aamdani sudharne lagegi. Career mein badlav ke liye 19 November se 'Om Gram Greem Grom Sah Gurave Namah' ka jaap kijiye, isse kaam ke naye raste khulenge. Kya aapne kabhi teaching ya finance mein try kiya hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "2027 se pehle kuch chance nahi hai?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se pehle ka samay thoda sangharsh bhara hai kyunki abhi mehnat ka grah thoda dheema hai. Aapki naukri aur paise ki dikkat dono ek hi dheeme asar se hain, jo mann par bojh dal rahe hain. Abhi ghar par hi koi chhota course seekhna shuru kijiye, taaki jab samay badle to aap taiyaar rahen.",
+    "sec": 225,
+    "raw_response": {
+      "message": "2027 se pehle ka samay thoda sangharsh bhara hai kyunki abhi mehnat ka grah thoda dheema hai. Aapki naukri aur paise ki dikkat dono ek hi dheeme asar se hain, jo mann par bojh dal rahe hain. Abhi ghar par hi koi chhota course seekhna shuru kijiye, taaki jab samay badle to aap taiyaar rahen."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Matlab 2 saal aur wait karu?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 240,
+    "idx": 23
+  }
+]

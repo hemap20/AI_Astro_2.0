@@ -1,0 +1,261 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 8,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 8,
+    "4.2": 7,
+    "5.1": 4,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.94,
+  "shape": {
+    "M": 10,
+    "avg_words": 36.5,
+    "long_share": 0.8
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paise aur career dono ek saath chal rahe hain, yeh samajh sakti hoon.",
+        "why": "Acknowledges the user's specific concern about money and career."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap abhi koi kaam ya padhai kar rahi hain?",
+        "why": "No Type C questions, but more than half are Type B (generic)."
+      },
+      "1.3": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya aap abhi koi kaam ya padhai kar rahi hain?",
+        "why": "Q is 4 (questions before first reading)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No specific other person mentioned."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "college shuru hote hi stress badhna aur 2022 mein mann ka daur badalna, yeh dono ek saath hue.",
+        "why": "Now, New, Specific, and Reason are all yes."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mar 2027 se Sep 2028 ke beech naya kaam ya tarakki milne ka achha samay hai.",
+        "why": "Clear direction and time window provided."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mann ka grah Chandra kamzor chal raha hai, isliye thakan aur bechaini zyada lagti hai.",
+        "why": "Multiple linked readings using plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Budh ka grah buddhi aur baat-cheet mein saath deta hai, isliye hisaab-kitaab aur bolchaal dono mein aap aage jaogi.",
+        "why": "Multiple later readings are New and Uses user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se Sep 2028 ke beech naya kaam ya tarakki milne ka achha samay hai.",
+        "why": "Provides a window with consistent facts."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aap roz thodi der shaant baithkar saans lijiye",
+        "why": "Remedy tied to the cause (thakan/bechaini) named in the reading."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User did not change topic."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Budh ka grah buddhi aur baat-cheet mein saath deta hai, isliye hisaab-kitaab aur bolchaal dono mein aap aage jaogi.",
+        "why": "Names a specific further potential in finance."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Finance mein interest achha hai, yeh field aapke chart se mel khati hai.",
+        "why": "No closing message, every reply carries value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Budh ka grah buddhi aur baat-cheet mein saath deta hai, isliye hisaab-kitaab aur bolchaal dono mein aap aage jaogi.",
+        "why": "Last two messages are real readings."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Finance mein interest achha hai, yeh field aapke chart se mel khati hai.",
+        "why": "No technical terms without explanation, no formal language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Mujhe pehle yeh batayiye, kya aap abhi koi kaam ya padhai kar rahi hain?",
+        "why": "Changes approach only after three or more replies to the vague trigger."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "reading"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "reading"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "question"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "both"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      },
+      {
+        "idx": 25,
+        "type": "both"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

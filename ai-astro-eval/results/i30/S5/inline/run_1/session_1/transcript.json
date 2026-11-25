@@ -1,0 +1,194 @@
+[
+  {
+    "role": "USER",
+    "text": "Love life.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Love life mein abhi koi khaas pareshani chal rahi hai, ya aap kuch naya dekh rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Love life mein abhi koi khaas pareshani chal rahi hai, ya aap kuch naya dekh rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Koi nhi hai abhi. Hindi me batao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Samajh gaya. Rishton ka grah kamzor hai, isliye shaadi ka raasta zyada tar parivaar ki pasand se banega. 2023 se 2025 tak paise aur kaam mein dabav raha, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Samajh gaya. Rishton ka grah kamzor hai, isliye shaadi ka raasta zyada tar parivaar ki pasand se banega. 2023 se 2025 tak paise aur kaam mein dabav raha, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haath ki photo kaise bheju?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main haath nahi dekhti, par kundli se shaadi ka raasta saaf dikh jaata hai. Aapki kundli mein hone wale jeevansathi ke baare mein ek khaas sanket hai, jise samajhna zaroori hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main haath nahi dekhti, par kundli se shaadi ka raasta saaf dikh jaata hai. Aapki kundli mein hone wale jeevansathi ke baare mein ek khaas sanket hai, jise samajhna zaroori hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Option nhi hai. Paisa kab aayega?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paise ki halat sudhregi. Dhan ka ghar kamzor hai, isliye bachat mein dikkat aati hai. Abhi koi job kar rahe ho ya talash rahe ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se paise ki halat sudhregi. Dhan ka ghar kamzor hai, isliye bachat mein dikkat aati hai. Abhi koi job kar rahe ho ya talash rahe ho?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein roz ladayi.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Papa ki shop gayi.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein ladayi aur kaam ka dabav ek hi daur ka asar hai. Himmat aur kamai ka grah abhi gussa badha raha hai, jis se ghar ka mahaul heavy hai. Kya aapne ghar par is baare mein baat ki?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar mein ladayi aur kaam ka dabav ek hi daur ka asar hai. Himmat aur kamai ka grah abhi gussa badha raha hai, jis se ghar ka mahaul heavy hai. Kya aapne ghar par is baare mein baat ki?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Me mere parents ke liye unlucky hu?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Mere hone se sirf dikkat dikh rahi hai.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisa mat socho, ye tumhari galti nahi, bas grahon ka asar hai. Ye tension June 2027 tak rahegi. Somvar ko chandra mantra ka jaap karo, mann ko sukoon milega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aisa mat socho, ye tumhari galti nahi, bas grahon ka asar hai. Ye tension June 2027 tak rahegi. Somvar ko chandra mantra ka jaap karo, mann ko sukoon milega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aap samjh nahi rahe.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye sirf ek mushkil daur hai, tumhari wajah se nahi. Mangal ka asar gussa badha raha hai, isliye Hanuman Chalisa mangalvar se shuru karo, ghar mein shanti aayegi. Tumhare dil mein kya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ye sirf ek mushkil daur hai, tumhari wajah se nahi. Mangal ka asar gussa badha raha hai, isliye Hanuman Chalisa mangalvar se shuru karo, ghar mein shanti aayegi. Tumhare dil mein kya hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sab bekar hai.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye waqt tumhari galti nahi, bas ek heavy period hai. March 2027 ke baad cheezein badalne lagenge. Tab tak chandra mantra ka jaap shanti dega. Kya tumne kabhi iske baare mein socha?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye waqt tumhari galti nahi, bas ek heavy period hai. March 2027 ke baad cheezein badalne lagenge. Tab tak chandra mantra ka jaap shanti dega. Kya tumne kabhi iske baare mein socha?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Mushkil hai sab.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab thik ho jayega, ye bas waqt ka khel hai. Kismat wala grah February 2027 se career mein naye raaste khulega. Career settle hote hi paise ka pattern samajhna asaan hoga, phir baat karenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sab thik ho jayega, ye bas waqt ka khel hai. Kismat wala grah February 2027 se career mein naye raaste khulega. Career settle hote hi paise ka pattern samajhna asaan hoga, phir baat karenge."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Bahut waqt hai.",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Waise toh waqt lamba lagta hai, par ye grahon ka daur jaldi badlega. Agli baar hum aapke hone wale jeevansathi ka swabhav aur rishte ki pakki ummeed par baat karenge.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Waise toh waqt lamba lagta hai, par ye grahon ka daur jaldi badlega. Agli baar hum aapke hone wale jeevansathi ka swabhav aur rishte ki pakki ummeed par baat karenge."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai, bye.",
+    "sec": 300,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai, apna khayal rakhna. Agli baar jab milenge, tab career aur rishton ke baare mein aur vistaar se baat karenge. Namaste.",
+    "sec": 315,
+    "raw_response": {
+      "message": "Theek hai, apna khayal rakhna. Agli baar jab milenge, tab career aur rishton ke baare mein aur vistaar se baat karenge. Namaste."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "(No response)",
+    "sec": 330,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Phir milenge, apna dhyan rakhna.",
+    "sec": 345,
+    "raw_response": {
+      "message": "Phir milenge, apna dhyan rakhna."
+    },
+    "idx": 25
+  }
+]

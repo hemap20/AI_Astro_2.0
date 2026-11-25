@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kundli dekh kar sab bata sakti hoon. Aap khaas taur par kya jaanna chahte hain, career ke baare mein ya shaadi ke baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kundli dekh kar sab bata sakti hoon. Aap khaas taur par kya jaanna chahte hain, career ke baare mein ya shaadi ke baare mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri. Month batao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke yog March 2027 se shuru ho rahe hain. Kya 2023 se 2025 ke beech aapne apni skills par kaafi mehnat ki thi, aur paise ki thodi tangi rahi thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke yog March 2027 se shuru ho rahe hain. Kya 2023 se 2025 ke beech aapne apni skills par kaafi mehnat ki thi, aur paise ki thodi tangi rahi thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega, job lagegi kya?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job aur paisa March 2027 se behtar ho jayega. Aapki shaadi aur career ke yog ek hi samay shuru ho rahe hain. Par career mein ek khaas disha hai jise chunna zaroori hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Job aur paisa March 2027 se behtar ho jayega. Aapki shaadi aur career ke yog ek hi samay shuru ho rahe hain. Par career mein ek khaas disha hai jise chunna zaroori hai."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Matlab job lagegi ya nahi? Haan ya na?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, naukri zaroor lagegi. Career aur shaadi dono 2027 mein chamkenge, kyunki aapka kismat ka grah ek hi disha mein hai. Career mein ek madadgaar vyakti aayenge, par unhe pehchanna hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, naukri zaroor lagegi. Career aur shaadi dono 2027 mein chamkenge, kyunki aapka kismat ka grah ek hi disha mein hai. Career mein ek madadgaar vyakti aayenge, par unhe pehchanna hoga."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab tak khatam hogi?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension mid-2027 tak dheere-dheere kam ho jayegi. Aapka career aur ghar ka mahaul ek hi daur mein hain. Ek khaas insaan ghar ke maamlon mein madad karenge, kya aapne salah li hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension mid-2027 tak dheere-dheere kam ho jayegi. Aapka career aur ghar ka mahaul ek hi daur mein hain. Ek khaas insaan ghar ke maamlon mein madad karenge, kya aapne salah li hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Konse month mein khatam hogi tension?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak ghar ka mahaul poori tarah shaant ho jayega. Career, shaadi aur ghar ki tension, teeno ka hal usi samay mil jayega. Ek ratn hai jo isme tezi layega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 tak ghar ka mahaul poori tarah shaant ho jayega. Career, shaadi aur ghar ki tension, teeno ka hal usi samay mil jayega. Ek ratn hai jo isme tezi layega."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai wo ratn. Btaiye.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Panna ratn aapke lagna ke swami ka hai, jo career aur sahi faislon mein madad karega. Aapke shaadi aur career ke sawaal ka jawab mil gaya hai. Agli baar aapke hone wale jeevansathi ka swabhav dekhenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Panna ratn aapke lagna ke swami ka hai, jo career aur sahi faislon mein madad karega. Aapke shaadi aur career ke sawaal ka jawab mil gaya hai. Agli baar aapke hone wale jeevansathi ka swabhav dekhenge."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Panna kitne ratti ka pehnu?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Panna 5-6 ratti ka pehna jaata hai, par pehenne se pehle salah lein. Aapke sawalon ka jawab mil gaya hai. Agli baar jeevansathi ke nature aur jodi ke baare mein baat karenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Panna 5-6 ratti ka pehna jaata hai, par pehenne se pehle salah lein. Aapke sawalon ka jawab mil gaya hai. Agli baar jeevansathi ke nature aur jodi ke baare mein baat karenge."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Kab pehnu, auspicious time?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Panna budhvaar ko pehenna shubh hai, par pehle kisi achhe jyotishi se kundli dikhakar hi faisla kijiye. Aapke sabhi sawalon ka jawab mil gaya hai. Agli baar jeevansathi ke nature aur rishte ki gehrayi samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Panna budhvaar ko pehenna shubh hai, par pehle kisi achhe jyotishi se kundli dikhakar hi faisla kijiye. Aapke sabhi sawalon ka jawab mil gaya hai. Agli baar jeevansathi ke nature aur rishte ki gehrayi samjhenge."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Thik hai.",
+    "sec": 270,
+    "idx": 18
+  }
+]

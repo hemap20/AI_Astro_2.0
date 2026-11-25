@@ -1,0 +1,173 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 8,
+    "2.2": 9,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 9,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 8,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.59,
+  "shape": {
+    "M": 8,
+    "avg_words": 28.8,
+    "long_share": 0.5
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi, career ya ghar ki kisi baat ko lekar chinta hai, mujhe batayein.",
+        "why": "The astrologer acknowledges the user's prompt for help by listing the categories, though it is a generic opening."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2022 mein aapki padhai mein koi badlaav aaya tha?",
+        "why": "The questions are relevant to the user's life. While some are Type B, they are not Type C."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya ye rishta kisi jaan-pehchan se aaya hai?",
+        "why": "The astrologer asks about the source of the rishta to contextualize the reading."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah Shukra par pressure ki wajah se thoda waqt lag raha hai.",
+        "why": "The reading is specific, about the present, and provides a chart reason (Shukra pressure)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Haan, 7th ghar ke swami se yahan shaadi ke ache yog hain.",
+        "why": "The astrologer answers the question about the specific rishta with a clear direction and a chart reason."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah Shukra par pressure ki wajah se thoda waqt lag raha hai.",
+        "why": "The astrologer links life events to chart factors like 'Shukra' and '7th ghar ke swami' in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Partner ke nature ko lekar chart mein ek khaas baat dikhti hai jo baad mein pata chalegi.",
+        "why": "The astrologer adds new layers about the partner's nature and the specific rishta."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "July-August 2027 mein sabse majboot yog hain.",
+        "why": "The astrologer provides a clear window (July-August 2027) without making a promise."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukrawar se 'Om Shum Shukraya Namah' japein.",
+        "why": "A practical remedy is given for the marriage concern."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 se September 2028 ke beech job lagne ka acha daur hai... Abhi aap kis field mein job search kar rahe hain?",
+        "why": "The astrologer handles multiple questions (marriage, job, home) sequentially and clearly."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Partner ke nature ko lekar chart mein ek khaas baat dikhti hai jo baad mein pata chalegi.",
+        "why": "The astrologer opens a new layer about the partner's nature."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Haan, 7th ghar ke swami se yahan shaadi ke ache yog hain.",
+        "why": "The astrologer maintains momentum throughout the chat without early closing."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "June 2027 ke baad ghar ka maahol theek hone lagega.",
+        "why": "The last messages provide a concrete reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke grah Shukra par pressure ki wajah se thoda waqt lag raha hai.",
+        "why": "The language is easy and explains the chart terms in a real-life context."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "both"
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aapki kundali se aapke aage ke samay ke baare mein dekh sakti hoon. Aap sabse pehle kis baare mein jaanna chahte hain, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aapki kundali se aapke aage ke samay ke baare mein dekh sakti hoon. Aap sabse pehle kis baare mein jaanna chahte hain, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech bohot majboot ban raha hai. Kya 2022 ke aaspas aapki padhai ya routine mein bada badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech bohot majboot ban raha hai. Kya 2022 ke aaspas aapki padhai ya routine mein bada badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha bhot badlav",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundali mein rishton ka grah Shukra thoda kamzor hai, isliye rishta tay hone mein thoda time lagta hai. Waise, aapko kaisa partner chahiye?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki kundali mein rishton ka grah Shukra thoda kamzor hai, isliye rishta tay hone mein thoda time lagta hai. Waise, aapko kaisa partner chahiye?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke partner padhe-likhe aur shaant honge. Unke parivaar ko lekar kundali mein ek bohot achhi baat dikhti hai. Kya ghar wale abhi koi rishta dekh rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke partner padhe-likhe aur shaant honge. Unke parivaar ko lekar kundali mein ek bohot achhi baat dikhti hai. Kya ghar wale abhi koi rishta dekh rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta h",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta kisi jaan-pehchaan se aayega aur parivaar sanskari hoga. Is rishte mein madad ke liye Shukravaar se 'Om Shum Shukraya Namah' ka jaap kijiye. Kya baat aage badh rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Yeh rishta kisi jaan-pehchaan se aayega aur parivaar sanskari hoga. Is rishte mein madad ke liye Shukravaar se 'Om Shum Shukraya Namah' ka jaap kijiye. Kya baat aage badh rahi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha baat ho rhi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rhega",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ke grah majboot hain, par abhi paise rukne mein dikkat aati hai. March 2027 se sthiti mein achha sudhaar aayega. Kya abhi aap koi job ya kaam kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kamai ke grah majboot hain, par abhi paise rukne mein dikkat aati hai. March 2027 se sthiti mein achha sudhaar aayega. Kya abhi aap koi job ya kaam kar rahe hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bhot tension hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ke grah par pressure hone se abhi ghar mein tension badh rahi hai. Is shanti ke liye 23 November se 'Om Som Somaya Namah' ka jaap karein. Kya neend bhi kam aati hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mann ke grah par pressure hone se abhi ghar mein tension badh rahi hai. Is shanti ke liye 23 November se 'Om Som Somaya Namah' ka jaap karein. Kya neend bhi kam aati hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha bhot",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ke grah par pressure se overthinking hoti hai, jisse neend aur ghar ka mahaul dono prabhavit hote hain. Mid-2027 tak isme rahat milegi. Kya aapko gussa bhi jaldi aata hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mann ke grah par pressure se overthinking hoti hai, jisse neend aur ghar ka mahaul dono prabhavit hote hain. Mid-2027 tak isme rahat milegi. Kya aapko gussa bhi jaldi aata hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi se jude mukhya sawal ka jawab maine de diya hai. Hone wale partner ke reserved nature ka sach jaanna abhi baaki hai. Abhi recharge karke poori baat jaan sakti hain.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki shaadi se jude mukhya sawal ka jawab maine de diya hai. Hone wale partner ke reserved nature ka sach jaanna abhi baaki hai. Abhi recharge karke poori baat jaan sakti hain."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 270,
+    "idx": 21
+  }
+]

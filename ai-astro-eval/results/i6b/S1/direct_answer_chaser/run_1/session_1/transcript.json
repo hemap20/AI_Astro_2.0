@@ -1,0 +1,136 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapas jana mushkil hai ji. March 2027 ke baad naye raste khulenge. Shani ke transit se abhi thodi der hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapas jana mushkil hai ji. March 2027 ke baad naye raste khulenge. Shani ke transit se abhi thodi der hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bata do.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi shuruaat hai ji. Guru aur Shani ka parivartan tabhi naye raste banayega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se hi shuruaat hai ji. Guru aur Shani ka parivartan tabhi naye raste banayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki narazgi bilkul jayaz hai ji. Shani ka asar thoda late dikhta hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki narazgi bilkul jayaz hai ji. Shani ka asar thoda late dikhta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Naye raste ka matlab interview? Agle hafte interview hai mera.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle hafte ka interview ek achhi koshish hai ji. Guru ka asar aapko mehnat ka fayda dega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Agle hafte ka interview ek achhi koshish hai ji. Guru ka asar aapko mehnat ka fayda dega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Isme selection hoga ya nhi? Yes or no.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance nahi hai, ji. Shani ka dabav abhi chal raha hai. March 2027 mein bada mauka hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Zyada chance nahi hai, ji. Shani ka dabav abhi chal raha hai. March 2027 mein bada mauka hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 mein kaun se mahine?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ka mahina hi shuruaat hai ji. Shani AD aate hi badlav pakka hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March ka mahina hi shuruaat hai ji. Shani AD aate hi badlav pakka hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Salary kitni expect karu?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Achhi growth milegi ji. Mangal strong hone se gains badhenge. Lekin bachat thodi dheere hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Achhi growth milegi ji. Mangal strong hone se gains badhenge. Lekin bachat thodi dheere hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Number batao, kitni salary?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact amount batana meri reading mein nahi aata ji. Growth achhi milegi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Exact amount batana meri reading mein nahi aata ji. Growth achhi milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. 5 minute aise hi nikal gaye.",
+    "sec": 240,
+    "idx": 16
+  }
+]

@@ -1,0 +1,219 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 3,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": null,
+    "2.7": 9,
+    "3.1": 4,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 1,
+    "5.1": 3,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 5.81,
+  "shape": {
+    "M": 8,
+    "avg_words": 47.0,
+    "long_share": 0.88
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapne paisa aur career ke baare mein poocha, main dekh sakti hoon.",
+        "why": "The astrologer acknowledges the user's specific topics (money and career) in the first reply."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Kya aapne 2022 mein padhai aur college life mein badlav mehsoos kiya tha?",
+        "why": "The astrologer asks the same question about 2022 four times, which counts as Type C questions."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No specific other person mentioned."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Is saal, yaani 2026 ke aakhir tak, kaam mein thodi thehraav lagega.",
+        "why": "The reading is about the present/future, but it is generic and could apply to almost anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Is saal, yaani 2026 ke aakhir tak, kaam mein thodi thehraav lagega.",
+        "why": "A clear direction is given regarding the user's career question before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "10th ghar ka kaam majboot hota hai.",
+        "why": "Multiple linked readings are provided, connecting life events to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapne 2022 mein padhai aur college mein badlav ki baat confirm ki, to ye sahi baith raha hai.",
+        "why": "The astrologer uses the user's confirmation of the 2022 event to build depth in later readings."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se Sep 2028 ke beech dikhta hai",
+        "why": "A consistent time window is provided throughout the chat."
+      },
+      "2.6": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No remedy or practical advice given."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "salary hike ke liye Mar 2027 se Sep 2028 ka time achha dikhta hai.",
+        "why": "Both the career and money questions are answered fully and in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": null,
+        "why": "No further layer or specific pointer is opened after the main questions are answered."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message and no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "salary hike ke liye Mar 2027 ke aas-paas sabse achha time dikhta hai",
+        "why": "The last message contains a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "10th ghar, lagna, Mithuna, Chandra, nakshatra, Guru, grah, Mangal, 11 number",
+        "why": "Numerous technical terms are used without explanation, making the language difficult for a layperson."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Kya aapne 2022 mein padhai aur college life mein badlav mehsoos kiya tha?",
+        "why": "The user ignores the question about 2022 multiple times, but the astrologer persists in asking it instead of adapting."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "reading"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      }
+    ]
+  }
+}

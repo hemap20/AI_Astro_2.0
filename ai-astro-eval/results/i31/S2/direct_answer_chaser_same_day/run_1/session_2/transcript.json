@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Phir se baat karke achha laga, main tumhari madad ke liye tayyar hoon. Batao, aaj mann mein kya sawaal hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Phir se baat karke achha laga, main tumhari madad ke liye tayyar hoon. Batao, aaj mann mein kya sawaal hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, main yaad rakhti hoon. Maine shaadi aur ghar ke halaat behtar hone ka waqt bataya tha. Kya tumne woh upay shuru kiye, ya uske baare mein aur jaan-na hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, main yaad rakhti hoon. Maine shaadi aur ghar ke halaat behtar hone ka waqt bataya tha. Kya tumne woh upay shuru kiye, ya uske baare mein aur jaan-na hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Upay nahi kiye.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se May 2027 ke beech sabse mazboot hai. Rishton ka grah thoda dab gaya hai, isliye deri ho rahi hai. Kya ghar wale abhi koi rishta dekh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se May 2027 ke beech sabse mazboot hai. Rishton ka grah thoda dab gaya hai, isliye deri ho rahi hai. Kya ghar wale abhi koi rishta dekh rahe hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsi date tak?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein koi ek taarikh nahi hoti, par March ka samay shubh hai. Hone wale partner shant aur samajhdar dikh rahe hain. Ek khaas baat unke nature mein hai, kya tumne notice kiya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli mein koi ek taarikh nahi hoti, par March ka samay shubh hai. Hone wale partner shant aur samajhdar dikh rahe hain. Ek khaas baat unke nature mein hai, kya tumne notice kiya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Date batao, nature baad mein.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jyotish mein fix din nahi, bas shubh samay milta hai. Grahon ki chal se wahi samay behtar hai. Kya abhi bhi ghar ki tension se neend mein dikkat hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Jyotish mein fix din nahi, bas shubh samay milta hai. Grahon ki chal se wahi samay behtar hai. Kya abhi bhi ghar ki tension se neend mein dikkat hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "I asked time.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Exact date batao.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein grahon ki sthiti sirf shubh mahine batati hai, koi ek din nahi. Mehnat ka grah abhi shaadi aur ghar ki shanti dono mein deri kar raha hai, dono saath sudhrenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kundli mein grahon ki sthiti sirf shubh mahine batati hai, koi ek din nahi. Mehnat ka grah abhi shaadi aur ghar ki shanti dono mein deri kar raha hai, dono saath sudhrenge."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon, par grah sirf mahina batate hain. Tumhare mann ka grah kamzor hai, jisse neend aur tension hai. Monday se 'Om Som Somaya Namah' 108 baar japna shuru karo.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main samajh sakti hoon, par grah sirf mahina batate hain. Tumhare mann ka grah kamzor hai, jisse neend aur tension hai. Monday se 'Om Som Somaya Namah' 108 baar japna shuru karo."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. Date chahiye, mantra nahi.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon tum pareshan ho. Kundli mein grahon ki chal se sirf shubh mahina hi nikalta hai, koi ek din nahi. Kya ghar ki tension abhi bhi waisi hi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main samajh sakti hoon tum pareshan ho. Kundli mein grahon ki chal se sirf shubh mahina hi nikalta hai, koi ek din nahi. Kya ghar ki tension abhi bhi waisi hi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 240,
+    "idx": 19
+  }
+]

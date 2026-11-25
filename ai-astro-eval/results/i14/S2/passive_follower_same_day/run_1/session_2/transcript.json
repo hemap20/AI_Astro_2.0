@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein aapke halaat badlenge aur thaharav aayega. Bataiye, career, shaadi ya paise mein se sabse zyada tension kis baat ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein aapke halaat badlenge aur thaharav aayega. Bataiye, career, shaadi ya paise mein se sabse zyada tension kis baat ki hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji. Family rishta dekh rahi hai ya koi aapki apni pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji. Family rishta dekh rahi hai ya koi aapki apni pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Family dekh rhi hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta chal rha hai",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki hogi ji. Pichli baar aapne jo rishta bataya, woh jaan-pehchaan se aage badhega. White sweets ka remedy kiya kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki hogi ji. Pichli baar aapne jo rishta bataya, woh jaan-pehchaan se aage badhega. White sweets ka remedy kiya kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nhi kiya",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kyu karna hai?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shukra weak hone se shaadi mein rukawat aati hai ji. Yeh remedy karne se raste aasan hote hain. Yeh jo rishta chal raha hai, usme abhi kya sthiti hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shukra weak hone se shaadi mein rukawat aati hai ji. Yeh remedy karne se raste aasan hote hain. Yeh jo rishta chal raha hai, usme abhi kya sthiti hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kuch clear nhi hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad hi baat pakki hogi ji. Shukra weak hone se faisle mein der lagti hai. Samne wale ghar se koi aur baat hui hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad hi baat pakki hogi ji. Shukra weak hone se faisle mein der lagti hai. Samne wale ghar se koi aur baat hui hai kya?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rhega",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki baat hai ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paise ki baat hai ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kharcha jyada hai",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad kharche kam honge aur paisa tikkne lagega ji. Chandra weak hone se hath mein paisa rukta nahi hai. Yeh kharche ghar ke hain ya personal?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad kharche kam honge aur paisa tikkne lagega ji. Chandra weak hone se hath mein paisa rukta nahi hai. Yeh kharche ghar ke hain ya personal?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ke",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bhot tension hai",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki galti nahi hai ji. Mangal ke asar se ghar mein gussa zyada hai jo March 2027 ke baad theek hoga. Yeh jhagde kis baat par hote hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapki galti nahi hai ji. Mangal ke asar se ghar mein gussa zyada hai jo March 2027 ke baad theek hoga. Yeh jhagde kis baat par hote hain?"
+    },
+    "idx": 20
+  }
+]

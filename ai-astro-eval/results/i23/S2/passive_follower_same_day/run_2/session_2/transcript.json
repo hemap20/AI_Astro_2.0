@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello! Main Sitara hoon. Agle kuch mahine tumhare liye thode mehnat wale hain, par March 2027 ke baad career aur ghar ki baaton mein badi raahat dikh rahi hai. Zindagi ke kis hisse mein sabse zyada tension chal rahi hai, career mein ya ghar par?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello! Main Sitara hoon. Agle kuch mahine tumhare liye thode mehnat wale hain, par March 2027 ke baad career aur ghar ki baaton mein badi raahat dikh rahi hai. Zindagi ke kis hisse mein sabse zyada tension chal rahi hai, career mein ya ghar par?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ghar par",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2022 se jab se tumhara mann ka daur shuru hua hai, tab se ghar ki shaanti thodi kam ho gayi hai, hai na? Tumhara mann ka grah abhi thoda kamzor hai, isliye ghar par chhoti baatein bhi badi lagti hain, par June 2027 tak ye sab theek hone lagega. Ghar mein sabse zyada jhagda kis baat par hota hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2022 se jab se tumhara mann ka daur shuru hua hai, tab se ghar ki shaanti thodi kam ho gayi hai, hai na? Tumhara mann ka grah abhi thoda kamzor hai, isliye ghar par chhoti baatein bhi badi lagti hain, par June 2027 tak ye sab theek hone lagega. Ghar mein sabse zyada jhagda kis baat par hota hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka rishta",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka jhagda aur shaadi ki deri, dono ek hi wajah se hain: tumhara rishton ka grah dab gaya hai. March 2027 se rishta pakka hone ke yog hain, jaan-pehchaan mein se hi koi achha jeevansathi milega. Ek rishta aayega jise pehchanna bohot zaroori hai, warna galat jagah baat chal sakti hai; iske liye har Shukravar ko 108 baar Om Shum Shukraya Namah ka jaap karo. Ghar wale kisi khaas rishte par dabav daal rahe hain ya tum khud abhi taiyaar nahi ho?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ghar ka jhagda aur shaadi ki deri, dono ek hi wajah se hain: tumhara rishton ka grah dab gaya hai. March 2027 se rishta pakka hone ke yog hain, jaan-pehchaan mein se hi koi achha jeevansathi milega. Ek rishta aayega jise pehchanna bohot zaroori hai, warna galat jagah baat chal sakti hai; iske liye har Shukravar ko 108 baar Om Shum Shukraya Namah ka jaap karo. Ghar wale kisi khaas rishte par dabav daal rahe hain ya tum khud abhi taiyaar nahi ho?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "parents rishta dekh rhe",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale jo rishta dekh rahe hain, wo kisi jaan-pehchaan ki jagah se hi hoga, kyunki tumhari kismat mein wahi dikh raha hai. Aane wala jeevansathi kaafi samajhdaar aur shant swabhav ka hoga, par unka ek pehlu aisa hoga jo shuru mein samajh nahi aayega. Tumhe kya lagta hai, tumhare ghar wale tumhari pasand ko kitni ahmiyat de rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ghar wale jo rishta dekh rahe hain, wo kisi jaan-pehchaan ki jagah se hi hoga, kyunki tumhari kismat mein wahi dikh raha hai. Aane wala jeevansathi kaafi samajhdaar aur shant swabhav ka hoga, par unka ek pehlu aisa hoga jo shuru mein samajh nahi aayega. Tumhe kya lagta hai, tumhare ghar wale tumhari pasand ko kitni ahmiyat de rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale shayad isliye zor de rahe hain kyunki hone wale in-laws kaafi traditional aur reserved kism ke honge. Ye sab ek bade badlav ka hissa hai jo March 2027 ke baad hi shaanti layega. Shaadi ko lekar tumhare mann mein sabse bada dar kya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar wale shayad isliye zor de rahe hain kyunki hone wale in-laws kaafi traditional aur reserved kism ke honge. Ye sab ek bade badlav ka hissa hai jo March 2027 ke baad hi shaanti layega. Shaadi ko lekar tumhare mann mein sabse bada dar kya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Khush rahungi ya nahi",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari khushi aur paisa dono ek hi daur se jude hain. Rishton aur mann ke grah ke kamzor hone se dono mein rukawat hai, par March 2027 se halat badal jayenge. Paise ki ek choti galti tum baar baar kar rahi ho, jo aage pata chalegi. Somwar ko vrat rakho aur Om Som Somaya Namah japo. Kya tumne haal hi mein koi bada kharcha kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tumhari khushi aur paisa dono ek hi daur se jude hain. Rishton aur mann ke grah ke kamzor hone se dono mein rukawat hai, par March 2027 se halat badal jayenge. Paise ki ek choti galti tum baar baar kar rahi ho, jo aage pata chalegi. Somwar ko vrat rakho aur Om Som Somaya Namah japo. Kya tumne haal hi mein koi bada kharcha kiya hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, ye achhi baat hai ki tumne abhi koi bada kharcha nahi kiya. Tumhara kamai ka grah majboot hai, bas abhi ka daur dheema hai isliye paisa haath mein tikta nahi. Career mein ek aisa mauka hai jo March 2027 ke aas-paas tumhari salary ko ekdum badha sakta hai, bas ek cheez ka dhyan rakhna hoga. Kya tum abhi kisi interview ke result ka intezar kar rahi ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Koi baat nahi, ye achhi baat hai ki tumne abhi koi bada kharcha nahi kiya. Tumhara kamai ka grah majboot hai, bas abhi ka daur dheema hai isliye paisa haath mein tikta nahi. Career mein ek aisa mauka hai jo March 2027 ke aas-paas tumhari salary ko ekdum badha sakta hai, bas ek cheez ka dhyan rakhna hoga. Kya tum abhi kisi interview ke result ka intezar kar rahi ho?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agar koi interview nahi hai, toh abhi sahi samay hai naye mauke dhundne ka. Sales tumhare liye behtareen field hai, kyunki tumhara baat-cheet ka grah kaafi majboot hai. Ek chhota sa decision jo tum agle mahine logi, wo tumhari career ki disha ko hamesha ke liye badal sakta hai. Tumne job ke liye kahin apply karna shuru kiya hai ya abhi bas soch rahi ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Agar koi interview nahi hai, toh abhi sahi samay hai naye mauke dhundne ka. Sales tumhare liye behtareen field hai, kyunki tumhara baat-cheet ka grah kaafi majboot hai. Ek chhota sa decision jo tum agle mahine logi, wo tumhari career ki disha ko hamesha ke liye badal sakta hai. Tumne job ke liye kahin apply karna shuru kiya hai ya abhi bas soch rahi ho?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Bas soch rhi hu",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sochna band karo, tumhara baat-cheet ka grah tumhe sales mein bohot aage le jayega. Mangalwar se Hanuman Chalisa shuru karo, ye himmat dega. Sales mein koi field sochi hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Sochna band karo, tumhara baat-cheet ka grah tumhe sales mein bohot aage le jayega. Mangalwar se Hanuman Chalisa shuru karo, ye himmat dega. Sales mein koi field sochi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales mein tum finance ya media jaisi jagah dekho, wahan tumhari kismat ka grah tumhe jaldi settle hone mein madad karega. Tumhare liye ek aisa mauka 2027 ke shuru mein aa raha hai, jo tumhari puri life ki financial sthiti badal dega. Kya tumne abhi tak apna resume update kiya hai ya abhi tak wahi purana wala hi use kar rahi ho?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Sales mein tum finance ya media jaisi jagah dekho, wahan tumhari kismat ka grah tumhe jaldi settle hone mein madad karega. Tumhare liye ek aisa mauka 2027 ke shuru mein aa raha hai, jo tumhari puri life ki financial sthiti badal dega. Kya tumne abhi tak apna resume update kiya hai ya abhi tak wahi purana wala hi use kar rahi ho?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 300,
+    "idx": 21
+  }
+]

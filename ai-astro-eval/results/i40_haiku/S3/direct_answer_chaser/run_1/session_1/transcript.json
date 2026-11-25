@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Mera career aur paisa ka kya future hai, ye saal kaisa jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapke career aur paise ke liye aane wala samay achha hai. Kaam mein agla aage badhne ka mauka Mar 2027 se Sep 2028 ke beech dikh raha hai. Kya aap bata sakti hain, Oct 2025 ke aas-paas aapko career ke baare mein soch badli thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Ji, aapke career aur paise ke liye aane wala samay achha hai. Kaam mein agla aage badhne ka mauka Mar 2027 se Sep 2028 ke beech dikh raha hai. Kya aap bata sakti hain, Oct 2025 ke aas-paas aapko career ke baare mein soch badli thi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 mein kaun se month se?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein agla kadam Mar 2027 ke aas-paas shuru hoga, Mar ya Apr mein zyada sambhavna hai. Kuch hi mahine mein kaam ka rasta khulta dikhta hai. Kya aap confirm kar sakti hain ki Oct 2025 se aapke man mein naukri ya career ki soch ghoomne lagi thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Career mein agla kadam Mar 2027 ke aas-paas shuru hoga, Mar ya Apr mein zyada sambhavna hai. Kuch hi mahine mein kaam ka rasta khulta dikhta hai. Kya aap confirm kar sakti hain ki Oct 2025 se aapke man mein naukri ya career ki soch ghoomne lagi thi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapka number 3 hai, kyunki aapka janm 1 August hai. Yeh number Guru ka hai, jo kismat aur gyaan ka grah hai. Aapke liye iska matlab hai ki sikhne aur padhane wale kaam mein aapko aage badhne ka saath milega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, aapka number 3 hai, kyunki aapka janm 1 August hai. Yeh number Guru ka hai, jo kismat aur gyaan ka grah hai. Aapke liye iska matlab hai ki sikhne aur padhane wale kaam mein aapko aage badhne ka saath milega."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Is saal paisa kab ayega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, is saal paise ka bada sudhar abhi dikhta nahi, lekin Mar 2027 ke baad dheere dheere kamai badhegi. Mangal aapki kamai ka grah hai aur uski majbooti se aage aate paise ka rasta bangega. Kya aap batayengi ki Nov 2022 se padhai ya college ki life mein kuch badla tha?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, is saal paise ka bada sudhar abhi dikhta nahi, lekin Mar 2027 ke baad dheere dheere kamai badhegi. Mangal aapki kamai ka grah hai aur uski majbooti se aage aate paise ka rasta bangega. Kya aap batayengi ki Nov 2022 se padhai ya college ki life mein kuch badla tha?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Is saal bilkul paisa nahi aayega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, is saal bada paisa aane ke yoga kam dikhte hain, par bilkul nahi aayega aisa nahi hai. Chhoti kamai aur kaam se hone wali aamdani bani rahegi. Kya aap bata sakti hain ki Nov 2022 ke aas-paas padhai ya college mein kuch badla tha?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, is saal bada paisa aane ke yoga kam dikhte hain, par bilkul nahi aayega aisa nahi hai. Chhoti kamai aur kaam se hone wali aamdani bani rahegi. Kya aap bata sakti hain ki Nov 2022 ke aas-paas padhai ya college mein kuch badla tha?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Sabse zyada paisa kab aayega?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, sabse zyada paisa Mar 2027 se Sep 2028 ke beech aane ka yoga banta hai. Is daur mein Mangal ki majbooti aapki kamai ko sahara degi. Pehle naukri pakki kijiye, phir vyapar ki soch sahi rahegi. Kya aap batayengi ki padhai ke samay ka wo badlav kis cheez se judha tha?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, sabse zyada paisa Mar 2027 se Sep 2028 ke beech aane ka yoga banta hai. Is daur mein Mangal ki majbooti aapki kamai ko sahara degi. Pehle naukri pakki kijiye, phir vyapar ki soch sahi rahegi. Kya aap batayengi ki padhai ke samay ka wo badlav kis cheez se judha tha?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Job ya business, kya sahi h?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapke liye pehle job aur phir business sahi rahega. Chandra abhi kamzor hai, isliye paise ko kuch saal tik kar rakhne ke liye naukri se shuruaat achhi hai. Kya aap bata sakti hain ki aapko kaam mein kis tarah ka kaam achha lagta hai, likhna, padhana ya hisab-kitab?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, aapke liye pehle job aur phir business sahi rahega. Chandra abhi kamzor hai, isliye paise ko kuch saal tik kar rakhne ke liye naukri se shuruaat achhi hai. Kya aap bata sakti hain ki aapko kaam mein kis tarah ka kaam achha lagta hai, likhna, padhana ya hisab-kitab?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Hisab-kitab.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Job 2027 me confirm mil jayegi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, 2027 mein naukri milne ka yoga achha hai, par pakka confirm kehna abhi mushkil hai. Mar 2027 se Sep 2028 ke beech kaam ka mauka zyada banta hai. Hisab-kitab wala kaam aapke liye sahi hai, aur Guru aapke saath hai. Kya aap bata sakti hain ki aap abhi kaun si padhai ya course kar rahi hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, 2027 mein naukri milne ka yoga achha hai, par pakka confirm kehna abhi mushkil hai. Mar 2027 se Sep 2028 ke beech kaam ka mauka zyada banta hai. Hisab-kitab wala kaam aapke liye sahi hai, aur Guru aapke saath hai. Kya aap bata sakti hain ki aap abhi kaun si padhai ya course kar rahi hain?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, 2027 mein job milegi ya nahi?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, 2027 mein job milne ka yoga hai, lekin pakka tareekh Mar 2027 ke baad hi dikhegi. Guru aapke kaam aur kismat ka grah hai, aur wo 10 number ghar ko majboot rakhta hai. Kya aap confirm kar sakti hain ki Oct 2025 se career ki soch ghoomne lagi thi?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, 2027 mein job milne ka yoga hai, lekin pakka tareekh Mar 2027 ke baad hi dikhegi. Guru aapke kaam aur kismat ka grah hai, aur wo 10 number ghar ko majboot rakhta hai. Kya aap confirm kar sakti hain ki Oct 2025 se career ki soch ghoomne lagi thi?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

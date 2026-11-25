@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 se tumhara time badal raha hai, career mein naye mauke aur set hone ke raste khulenge. Batao, abhi sabse zyada tension kis cheez ki chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 se tumhara time badal raha hai, career mein naye mauke aur set hone ke raste khulenge. Batao, abhi sabse zyada tension kis cheez ki chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat sunte hi sabki tension badh jati hai. Ghar pe abhi isko lekar koi charcha shuru hui hai, ya tum khud hi soch kar pareshan ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat sunte hi sabki tension badh jati hai. Ghar pe abhi isko lekar koi charcha shuru hui hai, ya tum khud hi soch kar pareshan ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta aa rha h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ke pakke yog ban rahe hain, baat jaan-pehchaan se hi aayegi. Par ek baat hai, in-laws thode traditional aur reserved ho sakte hain. Friday ko safed mithai ka daan shuru kar do, sab acha hoga. Tumhe kya lagta hai yeh rishta tumhe suit karega?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ke pakke yog ban rahe hain, baat jaan-pehchaan se hi aayegi. Par ek baat hai, in-laws thode traditional aur reserved ho sakte hain. Friday ko safed mithai ka daan shuru kar do, sab acha hoga. Tumhe kya lagta hai yeh rishta tumhe suit karega?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner kaafi calm aur educated honge, bas thode guarded side ke. 2027 mein ek detail aisi aayegi jo tumhara confusion dur kar degi. Family ne kya bataya hai abhi tak?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Partner kaafi calm aur educated honge, bas thode guarded side ke. 2027 mein ek detail aisi aayegi jo tumhara confusion dur kar degi. Family ne kya bataya hai abhi tak?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Bas baat chalri",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye paise ki khich-taan 2023 se hi chal rahi hai kya? Savings nahi ho pati ya kharche zyada hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ye paise ki khich-taan 2023 se hi chal rahi hai kya? Savings nahi ho pati ya kharche zyada hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan bhot kharche h",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta pakka hone ki baat aur paise ki tangi, dono ek hi samay ki kamzor halat se hain, par March 2027 ke baad sab theek hoga. Thursday ko chana dal daan karo, rahat milegi. Tumne is baare mein ghar mein kis se baat ki?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rishta pakka hone ki baat aur paise ki tangi, dono ek hi samay ki kamzor halat se hain, par March 2027 ke baad sab theek hoga. Thursday ko chana dal daan karo, rahat milegi. Tumne is baare mein ghar mein kis se baat ki?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Mummy",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bhot h",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki yeh tension aur pareshani mid-2027 ke baad theek hone lagegi. Saturday ko kaale til daan karna shuru karo, bohot rahat milegi. Mummy ke sath is waqt sabse zyada kis baat pe behas hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki yeh tension aur pareshani mid-2027 ke baad theek hone lagegi. Saturday ko kaale til daan karna shuru karo, bohot rahat milegi. Mummy ke sath is waqt sabse zyada kis baat pe behas hoti hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ko leke",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy ki fikar apni jagah theek hai. 2027 mein ek mahina aayega jab rishte ka bada faisla lena padega. Kya mummy chahti hain ki baat jaldi aage badhe?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mummy ki fikar apni jagah theek hai. 2027 mein ek mahina aayega jab rishte ka bada faisla lena padega. Kya mummy chahti hain ki baat jaldi aage badhe?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch btao",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech ka samay shaadi ke liye sabse pakka hai, tab tak thoda sabr rakho sab theek hoga.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech ka samay shaadi ke liye sabse pakka hai, tab tak thoda sabr rakho sab theek hoga."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. March 2027 ke baad rahat milegi. Shani antardasha sab theek karegi.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. March 2027 ke baad rahat milegi. Shani antardasha sab theek karegi.",
+      "marital_status": "unmarried"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Rahat matlab exactly kya?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 aur September 2028 ke beech hogi ji. Shani antardasha aane se saari rukawatein door ho jayengi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 aur September 2028 ke beech hogi ji. Shani antardasha aane se saari rukawatein door ho jayengi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe, baat chal rhi hai.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad hi baat pakki hone ke yog hain ji. Parents ki koshish chal rahi hai, par Shani ki vajah se thoda waqt lag raha hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad hi baat pakki hone ke yog hain ji. Parents ki koshish chal rahi hai, par Shani ki vajah se thoda waqt lag raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March me hi ya uske baad?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi shuruat hogi ji. Shani maharaj ka prabhav tabhi aayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se hi shuruat hogi ji. Shani maharaj ka prabhav tabhi aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "March me shaadi fix hogi ya shaadi ho jayegi?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se rishta pakka hone ke yog banenge ji. Shani ki chal se baatein aage badhengi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se rishta pakka hone ke yog banenge ji. Shani ki chal se baatein aage badhengi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ki date pucho, ye fix hone ki baat nhi.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak shaadi ho jayegi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi 2027 ke ant ya 2028 me hogi ji. Shukra ki kamzori se thoda samay lag raha hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi 2027 ke ant ya 2028 me hogi ji. Shukra ki kamzori se thoda samay lag raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rhi wo bta ni rhe.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sab gol-mol bol rhe ho.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa hona bilkul jayaz hai ji. Actual shaadi late 2027 ya mid-2028 ke beech ho jayegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka gussa hona bilkul jayaz hai ji. Actual shaadi late 2027 ya mid-2028 ke beech ho jayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "2028 me kaun se month tak?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "September 2028 se pehle ho jayegi ji. Shani ki chal tabhi asar dikhayegi. Partner ke baare mein ek aur baat dikh rahi hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "September 2028 se pehle ho jayegi ji. Shani ki chal tabhi asar dikhayegi. Partner ke baare mein ek aur baat dikh rahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak set hoga?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paisa sudhrega ji. Mangal ki takat se aamdani badhegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 se paisa sudhrega ji. Mangal ki takat se aamdani badhegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

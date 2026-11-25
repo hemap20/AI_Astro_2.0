@@ -1,0 +1,179 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 3,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 1,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 6
+  },
+  "gate_fail": [],
+  "overall": 6.17,
+  "shape": {
+    "M": 8,
+    "avg_words": 45.0,
+    "long_share": 0.88
+  },
+  "rep": {
+    "rep": 2,
+    "top_opener": 3
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai.",
+        "why": "Repeats the marriage timing concern."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "kya aap abhi padhai ya kaam mein lagi hain?",
+        "why": "Most questions are Type B (generic)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ladke ke baare mein poori tarah kuch kehne ke liye aapki kundli se milan karna zaroori hai.",
+        "why": "Asks for the boy's kundli with a reason."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai.",
+        "why": "Now, New, and Specific are yes, but no chart reason is given for the timing."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Ladke ki kundli ke bina main pakka haan ya na nahi kahungi.",
+        "why": "Never answered the question about the boy, and the reply is another question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki apni kundli mein Mangal ka asar garam mizaj ko badhata hai",
+        "why": "Two or more linked readings (Shukra, Mangal)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki apni kundli mein Mangal ka asar garam mizaj ko badhata hai",
+        "why": "Uses the user's detail about the boy being short-tempered."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se Sep 2028 ka samay",
+        "why": "Window provided, consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se pehle koi pakka vaada na karein, aur ladke ke saath ek do baar aur mil kar dekh lijiye.",
+        "why": "Practical advice given."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ladke ki kundli ke bina main pakka haan ya na nahi kahungi.",
+        "why": "The first question about the boy was never answered."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Oct 2028 se Feb 2030 ka dusra daur bhi hai.",
+        "why": "Names a specific further thing (second window)."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mar 2027 se pehle koi pakka vaada na karein, aur ladke ke saath ek do baar aur mil kar dekh lijiye.",
+        "why": "No closing message, no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se pehle koi pakka vaada na karein, aur ladke ke saath ek do baar aur mil kar dekh lijiye.",
+        "why": "Real guidance in the last message."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki apni kundli mein Mangal ka asar garam mizaj ko badhata hai",
+        "why": "Easy language, no formal/bookish sentences."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki apni kundli mein Mangal ka asar garam mizaj ko badhata hai",
+        "why": "Adapts to the angry user by giving a concrete reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 24,
+        "type": "both"
+      },
+      {
+        "idx": 28,
+        "type": "both"
+      }
+    ]
+  }
+}

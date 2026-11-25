@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, bataiye main aapki kaise madad kar sakti hoon aur aaj kya pareshani chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, bataiye main aapki kaise madad kar sakti hoon aur aaj kya pareshani chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne aapki shaadi aur naukri ke baare mein baat ki thi. Maine Guru ka mantra bataya tha, kya aapne use shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne aapki shaadi aur naukri ke baare mein baat ki thi. Maine Guru ka mantra bataya tha, kya aapne use shuru kiya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi arranged hogi aur partner kaafi samajhdaar aur shant honge. Aapki kundli mein shaadi aur naukri dono 2027 se theek honge, jiske liye ek baat ka dhyan rakhna zaroori hai. 2023 se 2025 tak paise tight rahe, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi arranged hogi aur partner kaafi samajhdaar aur shant honge. Aapki kundli mein shaadi aur naukri dono 2027 se theek honge, jiske liye ek baat ka dhyan rakhna zaroori hai. 2023 se 2025 tak paise tight rahe, hai na?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Mummy rishta dekh rhe",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arranged rishta aapke liye sahi rahega. Pichli pareshani aur abhi ka rishta, dono ek hi daur se jude hain. Rishta aate waqt ek baat ka dhyan rakhna zaroori hai; mummy ne kya koi rishta pasand kiya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Arranged rishta aapke liye sahi rahega. Pichli pareshani aur abhi ka rishta, dono ek hi daur se jude hain. Rishta aate waqt ek baat ka dhyan rakhna zaroori hai; mummy ne kya koi rishta pasand kiya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha baat chal rhi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paise ka tension hai",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki hone wale partner thode reserved honge. Shaadi aur paise ki dikkat dono 2027 se theek hongi. Aapne kya socha hai, naukri karni hai ya ghar?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wo baat ye hai ki hone wale partner thode reserved honge. Shaadi aur paise ki dikkat dono 2027 se theek hongi. Aapne kya socha hai, naukri karni hai ya ghar?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Naukri karni hai",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Par ghar mein bhot tension hai",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri aur ghar ki tension, dono 10th ghar ki sthiti se jude hain. Aage chal kar kaam ke silsile mein bahar jaane ka yog ban raha hai. Kya aapne ghar walon ko sab bataya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Naukri aur ghar ki tension, dono 10th ghar ki sthiti se jude hain. Aage chal kar kaam ke silsile mein bahar jaane ka yog ban raha hai. Kya aapne ghar walon ko sab bataya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nhi bataya",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se career aur paisa dono sambhal jayenge. Career mein ek naya mauka hai jiske baare mein main aapko jald bataungi. Kya aapne teaching ya finance mein try kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027 se career aur paisa dono sambhal jayenge. Career mein ek naya mauka hai jiske baare mein main aapko jald bataungi. Kya aapne teaching ya finance mein try kiya hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht hai",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo mauka teaching ya finance mein stable job ka hai, jisse ghar ki tension kam hogi. Mehnat ke grah ke liye 'Om Sham Shanaishcharaya Namah' shuru kijiye. Kya ghar mein kisi se baat ki?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Wo mauka teaching ya finance mein stable job ka hai, jisse ghar ki tension kam hogi. Mehnat ke grah ke liye 'Om Sham Shanaishcharaya Namah' shuru kijiye. Kya ghar mein kisi se baat ki?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Sab thik ho jayega?",
+    "sec": 240,
+    "idx": 24
+  }
+]

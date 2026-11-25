@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 4,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 9,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 7,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.38,
+  "shape": {
+    "M": 9,
+    "avg_words": 44.6,
+    "long_share": 0.89
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi career aur paise mein thoda dabav hai",
+        "why": "The astrologer acknowledges the user's concern about career and money in the first reply."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya aapne kabhi kisi kaam ke liye gussa ya jaldbazi mein koi faisla liya hai?",
+        "why": "The astrologer asks multiple questions. Some are Type B (generic), but the question about anger/impatience is Type B as it could be asked to anyone, and there is no Type C question, but the questions are not all Type A."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2023 se 2025 ke beech aapko mehnat ke baad bhi paise ki tangi mehsoos hui thi?",
+        "why": "The reading is about the past/present, new to the user, specific, and tied to a chart reason (implied by the question about the period)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapko nayi job ya promotion March 2027 se September 2028 ke beech milega.",
+        "why": "The astrologer provides a clear direction and time window for the main question about job/promotion."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke 10th house mein karm aur career ki majbooti dikh rahi hai",
+        "why": "The astrologer links the career situation to the 10th house, which is a chart factor, though '10th house' is borderline, it is explained as 'karm aur career'."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka gussa aur jaldbazi hi kamai ko rok rahe hain",
+        "why": "The astrologer adds a new point about anger/impatience affecting income, using the user's confirmation."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 se September 2028 ke beech milega.",
+        "why": "A clear window is provided without promising a specific date, based on the chart."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Stress kam karne ke liye somvar ka vrat rakhna shuru kijiye",
+        "why": "A remedy is provided for the stated problem (stress/career pressure) with a specific day."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehle shaadi wala dekh leta hu, job pe uske baad aata hu",
+        "why": "The astrologer manages the flow of questions, though the user only asked about career/money, the astrologer keeps the focus."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise, aapka career kis kshetra mein jane ke liye sabse anukul hai, ye ek raaz hai jo aapke grahon mein chipa hai.",
+        "why": "The astrologer opens a next layer regarding the career field."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap ye sab aur vistar se samajhna chahti hain toh abhi recharge kijiye.",
+        "why": "The astrologer does not close early, but the final message is a pitch."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aap ye sab aur vistar se samajhna chahti hain toh abhi recharge kijiye.",
+        "why": "The last message is a pitch/recharge request, which is a pressure tactic."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka anka 5 hai, jo buddhi aur baat-cheet ka grah hai",
+        "why": "The language is easy and accessible, with no formal/bookish tone."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger from the bucket 5 list occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "reading"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "reading"
+      }
+    ]
+  }
+}

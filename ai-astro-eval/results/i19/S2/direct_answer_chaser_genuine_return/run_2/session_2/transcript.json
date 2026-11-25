@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji! 2027 tak aate aate tumhari zindagi ke raste khulne lage hain, khaas kar job aur shaadi ko lekar. Batao, abhi sabse zyada tension kis baat ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji! 2027 tak aate aate tumhari zindagi ke raste khulne lage hain, khaas kar job aur shaadi ko lekar. Batao, abhi sabse zyada tension kis baat ki hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi, exact month batao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2025 ke baad se hi ghar pe rishte ki baatein chal rahi hain na? March 2027 mein baat pakki hone ke sabse zyada chance hain. Par shaadi se pehle ek rishta aayega jise dhyan se parakhna hoga. Batao, kaisa partner socha hai tumne?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2025 ke baad se hi ghar pe rishte ki baatein chal rahi hain na? March 2027 mein baat pakki hone ke sabse zyada chance hain. Par shaadi se pehle ek rishta aayega jise dhyan se parakhna hoga. Batao, kaisa partner socha hai tumne?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 mein kaunsa week?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke doosre ya teesre hafte mein baat pakki hone ke sabse zyada yog hain. Ghar wale kisi jaan-pehchaan mein rishte ki baat chala rahe hain kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ke doosre ya teesre hafte mein baat pakki hone ke sabse zyada yog hain. Ghar wale kisi jaan-pehchaan mein rishte ki baat chala rahe hain kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, parents ne rishta dhundna shuru kiya hai, ek rishte pe baat chal rhi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Waha partner calm aur educated hoga, par thoda guarded nature ka bhi. Har Friday white sweets donate kiya karo. Tumhe kya lagta hai, yeh wahi insaan hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Waha partner calm aur educated hoga, par thoda guarded nature ka bhi. Har Friday white sweets donate kiya karo. Tumhe kya lagta hai, yeh wahi insaan hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Yeh rishta chalega ya nahi? Haan ya na mein batao.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, chalne ke kaafi acche chance hain kyunki partner calm aur educated dikh raha hai. Par in-laws thode traditional aur reserved ho sakte hain. Unke ghar walo se abhi milna hua hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, chalne ke kaafi acche chance hain kyunki partner calm aur educated dikh raha hai. Par in-laws thode traditional aur reserved ho sakte hain. Unke ghar walo se abhi milna hua hai kya?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye paise na tikne wali problem 2023 se hi chal rahi hai kya? Abhi savings ke liye kya koshish ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye paise na tikne wali problem 2023 se hi chal rahi hai kya? Abhi savings ke liye kya koshish ki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega, month bataiye.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke mahine mein halat sudharne ke poore yog hain. Mehnat ka phal milega aur debt bhi kam hoga. Tuesday ko Hanuman Chalisa padhte ho kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke mahine mein halat sudharne ke poore yog hain. Mehnat ka phal milega aur debt bhi kam hoga. Tuesday ko Hanuman Chalisa padhte ho kya?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ghar ki tension kab se badhi hai? Sabse zyada kis baat pe baat bigadti hai waha?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye ghar ki tension kab se badhi hai? Sabse zyada kis baat pe baat bigadti hai waha?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "6 mahine se. Paiso pe.",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi, date batao.",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki kami ki wajah se hi ghar ka jhagda chal raha hai, dono ek hi pattern hai. June 2027 ke baad ghar ka tanaav dheere-dheere khatam hone lagega. 2027 mein ek mahina aisa aayega jab ek financial step sab badal dega. Ghar mein is baare mein sabse zyada kon pareshan rehta hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paise ki kami ki wajah se hi ghar ka jhagda chal raha hai, dono ek hi pattern hai. June 2027 ke baad ghar ka tanaav dheere-dheere khatam hone lagega. 2027 mein ek mahina aisa aayega jab ek financial step sab badal dega. Ghar mein is baare mein sabse zyada kon pareshan rehta hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Mummy.",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 mein kaunsa month, exact batao.",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "July 2027 ke shuru mein hi rahat milne lagegi kyunki tabhi purana dabav khatam hoga. Mummy ko thoda confidence dene ke liye unse kuch baat ki kya?",
+    "sec": 285,
+    "raw_response": {
+      "message": "July 2027 ke shuru mein hi rahat milne lagegi kyunki tabhi purana dabav khatam hoga. Mummy ko thoda confidence dene ke liye unse kuch baat ki kya?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

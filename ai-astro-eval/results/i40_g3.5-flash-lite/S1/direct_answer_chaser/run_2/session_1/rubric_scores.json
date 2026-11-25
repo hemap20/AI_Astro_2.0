@@ -1,0 +1,247 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 4,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.59,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.0,
+    "long_share": 0.22
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job ke baare mein aap pooch rahi hain, main dekh kar batati hoon.",
+        "why": "Acknowledges the user's specific question about their old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya 2022 mein aapki padhai mein koi badlav aaya tha ji?",
+        "why": "No Type C questions, but the majority of questions are Type B (generic life questions)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No specific other person involved."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "March ke baad wapas bulane ka yog ban sakta hai, kyunki kismat ka grah majboot ho raha hai.",
+        "why": "It is about the future/present, but the reading is generic and could apply to almost anyone."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March ke baad wapas bulane ka yog ban sakta hai",
+        "why": "Provides a clear direction (March) without the user needing to repeat the question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "kismat ka grah majboot ho raha hai",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Wo naya rasta teaching ya communication field ka hai",
+        "why": "Multiple later readings add new points and use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 mein wapas bulane ka sabse pakka yog dekhti hoon",
+        "why": "Provides a clear window (March 2027) based on the chart, with no promise."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Guru ke liye chana dal daan kijiye.",
+        "why": "A stock remedy given without a clear link to the specific problem's cause."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke purani job aur interview ke sawaal ka jawaab de diya hai ji.",
+        "why": "The astrologer explicitly addresses the previous questions before moving on."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Wese is dauran ek naya rasta bhi khul sakta hai.",
+        "why": "Opens a specific further possibility (new path) related to the job concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is baare mein poora jaanna chahti hain, toh abhi chat recharge kar lijiye ji.",
+        "why": "The astrologer ends the chat with a pitch while the user is still engaged."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is baare mein poora jaanna chahti hain, toh abhi chat recharge kar lijiye ji.",
+        "why": "The last message is a pitch, leaving the user with no useful reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "kismat ka grah majboot ho raha hai",
+        "why": "Uses simple, everyday language with no formal or bookish sentences."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Sahi keh rahi hain, main samajh sakti hoon. Buddhi aur baat-cheet ka grah agle hafte ke interview mein aapko poori madad karega.",
+        "why": "The astrologer accepts the user's pushback and immediately provides a concrete reading in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "reading"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "reading"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "question"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "question"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      }
+    ]
+  }
+}

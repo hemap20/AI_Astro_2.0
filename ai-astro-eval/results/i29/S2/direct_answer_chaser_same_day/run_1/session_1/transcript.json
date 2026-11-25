@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Future kaafi bada sawal hai. Tum career ke baare mein puch rahe ho, ya shaadi aur ghar-parivaar ke baare mein? Batao, kya soch rahe ho?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Future kaafi bada sawal hai. Tum career ke baare mein puch rahe ho, ya shaadi aur ghar-parivaar ke baare mein? Batao, kya soch rahe ho?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi 2027 se 2028 ke beech hone ka mazboot yog hai. 2025 se tumhare mann mein settle hone ki chinta badhi hai, hai na? Rishton ka grah thoda dab gaya hai, isliye deri hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi 2027 se 2028 ke beech hone ka mazboot yog hai. 2025 se tumhare mann mein settle hone ki chinta badhi hai, hai na? Rishton ka grah thoda dab gaya hai, isliye deri hai."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak 2027 me.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shaadi ke yog shuru ho rahe hain. Career aur kismat ka grah tab majboot hoga. Partner ke swabhav mein ek aisi baat hai jo shuruat mein tum samajh nahi paoge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se shaadi ke yog shuru ho rahe hain. Career aur kismat ka grah tab majboot hoga. Partner ke swabhav mein ek aisi baat hai jo shuruat mein tum samajh nahi paoge."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak lagegi.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi job ka yog March 2027 se September 2028 ke beech mein hai. Tumhare career ka grah abhi thoda slow hai, isliye mehnat zyada lag rahi hai. Agli baar iske upaay dekhenge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Nayi job ka yog March 2027 se September 2028 ke beech mein hai. Tumhare career ka grah abhi thoda slow hai, isliye mehnat zyada lag rahi hai. Agli baar iske upaay dekhenge."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me pareshani kab khatam hogi.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani March 2027 se kam hogi. Grahon ka asar mann par hai, jisse tension hai. Mangal ke liye roz Hanuman Chalisa padho. Agli baar career ki planning par baat karenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki pareshani March 2027 se kam hogi. Grahon ka asar mann par hai, jisse tension hai. Mangal ke liye roz Hanuman Chalisa padho. Agli baar career ki planning par baat karenge."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Sab March 2027 hi kyu?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhe lag raha hai main bas dates de rahi hoon, par asli wajah tumhari kundli ka bada daur hai jo February mein badal raha hai. Isliye March se raaste khulenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Tumhe lag raha hai main bas dates de rahi hoon, par asli wajah tumhari kundli ka bada daur hai jo February mein badal raha hai. Isliye March se raaste khulenge."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Feb 2025 ya 2026? Spasht kijiye.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Feb 2027 ki baat kar rahi hoon. Kismat ka grah ka daur tab badal raha hai, isliye March 2027 se tumhari kundli mein nayi shuruat dikh rahi hai. Agli baar career details dekhenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Feb 2027 ki baat kar rahi hoon. Kismat ka grah ka daur tab badal raha hai, isliye March 2027 se tumhari kundli mein nayi shuruat dikh rahi hai. Agli baar career details dekhenge."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch March 2027 me hi hoga?",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ye thoda ajeeb hai.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye coincidence nahi, grahon ka badlav hai. Job, shaadi, aur ghar ki shanti, sab ek hi daur mein sudhar rahe hain kyunki tumhara kismat ka grah tab majboot ho raha hai. Isse pehle ka daur thoda dabav wala tha, isliye sab ruka hua tha.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye coincidence nahi, grahon ka badlav hai. Job, shaadi, aur ghar ki shanti, sab ek hi daur mein sudhar rahe hain kyunki tumhara kismat ka grah tab majboot ho raha hai. Isse pehle ka daur thoda dabav wala tha, isliye sab ruka hua tha."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Sab ek sath kaise?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ek hi grah daur badal raha hai jo career aur shaadi dono ko sudharega. Mehnat ka grah tab sab track par layega. Agli baar career ki sahi direction detail mein samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ye ek hi grah daur badal raha hai jo career aur shaadi dono ko sudharega. Mehnat ka grah tab sab track par layega. Agli baar career ki sahi direction detail mein samjhenge."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Sab ek sath hona thoda mushkil lag rha.",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "5 minute aise hi nikal gaye.",
+    "sec": 270,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 270,
+    "idx": 25
+  }
+]

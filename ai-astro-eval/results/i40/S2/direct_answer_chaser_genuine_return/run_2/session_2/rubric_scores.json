@@ -1,0 +1,227 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 7,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 4,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 10,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.17,
+  "shape": {
+    "M": 7,
+    "avg_words": 36.6,
+    "long_share": 0.86
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Haan, maine bataya tha ki aapke vivah ke yog March 2027 se September 2028 ke beech bante dikh rahe hain.",
+        "why": "The astrologer acknowledges the user's previous question about marriage and provides the requested information."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya November 2022 mein aapne apni padhai ya college badla tha?",
+        "why": "The astrologer asks relevant questions that build on the user's context, with no Type C questions."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke ghar wale jo rishta dekh rahe hain, kya us ladke ka swabhav aapko shant aur padha-likha lagta hai?",
+        "why": "The astrologer asks about the potential partner with a clear reason (to assess the match)."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Haan, maine bataya tha ki aapke vivah ke yog March 2027 se September 2028 ke beech bante dikh rahe hain.",
+        "why": "The first reading is entirely about the future, not the present."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Haan, maine bataya tha ki aapke vivah ke yog March 2027 se September 2028 ke beech bante dikh rahe hain.",
+        "why": "A clear direction (time window) is provided immediately in response to the user's question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kismat ke grah ki sthiti tab rishte ki baat ko aage badhane mein madad karti hai.",
+        "why": "One linked reading is provided, connecting the timing to planetary influence."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke paise ki sthiti March 2027 se dheere-dheere sudharni shuru hogi. Tabhi se aap par karz ka bojh kam hone lagega.",
+        "why": "Later readings add new points (money/debt) and use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 ka pehla pakhwada aapke liye sabse majboot samay hai.",
+        "why": "A clear window is provided, and the astrologer maintains consistency without promising a specific date."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Guru mantra ka jaap kijiye, isse mann halka rahega.",
+        "why": "The remedy is a stock suggestion without a clear link to the specific problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 se vivah aur paise dono ki sthiti ek saath sudhregi.",
+        "why": "Both questions (marriage and money) are answered and connected."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise, aapke hone wale sasural wale bade paramparik swabhav ke ho sakte hain.",
+        "why": "The astrologer introduces a specific further detail about the marriage concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 ka pehla pakhwada aapke liye sabse majboot samay hai.",
+        "why": "No closing message and every reply carries relevant information."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 ka pehla pakhwada aapke liye sabse majboot samay hai. Yeh samay aapke career aur ghar ke mamlo mein ek naya mod layega.",
+        "why": "The last message provides a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Jyotish mein grahon ki gati mahino par chalti hai, isliye March 2027 ka pehla pakhwada aapke liye sabse majboot samay hai.",
+        "why": "Easy language is used throughout with no technical jargon or formal tone."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Main samajh sakti hoon ki aapko jald se jald ek tarikh chahiye. Jyotish mein grahon ki gati mahino par chalti hai, isliye March 2027 ka pehla pakhwada aapke liye sabse majboot samay hai.",
+        "why": "The astrologer adapts to the user's frustration in the very next reply by narrowing the window without arguing."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "reading"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 16,
+        "type": "question"
+      },
+      {
+        "idx": 17,
+        "type": "reading"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      }
+    ]
+  }
+}

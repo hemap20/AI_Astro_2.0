@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein aapka samay kaafi behtar hone wala hai. Bataiye, sabse zyada chinta kis vishay ki hai, career ki ya shaadi ki?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein aapka samay kaafi behtar hone wala hai. Bataiye, sabse zyada chinta kis vishay ki hai, career ki ya shaadi ki?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baare mein sochna zaroori hai ji. Family rishta dekh rahi hai ya aapka khud ka koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke baare mein sochna zaroori hai ji. Family rishta dekh rahi hai ya aapka khud ka koi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Family dekh rhi hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 aur September 2028 ke beech ho sakti hai ji. Rishta jaan-pehchaan ke zariye hi aane ka yog hai. Iske liye aane wale Shukrawar se safed mithai daan karna shuru kar dein ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi March 2027 aur September 2028 ke beech ho sakti hai ji. Rishta jaan-pehchaan ke zariye hi aane ka yog hai. Iske liye aane wale Shukrawar se safed mithai daan karna shuru kar dein ji."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kaisa rahega?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paiye aur kharche ki baat karna zaroori hai ji. Yeh batayiye ki paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paiye aur kharche ki baat karna zaroori hai ji. Yeh batayiye ki paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Aap batao.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai hoti hai par paisa rukta nahi hai ji. Chandra ke kamzor hone se bachat mushkil ho jaati hai. Abhi aap koi kaam karte hain ya padhai chal rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kamai hoti hai par paisa rukta nahi hai ji. Chandra ke kamzor hone se bachat mushkil ho jaati hai. Abhi aap koi kaam karte hain ya padhai chal rahi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Padhai chal rhi h",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai mein abhi thodi thakan ya slow progress hai ji, par March 2027 ke baad isme achha badlav aayega. Shani ke prabhav se abhi mehnat zyada karni pad rahi hai. Aap college ke kaunse saal mein hain ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Padhai mein abhi thodi thakan ya slow progress hai ji, par March 2027 ke baad isme achha badlav aayega. Shani ke prabhav se abhi mehnat zyada karni pad rahi hai. Aap college ke kaunse saal mein hain ji?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Last year h",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht h",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein thaka deti hai ji, mid-2027 tak yeh daur badlega. Shani aur Mangal ke prabhav se mann mein bojh rehta hai. Yeh tension kis baat ko lekar hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein thaka deti hai ji, mid-2027 tak yeh daur badlega. Shani aur Mangal ke prabhav se mann mein bojh rehta hai. Yeh tension kis baat ko lekar hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka pressure",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka pressure sach mein bojh lagta hai ji, par March 2027 ke baad iska hal niklega. Grahon ke prabhav se ghar wale jaldi chahte hain. Ghar wale kisi khaas rishte ki baat kar rahe hain ya abhi talaash hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaadi ka pressure sach mein bojh lagta hai ji, par March 2027 ke baad iska hal niklega. Grahon ke prabhav se ghar wale jaldi chahte hain. Ghar wale kisi khaas rishte ki baat kar rahe hain ya abhi talaash hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rhe.",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo rishta dekh rahe hain, wahi baat ban sakti hai ji. Sathi ka swabhav shaant aur samajhdar rahega. Is rishte ki pakki khabar 2027 ke beech mein aayegi ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Jo rishta dekh rahe hain, wahi baat ban sakti hai ji. Sathi ka swabhav shaant aur samajhdar rahega. Is rishte ki pakki khabar 2027 ke beech mein aayegi ji."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  }
+]

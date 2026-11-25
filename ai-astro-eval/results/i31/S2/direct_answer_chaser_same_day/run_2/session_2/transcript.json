@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara bol rahi hoon. Batao, aaj main tumhari kya madad kar sakti hoon aur kya pareshani chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara bol rahi hoon. Batao, aaj main tumhari kya madad kar sakti hoon aur kya pareshani chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, pichli baar maine shaadi aur paison ki halat sudharne ke liye 2027 ke mahino ka zikr kiya tha. Kya tumne wo mantra jaap shuru kiya jo maine bataye the?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, pichli baar maine shaadi aur paison ki halat sudharne ke liye 2027 ke mahino ka zikr kiya tha. Kya tumne wo mantra jaap shuru kiya jo maine bataye the?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Mantra baad mein, shaadi confirm kab hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Kismat ka grah jo shaadi karwata hai, tab majboot hoga. Ghar par rishte ki baat kahan tak pahunchi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Kismat ka grah jo shaadi karwata hai, tab majboot hoga. Ghar par rishte ki baat kahan tak pahunchi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta dekh rahe hain ghar wale.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact date kya hogi?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date nahi, sirf sahi waqt milta hai. March 2027 se yog shuru honge, par ghar ki pareshani June 2027 tak rahegi. Kya rishte mein baat aage badhi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Exact date nahi, sirf sahi waqt milta hai. March 2027 se yog shuru honge, par ghar ki pareshani June 2027 tak rahegi. Kya rishte mein baat aage badhi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 me fix ho jayegi kya?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad family ka pressure kam hoga, toh rishta pakka hona aasaan rahega. Waise, jiske baare mein baat chal rahi hai, unka nature kaisa hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke baad family ka pressure kam hoga, toh rishta pakka hona aasaan rahega. Waise, jiske baare mein baat chal rahi hai, unka nature kaisa hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nature chhodo, ye batao June 2027 mein fix ho jayegi na?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad family ka pressure hatne se rishta fix hone ke zyada chance hain. Tab tak ghar ki sthiti mein badlav aayega. Waise, kundli mein hone wale in-laws ka nature thoda reserved dikh raha hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad family ka pressure hatne se rishta fix hone ke zyada chance hain. Tab tak ghar ki sthiti mein badlav aayega. Waise, kundli mein hone wale in-laws ka nature thoda reserved dikh raha hai."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Matlab haan ya na? Fix hogi?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada chance hai. Mehnat ka grah jab June 2027 mein 8th ghar se hatega, toh family ka tanaav kam hoga aur shaadi ka yog bhi pakka hone lagega. Tab tak kya tum career par dhyaan de rahi ho?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Zyada chance hai. Mehnat ka grah jab June 2027 mein 8th ghar se hatega, toh family ka tanaav kam hoga aur shaadi ka yog bhi pakka hone lagega. Tab tak kya tum career par dhyaan de rahi ho?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Fix hogi ya nahi, spasht kijiye.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, shaadi fix hone ke yog majboot hain kyunki shaadi ka grah achha hai. Ghar ki pareshani khatam hone ka intezar karo, tab tak tum apni skill par dhyaan do.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, shaadi fix hone ke yog majboot hain kyunki shaadi ka grah achha hai. Ghar ki pareshani khatam hone ka intezar karo, tab tak tum apni skill par dhyaan do."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak sudhrega?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se sudharna shuru hoga. Family tanaav kam hote hi income ke raste khulenge. Thursday se 'Om Gram Greem Grom Sah Gurave Namah' ka jap shuru karo, isse kaam mein madad milegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Paisa March 2027 se sudharna shuru hoga. Family tanaav kam hote hi income ke raste khulenge. Thursday se 'Om Gram Greem Grom Sah Gurave Namah' ka jap shuru karo, isse kaam mein madad milegi."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me konsa week?",
+    "sec": 270,
+    "idx": 21
+  }
+]

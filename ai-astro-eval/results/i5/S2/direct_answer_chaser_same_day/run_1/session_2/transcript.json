@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji, swagat hai aapka. March 2027 ke baad rahat milegi. Aaj kya discuss karna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji, swagat hai aapka. March 2027 ke baad rahat milegi. Aaj kya discuss karna hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Rahat kis chiz ki? Shadi kb hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi March 2027 ke baad hogi. Shani dasha se yog banega ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shadi March 2027 ke baad hogi. Shani dasha se yog banega ji.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh window September 2028 tak chalegi ji. Shani AD ka asar hai. Rishta pakka arranged hi lagega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh window September 2028 tak chalegi ji. Shani AD ka asar hai. Rishta pakka arranged hi lagega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Arrange hi chal rha h. Ek rishta abhi dekh rhe gharwale.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Confirm kab tak ho jayega?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad hi baat pakki hogi ji. Shani AD aate hi yog ban raha hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad hi baat pakki hogi ji. Shani AD aate hi yog ban raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, March 2027 me kaun se mahine?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shuruat March ke pehle hafte se hi ho jayegi ji. Shani AD ka pehla mahina yeh yog la raha hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shuruat March ke pehle hafte se hi ho jayegi ji. Shani AD ka pehla mahina yeh yog la raha hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paise ki sthiti sudhregi ji. 11th lord Mangal kaafi strong hai tab.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad paise ki sthiti sudhregi ji. 11th lord Mangal kaafi strong hai tab.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak exactly?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi sudhaar dikhega ji. Mangal ka bal tab badhega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se hi sudhaar dikhega ji. Mangal ka bal tab badhega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "March me hi? Ya uske baad? Clear bolo.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aakhri hafte tak ji. Shani AD aur strong Mangal tabhi asar dikhayenge.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 ke aakhri hafte tak ji. Shani AD aur strong Mangal tabhi asar dikhayenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak shanti milegi ji. Shani 8th house se nikalega tab. Career mein bhi nayi shuruat hogi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 tak shanti milegi ji. Shani 8th house se nikalega tab. Career mein bhi nayi shuruat hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 19
+  }
+]

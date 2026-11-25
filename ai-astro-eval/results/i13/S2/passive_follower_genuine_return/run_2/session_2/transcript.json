@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, aapka swagat hai. Aane wale ek-do saal mein aapki zindagi mein raahat aane wali hai aur 2027 ke baad halat kaafi behtar hogi. Aaj sabse pehle kis baare mein baat karni hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, aapka swagat hai. Aane wale ek-do saal mein aapki zindagi mein raahat aane wali hai aur 2027 ke baad halat kaafi behtar hogi. Aaj sabse pehle kis baare mein baat karni hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat March 2027 ke baad pakki hone lagegi ji. Pichli baar aapne rishte ki chinta batayi thi, toh yeh kisi jaan-pehchaan se aayega. Abhi ghar par koi baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat March 2027 ke baad pakki hone lagegi ji. Pichli baar aapne rishte ki chinta batayi thi, toh yeh kisi jaan-pehchaan se aayega. Abhi ghar par koi baat chal rahi hai kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan ek rishta dekh rhe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo rishta dekh rahe hain, wohi aage chal kar pakka hone ka yog ban raha hai ji. Jiske liye baat chal rahi hai, unka swabhav shaant aur padha-likha hoga. Kya unka parivaar thoda traditional soch ka hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Jo rishta dekh rahe hain, wohi aage chal kar pakka hone ka yog ban raha hai ji. Jiske liye baat chal rahi hai, unka swabhav shaant aur padha-likha hoga. Kya unka parivaar thoda traditional soch ka hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha thode",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Traditional parivaar ke sath yeh rishta aage badhega ji, par thoda dhairya rakhna hoga. Shukra ki thodi kamzori ki wajah se shuru mein baatein dheere chalti hain. Iske liye is Friday 20 November se safed mithai daan karna shuru kar dein ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Traditional parivaar ke sath yeh rishta aage badhega ji, par thoda dhairya rakhna hoga. Shukra ki thodi kamzori ki wajah se shuru mein baatein dheere chalti hain. Iske liye is Friday 20 November se safed mithai daan karna shuru kar dein ji."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta aage chal kar aapke liye kaafi theek baithega ji. Unka nature thoda guarded bhi ho sakta hai shuru mein. Kya unse aapki baat-cheet shuru hui hai ya abhi sirf ghar wale dekh rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Yeh rishta aage chal kar aapke liye kaafi theek baithega ji. Unka nature thoda guarded bhi ho sakta hai shuru mein. Kya unse aapki baat-cheet shuru hui hai ya abhi sirf ghar wale dekh rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi abhi nhi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi baat shuru nahi hui toh koi baat nahi, March 2027 ke baad raste khulenge ji. Shani ke prabhav se shuruat mein har kaam mein thoda samay lagta hai. Kya ghar walo ko yeh rishta kisi apne hi janne wale se mila hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Abhi baat shuru nahi hui toh koi baat nahi, March 2027 ke baad raste khulenge ji. Shani ke prabhav se shuruat mein har kaam mein thoda samay lagta hai. Kya ghar walo ko yeh rishta kisi apne hi janne wale se mila hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha जान पहचान ke hai",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaan-pehchaan ka rishta hone se baat aage badhne ke chance acche hain ji. Guru ke prabhav se aise rishte hi sabse zyada theek baithte hain. Kya inke parivaar se pehle se koi purani jaan-pehchaan hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Jaan-pehchaan ka rishta hone se baat aage badhne ke chance acche hain ji. Guru ke prabhav se aise rishte hi sabse zyada theek baithte hain. Kya inke parivaar se pehle se koi purani jaan-pehchaan hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ha thode purane h",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani jaan-pehchaan hona is rishte ke liye bahut accha sign hai ji. Aise purane rishte hi aage chalkar pakke hote hain. Kya unse aapki direct kabhi baat hui hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Purani jaan-pehchaan hona is rishte ke liye bahut accha sign hai ji. Aise purane rishte hi aage chalkar pakke hote hain. Kya unse aapki direct kabhi baat hui hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Direct baat nahi hui toh koi baat nahi ji, March 2027 ke baad hi aapas mein baat shuru hone ka yog banega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Direct baat nahi hui toh koi baat nahi ji, March 2027 ke baad hi aapas mein baat shuru hone ka yog banega."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k kuch?",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki chinta sach mein pareshan kar deti hai ji. Yeh bataiye ki paisa kahan atak raha hai, kamai mein ya kharche mein?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Paise ki chinta sach mein pareshan kar deti hai ji. Yeh bataiye ki paisa kahan atak raha hai, kamai mein ya kharche mein?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Kamai",
+    "sec": 300,
+    "idx": 22
+  }
+]

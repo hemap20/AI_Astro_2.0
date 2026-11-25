@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 6,
+    "4.3": 7
+  },
+  "gate_fail": [],
+  "overall": 6.56,
+  "shape": {
+    "M": 9,
+    "avg_words": 29.0,
+    "long_share": 0.22
+  },
+  "rep": {
+    "rep": 1,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paise ko le kar abhi thodi dikkat chal rahi hai.",
+        "why": "The astrologer repeats the user's topic (money) and acknowledges the difficulty."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Abhi aap koi job kar rahe hain?",
+        "why": "All questions asked are Type B (could be asked to any user with this topic)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not applicable."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Saal 2023 se 2025 ke beech mein mehnat ke baad bhi paise ki thangi rahi hai na?",
+        "why": "The reading is about the present/past, new, and specific, but lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 se aapke liye naye raste khulenge.",
+        "why": "Provides a clear direction and time window without a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Bachat ke dusre ghar mein kamzori hone se paisa haath mein nahi tikta.",
+        "why": "Two or more linked readings are provided in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Surya ke doosre ghar mein hone se sarkari naukri ke yog madhyam hain.",
+        "why": "Two later readings are each New and Uses user details."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se aapke liye naye raste khulenge.",
+        "why": "Provides a window and facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Gyaan ke grah ke liye Guru mantra 108 baar japein.",
+        "why": "Remedy is tied to the cause named in the reading."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Bank aur finance ka kshetra aapke buddhi ke grah se bohot achha mel khata hai.",
+        "why": "Both questions (money and career) are answered in a stated order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka apna ghar kab banega, iski jankari bhi patri mein hai.",
+        "why": "Names one specific further thing about the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Abhi chat recharge karke mere saath judiye.",
+        "why": "A closing message is sent while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Abhi chat recharge karke mere saath judiye.",
+        "why": "The last message is a pressure pitch/goodbye."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Bachat ke dusre ghar mein kamzori hone se paisa haath mein nahi tikta.",
+        "why": "Uses everyday language with no technical terms or formal sentences."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not triggered."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "reading"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      }
+    ]
+  }
+}

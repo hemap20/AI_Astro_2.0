@@ -1,0 +1,140 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aapki kundali dekhti hoon. Aap future mein kis baare mein sabse pehle jaanna chahte hain—job ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aapki kundali dekhti hoon. Aap future mein kis baare mein sabse pehle jaanna chahte hain—job ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi March 2027 se September 2028 ke beech hone ke bohot achhe yog hain. Kya 2022 mein aapke padhai ya college life mein koi bada badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi March 2027 se September 2028 ke beech hone ke bohot achhe yog hain. Kya 2022 mein aapke padhai ya college life mein koi bada badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me kaun sa mahina?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan 2022 mein change tha.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein April se June ke beech shaadi ki baat aage badhne ke bohot mazboot chances hain. Aap kis tarah ke partner ki umeed kar rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "2027 mein April se June ke beech shaadi ki baat aage badhne ke bohot mazboot chances hain. Aap kis tarah ke partner ki umeed kar rahe hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak stable hoga?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech paise ki halat stable ho jayegi. Aapki kundali mein kamai badhne aur bachat hone ka ek khas rasta bhi dikh raha hai. Abhi paise ko lekar sabse badi tension kya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech paise ki halat stable ho jayegi. Aapki kundali mein kamai badhne aur bachat hone ka ek khas rasta bhi dikh raha hai. Abhi paise ko lekar sabse badi tension kya hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai pehle job aur phir business se badhegi, Thursday se chana dal daan kijiye. Ghar ki tension June 2027 tak kam hogi. Abhi aap kya kaam karte hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kamai pehle job aur phir business se badhegi, Thursday se chana dal daan kijiye. Ghar ki tension June 2027 tak kam hogi. Abhi aap kya kaam karte hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Student hu.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai ke baad finance ya tech field mein aapke liye achhe yog hain. Mann ka grah kamzor hone se aap tension zyada lete hain. Abhi aap kis subject ki padhai kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Padhai ke baad finance ya tech field mein aapke liye achhe yog hain. Mann ka grah kamzor hone se aap tension zyada lete hain. Abhi aap kis subject ki padhai kar rahe hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "B.Com.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Rishta kab final hoga?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "April se June 2027 ke beech aapka rishta final hone ke poore yog hain. Yeh rishta jaane-pehchane logon se arranged raste se aayega. Friday se safed mithai ka daan shuru kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "April se June 2027 ke beech aapka rishta final hone ke poore yog hain. Yeh rishta jaane-pehchane logon se arranged raste se aayega. Friday se safed mithai ka daan shuru kijiye."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe ek rishta chal raha hai, wahi final hoga?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, jaane-pehchane logo se aaya arranged rishta hi final hone ke achhe yog hain. Par pakka faisla 2027 ke shuruat mein hi hoga. Kya un logon se baat abhi aage badh rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, jaane-pehchane logo se aaya arranged rishta hi final hone ke achhe yog hain. Par pakka faisla 2027 ke shuruat mein hi hoga. Kya un logon se baat abhi aage badh rahi hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me hi hoga na?",
+    "sec": 240,
+    "idx": 18
+  }
+]

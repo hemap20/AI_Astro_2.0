@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, kaise ho aap? Batao aaj kya poochne ka mann hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, kaise ho aap? Batao aaj kya poochne ka mann hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Theek hu",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Partner shant, padha-likha aur samajhdar honge. Kya ghar par abhi koi rishta chal raha hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Partner shant, padha-likha aur samajhdar honge. Kya ghar par abhi koi rishta chal raha hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rhe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ke grah kamzor hain, isliye pressure lag raha hai. Ek khas baat hai—aapke liye ek aisa rishta aayega jo aapki ummeed se alag hoga. Is baare mein kya lagta hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishton ke grah kamzor hain, isliye pressure lag raha hai. Ek khas baat hai—aapke liye ek aisa rishta aayega jo aapki ummeed se alag hoga. Is baare mein kya lagta hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta kisi jaan-pehchan wale zariye se aayega, shayad dur ke rishtedaar ya dost. Wo insaan thode reserved honge, par aapko samajhne wale honge. Kya aapne family ke saamne apni pasand ya zarurat rakhi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Yeh rishta kisi jaan-pehchan wale zariye se aayega, shayad dur ke rishtedaar ya dost. Wo insaan thode reserved honge, par aapko samajhne wale honge. Kya aapne family ke saamne apni pasand ya zarurat rakhi hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nhi boli abhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension ki wajah se shayad aap ruk rahe hain. Yeh grahon ke dabav se hai jo mid-2027 tak kam ho jayega. Kya ghar par koi specific baat hai jo aapko darati hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Tension ki wajah se shayad aap ruk rahe hain. Yeh grahon ke dabav se hai jo mid-2027 tak kam ho jayega. Kya ghar par koi specific baat hai jo aapko darati hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Mere hone se sirf dikkat h",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisa bilkul nahi hai, ye sirf ek waqt ka khel hai. Aapke mann ke grah par abhi thoda dabav hai jo mid-2027 tak dheere-dheere hat jayega. Hanuman Chalisa ka path shuru karo, isse mann mein shanti aayegi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aisa bilkul nahi hai, ye sirf ek waqt ka khel hai. Aapke mann ke grah par abhi thoda dabav hai jo mid-2027 tak dheere-dheere hat jayega. Hanuman Chalisa ka path shuru karo, isse mann mein shanti aayegi."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Financial tension March 2027 se hat jayegi, jab career mein badlav aayega. Shukra dev ke mantra har Shukravar padhna shuru karo. Kya naukri ke alawa kuch naya karne ka irada hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Financial tension March 2027 se hat jayegi, jab career mein badlav aayega. Shukra dev ke mantra har Shukravar padhna shuru karo. Kya naukri ke alawa kuch naya karne ka irada hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k tension hai",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa isliye nahi tikta kyunki kundli ka paise wala ghar thoda kamzor hai. Abhi naukri par dhyaan dena sahi rahega, business 2028 ke baad sochna. Kya abhi aap koi naukri dhund rahe ho?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Paisa isliye nahi tikta kyunki kundli ka paise wala ghar thoda kamzor hai. Abhi naukri par dhyaan dena sahi rahega, business 2028 ke baad sochna. Kya abhi aap koi naukri dhund rahe ho?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan dhund rahi hu",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad career mein acche badlav ke yog hain. Guru dev ke liye 'Om Gram Greem Grom Sah Gurave Namah' har Guruvar 108 baar padhna shuru karein. Career ki disha agli baar vistaar se dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 ke baad career mein acche badlav ke yog hain. Guru dev ke liye 'Om Gram Greem Grom Sah Gurave Namah' har Guruvar 108 baar padhna shuru karein. Career ki disha agli baar vistaar se dekhenge."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 20
+  }
+]

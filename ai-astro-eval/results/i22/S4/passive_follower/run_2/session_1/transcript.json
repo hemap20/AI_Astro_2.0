@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka pakka yog hai, rishta jaan-pehchaan se aayega. Us ladke ke baare mein ghar walon ko pata hai kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka pakka yog hai, rishta jaan-pehchaan se aayega. Us ladke ke baare mein ghar walon ko pata hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha pta hai",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo ladka lamba, shant aur padha-likha hai, par thoda guarded bhi hai. Rishta theek rahega. Tumne unse kabhi khul kar baat ki hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Wo ladka lamba, shant aur padha-likha hai, par thoda guarded bhi hai. Rishta theek rahega. Tumne unse kabhi khul kar baat ki hai kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi wo gusse wala hai",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh thoda gussa Mangal ke asar se hai jo aage theek ho jayega. Tuesday se Hanuman Chalisa padhna shuru karo, sab set ho jayega. 2027 ke shuru mein ek mahina aisa aayega jab yeh baat bilkul saaf ho jayegi. Kya ghar walon ko is baare mein pata hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh thoda gussa Mangal ke asar se hai jo aage theek ho jayega. Tuesday se Hanuman Chalisa padhna shuru karo, sab set ho jayega. 2027 ke shuru mein ek mahina aisa aayega jab yeh baat bilkul saaf ho jayegi. Kya ghar walon ko is baare mein pata hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha pata hai",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unke ghar wale thode purane vichar ke aur thode kam bolne wale ho sakte hain. Kya tumne kabhi unke parivar se baat ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Unke ghar wale thode purane vichar ke aur thode kam bolne wale ho sakte hain. Kya tumne kabhi unke parivar se baat ki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unke ghar wale thode traditional aur serious rahenge. Shaadi se pehle ek aisi cheez hai jo abhi clarify hona zaroori hai warna baad mein baat fas sakti hai. Tumne ghar pe apni taraf se kya socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Unke ghar wale thode traditional aur serious rahenge. Shaadi se pehle ek aisi cheez hai jo abhi clarify hona zaroori hai warna baad mein baat fas sakti hai. Tumne ghar pe apni taraf se kya socha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shuru mein feelings ko lekar clear rehna zaroori hai, warna misunderstandings ho sakti hain. Tumne kabhi aisi baaton par usse baat ki hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shuru mein feelings ko lekar clear rehna zaroori hai, warna misunderstandings ho sakti hain. Tumne kabhi aisi baaton par usse baat ki hai kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb tk hogi pakka",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech hi shaadi ka pakka yog ban raha hai. 2027 mein ek mahina aisa aayega jab ek chhota sa faisla sab clear kar dega. Friday se Om Shum Shukraya Namah ka jap shuru karo, yeh rishte ko mazboot karega. Kya tumne ghar pe iski taiyari ke baare mein baat ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech hi shaadi ka pakka yog ban raha hai. 2027 mein ek mahina aisa aayega jab ek chhota sa faisla sab clear kar dega. Friday se Om Shum Shukraya Namah ka jap shuru karo, yeh rishte ko mazboot karega. Kya tumne ghar pe iski taiyari ke baare mein baat ki hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta jaan-pehchaan ke zariye hi aage badhega aur March ke baad baat tez hogi. Kya tumne is baare mein apni mummy se baat ki hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Yeh rishta jaan-pehchaan ke zariye hi aage badhega aur March ke baad baat tez hogi. Kya tumne is baare mein apni mummy se baat ki hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy se baat karne ka waqt hai. 2027 ke beech ek aisi baat saamne aayegi jo rukh pakka kar degi. Kya batane mein dar lag raha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Mummy se baat karne ka waqt hai. 2027 ke beech ek aisi baat saamne aayegi jo rukh pakka kar degi. Kya batane mein dar lag raha hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khtam ho raha hai",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tension mat lo ji. March 2027 ke aas-paas ek aisi ghadi aayegi jab ek anjaan shakhs ki salah is rishte ko naya mod degi.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Tension mat lo ji. March 2027 ke aas-paas ek aisi ghadi aayegi jab ek anjaan shakhs ki salah is rishte ko naya mod degi."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 25
+  }
+]

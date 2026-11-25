@@ -1,0 +1,249 @@
+{
+  "scores": {
+    "1.1": 4,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": null,
+    "2.7": 9,
+    "3.1": 4,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": null,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 8
+  },
+  "gate_fail": [],
+  "overall": 6.57,
+  "shape": {
+    "M": 9,
+    "avg_words": 39.3,
+    "long_share": 0.89
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 3
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Ji, main aapka future dekh sakti hoon. Sabse pehle batayiye, aap kis baat ko lekar zyada soch rahi hain, kaam, shaadi, ya paise ki?",
+        "why": "The astrologer acknowledges the user's request for 'Future' but does not repeat any specific detail, as none was provided. It is a generic opening."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aap confirm kar sakti hain ki Nov 2022 mein padhai ya college life mein badlav aaya tha?",
+        "why": "No Type C questions were asked. Several questions were Type A, building on the user's input (e.g., confirming past events, asking about tension)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user's main question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Ji, shaadi ke liye aapki kundli mein achha samay dikh raha hai. Mar 2027 se Sep 2028 ke beech baat pakki hone ke chances zyada hain.",
+        "why": "The reading is about the future and is present-focused, but it is not specific enough (a 1.5-year window is very broad) and lacks a chart reason in the first reading."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ji, shaadi ke liye aapki kundli mein achha samay dikh raha hai. Mar 2027 se Sep 2028 ke beech baat pakki hone ke chances zyada hain.",
+        "why": "A clear direction and time window are provided immediately in response to the user's question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Shukra kamzor hai, isliye rishta dhire aata hai, par aapke liye shubh hai.",
+        "why": "The astrologer provides multiple linked readings (Shukra for marriage, Guru for job, Mangal for tension) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ji, ghar ki tension mein Mar 2027 se Sep 2028 ke beech kami aane lagegi. Mangal ki wajah se jhagde bhi dheere-dheere shant honge.",
+        "why": "The astrologer builds depth by addressing new concerns (money, job, family) and uses the user's details (parents, rishta) while providing chart reasons."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ji, ghar ki tension ke liye sabse saaf samay Mar 2027 ke aas-paas ka hai.",
+        "why": "The astrologer consistently provides a window (Mar 2027 - Sep 2028) throughout the chat."
+      },
+      "2.6": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No remedy or practical advice was given."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ji, naukri ke liye bhi Mar 2027 se Sep 2028 ka daur achha dikhta hai.",
+        "why": "The astrologer answers each question (marriage, money, job, family) sequentially and fully."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": null,
+        "why": "Nothing further is opened; the astrologer just asks verification questions."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message was sent; every reply carried a reading or question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ji, ghar ki tension ke liye sabse saaf samay Mar 2027 ke aas-paas ka hai.",
+        "why": "One of the last two messages contains a real reading."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user ended the chat immediately after the trigger, so no adaptation was possible."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "reading"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "question"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "question"
+      },
+      {
+        "idx": 24,
+        "type": "reading"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

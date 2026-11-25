@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future. Puri saal career aur paisa kaisa hoga?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Future aur career ke baare mein aapne poocha hai toh raste dheere-dheere khulenge ji. Aap abhi kahin job kar rahe hain ya naye mauke dhoondh rahe hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Future aur career ke baare mein aapne poocha hai toh raste dheere-dheere khulenge ji. Aap abhi kahin job kar rahe hain ya naye mauke dhoondh rahe hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nayi job dhundh rahi hu.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Job kab tak lagegi? Specific batao.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech nayi job milne ka strong window hai ji. 2023 se 2025 ke beech mehnat bahut zyada rahi hogi kyunki kaam ke sthaan par Shani ka thoda dabav tha. Aapne abhi kahan-kahan apply kiya hai ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech nayi job milne ka strong window hai ji. 2023 se 2025 ke beech mehnat bahut zyada rahi hogi kyunki kaam ke sthaan par Shani ka thoda dabav tha. Aapne abhi kahan-kahan apply kiya hai ji?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Har jagah apply kiya hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunse month mein lagegi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuruati dino mein jab naya samay shuru hota hai, tabhi pehla mauka banne ki umeed hai ji. Uss samay kaam ka sthaan poori tarah sath dega. Kya aapne abhi kisi round ke baad response ka wait kiya hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ke shuruati dino mein jab naya samay shuru hota hai, tabhi pehla mauka banne ki umeed hai ji. Uss samay kaam ka sthaan poori tarah sath dega. Kya aapne abhi kisi round ke baad response ka wait kiya hai ji?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai ji, kyunki aapke lagna ke malik Budh hain. Ye number aapko tez dimaag aur nayi skills sikhne ki taakat deta hai, jo career mein kaam aati hai. Kya aapne communication ya finance se judi padhai ki hai ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapka number 5 hai ji, kyunki aapke lagna ke malik Budh hain. Ye number aapko tez dimaag aur nayi skills sikhne ki taakat deta hai, jo career mein kaam aati hai. Kya aapne communication ya finance se judi padhai ki hai ji?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Communication padhi hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me salary achi hogi ya struggle?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad salary aur aamdani mein sudhaar aana shuru ho jayega ji, struggle dheere-dheere kam hoga. Bade grah ki sthiti se fayda milne lagega, bas shuru mein paisa rukne mein thodi mehnat lagti hai. Abhi ke samay mein kharche zyada hain ya kamai kam?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad salary aur aamdani mein sudhaar aana shuru ho jayega ji, struggle dheere-dheere kam hoga. Bade grah ki sthiti se fayda milne lagega, bas shuru mein paisa rukne mein thodi mehnat lagti hai. Abhi ke samay mein kharche zyada hain ya kamai kam?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kharche zyada hai.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me salary kitni hogi, exact figure batao?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact figure toh sitaare nahi batate ji, par pehle se kaafi behtar salary milegi. Aamdani ka rasta strong hoga, bas shuru mein kharche thode sambhalne padenge. Kya aapne interview ki taiyari shuru kar di hai ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Exact figure toh sitaare nahi batate ji, par pehle se kaafi behtar salary milegi. Aamdani ka rasta strong hoga, bas shuru mein kharche thode sambhalne padenge. Kya aapne interview ki taiyari shuru kar di hai ji?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Exact figure batao.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bura mat maaniye ji, exact figure jyotish se nahi bataya ja sakta kyunki grah raste dete hain. Par itna pakka hai ki aane wale samay mein aamdani aapki pichli sthiti se kaafi behtar hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Bura mat maaniye ji, exact figure jyotish se nahi bataya ja sakta kyunki grah raste dete hain. Par itna pakka hai ki aane wale samay mein aamdani aapki pichli sthiti se kaafi behtar hogi."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Faltu. Not satisfied.",
+    "sec": 210,
+    "idx": 20
+  }
+]

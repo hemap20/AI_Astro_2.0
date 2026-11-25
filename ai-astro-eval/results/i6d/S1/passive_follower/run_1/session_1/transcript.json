@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job par wapsi mushkil hai ji. March 2027 ke baad naye raste khulenge.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job par wapsi mushkil hai ji. March 2027 ke baad naye raste khulenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Etna late",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bata do",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact March 2027 se hi shuruat hogi ji. Guru aur Shani ka parivartan tabhi hai. Iske baad naye offer ka yog banega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Exact March 2027 se hi shuruat hogi ji. Guru aur Shani ka parivartan tabhi hai. Iske baad naye offer ka yog banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka shaq karna bilkul sahi hai ji. Shani ke asar se kaam mein thodi der hoti hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapka shaq karna bilkul sahi hai ji. Shani ke asar se kaam mein thodi der hoti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa bilkul jayaz hai ji. Shani ki chal thodi dheemi hoti hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapka gussa bilkul jayaz hai ji. Shani ki chal thodi dheemi hoti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok paisa ka kya",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa bhi March 2027 ke baad rukega ji. Ketu aur Mangal ki sthiti se karza dheere-dheere utrega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa bhi March 2027 ke baad rukega ji. Ketu aur Mangal ki sthiti se karza dheere-dheere utrega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 mein apna ghar ka yog hai ji. Budh ki sthiti yehi dikha rahi hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "2028 mein apna ghar ka yog hai ji. Budh ki sthiti yehi dikha rahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 mein videsh ka yog bhi hai ji. Rahu aur Shukra ki sthiti se yeh mauka ban sakta hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "2027 mein videsh ka yog bhi hai ji. Rahu aur Shukra ki sthiti se yeh mauka ban sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Stress dheere-dheere kam ho jayega ji. Guruwar ko chana dal daan karein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Stress dheere-dheere kam ho jayega ji. Guruwar ko chana dal daan karein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kaha pe",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mandir mein de sakte hain ji. Aapki kundli mein promotion ka yog hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Mandir mein de sakte hain ji. Aapki kundli mein promotion ka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

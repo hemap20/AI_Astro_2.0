@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji! 2027 mein tumhare career aur shaadi dono ke liye acche badlav aane wale hain. Batao, abhi sabse zyada tension kis baat ki chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji! 2027 mein tumhare career aur shaadi dono ke liye acche badlav aane wale hain. Batao, abhi sabse zyada tension kis baat ki chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi, specific year aur month batao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se April 2027 ke beech shaadi pakki hone ka time hai. Lekin isse pehle ek aisa rishta aayega jise dhyan se dekhna padega. Ghar pe abhi kisi ne koi rishta dekha hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March se April 2027 ke beech shaadi pakki hone ka time hai. Lekin isse pehle ek aisa rishta aayega jise dhyan se dekhna padega. Ghar pe abhi kisi ne koi rishta dekha hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta chal raha hai abhi.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Wahi final hoga ya koi aur?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Isi rishte ke final hone ke zyada chance hain kyunki jaan-pehchaan se hi baat aage badh rahi hai. Woh ladka thoda calm aur padha-likha hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Isi rishte ke final hone ke zyada chance hain kyunki jaan-pehchaan se hi baat aage badh rahi hai. Woh ladka thoda calm aur padha-likha hai kya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan, wo padha-likha aur calm hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Par ye rishta pakka ho jayega ya tot jayega? Haan ya na?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, yehi rishta final hone ke poore chance hain kyunki ghar wale bhi thode traditional aur reserved hain. Ek chhota sa confusion aur aa sakta hai jise tumhe sambhalna padega, batao abhi baat kahan tak pahunchi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, yehi rishta final hone ke poore chance hain kyunki ghar wale bhi thode traditional aur reserved hain. Ek chhota sa confusion aur aa sakta hai jise tumhe sambhalna padega, batao abhi baat kahan tak pahunchi hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Initial stage pe hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Confirm final hoga ya nahi, haan ya na?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, chance poora hai. Bas ek baat dhyan rakhna ki unka thoda guarded side bhi hai jo dheere-dheere pata chalega. Ghar wale is rishte se poori tarah khush hain na?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, chance poora hai. Bas ek baat dhyan rakhna ki unka thoda guarded side bhi hai jo dheere-dheere pata chalega. Ghar wale is rishte se poori tarah khush hain na?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan, khush hain.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak stable hoga?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi paise tight hain na? Ye sab kamzor Chandra ki wajah se hai, isliye paisa nahi tikta. March 2027 se badlav aayega. Abhi kharcha kahan zyada ho raha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "2023 se hi paise tight hain na? Ye sab kamzor Chandra ki wajah se hai, isliye paisa nahi tikta. March 2027 se badlav aayega. Abhi kharcha kahan zyada ho raha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar pe ye sab baatein kab se chal rahi hain? Aur kis baat ko lekar sabse zyada behas hoti hai waha?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar pe ye sab baatein kab se chal rahi hain? Aur kis baat ko lekar sabse zyada behas hoti hai waha?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "2 saal se.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Tension kab tak khatam hogi, date batao.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka mahaul theek hoga. Har Monday Om Som Somaya Namah 108 baar japo. Ghar pe abhi kiski baat sabse zyada chubhti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka mahaul theek hoga. Har Monday Om Som Somaya Namah 108 baar japo. Ghar pe abhi kiski baat sabse zyada chubhti hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 24
+  }
+]

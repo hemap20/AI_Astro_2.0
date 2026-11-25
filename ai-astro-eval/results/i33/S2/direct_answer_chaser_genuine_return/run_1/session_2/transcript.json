@@ -1,0 +1,137 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, bataiye aaj main aapki kaise madad kar sakti hoon aur kya chal raha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, bataiye aaj main aapki kaise madad kar sakti hoon aur kya chal raha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar shaadi par baat hui thi. Shaadi ka yog March 2027 se September 2028 ke beech hai. 2022 mein kya aapki padhai ya college mein koi badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar shaadi par baat hui thi. Shaadi ka yog March 2027 se September 2028 ke beech hai. 2022 mein kya aapki padhai ya college mein koi badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me kaunse month me chances jyada hai?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi yog shuru ho raha hai, toh usi samay ke aas-paas chances zyada hain. Shaadi aur financial stability dono ek hi samay sudhrenge kyunki career ka grah tab majboot ho raha hai. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai, ghar wale abhi kahan rishta dekh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se hi yog shuru ho raha hai, toh usi samay ke aas-paas chances zyada hain. Shaadi aur financial stability dono ek hi samay sudhrenge kyunki career ka grah tab majboot ho raha hai. Shaadi se pehle ek rishta aayega jise pehchanna zaroori hai, ghar wale abhi kahan rishta dekh rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe hai. Ek ladka discuss ho rha hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya wahi ladka hai ya koi aur?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jaan-pehchan se shaadi likhi hai, par ye wahi ladka hai ya nahi, kehna mushkil hai. Aapki kundli mein ek lucky vyakti ka zikr hai. Kya wo ladka aapki baaton ko samajhta hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jaan-pehchan se shaadi likhi hai, par ye wahi ladka hai ya nahi, kehna mushkil hai. Aapki kundli mein ek lucky vyakti ka zikr hai. Kya wo ladka aapki baaton ko samajhta hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan, samajhta hai.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Wahi hai ya nahi, spasht kijiye.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main haan nahi keh sakti, purane rishte ke yog kam hain. Shaadi aur naukri 2027 mein sudhrenge. Career mein ek bada mauka aane wala hai. Aap abhi career mein kya karti hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Main haan nahi keh sakti, purane rishte ke yog kam hain. Shaadi aur naukri 2027 mein sudhrenge. Career mein ek bada mauka aane wala hai. Aap abhi career mein kya karti hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Student hoon.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ladka wahi hai ya nahi, ye batao.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein jaan-pehchan se rishta dikhta hai, par us ladke ka naam nahi hai. Shaadi aur career 2027 se sudhrenge, jahan saathi ka swabhav kaafi shant hoga. Padhai mein kya kar rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kundli mein jaan-pehchan se rishta dikhta hai, par us ladke ka naam nahi hai. Shaadi aur career 2027 se sudhrenge, jahan saathi ka swabhav kaafi shant hoga. Padhai mein kya kar rahi hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rahi, wo bata nahi rahe.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Seedha haan ya na mein batao.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon aap pareshaan hain, par kundli mein kisi khaas vyakti ka naam nahi hota. Aapke liye rishta jaan-pehchan ke dayre se hi aayega. Mangal aur Shani ka asar mann par hai, isliye Hanuman Chalisa roz padhna shuru kijiye, isse man ki ghabrahat kam hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main samajh sakti hoon aap pareshaan hain, par kundli mein kisi khaas vyakti ka naam nahi hota. Aapke liye rishta jaan-pehchan ke dayre se hi aayega. Mangal aur Shani ka asar mann par hai, isliye Hanuman Chalisa roz padhna shuru kijiye, isse man ki ghabrahat kam hogi."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 210,
+    "idx": 18
+  }
+]

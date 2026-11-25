@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi ke liye ye ladka sahi hai?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main is rishte ko chart mein dekhti hoon, jaha partner calm aur educated nazar aate hain. Kya November 2022 mein aapki padhai ya college mein kuch badlaav aaya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Main is rishte ko chart mein dekhti hoon, jaha partner calm aur educated nazar aate hain. Kya November 2022 mein aapki padhai ya college mein kuch badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka calm nhi hai, gussa bahut krta hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta sahi hai ya nahi, ye batao.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa thoda dikh sakta hai kyunki rishton ke grah par dabav hai. Ye rishta jaane-maane circle se arranged ho sakta hai. Kya aap dono ki aapas mein khul kar baat hoti hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Gussa thoda dikh sakta hai kyunki rishton ke grah par dabav hai. Ye rishta jaane-maane circle se arranged ho sakta hai. Kya aap dono ki aapas mein khul kar baat hoti hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na bataiye, rishta sahi hai ya nahi?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta jud sakta hai, par thoda samay lagega kyunki rishton ka grah kamzor hai. Aisi sthiti mein aap khud ko kaise sambhalti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh rishta jud sakta hai, par thoda samay lagega kyunki rishton ka grah kamzor hai. Aisi sthiti mein aap khud ko kaise sambhalti hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Matlab rishta shi hai ya nhi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, yeh rishta aage chal sakta hai, par thoda samay lagega. Iske sudhaar ke liye har Shukrawar safed mithai daan kijiye. Kya is baare mein ghar mein baat ho chuki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, yeh rishta aage chal sakta hai, par thoda samay lagega. Iske sudhaar ke liye har Shukrawar safed mithai daan kijiye. Kya is baare mein ghar mein baat ho chuki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi March 2027 se September 2028 ke beech ho sakti hai. Mehnat aur karm ke grah ka naya daur ismein madad karega. Kya ghar wale is rishte ke liye taiyar hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shadi March 2027 se September 2028 ke beech ho sakti hai. Mehnat aur karm ke grah ka naya daur ismein madad karega. Kya ghar wale is rishte ke liye taiyar hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine mein?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruat mein baat aage badh sakti hai, kyunki tab naya daur shuru hoga. Kya aapko lagta hai ki yeh faisla theek rahega?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke shuruat mein baat aage badh sakti hai, kyunki tab naya daur shuru hoga. Kya aapko lagta hai ki yeh faisla theek rahega?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein pakka na?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main is samay ko yahi dekhti hoon ki March ki shuruat mein yog sabse majboot hai. Kya aapko is daur mein koi aur chinta bhi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main is samay ko yahi dekhti hoon ki March ki shuruat mein yog sabse majboot hai. Kya aapko is daur mein koi aur chinta bhi hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "[04:30]",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 fix hai na?",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka samay poori tarah clear ho gaya hai. In-laws traditional aur reserved ho sakte hain, jisse aapko unke parivaar ke bare mein aur gehri samajh milti.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapki shaadi ka samay poori tarah clear ho gaya hai. In-laws traditional aur reserved ho sakte hain, jisse aapko unke parivaar ke bare mein aur gehri samajh milti."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 24
+  }
+]

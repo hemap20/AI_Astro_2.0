@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste! Agle 1-2 saal mein kaafi badlav aayenge, February 2027 ke baad sab behtar hone lagega. Sabse zyada tension kis cheez ki hai—career, shaadi ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste! Agle 1-2 saal mein kaafi badlav aayenge, February 2027 ke baad sab behtar hone lagega. Sabse zyada tension kis cheez ki hai—career, shaadi ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 tak tumne mehnat bohot ki aur paisa tight raha, hai na? Shaadi ke liye March 2027 se achha daur shuru hoga, rishta jaan-pehchaan se aayega. Ghar walon ne koi baat shuru ki hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 tak tumne mehnat bohot ki aur paisa tight raha, hai na? Shaadi ke liye March 2027 se achha daur shuru hoga, rishta jaan-pehchaan se aayega. Ghar walon ne koi baat shuru ki hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye rishta samjh mein aa raha hai, ladka shant aur padha-likha hoga par shayad thoda reserved bhi. Rishton ke grah ke dabne se baat aage badhte-badhte ruk sakti hai, par Shukravar se 'Om Shum Shukraya Namah' ka jaap shuru karo, isse clarity aayegi. Kya ladke walon ne abhi haan ya na ka wait karne ko kaha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ye rishta samjh mein aa raha hai, ladka shant aur padha-likha hoga par shayad thoda reserved bhi. Rishton ke grah ke dabne se baat aage badhte-badhte ruk sakti hai, par Shukravar se 'Om Shum Shukraya Namah' ka jaap shuru karo, isse clarity aayegi. Kya ladke walon ne abhi haan ya na ka wait karne ko kaha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah abhi thoda dab gaya hai, isliye baat aage badhne mein waqt lag raha hai, par March 2027 aate-aate sab clear ho jayega. Ek baat hai, unke parivaar ka swabhav thoda purane khayalon ka hai, jo pehli baar mein shayad samajh na aaye. Kya ye pehla rishta hai jo itna aage badha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishton ka grah abhi thoda dab gaya hai, isliye baat aage badhne mein waqt lag raha hai, par March 2027 aate-aate sab clear ho jayega. Ek baat hai, unke parivaar ka swabhav thoda purane khayalon ka hai, jo pehli baar mein shayad samajh na aaye. Kya ye pehla rishta hai jo itna aage badha hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa btaiye ab",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Dono ek hi jagah se aa rahe hain—tumhara mann ka grah thoda kamzor hai, isliye shaadi ki baat aur paisa dono haath mein thik se tik nahi rahe. March 2027 se karz aur paison ki dikkat dheere-dheere kam hone lagegi. Monday ko 'Om Som Somaya Namah' 108 baar jaap shuru karo, ye tumhare mann ko shanti dega aur paison ki rukawat hatayega. Kya tum abhi savings kar pa rahi ho ya kharcha zyada ho jata hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Dono ek hi jagah se aa rahe hain—tumhara mann ka grah thoda kamzor hai, isliye shaadi ki baat aur paisa dono haath mein thik se tik nahi rahe. March 2027 se karz aur paison ki dikkat dheere-dheere kam hone lagegi. Monday ko 'Om Som Somaya Namah' 108 baar jaap shuru karo, ye tumhare mann ko shanti dega aur paison ki rukawat hatayega. Kya tum abhi savings kar pa rahi ho ya kharcha zyada ho jata hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kharcha zyada hai",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur kharche dono ek hi wajah se hain—tumhari himmat aur gusse ka grah abhi mann par bhaari hai. Mangalwar se Hanuman Chalisa shuru karo, ye dono ko handle karne mein madad karega. Ek baat aur, agle kuch mahino mein ghar par koi bada faisla lene ka pressure aayega, jise talna hi sahi rahega—kya ghar wale tumhare faislon mein bahut interfere kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur kharche dono ek hi wajah se hain—tumhari himmat aur gusse ka grah abhi mann par bhaari hai. Mangalwar se Hanuman Chalisa shuru karo, ye dono ko handle karne mein madad karega. Ek baat aur, agle kuch mahino mein ghar par koi bada faisla lene ka pressure aayega, jise talna hi sahi rahega—kya ghar wale tumhare faislon mein bahut interfere kar rahe hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ha bohot karte",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar walon ka ye pressure isliye hai kyunki mehnat ka grah abhi tumhare mann par dabav daal raha hai, ye June 2027 tak rahega. Iske liye har Saturday kaale til ka daan karo, isse ghar ka mahaul thoda halka hoga. Waise ghar mein ek aisa insaan hai jo tumhari situation samajhta toh hai par khul kar bol nahi pata—kya tumhein andaza hai wo kaun hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar walon ka ye pressure isliye hai kyunki mehnat ka grah abhi tumhare mann par dabav daal raha hai, ye June 2027 tak rahega. Iske liye har Saturday kaale til ka daan karo, isse ghar ka mahaul thoda halka hoga. Waise ghar mein ek aisa insaan hai jo tumhari situation samajhta toh hai par khul kar bol nahi pata—kya tumhein andaza hai wo kaun hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, ye sab dheere-dheere saaf ho jayega. Agle kuch mahino mein ek aisa mauka aayega jahan ghar wale tumhari baat maanenge, par usse pehle ek chhota sa risk hai—kisi se bhi paise udhaar mat lena, warna baat bigad sakti hai. Waise, kya tumne kabhi notice kiya hai ki ghar mein sabse zyada tumhare ideas ko kaun support karta hai, chahe chup-chap hi sahi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi, ye sab dheere-dheere saaf ho jayega. Agle kuch mahino mein ek aisa mauka aayega jahan ghar wale tumhari baat maanenge, par usse pehle ek chhota sa risk hai—kisi se bhi paise udhaar mat lena, warna baat bigad sakti hai. Waise, kya tumne kabhi notice kiya hai ki ghar mein sabse zyada tumhare ideas ko kaun support karta hai, chahe chup-chap hi sahi?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, waqt ke saath sab saaf ho jayega. Tumhari career ki kismat majboot hai, jo March 2027 se tumhe naya rasta dikhayegi. Tab tak Guruwar ko chana dal ka daan karo, isse career mein stability aayegi. 2027 mein ek aisa bada mauka aayega jab tumhari apni kamaai, ghar ke faislon par tumhara control badha degi—kya tumne career mein kisi nayi field ke baare mein socha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi baat nahi, waqt ke saath sab saaf ho jayega. Tumhari career ki kismat majboot hai, jo March 2027 se tumhe naya rasta dikhayegi. Tab tak Guruwar ko chana dal ka daan karo, isse career mein stability aayegi. 2027 mein ek aisa bada mauka aayega jab tumhari apni kamaai, ghar ke faislon par tumhara control badha degi—kya tumne career mein kisi nayi field ke baare mein socha hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi socha",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, abhi waqt hai. Tumhari kundli mein finance, teaching ya communication ke field mein acche yog hain, bas abhi dhyaan wahan nahi gaya. 2027 ke beech mein ek aisa mahina hai jab videsh ya ghar se door job ka bada mauka mil sakta hai, jo tumhari kismat palat sakta hai—kya tumne kabhi bahar jaane ke baare mein socha hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Koi baat nahi, abhi waqt hai. Tumhari kundli mein finance, teaching ya communication ke field mein acche yog hain, bas abhi dhyaan wahan nahi gaya. 2027 ke beech mein ek aisa mahina hai jab videsh ya ghar se door job ka bada mauka mil sakta hai, jo tumhari kismat palat sakta hai—kya tumne kabhi bahar jaane ke baare mein socha hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 300,
+    "idx": 22
+  }
+]

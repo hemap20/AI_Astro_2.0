@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Bataiye, aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Bataiye, aaj kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. Pichli baar aapne ghar ki shaadi ki tension aur savings ki baat batayi thi ji. Toh bataiye, abhi ghar wale rishte par kya keh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. Pichli baar aapne ghar ki shaadi ki tension aur savings ki baat batayi thi ji. Toh bataiye, abhi ghar wale rishte par kya keh rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan ek rishta dekh rahe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta pakka hone ka samay March 2027 se September 2028 ke beech hai ji. Yeh kisi jaan-pehchaan ke zariye hi aage badhega. Abhi jo dekh rahe hain, woh kiske through hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta pakka hone ka samay March 2027 se September 2028 ke beech hai ji. Yeh kisi jaan-pehchaan ke zariye hi aage badhega. Abhi jo dekh rahe hain, woh kiske through hai ji?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Rishtedar",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishtedaaron se hi baat pakki hone ka yog hai ji. Jeevansathi kaafi shaant aur samajhdar honge. Aane wale shukrawar se safed mithai ka daan shuru kar dijiyega ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Rishtedaaron se hi baat pakki hone ka yog hai ji. Jeevansathi kaafi shaant aur samajhdar honge. Aane wale shukrawar se safed mithai ka daan shuru kar dijiyega ji."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab badhega",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa rukne ki baat samajh sakti hoon ji. Yeh batayiye ki paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa rukne ki baat samajh sakti hoon ji. Yeh batayiye ki paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kharche zyada hain",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharche 2027 ke beech ke baad dheere-dheere control mein aane lagenge ji. Chandra ki kamzori ke kaaran bachat mein rukawat aati hai ji. Abhi aap khud kuch kama rahe hain ya padhai hi chal rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kharche 2027 ke beech ke baad dheere-dheere control mein aane lagenge ji. Chandra ki kamzori ke kaaran bachat mein rukawat aati hai ji. Abhi aap khud kuch kama rahe hain ya padhai hi chal rahi hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job kr rhi hu",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job mein tarakki March 2027 ke baad shuru hogi ji. Yeh career ke sthaan par Guru ki kripa se aage badhega. Aap abhi kis field mein job kar rahi hain ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Job mein tarakki March 2027 ke baad shuru hogi ji. Yeh career ke sthaan par Guru ki kripa se aage badhega. Aap abhi kis field mein job kar rahi hain ji?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Sales",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales mein communication ka asar achha rahega aur March 2027 ke baad tarakki tezi se milegi ji. Yeh Budh aur Guru ka yog hai jo kaam mein barkat deta hai ji. Abhi is job mein target ka pressure zyada hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Sales mein communication ka asar achha rahega aur March 2027 ke baad tarakki tezi se milegi ji. Yeh Budh aur Guru ka yog hai jo kaam mein barkat deta hai ji. Abhi is job mein target ka pressure zyada hai kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha bhot zyada",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Target ki yeh tension sach mein thaka deti hai ji, par June 2027 ke baad halat sudharne lagenge. Career ke sthaan par Shani ka daab hatne se rahat milegi ji. June 2027 ke baad kaam mein stability aur naye mauke aane ka samay zaroor aayega ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Target ki yeh tension sach mein thaka deti hai ji, par June 2027 ke baad halat sudharne lagenge. Career ke sthaan par Shani ka daab hatne se rahat milegi ji. June 2027 ke baad kaam mein stability aur naye mauke aane ka samay zaroor aayega ji."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 18
+  }
+]

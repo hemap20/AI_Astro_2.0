@@ -1,0 +1,173 @@
+{
+  "scores": {
+    "1.1": 3,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 8,
+    "2.5": 7,
+    "2.6": 9,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 8,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.93,
+  "shape": {
+    "M": 8,
+    "avg_words": 37.8,
+    "long_share": 0.75
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Kya aap abhi kisi interview ya exam ki taiyari kar rahe hain?",
+        "why": "The astrologer ignores the user's stated worry about when they will get a job and immediately asks a question."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aap abhi kisi interview ya exam ki taiyari kar rahe hain?",
+        "why": "All questions asked are Type B; they are relevant to the topic but could be asked to any user."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": ""
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Job ka accha yog March 2027 se September 2028 ke beech ban raha hai.",
+        "why": "The reading is about the future (Now), provides specific dates (New), and is specific, but lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Job ka accha yog March 2027 se September 2028 ke beech ban raha hai.",
+        "why": "A clear time window is provided as the answer to the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Is saal kismat aur gyaan ke grah ka daur hai, par karm ke grah ke dabav se thodi deri hai.",
+        "why": "The astrologer links life statements to chart factors (karm ke grah) in plain words twice."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 8,
+        "quote": "finance aur hisab-kitab ka kaam aapko bohot raas aayega",
+        "why": "The astrologer builds depth by using the user's detail (Banking) and adding new points about the career path."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Job ka accha yog March 2027 se September 2028 ke beech ban raha hai.",
+        "why": "A consistent time window is provided throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Karm ke grah ki rukaawat hatane ke liye Shanivar 21 November se 'Om Sham Shanaishcharaya Namah' 108 baar padhiye.",
+        "why": "The remedy is tied to the cause (karm ke grah) and includes specific instructions."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": ""
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ek ajeeb mod aapki aage ki tarakki mein dikhta hai.",
+        "why": "The astrologer opens a specific further layer regarding the user's career progression."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "",
+        "why": "No closing message was sent, and every reply carried relevant content."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ajeeb mod yeh hai ki aap pehle job karengi, par baad mein kisi trade ya service ke business ki taraf jayengi.",
+        "why": "The last message contains a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "",
+        "why": "No technical terms used without explanation and no formal language."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      }
+    ]
+  }
+}

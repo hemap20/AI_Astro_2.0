@@ -1,0 +1,113 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapki kya madad kar sakti hoon? Pichli baar humne career aur shaadi ki baat ki thi, kya aap us baare mein aur jaankari chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapki kya madad kar sakti hoon? Pichli baar humne career aur shaadi ki baat ki thi, kya aap us baare mein aur jaankari chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka bataiye",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se shuru ho raha hai. Career aur rishte dono ek saath badlenge. 2022 mein jab padhai ka daur badla tha, tab bhi kuch naya shuru hua tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se shuru ho raha hai. Career aur rishte dono ek saath badlenge. 2022 mein jab padhai ka daur badla tha, tab bhi kuch naya shuru hua tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha hua tha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wahi badlav ab aapke career aur shaadi ke yog ko majboot kar raha hai. Career aur rishton ka grah ek saath milkar 2027 mein badi khushi la rahe hain. Ek khaas mauka bhi aane wala hai, par kya aapne abhi kisi rishte ke baare mein socha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Wahi badlav ab aapke career aur shaadi ke yog ko majboot kar raha hai. Career aur rishton ka grah ek saath milkar 2027 mein badi khushi la rahe hain. Ek khaas mauka bhi aane wala hai, par kya aapne abhi kisi rishte ke baare mein socha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha, parents rishta dekh rahe",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Parents ka rishta dekhna sahi hai, 2027 se aapke career aur shaadi ke yog ek saath majboot ho rahe hain. Kya ghar par rishton ko lekar zyada tension hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Parents ka rishta dekhna sahi hai, 2027 se aapke career aur shaadi ke yog ek saath majboot ho rahe hain. Kya ghar par rishton ko lekar zyada tension hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ji ghar pe tension hai",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye tension bas waqt ka asar hai, 2027 se sab theek hoga. Ek khaas rishta aayega jo sab badal dega. Kya aapne apne hone wale jeevansathi ke nature ke baare mein socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ye tension bas waqt ka asar hai, 2027 se sab theek hoga. Ek khaas rishta aayega jo sab badal dega. Kya aapne apne hone wale jeevansathi ke nature ke baare mein socha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Aap batao",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke hone wale jeevansathi lambe, samajhdaar aur thode shant nature ke honge. Unka vyaktitva garamjoshi wala hoga, par wo apne dil ki baat thoda sambhal kar kahenge. Kya aapne kabhi socha hai ki aapke career ka naya mod aur ye rishta ek hi waqt par kyun aa rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapke hone wale jeevansathi lambe, samajhdaar aur thode shant nature ke honge. Unka vyaktitva garamjoshi wala hoga, par wo apne dil ki baat thoda sambhal kar kahenge. Kya aapne kabhi socha hai ki aapke career ka naya mod aur ye rishta ek hi waqt par kyun aa rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi, paisa ka kya",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka career, shaadi aur paisa teeno 2027 se sudhar rahe hain. Paise ka ghar abhi kamzor hai, isliye Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar kijiye. Shaadi par agli baar baat karungi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapka career, shaadi aur paisa teeno 2027 se sudhar rahe hain. Paise ka ghar abhi kamzor hai, isliye Guruvaar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar kijiye. Shaadi par agli baar baat karungi."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 14
+  }
+]

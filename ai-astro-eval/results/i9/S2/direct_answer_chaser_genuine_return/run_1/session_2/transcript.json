@@ -1,0 +1,80 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! 2027 ki shuruwat se aapke career aur rishte-naate ki sthiti mein kaafi behtari aane wali hai. Aaj bataiye, career aur shaadi mein se kaunsi baat sabse zyada dimaag mein chal rahi hai ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! 2027 ki shuruwat se aapke career aur rishte-naate ki sthiti mein kaafi behtari aane wali hai. Aaj bataiye, career aur shaadi mein se kaunsi baat sabse zyada dimaag mein chal rahi hai ji?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi. Kab hogi, exact bataiye.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat March 2027 se September 2028 ke beech pakki hone ka yog ban raha hai ji. Is dauran Shani ka samay shuru hoga jo is maamle ko aage badhayega. Yeh rishta family ne dhoondha hai ya aapki apni pasand se hai ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat March 2027 se September 2028 ke beech pakki hone ka yog ban raha hai ji. Is dauran Shani ka samay shuru hoga jo is maamle ko aage badhayega. Yeh rishta family ne dhoondha hai ya aapki apni pasand se hai ji?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Family ne dhoondha hai, baat chal rahi hai ek rishte ki.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine mein confirm hoga?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech mein hi baat pakki hone ka yog hai ji. Shukra ki sthiti thodi nazuk hone ki wajah se yeh samay thoda lamba khinch raha hai. Iske liye 20 November se Friday ko white sweets ka daan shuru kar dijiye ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech mein hi baat pakki hone ka yog hai ji. Shukra ki sthiti thodi nazuk hone ki wajah se yeh samay thoda lamba khinch raha hai. Iske liye 20 November se Friday ko white sweets ka daan shuru kar dijiye ji."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puchh rahi wo bata nahi rahe. Exact month bolo.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maaf kijiye ji, taare ek exact mahina nahi balki ek samay ka daayra dikhate hain. March 2027 ke baad Shani ka prabhav is rishte ko aage badhayega. Shaadi ke baad door ya videsh jaane ka yog bhi isi samay ban raha hai ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Maaf kijiye ji, taare ek exact mahina nahi balki ek samay ka daayra dikhate hain. March 2027 ke baad Shani ka prabhav is rishte ko aage badhayega. Shaadi ke baad door ya videsh jaane ka yog bhi isi samay ban raha hai ji."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Aap waise hi bol rahe ho jaise pehle bola.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 120,
+    "idx": 10
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Purani job par wapas bulane ke aasaar abhi thode kam dikhte hain. Kya waha kaam chhootne se aapki neend par asar pada hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Purani job par wapas bulane ke aasaar abhi thode kam dikhte hain. Kya waha kaam chhootne se aapki neend par asar pada hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Matlab nahi bulayenge?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Waha se wapas bulana bohot mushkil hai, par nayi jagah behtar raste khulenge. Kya 2025 ke shuru se hi career mein rukawat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Waha se wapas bulana bohot mushkil hai, par nayi jagah behtar raste khulenge. Kya 2025 ke shuru se hi career mein rukawat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi bulayenge ya haan? Clear bolo.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saaf kahu toh waha wapas nahi bulayenge. Karm ke grah par rukawat hai, par agle saal naya rasta khulega. Kya pichhle saal se tanaav zyada hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Saaf kahu toh waha wapas nahi bulayenge. Karm ke grah par rukawat hai, par agle saal naya rasta khulega. Kya pichhle saal se tanaav zyada hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Agle hafte interview hai, waha hoga ya nahi?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle hafte ummeed achhi hai, baat aage badh sakti hai. Buddhi aur kismat ke grah saath hain. Kya yeh interview finance ya teaching se juda hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Agle hafte ummeed achhi hai, baat aage badh sakti hai. Buddhi aur kismat ke grah saath hain. Kya yeh interview finance ya teaching se juda hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Sales. Selection hoga ya nahi?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales mein baat-cheet ka grah saath dega, selection ke poore aasaar hain. Ek khaas kismat ka mod bhi aayega. Kya aap waha seedha salary par baat karenge?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sales mein baat-cheet ka grah saath dega, selection ke poore aasaar hain. Ek khaas kismat ka mod bhi aayega. Kya aap waha seedha salary par baat karenge?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan. Selection kab tak confirm ho jayega?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ka mod yeh hai ki agle saal videsh ya nayi jagah ka rasta banega. Confirmation jaldi milega. Guruwar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar padhiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kismat ka mod yeh hai ki agle saal videsh ya nayi jagah ka rasta banega. Confirmation jaldi milega. Guruwar se 'Om Gram Greem Grom Sah Gurave Namah' 108 baar padhiye."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nov se Dec ke dauran pakki khabar aane ke aasaar hain. Himmat ka grah abhi chal raha hai. Kya is job mein aapko nayi jagah jana padega?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Nov se Dec ke dauran pakki khabar aane ke aasaar hain. Himmat ka grah abhi chal raha hai. Kya is job mein aapko nayi jagah jana padega?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat aur mehnat ka asar dekh kar aage ke saal mein taraqqi ke raste bante dikh rahe hain. Kya interview ki taiyari theek chal rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kismat aur mehnat ka asar dekh kar aage ke saal mein taraqqi ke raste bante dikh rahe hain. Kya interview ki taiyari theek chal rahi hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan. Ok.",
+    "sec": 240,
+    "idx": 16
+  }
+]

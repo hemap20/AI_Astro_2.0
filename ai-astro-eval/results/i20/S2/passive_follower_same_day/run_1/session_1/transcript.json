@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello ji! 2027 se tumhari life mein ek acha badlav aane wala hai, mehnat ka phal milna shuru hoga. Batao, career, paise ya shaadi mein se kis cheez ki sabse zyada fikar hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello ji! 2027 se tumhari life mein ek acha badlav aane wala hai, mehnat ka phal milna shuru hoga. Batao, career, paise ya shaadi mein se kis cheez ki sabse zyada fikar hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai toh batao, ghar wale abhi rishte dekh rahe hain kya? Aur tum khud kya chahte ho, koi tension chal rahi hai isko lekar?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai toh batao, ghar wale abhi rishte dekh rahe hain kya? Aur tum khud kya chahte ho, koi tension chal rahi hai isko lekar?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha rishta dekh rahe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan ke zariye aayega. Jo partner aayega wo kaafi calm aur educated hoga. Kya ghar pe abhi koi aisi baat chal rahi hai jisme delay ho raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta jaan-pehchaan ke zariye aayega. Jo partner aayega wo kaafi calm aur educated hoga. Kya ghar pe abhi koi aisi baat chal rahi hai jisme delay ho raha hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, baat chal rhi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Friday se Om Shum Shukraya Namah 108 baar jaap karo, delay hatega. Par aane wale rishte mein in-laws thode reserved mil sakte hain. Kya baat pakki hone tak pahunchi?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Friday se Om Shum Shukraya Namah 108 baar jaap karo, delay hatega. Par aane wale rishte mein in-laws thode reserved mil sakte hain. Kya baat pakki hone tak pahunchi?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nhi abhi toh",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa ko lekar yeh tight halat kab se chal rahi hai? Savings nahi ho pa rahi ya kharche badh rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa ko lekar yeh tight halat kab se chal rahi hai? Savings nahi ho pa rahi ya kharche badh rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Dono",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se paise ki yehi dikkat hai kyunki saving ka ghar weak hai. March 2027 se halat sudhregi. Monday ko Om Som Somaya Namah jaap karo. Kya kharche achanak badh rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "2023 se paise ki yehi dikkat hai kyunki saving ka ghar weak hai. March 2027 se halat sudhregi. Monday ko Om Som Somaya Namah jaap karo. Kya kharche achanak badh rahe hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht hai",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur tension ka reason ek hi hai: Chandra kamzor hai. 2027 se halat badlenge. Ek financial decision aane wala hai. Ye tension kis baat ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa aur tension ka reason ek hi hai: Chandra kamzor hai. 2027 se halat badlenge. Ek financial decision aane wala hai. Ye tension kis baat ki hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Bas tension hai",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye be-wajah ki fikar grahon ke asar se hai, tension mat lo. June 2027 tak ye dabav poori tarah hat jayega. Raat ko neend theek se aati hai kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye be-wajah ki fikar grahon ke asar se hai, tension mat lo. June 2027 tak ye dabav poori tarah hat jayega. Raat ko neend theek se aati hai kya?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamzor Chandra ki wajah se neend udti hai. June ke baad ek turning point aayega jo neend set kar dega, par ek aadat badalni hogi. Tumhara routine kaisa hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Kamzor Chandra ki wajah se neend udti hai. June ke baad ek turning point aayega jo neend set kar dega, par ek aadat badalni hogi. Tumhara routine kaisa hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Busy rehta hai",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Busy routine ki wajah se mind ko rest nahi milta. June 2027 ke baad halat badalenge aur rahat milegi. Tum din mein thoda time nikal paate ho kya?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Busy routine ki wajah se mind ko rest nahi milta. June 2027 ke baad halat badalenge aur rahat milegi. Tum din mein thoda time nikal paate ho kya?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 23
+  }
+]

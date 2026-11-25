@@ -1,0 +1,243 @@
+{
+  "scores": {
+    "1.1": null,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 8,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.44,
+  "shape": {
+    "M": 9,
+    "avg_words": 38.2,
+    "long_share": 1.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User shared no worry, feeling or story in the window."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya yeh sahi hai ki November 2022 se aapki padhai aur college life mein kaafi badlav aaye the?",
+        "why": "No Type C questions, and at least half are Type A."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "User's main question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya yeh sahi hai ki November 2022 se aapki padhai aur college life mein kaafi badlav aaye the?",
+        "why": "Now, New, and Specific are all yes, but no chart reason is given."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai.",
+        "why": "Clear direction and window given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Yeh tension mann ke grah ke kamzor hone se hai.",
+        "why": "Two or more linked readings provided."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke hone wale sasural wale kafi paramparik honge.",
+        "why": "Two or more later readings are each New and Uses."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai.",
+        "why": "A window is provided, and facts remain consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Tension kamai rokta hai, isliye Hanuman Chalisa shuru kijiye.",
+        "why": "Remedy is tied to the cause named in the reading."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Paisa March 2027 se sudhrega.",
+        "why": "Both questions get a full answer, in a stated order, with no reminder needed."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke partner ka nature ek khas disha mein hoga.",
+        "why": "Names one specific further thing about their concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Rishton ke liye 20 Nov se 'Om Shum Shukraya Namah' jaap kijiye.",
+        "why": "No closing message and none at all."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke hone wale sasural wale kafi paramparik honge.",
+        "why": "Both of the last two messages are real reading or guidance."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Yeh tension mann ke grah ke kamzor hone se hai.",
+        "why": "U is 0 and F is 0."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kya yeh sahi hai ki November 2022 se aapki padhai aur college life mein kaafi badlav aaye the?",
+        "why": "Changes approach in the very next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "reading"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      }
+    ]
+  }
+}

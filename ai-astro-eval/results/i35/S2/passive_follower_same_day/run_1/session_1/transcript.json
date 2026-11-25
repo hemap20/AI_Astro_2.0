@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main aapka bhavishya dekh sakti hoon. Aap sabse pehle kis baare mein jaanna chahte hain, career ya rishton ke baare mein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main aapka bhavishya dekh sakti hoon. Aap sabse pehle kis baare mein jaanna chahte hain, career ya rishton ke baare mein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Rishton ke grah ki kamzori se thoda intezar dikhta hai. 2023 se 2025 tak paise thode tight rahe, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Rishton ke grah ki kamzori se thoda intezar dikhta hai. 2023 se 2025 tak paise thode tight rahe, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke paise ki tangi aur career mein stress, dono ek hi wajah se hain: 10th ghar, jo career ka hota hai, abhi dheema hai. Shaadi ke liye ek khaas sanket dikh raha hai, par abhi thoda rukna hoga. Aap apne hone wale jeevansathi mein sabse pehle kya qualities chahti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapke paise ki tangi aur career mein stress, dono ek hi wajah se hain: 10th ghar, jo career ka hota hai, abhi dheema hai. Shaadi ke liye ek khaas sanket dikh raha hai, par abhi thoda rukna hoga. Aap apne hone wale jeevansathi mein sabse pehle kya qualities chahti hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kya 10th ghar?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe hai",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "10th ghar career ka hota hai, jo aapki kismat aur kaam ki raftaar batata hai. Wo sanket ye hai ki rishta jaankari walon mein se hi aayega. Kya aapke ghar wale kisi jaan-pehchan wale se baat kar rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "10th ghar career ka hota hai, jo aapki kismat aur kaam ki raftaar batata hai. Wo sanket ye hai ki rishta jaankari walon mein se hi aayega. Kya aapke ghar wale kisi jaan-pehchan wale se baat kar rahe hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta chal rha hai",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo sanket ye hai ki rishta jaankari mein se hai aur hone wale saathi kaafi shant honge. Shukra ke liye 'Om Shum Shukraya Namah' jaap shukravaar se shuru kijiye. Kya ladke wale pehle se parivaar ko jaante hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Wo sanket ye hai ki rishta jaankari mein se hai aur hone wale saathi kaafi shant honge. Shukra ke liye 'Om Shum Shukraya Namah' jaap shukravaar se shuru kijiye. Kya ladke wale pehle se parivaar ko jaante hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab thik hoga",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se September 2028 ke beech sudharne lagega. Career aur paisa dono ek hi time par theek honge, kyunki mehnat ka fal tabhi milega. Kya aap abhi naya kaam dhoondh rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa March 2027 se September 2028 ke beech sudharne lagega. Career aur paisa dono ek hi time par theek honge, kyunki mehnat ka fal tabhi milega. Kya aap abhi naya kaam dhoondh rahi hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension h",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki tension aur paisa, dono mann ke kamzor hone se jude hain. Rishta jahan ja raha hai, wahan ke bade thode sakht ho sakte hain. Kya aapko unse milne ka mauka mila?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapki tension aur paisa, dono mann ke kamzor hone se jude hain. Rishta jahan ja raha hai, wahan ke bade thode sakht ho sakte hain. Kya aapko unse milne ka mauka mila?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Darr lag rha h",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Himmat ka grah abhi prabhavit hai. Aapke sasural wale paramparik honge, aur wahan ek vyakti aapko samjhega, par wo kaun hai ye abhi saaf nahi. Mangal ke liye mangalvaar se Hanuman Chalisa shuru kijiye. Kya ghar wale aapki baat sunte hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Himmat ka grah abhi prabhavit hai. Aapke sasural wale paramparik honge, aur wahan ek vyakti aapko samjhega, par wo kaun hai ye abhi saaf nahi. Mangal ke liye mangalvaar se Hanuman Chalisa shuru kijiye. Kya ghar wale aapki baat sunte hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pareshani aur ghar walo ka vyavahar, dono mein waqt ke saath sudhaar aayega. Main samajh sakti hoon ye samay mushkil hai. Aapki kundli mein ghar mein shanti ke yog bhi likhe hain.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Pareshani aur ghar walo ka vyavahar, dono mein waqt ke saath sudhaar aayega. Main samajh sakti hoon ye samay mushkil hai. Aapki kundli mein ghar mein shanti ke yog bhi likhe hain."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

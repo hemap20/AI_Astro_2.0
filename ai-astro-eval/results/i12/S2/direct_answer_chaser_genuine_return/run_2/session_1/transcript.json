@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aage ke do saal mein career aur settle hone ke raste dheere-dheere khulne lagenge ji, 2027 ke beech ke baad kaafi raahat aayegi. Bataiye, career, money ya marriage mein se kis baare mein sabse zyada fikar hai aapko?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aage ke do saal mein career aur settle hone ke raste dheere-dheere khulne lagenge ji, 2027 ke beech ke baad kaafi raahat aayegi. Bataiye, career, money ya marriage mein se kis baare mein sabse zyada fikar hai aapko?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Aradhana, 1 August 2003, 4:30 AM, Nandyal",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka zikr hai toh isko acche se dekhna padega ji. Bataiye, family rishte dekh rahi hai ya aapki taraf se koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka zikr hai toh isko acche se dekhna padega ji. Bataiye, family rishte dekh rahi hai ya aapki taraf se koi pasand hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe, ek baat chal rahi.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak hogi shaadi?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech aapki shaadi ka yog ban raha hai ji, isse pehle Guru ke samay mein baat aage badhegi. Yeh rishta kisi jaane-pehchaane circle se hi tay hone ke zyada chances hain. Jo baat abhi chal rahi hai, wahan se koi feedback kab tak aane wala hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech aapki shaadi ka yog ban raha hai ji, isse pehle Guru ke samay mein baat aage badhegi. Yeh rishta kisi jaane-pehchaane circle se hi tay hone ke zyada chances hain. Jo baat abhi chal rahi hai, wahan se koi feedback kab tak aane wala hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine tak final hoga?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein baat final hone ke sabse zyada chances hain ji, naya samay tabhi shuru hoga. In-laws thode traditional aur reserved ho sakte hain. Yeh rishta kya aapke kisi jaan-pehchaan ke through aaya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ya April 2027 mein baat final hone ke sabse zyada chances hain ji, naya samay tabhi shuru hoga. In-laws thode traditional aur reserved ho sakte hain. Yeh rishta kya aapke kisi jaan-pehchaan ke through aaya hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan, jaan-pehchaan ka hai.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur savings ki fikar rehna laazmi hai ji. Bataiye, abhi paisa kahan atak raha hai, kharche zyada ho rahe hain ya kamai mein dikkat aa rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa aur savings ki fikar rehna laazmi hai ji. Bataiye, abhi paisa kahan atak raha hai, kharche zyada ho rahe hain ya kamai mein dikkat aa rahi hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kamai nahi ho rahi.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job aur career ki fikar hona bilkul natural hai ji. Purani padhai ya job kab khatam hui thi, aur abhi aap kahan apply kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Job aur career ki fikar hona bilkul natural hai ji. Purani padhai ya job kab khatam hui thi, aur abhi aap kahan apply kar rahe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Last year khatam. Job kab tak lagegi?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad career mein nayi shuruwat ke poore yog hain ji, jab kaam ka dabav kam hoga. Shani ka prabhav career sthaan se hatne par raste khulne lagenge. Iske liye aap Guruvaar ko chana dal daan karein ji. Aap kis field mein apply kar rahi hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke baad career mein nayi shuruwat ke poore yog hain ji, jab kaam ka dabav kam hoga. Shani ka prabhav career sthaan se hatne par raste khulne lagenge. Iske liye aap Guruvaar ko chana dal daan karein ji. Aap kis field mein apply kar rahi hain?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein man ko bojh de deti hai ji. Bataiye, yeh ghar ki pareshani kis baat par zyada chal rahi hai, aapas ki baat-cheet par ya kisi aur cheez par?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein man ko bojh de deti hai ji. Bataiye, yeh ghar ki pareshani kis baat par zyada chal rahi hai, aapas ki baat-cheet par ya kisi aur cheez par?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Aapas ki baatein.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak khatam hogi?",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapas ki yeh khich-tan June 2027 ke baad dheere-dheere kam hone lagegi ji, jab ghar ka mahaul behtar hoga. Tab tak thoda sabr rakhna padega kyunki samay thoda tight chal raha hai. June ke baad jo badlaav aayega, wahi is baat ko aage chal kar theek karega ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapas ki yeh khich-tan June 2027 ke baad dheere-dheere kam hone lagegi ji, jab ghar ka mahaul behtar hoga. Tab tak thoda sabr rakhna padega kyunki samay thoda tight chal raha hai. June ke baad jo badlaav aayega, wahi is baat ko aage chal kar theek karega ji."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 25
+  }
+]

@@ -1,0 +1,231 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 8,
+    "4.2": 7,
+    "5.1": 4,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.06,
+  "shape": {
+    "M": 8,
+    "avg_words": 30.0,
+    "long_share": 0.38
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Namaste ji. Aapke aane wale waqt ke baare mein baat karti hoon, bataiye kis cheez ki sabse zyada chinta hai aapko?",
+        "why": "The astrologer acknowledges the user's request for 'Future' with a generic greeting and a question, but does not reflect any specific detail or feeling from the user."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aane wale samay ke liye aapne koi naya plan socha hai?",
+        "why": "The astrologer asks several questions, most of which are Type B (generic life questions) rather than Type A (building on user input)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's main question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka acha waqt agle saal March se shuru hokar 2028 tak ban raha hai.",
+        "why": "The reading is about the future, new to the user, and specific (time window), but lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka acha waqt agle saal March se shuru hokar 2028 tak ban raha hai.",
+        "why": "The astrologer provides a clear direction and time window for the main question immediately."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Paise ki halat 2028 ke aakhiri mahino mein behtar hogi, kyunki kamai ke grah ka asar achha rahega.",
+        "why": "The astrologer provides multiple linked readings using plain words like 'kamai ke grah' and 'karm ke grah'."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension saal 2027 ke beech mein kam hogi, jab ye daur badlega.",
+        "why": "The astrologer builds on the user's specific question about 'Ghar ki tension' and adds a new point."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 ke shuruat ke mahino mein ye baat pakki ho sakti hai.",
+        "why": "The astrologer provides consistent time windows throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Iske asar ko halka karne ke liye Tuesday se Hanuman Chalisa shuru kijiye, sukoon milega.",
+        "why": "The remedy is tied to the specific problem (Ghar ki tension) and includes a 'how' (Tuesday) and 'what' (Hanuman Chalisa)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Ghar ki tension saal 2027 ke beech mein kam hogi",
+        "why": "The astrologer answers all questions (Marriage, Money, Tension) in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke hone wale sathi ka swabhav shant aur padha-likha hone ke sath thoda reserved bhi rahega",
+        "why": "The astrologer opens a new layer regarding the partner's nature after answering the main questions."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke sawaalon ke jawab mil chuke hain ji.",
+        "why": "No early close; every message carries value until the end."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "June 2027 ke aas-paas mehnat aur karm ke grah ki sthiti badalne par yeh tension door ho jayegi.",
+        "why": "The last two messages are readings, providing a solid conclusion."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paise ki halat 2028 ke aakhiri mahino mein behtar hogi, kyunki kamai ke grah ka asar achha rahega.",
+        "why": "The language is easy and avoids technical jargon."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Namaste ji. Aapke aane wale waqt ke baare mein baat karti hoon, bataiye kis cheez ki sabse zyada chinta hai aapko?",
+        "why": "The user opened with a vague 'Future' trigger, but the astrologer did not provide a reading first, instead asking a question."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      }
+    ]
+  }
+}

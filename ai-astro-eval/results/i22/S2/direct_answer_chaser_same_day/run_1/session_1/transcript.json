@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad se life mein naye mauke aur badlav aane lagenge. Yeh batao, abhi sabse zyada tension kis cheez ko lekar hai - career, paise ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 ke baad se life mein naye mauke aur badlav aane lagenge. Yeh batao, abhi sabse zyada tension kis cheez ko lekar hai - career, paise ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2025 ke baad se rishte ya shaadi ki baatein ghar pe chali thin na? Abhi family wale kya soch rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2025 ke baad se rishte ya shaadi ki baatein ghar pe chali thin na? Abhi family wale kya soch rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rhe hai ek. Kab tak fix hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki ho sakti hai, yeh kisi jaan-pehchaan se aayega. Partner thoda reserved ho sakta hai, yeh dhyan rakhna. Friday ko safed mithai daan kiya karo. Kya yeh rishta bhi kisi apne ke through hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki ho sakti hai, yeh kisi jaan-pehchaan se aayega. Partner thoda reserved ho sakta hai, yeh dhyan rakhna. Friday ko safed mithai daan kiya karo. Kya yeh rishta bhi kisi apne ke through hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Apno ke through hi hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Par exact kaunsa month?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein baat pakki hone ka sabse strong yog hai, baaki window toh open hai. Par in-laws thode traditional aur reserved ho sakte hain, unhe handle karne ka ek alag tareeka hota hai. Tumhe khud kaise log pasand hain, khule vichar wale ya strict?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ya April 2027 mein baat pakki hone ka sabse strong yog hai, baaki window toh open hai. Par in-laws thode traditional aur reserved ho sakte hain, unhe handle karne ka ek alag tareeka hota hai. Tumhe khud kaise log pasand hain, khule vichar wale ya strict?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Khule vichar wale. Paisa kab badhega?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 ke beech paise ko lekar thoda tight samay raha hai na? Abhi savings mein dikkat aa rahi hai ya kharche badh gaye hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2023 se 2025 ke beech paise ko lekar thoda tight samay raha hai na? Abhi savings mein dikkat aa rahi hai ya kharche badh gaye hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Dono.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab badhega, year batao.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "October 2028 se February 2030 ke beech paise mein tezi aayegi. Par usse pehle ek mahina aisa aayega jab achanak kharcha fisal sakta hai. Monday ko Shiv ji ko doodh chadhaya karo, bachat hone lagegi. Kya ghar wale is tension mein saath dete hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "October 2028 se February 2030 ke beech paise mein tezi aayegi. Par usse pehle ek mahina aisa aayega jab achanak kharcha fisal sakta hai. Monday ko Shiv ji ko doodh chadhaya karo, bachat hone lagegi. Kya ghar wale is tension mein saath dete hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein yeh sab tension kab se chal rahi hai, aur kis baat ko lekar sabse zyada behas hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar mein yeh sab tension kab se chal rahi hai, aur kis baat ko lekar sabse zyada behas hoti hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "2 saal se. Tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ki yeh tension hatne lagegi. 2027 mein ek mahina aisa aayega jo poora rukh badal sakta hai, bas ek galat kadam mat uthana. Kya tumne yeh sab kisi ke sath share kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ki yeh tension hatne lagegi. 2027 mein ek mahina aisa aayega jo poora rukh badal sakta hai, bas ek galat kadam mat uthana. Kya tumne yeh sab kisi ke sath share kiya hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. June 2027 mein kaunsa month exact?",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ka mahina hi wo turning point hai jab yeh purana dabav poori tarah hatne lagega. Kya is dauran career ko lekar koi naya plan soch rahe ho?",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 ka mahina hi wo turning point hai jab yeh purana dabav poori tarah hatne lagega. Kya is dauran career ko lekar koi naya plan soch rahe ho?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 21
+  }
+]

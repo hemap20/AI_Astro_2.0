@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aane wale waqt yaani bhavishya ke baare mein aap kya sabse pehle jaanna chahti hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aane wale waqt yaani bhavishya ke baare mein aap kya sabse pehle jaanna chahti hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog march 2027 ke baad ban raha hai. Kya november 2022 mein aapki padhai ya college ki life mein koi badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog march 2027 ke baad ban raha hai. Kya november 2022 mein aapki padhai ya college ki life mein koi badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month tak?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, badlaav aaya tha.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se June 2027 ke beech ka samay sabse sahi hai. Sathi ke baare mein ek khaas baat hai jo baad mein bataungi. Jab tanaav hota hai, tab aap kya karti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se June 2027 ke beech ka samay sabse sahi hai. Sathi ke baare mein ek khaas baat hai jo baad mein bataungi. Jab tanaav hota hai, tab aap kya karti hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kb aayega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sathi kafi shant aur padhe-likhe honge, inke liye veerwar ko chana daal daan kijiye. Paise ki halat march 2027 ke baad sudhregi. Kya kamai ke liye naya kaam socha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Sathi kafi shant aur padhe-likhe honge, inke liye veerwar ko chana daal daan kijiye. Paise ki halat march 2027 ke baad sudhregi. Kya kamai ke liye naya kaam socha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Abhi toh nahi.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kb khatam hogi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension june 2027 tak theek ho jayegi. Iske liye shanivar ko kaale til ka daan kijiye. Jab tanaav hota hai, tab aap khud ko kaise sambhalti hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension june 2027 tak theek ho jayegi. Iske liye shanivar ko kaale til ka daan kijiye. Jab tanaav hota hai, tab aap khud ko kaise sambhalti hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Roti hu.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aur kuch?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rona nikal jane se mann ka bojh thoda halka hota hai. Agle saal videsh jane ka bhi yog ban raha hai. Kya aapne kabhi bahar jane ka socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rona nikal jane se mann ka bojh thoda halka hota hai. Agle saal videsh jane ka bhi yog ban raha hai. Kya aapne kabhi bahar jane ka socha hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Konse desh?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Chart mein desh ka naam nahi dekhti hoon, bas videsh ka yog hai. Iske liye safed mithai daan kijiye. Kya aapko safar karna pasand hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Chart mein desh ka naam nahi dekhti hoon, bas videsh ka yog hai. Iske liye safed mithai daan kijiye. Kya aapko safar karna pasand hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Videsh ka exact kab?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Aap bas gol gol ghuma rahe ho.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maaf kijiye, aapki chinta samajh sakti hoon. Videsh ka yog 2027 aur 2028 ke beech ka hai, kyunki door ke sthan ka grah asar daal raha hai. Kya aapko lambe safar pasand hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Maaf kijiye, aapki chinta samajh sakti hoon. Videsh ka yog 2027 aur 2028 ke beech ka hai, kyunki door ke sthan ka grah asar daal raha hai. Kya aapko lambe safar pasand hain?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 23
+  }
+]

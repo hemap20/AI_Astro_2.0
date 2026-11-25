@@ -1,0 +1,144 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani jagah wapsi mushkil hai ji. March 2027 ke baad naye raste khulenge. Shani ki vajah se abhi delay hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani jagah wapsi mushkil hai ji. March 2027 ke baad naye raste khulenge. Shani ki vajah se abhi delay hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Matlab purani job bilkul nahi milegi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rasta bilkul band nahi hai ji. Par Shani ke asar se purani jagah stress rahega. March ke baad naye raste behtar rahenge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Rasta bilkul band nahi hai ji. Par Shani ke asar se purani jagah stress rahega. March ke baad naye raste behtar rahenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, purani job milegi ya nahi? Haan ya na.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na ji, purani jagah wapsi mushkil hai. March ke baad naye raste khulenge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Na ji, purani jagah wapsi mushkil hai. March ke baad naye raste khulenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Agli job kab tak milegi?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech agli job mil jayegi ji. Guru strong hai isme.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech agli job mil jayegi ji. Guru strong hai isme.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak milegi? Exact mahina batao.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Next week interview hai, kya usme hoga?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Next week mushkil hai ji. Mangal ke chalte abhi delay rahega. March 2027 mein solid rasta banega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Next week mushkil hai ji. Mangal ke chalte abhi delay rahega. March 2027 mein solid rasta banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao, range mat do.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka gussa bilkul jayaz hai ji. Shani ke chal se timing thodi upar-neeche ho jati hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka gussa bilkul jayaz hai ji. Shani ke chal se timing thodi upar-neeche ho jati hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Month batao, 2027 me kab.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi baat hai ji. June 2027 ke aas-paas Shani ka asar hatega, tab pakka rasta khulega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Sahi baat hai ji. June 2027 ke aas-paas Shani ka asar hatega, tab pakka rasta khulega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  }
+]

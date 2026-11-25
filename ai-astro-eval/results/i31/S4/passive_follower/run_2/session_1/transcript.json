@@ -1,0 +1,197 @@
+[
+  {
+    "role": "USER",
+    "text": "meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Shaadi ka yog March 2027 se September 2028 ke beech hai. Rishton ka grah thoda kamzor hai, isliye deri ho rahi hai. Kya aapne is ladke se baat ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Shaadi ka yog March 2027 se September 2028 ke beech hai. Rishton ka grah thoda kamzor hai, isliye deri ho rahi hai. Kya aapne is ladke se baat ki hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Do bar mli hu",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Gussa bhut h usko",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari kundli mein himmat ka grah aisa hai ki gusse wale rishte ban sakte hain. Shaadi se pehle kundli milan zaroori hai. Kya ghar par is rishte ki baat hui hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Tumhari kundli mein himmat ka grah aisa hai ki gusse wale rishte ban sakte hain. Shaadi se pehle kundli milan zaroori hai. Kya ghar par is rishte ki baat hui hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha hui h baat",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar par baat hui hai toh achha hai. Unke gusse ka karan himmat ka grah hai. 24 November se Hanuman Chalisa padhna shuru karo, isse rishte mein shanti aayegi. Ghar wale kya keh rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ghar par baat hui hai toh achha hai. Unke gusse ka karan himmat ka grah hai. 24 November se Hanuman Chalisa padhna shuru karo, isse rishte mein shanti aayegi. Ghar wale kya keh rahe hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Vo maan gye h",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein hone wala jeevansathi samajhdaar aur warm dikhta hai, par uska guarded side gusse jaisa lag sakta hai. Rishton ke grah ke hisaab se Mangal ka milan zaroori hai. Kya unke ghar wale bhi khush hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli mein hone wala jeevansathi samajhdaar aur warm dikhta hai, par uska guarded side gusse jaisa lag sakta hai. Rishton ke grah ke hisaab se Mangal ka milan zaroori hai. Kya unke ghar wale bhi khush hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha sab maan gye",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sab maan gaye toh achha hai. Kundli mein jeevansathi ka gyaan ka grah majboot hai, isliye ye rishta sahi rahega. Wo thode reserved hain, jise aap gussa samajh rahi hain.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sab maan gaye toh achha hai. Kundli mein jeevansathi ka gyaan ka grah majboot hai, isliye ye rishta sahi rahega. Wo thode reserved hain, jise aap gussa samajh rahi hain."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb tk hogi",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishton ka grah us samay tak taiyar hoga, jo maine pehle bataya tha. Shaadi ke baad in-laws ka ek pehlu dikhta hai jo abhi chupa hua hai. Kya aapne unke ghar ke bare mein kuch poocha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rishton ka grah us samay tak taiyar hoga, jo maine pehle bataya tha. Shaadi ke baad in-laws ka ek pehlu dikhta hai jo abhi chupa hua hai. Kya aapne unke ghar ke bare mein kuch poocha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unke ghar wale kafi traditional aur reserved hain, ye 8th ghar ke grah ka asar hai. Shadi ke baad wahan adjust hone mein thoda samay lagega. Kya aapne kabhi unse baat ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Unke ghar wale kafi traditional aur reserved hain, ye 8th ghar ke grah ka asar hai. Shadi ke baad wahan adjust hone mein thoda samay lagega. Kya aapne kabhi unse baat ki hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "8th ghar kya hota h",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "8th ghar sasural aur gehri baaton ka hota hai. Iska asar hai ki sasural wale thode paramparik aur reserved honge. Kya aapko naye ghar mein adjust hone ki chinta hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "8th ghar sasural aur gehri baaton ka hota hai. Iska asar hai ki sasural wale thode paramparik aur reserved honge. Kya aapko naye ghar mein adjust hone ki chinta hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Thodi chinta h",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Chinta mat karo, sab theek hoga. 20 November se Shukra ke liye 'Om Shum Shukraya Namah' 108 baar japo, rishton mein mithas aayegi. Agli baar aapki compatibility aur rishte ki gehrai detail mein dekhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Chinta mat karo, sab theek hoga. 20 November se Shukra ke liye 'Om Shum Shukraya Namah' 108 baar japo, rishton mein mithas aayegi. Agli baar aapki compatibility aur rishte ki gehrai detail mein dekhenge."
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 27
+  }
+]

@@ -1,0 +1,235 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 6,
+    "2.5": 7,
+    "2.6": 4,
+    "2.7": null,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 6,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.4,
+  "shape": {
+    "M": 8,
+    "avg_words": 30.2,
+    "long_share": 0.25
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2022 ke aaspas aapki padhai mein koi badlaav aaya tha?",
+        "why": "The astrologer acknowledges the user's study status by asking about a change in studies in 2022."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Abhi kis field mein hain?",
+        "why": "Most questions are Type B (generic life questions), with only one Type A question."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "March 2027 se September 2028 ke beech achhi job lagne ke yog hain",
+        "why": "The first reading is about the future, not the present or past."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 se September 2028 ke beech achhi job lagne ke yog hain",
+        "why": "A clear direction and time window are provided for the main question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "2nd ghar kamzor hone se paisa abhi tikta nahi hai",
+        "why": "A linked reading is provided in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Rahu ke 12ve ghar mein hone se bahar se kaam ka mauka ban raha hai",
+        "why": "Later readings are new, but do not use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech achhi job lagne ke yog hain",
+        "why": "A consistent time window is provided."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Thu ko chana dal daan karein",
+        "why": "A stock remedy is given without a clear link to the specific problem."
+      },
+      "2.7": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user did not change the topic."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "videsh se juda ek khas mauka bhi dikh raha hai",
+        "why": "A specific further thing (foreign opportunity) is named."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "March 2027 se September 2028 ke beech paisa tikna shuru ho jayega. Kya aap abhi shaadi ke baare mein bhi soch rahi hain?",
+        "why": "No closing message and no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 se September 2028 ke beech paisa tikna shuru ho jayega",
+        "why": "The last message contains a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Rahu ke 12ve ghar mein hone se bahar se kaam ka mauka ban raha hai",
+        "why": "Technical terms like Rahu and Budh are used without explanation."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No trigger occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "question"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "question"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "question"
+      },
+      {
+        "idx": 20,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      }
+    ]
+  }
+}

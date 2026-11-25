@@ -1,0 +1,231 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 7.06,
+  "shape": {
+    "M": 6,
+    "avg_words": 29.5,
+    "long_share": 0.33
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka achha daur agle saal se shuru hoga.",
+        "why": "Repeats the detail about marriage."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya aapko yaad hai ki saal 2023 mein mehnat karne ke baad bhi paise ki thodi tangi mehsoos hui thi?",
+        "why": "More than half the questions are Type B (generic)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Woh ladka padha-likha, shant aur warm swabhav ka hoga",
+        "why": "Asks about the boy with a reason (to assess compatibility)."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapki shaadi ka achha daur agle saal se shuru hoga.",
+        "why": "About the present/future, but generic and not specific."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Haan, woh ladka theek ho sakta hai.",
+        "why": "Clear direction given before counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Main dekh sakti hoon, yeh gussa himmat aur kamai ka grah ki nazar se hai.",
+        "why": "One linked reading using plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mene usse do baar mil liya hai, wo short-tempered lagta hai. ... Main dekh sakti hoon, yeh gussa himmat aur kamai ka grah ki nazar se hai.",
+        "why": "One later reading is New and Uses user detail."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "June 2027 ke aas-paas ka samay shaadi ke liye theek lagta hai.",
+        "why": "Window provided, facts consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Iske asar ke liye aap 21 Nov se kale til ka daan kijiye.",
+        "why": "Remedy tied to the cause (asar of in-laws/reserved nature)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki shaadi ka achha daur agle saal se shuru hoga. ... June 2027 ke aas-paas ka samay shaadi ke liye theek lagta hai.",
+        "why": "Both questions (marriage timing and boy compatibility) answered."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Karm aur mehnat ka daur badalne par baat aage badhegi.",
+        "why": "Names a specific further thing about the concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Haan, woh daur kismat aur mehnat ke badlav se pakka ho sakta hai.",
+        "why": "No closing message, no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Haan, woh daur kismat aur mehnat ke badlav se pakka ho sakta hai.",
+        "why": "One of the last two messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka achha daur agle saal se shuru hoga.",
+        "why": "No technical terms, no formal language."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No trigger."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "other"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "question"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "question"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "question"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise ho aap? March ke baad marriage yog hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise ho aap? March ke baad marriage yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ji. Ok.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar par rishte ki baat chal rahi hai kya ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ghar par rishte ki baat chal rahi hai kya ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha baat chal rahi hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte ki baat achhi hai ji. March 2027 ke baad shadi pakki. Partner bahut calm aur educated hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishte ki baat achhi hai ji. March 2027 ke baad shadi pakki. Partner bahut calm aur educated hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad debt kam hoga ji. Savings bhi dheere-dheere sudhregi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke baad debt kam hoga ji. Savings bhi dheere-dheere sudhregi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension h",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension Shani ke asar se hai ji. June 2027 ke baad sab thik ho jayega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki tension Shani ke asar se hai ji. June 2027 ke baad sab thik ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya finance field achha hai ji. 2027 mein foreign travel yog hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Teaching ya finance field achha hai ji. 2027 mein foreign travel yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Foreign jane ka chance h?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, 2027 se 2028 mein foreign yog hai ji. 12th house mein Rahu ka asar hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, 2027 se 2028 mein foreign yog hai ji. 12th house mein Rahu ka asar hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kya?",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "12th house Rahu foreign bhejega ji. 2027 mein chance strong hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "12th house Rahu foreign bhejega ji. 2027 mein chance strong hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Job milega?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad job pakki. Guru ki strong position hai. Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, teaching field se judi hui.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 ke baad job pakki. Guru ki strong position hai. Aapki kundli mein career ke baare mein ek aur zaroori cheez dikh rahi hai, teaching field se judi hui.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Budh aur Guru ka yog hai ji. Teaching ya finance mein badi safalta milegi.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Budh aur Guru ka yog hai ji. Teaching ya finance mein badi safalta milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 24
+  }
+]

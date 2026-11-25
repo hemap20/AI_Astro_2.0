@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Aap \"future\" ke baare mein kya jaanna chahti hain, kaam, shaadi ya paise? Bataiye, main dekh kar batati hoon.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Aap \"future\" ke baare mein kya jaanna chahti hain, kaam, shaadi ya paise? Bataiye, main dekh kar batati hoon."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke baare mein dekhna achha hai. Aapki kundli mein shaadi ka time theek hai, lekin thoda sochna padega. Kya aap abhi unmarried hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ke baare mein dekhna achha hai. Aapki kundli mein shaadi ka time theek hai, lekin thoda sochna padega. Kya aap abhi unmarried hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha unmarried",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, samajh sakti hoon, shaadi ki baat mann mein bahut chalti hogi. Aap unmarried hain, to shaadi ka samay saaf dikhta hai. Ek baat batayiye, abhi ghar mein shaadi ki baat kab se shuru hui hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, samajh sakti hoon, shaadi ki baat mann mein bahut chalti hogi. Aap unmarried hain, to shaadi ka samay saaf dikhta hai. Ek baat batayiye, abhi ghar mein shaadi ki baat kab se shuru hui hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Mummy papa dekh rahe. Ek rishta aaya.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, rishte ki baat aana achha sanket hai. Aapki kundli mein shaadi ki pehli khidki Mar 2027 se Sep 2028 ke beech khulti hai. Kya aap confirm kar sakti hain ki Nov 2022 se padhai aur college ka samay badal gaya tha?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, rishte ki baat aana achha sanket hai. Aapki kundli mein shaadi ki pehli khidki Mar 2027 se Sep 2028 ke beech khulti hai. Kya aap confirm kar sakti hain ki Nov 2022 se padhai aur college ka samay badal gaya tha?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, paise ki halat abhi thodi tight lagti hai, par dheere-dheere sudhar hoga. Mar 2027 se Sep 2028 ke beech karz kam hota dikhta hai. Kya aap bata sakti hain, paise abhi kaam ya padhai se aate hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, paise ki halat abhi thodi tight lagti hai, par dheere-dheere sudhar hoga. Mar 2027 se Sep 2028 ke beech karz kam hota dikhta hai. Kya aap bata sakti hain, paise abhi kaam ya padhai se aate hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Padhai",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein tension hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, padhai ke saath ghar ki tension ho to mann bhari rehta hai, samajh sakti hoon. Aapki kundli mein Mar 2025 se Nov 2026 ka samay thoda bhaari raha, neend aur mehnat pe asar dikha. Ghar mein sabse zyada tension kis baat ko lekar rehti hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, padhai ke saath ghar ki tension ho to mann bhari rehta hai, samajh sakti hoon. Aapki kundli mein Mar 2025 se Nov 2026 ka samay thoda bhaari raha, neend aur mehnat pe asar dikha. Ghar mein sabse zyada tension kis baat ko lekar rehti hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa issue",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, paise ki tension mein neend bhi kam ho jaati hai, ye bahut aam hai. Aapki kundli mein kamai ka grah Mangal mazboot hai, isliye paise ka rasta khulega. Mar 2027 se Sep 2028 ke beech karz dheere-dheere utarta dikhta hai. Kya aap bata sakti hain ki ye paise ki dikkat kab se shuru hui?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, paise ki tension mein neend bhi kam ho jaati hai, ye bahut aam hai. Aapki kundli mein kamai ka grah Mangal mazboot hai, isliye paise ka rasta khulega. Mar 2027 se Sep 2028 ke beech karz dheere-dheere utarta dikhta hai. Kya aap bata sakti hain ki ye paise ki dikkat kab se shuru hui?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, aap pareshan mat hoiye. Aapki kundli mein Mangal, jo himmat aur kamai ka grah hai, mazboot hai, isliye paise ka rasta dheere-dheere khulega. Kya aap bata sakti hain ki padhai abhi kis line mein chal rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi ji, aap pareshan mat hoiye. Aapki kundli mein Mangal, jo himmat aur kamai ka grah hai, mazboot hai, isliye paise ka rasta dheere-dheere khulega. Kya aap bata sakti hain ki padhai abhi kis line mein chal rahi hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Arts",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, arts mein padhai achhi disha hai, aapki buddhi aur baat-cheet ka grah Budh aur Guru saath dikhte hain. Aapki kundli mein Guru ka grah kismat aur gyaan ka hai, jo mehnat ka phal deta hai. Kya aap bata sakti hain ki padhai ke baad aap kaam karna chahti hain ya ghar par rehna?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ji, arts mein padhai achhi disha hai, aapki buddhi aur baat-cheet ka grah Budh aur Guru saath dikhte hain. Aapki kundli mein Guru ka grah kismat aur gyaan ka hai, jo mehnat ka phal deta hai. Kya aap bata sakti hain ki padhai ke baad aap kaam karna chahti hain ya ghar par rehna?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kaam karna hai",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

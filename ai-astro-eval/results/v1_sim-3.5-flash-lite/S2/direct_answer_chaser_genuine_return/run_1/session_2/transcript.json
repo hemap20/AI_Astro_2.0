@@ -1,0 +1,126 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, bataiye kya baat hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, bataiye kya baat hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai sab. Aapki kundli mein Shani aur Jupiter saath baithe hain. Yehi wajah hai ki shaadi mein thodi der lag rahi hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai sab. Aapki kundli mein Shani aur Jupiter saath baithe hain. Yehi wajah hai ki shaadi mein thodi der lag rahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ji kb tk hogi shaadi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rahu-Saturn dasha chal rahi hai abhi. Ye November 2028 tak ka time deti hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rahu-Saturn dasha chal rahi hai abhi. Ye November 2028 tak ka time deti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "2028 me konse month",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "November ki shuruat tak hai. Pehli November 2028 tak ka time hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "November ki shuruat tak hai. Pehli November 2028 tak ka time hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mercury antardasha chal rahi hai abhi. Ye 11th house mein active hai. Networking se steady income milegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Mercury antardasha chal rahi hai abhi. Ye 11th house mein active hai. Networking se steady income milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ji exact year batao",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "2026 aur 2027 mein growth pakki hai. Mercury dasha yeh wealth confirm karti hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "2026 aur 2027 mein growth pakki hai. Mercury dasha yeh wealth confirm karti hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "2nd house mein Mars baitha hai. Ghar mein tez baatein hoti hain. Ye tension 2028 tak khatam hogi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "2nd house mein Mars baitha hai. Ghar mein tez baatein hoti hain. Ye tension 2028 tak khatam hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Faltu",
+    "sec": 210,
+    "idx": 15
+  }
+]

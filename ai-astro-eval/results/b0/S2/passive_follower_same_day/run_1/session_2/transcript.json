@@ -1,0 +1,186 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Aaj kya discuss karna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Aaj kya discuss karna hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. March 2027 se Shani AD shuru ho rahi hai, jo career aur marriage ke raste kholegi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. March 2027 se Shani AD shuru ho rahi hai, jo career aur marriage ke raste kholegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ye kya hota hai",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani AD matlab Saturn ka sub-period hota hai ji. Ye period aapke life mein stability aur naye mauke laata hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shani AD matlab Saturn ka sub-period hota hai ji. Ye period aapke life mein stability aur naye mauke laata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein arranged marriage ke yoga hain ji. Partner kaafi calm, tall aur educated honge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli mein arranged marriage ke yoga hain ji. Partner kaafi calm, tall aur educated honge.",
+      "marital_status": "unmarried"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ha, mummy papa dekh rhe hai rishta",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy papa ki pasand sahi rahegi ji. In-laws thode traditional aur reserved milenge. Ek aur baat batau kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Mummy papa ki pasand sahi rahegi ji. In-laws thode traditional aur reserved milenge. Ek aur baat batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se yog banega ji. Rishta pakka ho sakta hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March se yog banega ji. Rishta pakka ho sakta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial situation sudharne lagegi ji. Mangal strong hone se earnings achhi ho jayengi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad financial situation sudharne lagegi ji. Mangal strong hone se earnings achhi ho jayengi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension h",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension main samajhti hoon ji. Mangal Shani ka asar Chandra pe hone se gussa badhta hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension main samajhti hoon ji. Mangal Shani ka asar Chandra pe hone se gussa badhta hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Time thoda kam reh gaya hai — aapke kundli mein ek khaas cheez dikh rahi hai 2028 mein apne ghar ke yog ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Time thoda kam reh gaya hai — aapke kundli mein ek khaas cheez dikh rahi hai 2028 mein apne ghar ke yog ke baare mein, thoda aur time hoga toh wo bhi bata sakti hoon ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai",
+    "sec": 270,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Oct 2028 ke baad Budh ke asar se apna ghar lene ka yog banega ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Oct 2028 ke baad Budh ke asar se apna ghar lene ka yog banega ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 23
+  }
+]

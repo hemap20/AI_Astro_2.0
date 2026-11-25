@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hi! 2027 tak teri life mein kaafi badlaav aane wale hain, khaaskar shaadi aur paise ke maamle mein. Batao aaj kis baare mein baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hi! 2027 tak teri life mein kaafi badlaav aane wale hain, khaaskar shaadi aur paise ke maamle mein. Batao aaj kis baare mein baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi pakki lag rahi hai, rishta kisi jaan-pehchaan ke zariye hi aayega. Ghar pe abhi kisi ne koi baat aage badhayi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi pakki lag rahi hai, rishta kisi jaan-pehchaan ke zariye hi aayega. Ghar pe abhi kisi ne koi baat aage badhayi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, mummy papa ne rishta dekhna shuru kiya hai, ek baat chal rahi hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Baat wahi pakki hogi ji. Har Friday white sweets daan karo, rishta jaldi tay hoga. Jisse baat chal rahi hai, unka nature calm aur padha-likha hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Baat wahi pakki hogi ji. Har Friday white sweets daan karo, rishta jaldi tay hoga. Jisse baat chal rahi hai, unka nature calm aur padha-likha hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, educated hai. Isi se shadi hogi?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, yahin baat banne ke poore chances hain kyunki kundli ke traits bilkul match kar rahe hain. Shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, yahin baat banne ke poore chances hain kyunki kundli ke traits bilkul match kar rahe hain. Shaadi ke baad apne ghar ka yog bhi saaf dikh raha hai."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab se badhega?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech paise ki tangi door hone lagegi. Har Thursday chana dal daan karna shuru karo, kamai mein barkat hogi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech paise ki tangi door hone lagegi. Har Thursday chana dal daan karna shuru karo, kamai mein barkat hogi."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Konse month se shuru hoga?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi shuruat dikh rahi hai kyunki tabhi se paise ke maamle mein raah aasan hone lagegi. Baaki poora saal aage aur behtar hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se hi shuruat dikh rahi hai kyunki tabhi se paise ke maamle mein raah aasan hone lagegi. Baaki poora saal aage aur behtar hoga."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab tak kam hogi?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se ghar ka mahol dheere-dheere shant hone lagega. Har Tuesday Hanuman Chalisa padhna shuru karo, kalesh khatam hoga.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se ghar ka mahol dheere-dheere shant hone lagega. Har Tuesday Hanuman Chalisa padhna shuru karo, kalesh khatam hoga."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 se pehle kuch nahi hoga?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke pehle thoda dimaag pe bojh aur neend ki dikkat ho sakti hai kyunki abhi time thoda dheema chal raha hai. Par andar hi andar sab theek hone ki taiyari ho rahi hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March ke pehle thoda dimaag pe bojh aur neend ki dikkat ho sakti hai kyunki abhi time thoda dheema chal raha hai. Par andar hi andar sab theek hone ki taiyari ho rahi hai."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Matlab 2027 se pehle kuch nahi hoga?",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aisa nahi hai, February 2027 ke aate hi career aur soch mein ek naya badlaav dikhne lagega. Tab tak thoda sabar rakho.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aisa nahi hai, February 2027 ke aate hi career aur soch mein ek naya badlaav dikhne lagega. Tab tak thoda sabar rakho."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 20
+  }
+]

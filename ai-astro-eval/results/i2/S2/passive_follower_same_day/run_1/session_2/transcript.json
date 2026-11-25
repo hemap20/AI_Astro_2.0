@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, kaise hain aap? Aapki shaadi ki baat karni hai? Kya aap abhi unmarried hain ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, kaise hain aap? Aapki shaadi ki baat karni hai? Kya aap abhi unmarried hain ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ji unmarried hu",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rahe ghar pe",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale rishte dekh rahe hain ji. March 2027 ke baad yog ban raha hai. Shani ke prabhav se thoda samay lag raha hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ghar wale rishte dekh rahe hain ji. March 2027 ke baad yog ban raha hai. Shani ke prabhav se thoda samay lag raha hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shani ke chalte thodi der hai. March 2027 ke baad yog banega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shani ke chalte thodi der hai. March 2027 ke baad yog banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa bachane mein abhi thodi pareshani hai ji. Second house kamzor hone se hota hai. March 2027 ke baad sudhaar shuru hoga.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa bachane mein abhi thodi pareshani hai ji. Second house kamzor hone se hota hai. March 2027 ke baad sudhaar shuru hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab paisa haath mein nahi tikta ji. Dhan sthan kamzor hai aapka. March 2027 ke baad sudhaar aayega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Matlab paisa haath mein nahi tikta ji. Dhan sthan kamzor hai aapka. March 2027 ke baad sudhaar aayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension bhut hai",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension bilkul sach hai ji. Shani ki dasha se ye hai. June 2027 ke baad kam hogi.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension bilkul sach hai ji. Shani ki dasha se ye hai. June 2027 ke baad kam hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein bhi badlav aayega ji. March 2027 ke baad mauke milenge. Har Tuesday Hanuman Chalisa padha kariye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Career mein bhi badlav aayega ji. March 2027 ke baad mauke milenge. Har Tuesday Hanuman Chalisa padha kariye.",
+      "marital_status": "unchanged"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Kab se shuru karu",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale Tuesday, 24 November se kariye ji. Mangal ka dosha kam hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aane wale Tuesday, 24 November se kariye ji. Mangal ka dosha kam hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Time thoda kam reh gaya hai ji, aapke hone wale partner tall aur calm honge. Thoda aur time hota toh main aur detail deti.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Time thoda kam reh gaya hai ji, aapke hone wale partner tall aur calm honge. Thoda aur time hota toh main aur detail deti.",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 270,
+    "idx": 22
+  }
+]

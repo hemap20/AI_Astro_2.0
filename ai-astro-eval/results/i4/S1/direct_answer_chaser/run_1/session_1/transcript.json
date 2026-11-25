@@ -1,0 +1,116 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job milna mushkil hai, ji. March 2027 ke baad naye mauke milenge.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job milna mushkil hai, ji. March 2027 ke baad naye mauke milenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Next week interview hai, uska kya?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agale hafte interview mein thodi rukawat aa sakti hai, ji. Shani ke asar se abhi thoda struggle hai. March 2027 ke baad naya rasta khulega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Agale hafte interview mein thodi rukawat aa sakti hai, ji. Shani ke asar se abhi thoda struggle hai. March 2027 ke baad naya rasta khulega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Select hounga ya nahi? Haan ya na.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi selection ka chance kam hai, ji. Shani ke asar se abhi thoda wait hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Abhi selection ka chance kam hai, ji. Shani ke asar se abhi thoda wait hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Nahi hoga selection? Haan ya na.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na, abhi chance nahi hai, ji. Shani ke transit ki wajah se.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Na, abhi chance nahi hai, ji. Shani ke transit ki wajah se.",
+      "marital_status": "unchanged"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Purani job wapas kab tak milegi? Month batao.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein naya mauka milega, ji. Guru strong ho raha hai tab.",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 mein naya mauka milega, ji. Guru strong ho raha hai tab.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Purani job ki baat kar raha hoon. Wo milegi ya nahi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Na, purani job wapas nahi aayegi, ji. Shani transit ke karan wahan rukaavat hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Na, purani job wapas nahi aayegi, ji. Shani transit ke karan wahan rukaavat hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 14
+  }
+]

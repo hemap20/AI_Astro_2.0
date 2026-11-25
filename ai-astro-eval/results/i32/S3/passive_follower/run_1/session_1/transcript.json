@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Zindagi mein bahut kuch hota hai, aap bataiye aapke mann mein sabse zyada kya chal raha hai? Career ya shaadi ke baare mein kuch socha hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Zindagi mein bahut kuch hota hai, aap bataiye aapke mann mein sabse zyada kya chal raha hai? Career ya shaadi ke baare mein kuch socha hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Career ko le k",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein tarakki ke acche yog hain, March 2027 se September 2028 ke beech bada badlav dikh raha hai. 2023 se 2025 tak mehnat ke bawajood paise ki tangi mehsoos hui, hai na?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Career mein tarakki ke acche yog hain, March 2027 se September 2028 ke beech bada badlav dikh raha hai. 2023 se 2025 tak mehnat ke bawajood paise ki tangi mehsoos hui, hai na?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bahut tangi thi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh tangi isliye thi kyunki career ka ghar thoda dheema tha. Abhi Guru ka daur chal raha hai, jo career mein nayi disha dikhayega. Lekin ek khaas mauka aane wala hai, jise pehchanna hoga.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh tangi isliye thi kyunki career ka ghar thoda dheema tha. Abhi Guru ka daur chal raha hai, jo career mein nayi disha dikhayega. Lekin ek khaas mauka aane wala hai, jise pehchanna hoga."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi. Kya hai woh?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke career ka grah, jo naukri dilata hai, abhi Guru ke prabhav mein hai. Isse naye logon se milne ke mauke milenge, par ek purani galti se bachna hoga. Aap abhi kya kaam kar rahe hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke career ka grah, jo naukri dilata hai, abhi Guru ke prabhav mein hai. Isse naye logon se milne ke mauke milenge, par ek purani galti se bachna hoga. Aap abhi kya kaam kar rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Job dhund rahi hu",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri milne ke acche yog hain, 10th ghar 2027 mein majboot ho raha hai. Is dauran ek aisa mauka aayega jo aapki arthik sthiti badal dega. Kya aap wo mauka janna chahti hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Naukri milne ke acche yog hain, 10th ghar 2027 mein majboot ho raha hai. Is dauran ek aisa mauka aayega jo aapki arthik sthiti badal dega. Kya aap wo mauka janna chahti hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya. Meh kitne number ki hu",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai, jo Budh grah hai. Yeh aapki buddhi hai, aur Guru ke saath milkar ye finance ya communication mein naukri dilata hai. Kya aapne in fields mein try kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapka number 5 hai, jo Budh grah hai. Yeh aapki buddhi hai, aur Guru ke saath milkar ye finance ya communication mein naukri dilata hai. Kya aapne in fields mein try kiya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nhi abhi tk",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri aur paise March 2027 se sudhar jayenge kyunki career ka grah tab majboot hoga. Ek field mein badi safalta mil sakti hai, par wahan ek rukawat bhi hai. Kya aapne finance mein try kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Naukri aur paise March 2027 se sudhar jayenge kyunki career ka grah tab majboot hoga. Ek field mein badi safalta mil sakti hai, par wahan ek rukawat bhi hai. Kya aapne finance mein try kiya hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kisse hogi",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog 2027 se 2028 ke beech hai, jo career mein badlav ka bhi time hai. Aapka jeevansathi samajhdaar hoga, par unke swabhav mein ek khaas baat hai, kya janna chahti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Shaadi ka yog 2027 se 2028 ke beech hai, jo career mein badlav ka bhi time hai. Aapka jeevansathi samajhdaar hoga, par unke swabhav mein ek khaas baat hai, kya janna chahti hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka hone wala saathi tall, calm aur educated hoga, jo thode reserved honge. Par unke ghar wale traditional honge, jisse aapke rishte par asar pad sakta hai. Kya aapne rishte ki baat ghar par ki?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapka hone wala saathi tall, calm aur educated hoga, jo thode reserved honge. Par unke ghar wale traditional honge, jisse aapke rishte par asar pad sakta hai. Kya aapne rishte ki baat ghar par ki?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi ki.",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 21
+  }
+]

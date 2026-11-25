@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Aaj kis baare mein baat karna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Aaj kis baare mein baat karna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, pichli baar humne aapke rishte aur paise ke baare mein baat ki thi. Kya aapne Friday se Shukra ka mantra shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, pichli baar humne aapke rishte aur paise ke baare mein baat ki thi. Kya aapne Friday se Shukra ka mantra shuru kiya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe rishta dekh rhe",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar mein rishte ki baat chalna achha hai, par pakka yog March 2027 se banega. Kya 2022 mein aapki padhai ya college life mein koi bada badlaav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ghar mein rishte ki baat chalna achha hai, par pakka yog March 2027 se banega. Kya 2022 mein aapki padhai ya college life mein koi bada badlaav aaya tha?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha, college join kiya tha.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Chandra ki wajah se tab badlaav aaya tha. Aapke hone wale pati ke nature ko lekar kundli mein ek khas baat dikh rahi hai. Abhi shaadi ko lekar ghar mein mahool kaisa hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Chandra ki wajah se tab badlaav aaya tha. Aapke hone wale pati ke nature ko lekar kundli mein ek khas baat dikh rahi hai. Abhi shaadi ko lekar ghar mein mahool kaisa hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Thoda pressure hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai pati ke bare me",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke pati lambe, padhe-likhe aur shaant honge, par thode reserved rahenge. Guruvar se 'Om Gram Greem Grom Sah Gurave Namah' jaapiye. Kya ghar wale arranged rishta dekh rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapke pati lambe, padhe-likhe aur shaant honge, par thode reserved rahenge. Guruvar se 'Om Gram Greem Grom Sah Gurave Namah' jaapiye. Kya ghar wale arranged rishta dekh rahe hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha, arranged hi dekh rhe.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paise ki halat achhi hone lagegi aur kamai badhegi. Abhi doosre ghar par kamzor asar se paisa tikta nahi hai. Kya abhi aap koi job kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se paise ki halat achhi hone lagegi aur kamai badhegi. Abhi doosre ghar par kamzor asar se paisa tikta nahi hai. Kya abhi aap koi job kar rahe hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nhi, padhai kr rhi hu.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bhot tension hai.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension se padhai par asar pad raha hai, yeh mann ke grah par dabaav se hai. Tuesday ko Hanuman Chalisa padha kijiye. Kya gusse mein baat zyada badhti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension se padhai par asar pad raha hai, yeh mann ke grah par dabaav se hai. Tuesday ko Hanuman Chalisa padha kijiye. Kya gusse mein baat zyada badhti hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ha, gussa aata hai.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Himmat ke grah ki nazar mann par padne se sudden gussa aata hai. Is gusse ki wajah se tension aur badhti hai. Kya raat ko neend mein bhi dikkat hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Himmat ke grah ki nazar mann par padne se sudden gussa aata hai. Is gusse ki wajah se tension aur badhti hai. Kya raat ko neend mein bhi dikkat hoti hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ha, neend nahi aati.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke shaadi aur paise ke sawalon ke jawab humne dekh liye hain. Aapke hone wale in-laws ke traditional nature ki khas baat abhi baki hai. Isse abhi poora samajhne ke liye chat recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapke shaadi aur paise ke sawalon ke jawab humne dekh liye hain. Aapke hone wale in-laws ke traditional nature ki khas baat abhi baki hai. Isse abhi poora samajhne ke liye chat recharge kijiye."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

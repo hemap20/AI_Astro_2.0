@@ -1,0 +1,218 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agle kuch saal tumhari life mein bade badlav layenge. March 2027 se career aur settled life ke raste khulne lagenge. Waise abhi life ke kis hisse mein sabse zyada tension hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Agle kuch saal tumhari life mein bade badlav layenge. March 2027 se career aur settled life ke raste khulne lagenge. Waise abhi life ke kis hisse mein sabse zyada tension hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Career chodo, shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2025 se rishton ki baatein chali hongi par kuch clear nahi hua, hai na? Shaadi ka yog March 2027 se ban raha hai, rishta jaan-pehchaan se aayega. Ghar wale pressure bana rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2025 se rishton ki baatein chali hongi par kuch clear nahi hua, hai na? Shaadi ka yog March 2027 se ban raha hai, rishta jaan-pehchaan se aayega. Ghar wale pressure bana rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta chal raha hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale force kar rahe.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishte aur paise ki kami, dono career ke dheeme daur se jude hain. Feb 2027 se halat sudhregi, chana dal daan karo. Job mein tumse ek galti ho rahi hai, bataun?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishte aur paise ki kami, dono career ke dheeme daur se jude hain. Feb 2027 se halat sudhregi, chana dal daan karo. Job mein tumse ek galti ho rahi hai, bataun?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ghar mein bhi bahut tension hai.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein jaldbaazi kar rahe ho jabki karm ka grah dheema hai, yahi frustration ghar mein jhagde ki wajah hai. Mangal ke liye Hanuman Chalisa padho. Ghar mein jhagda kis baat par hota hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Career mein jaldbaazi kar rahe ho jabki karm ka grah dheema hai, yahi frustration ghar mein jhagde ki wajah hai. Mangal ke liye Hanuman Chalisa padho. Ghar mein jhagda kis baat par hota hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Rishta.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Exact time bataiye.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "September 2028 tak ghar ki tension khatam ho jayegi, tab rishton ka grah support karega. White sweets daan karo. Waise, kya wo ladka kaafi calm aur reserved nature ka hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "September 2028 tak ghar ki tension khatam ho jayegi, tab rishton ka grah support karega. White sweets daan karo. Waise, kya wo ladka kaafi calm aur reserved nature ka hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ha, reserved hai.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok, 2028.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Health ka kya?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah kamzor hone se tension neend aur digestion kharab kar rahi hai. Monday ko Som mantra ka jaap karo, mann shant hoga. Kya raat ko neend mein aksar dikkat aati hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mann ka grah kamzor hone se tension neend aur digestion kharab kar rahi hai. Monday ko Som mantra ka jaap karo, mann shant hoga. Kya raat ko neend mein aksar dikkat aati hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Haan, aati hai.",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Health kab tak sahi hogi?",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-2027 tak health aur neend theek ho jayegi, tabhi ye bhaari daur khatam hoga. Diet mein ek chhota badlav neend sudhaar sakta hai; kya tumne notice kiya hai ye raat ko hi kyun badh jata hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mid-2027 tak health aur neend theek ho jayegi, tabhi ye bhaari daur khatam hoga. Diet mein ek chhota badlav neend sudhaar sakta hai; kya tumne notice kiya hai ye raat ko hi kyun badh jata hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Mid-2027. Konse mahine?",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "June-July 2027 ka samay relief layega, tab tumhare mann pe dabav kam hone lagega. Tab tak thoda dhairya rakho. Kya tumhe lagta hai ki tumne apni diet mein kuch badlav kiye hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June-July 2027 ka samay relief layega, tab tumhare mann pe dabav kam hone lagega. Tab tak thoda dhairya rakho. Kya tumhe lagta hai ki tumne apni diet mein kuch badlav kiye hain?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Monday ka fast zaroor shuru karo, mann ki bechaini kam hogi. Waise emerald pehenne se pehle ek cheez check karni hoti hai, warna fayde ki jagah dikkat ho sakti hai. Pehle kabhi koi ratan pehna hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Monday ka fast zaroor shuru karo, mann ki bechaini kam hogi. Waise emerald pehenne se pehle ek cheez check karni hoti hai, warna fayde ki jagah dikkat ho sakti hai. Pehle kabhi koi ratan pehna hai?"
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Haan, pehna hai.",
+    "sec": 270,
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Kya check karna hai?",
+    "sec": 270,
+    "idx": 28
+  },
+  {
+    "role": "ASTRO",
+    "text": "Emerald ko silver mein pehenne se pehle buddhi ke grah ki sthiti check karna zaroori hai, taaki ulta asar na ho. Waise, kya tumne career mein kabhi koi bada faisla achanak se liya tha?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Emerald ko silver mein pehenne se pehle buddhi ke grah ki sthiti check karna zaroori hai, taaki ulta asar na ho. Waise, kya tumne career mein kabhi koi bada faisla achanak se liya tha?"
+    },
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 300,
+    "idx": 30
+  }
+]

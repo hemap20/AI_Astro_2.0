@@ -1,0 +1,137 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Zindagi toh lambi hai, par abhi khaas kya pareshan kar raha hai? Career, shaadi, ya paison ki baat? Batao, phir hum kundli mein dekhte hain.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Zindagi toh lambi hai, par abhi khaas kya pareshan kar raha hai? Career, shaadi, ya paison ki baat? Batao, phir hum kundli mein dekhte hain."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka chance March 2027 ke baad hi ban raha hai. 2023 se 2025 tak tumne mehnat bohot ki aur paison ki tangi rahi, hai na? Wahi dasha ab settle hone ki taraf badh rahi hai.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka chance March 2027 ke baad hi ban raha hai. 2023 se 2025 tak tumne mehnat bohot ki aur paison ki tangi rahi, hai na? Wahi dasha ab settle hone ki taraf badh rahi hai."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha sahi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsa mahina?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein, khaskar April-May mein baat aage badhegi. Kya gharwale rishte dekh rahe hain? Ek rishta aayega jise pehchanna zaroori hai, wahan baatein bohot jaldi aage badhengi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein, khaskar April-May mein baat aage badhegi. Kya gharwale rishte dekh rahe hain? Ek rishta aayega jise pehchanna zaroori hai, wahan baatein bohot jaldi aage badhengi."
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan, parents dekh rahe hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ek rishta chal bhi raha hai abhi.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Jo rishta chal raha hai, usme clarity thodi kam dikh rahi hai kyunki rishton ka grah thoda kamzor hai. Jaldbaazi mat karna. Shukravar se 'Om Shum Shukraya Namah' ka jaap shuru karo. Partner ka nature kaisa hoga, ye kundli mein saaf hai; agli baar us par detail mein baat karenge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Jo rishta chal raha hai, usme clarity thodi kam dikh rahi hai kyunki rishton ka grah thoda kamzor hai. Jaldbaazi mat karna. Shukravar se 'Om Shum Shukraya Namah' ka jaap shuru karo. Partner ka nature kaisa hoga, ye kundli mein saaf hai; agli baar us par detail mein baat karenge."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak ayega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner tall, calm, aur padhe-likhe honge par thode reserved rahenge. Paisa March 2027 se 2028 ke beech job mein growth se aayega. Abhi naya karz mat lena. Career ka sahi rasta agli baar dekhenge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Partner tall, calm, aur padhe-likhe honge par thode reserved rahenge. Paisa March 2027 se 2028 ke beech job mein growth se aayega. Abhi naya karz mat lena. Career ka sahi rasta agli baar dekhenge."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani mid-2027 tak dheere-dheere kam hogi, jab mann ka grah shant hoga. Mangal ke asar se gussa aata hai, isliye 24 November se Hanuman Chalisa shuru karo. Agli baar baat karenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki pareshani mid-2027 tak dheere-dheere kam hogi, jab mann ka grah shant hoga. Mangal ke asar se gussa aata hai, isliye 24 November se Hanuman Chalisa shuru karo. Agli baar baat karenge."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sure hai?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, kundli mein grahon ki chal saaf dikh rahi hai. Mushkil daur June 2027 tak hi hai, jab karm ka grah apna raasta badlega. Agli baar ghar ki shanti ke liye kuch aur upay dekhenge.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, kundli mein grahon ki chal saaf dikh rahi hai. Mushkil daur June 2027 tak hi hai, jab karm ka grah apna raasta badlega. Agli baar ghar ki shanti ke liye kuch aur upay dekhenge."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale 2027 tak halat dheere-dheere theek honge ji. 2023 se 2025 ke beech mehnat bahut zyada rahi hogi. Bataiye, sabse zyada chinta kis baare mein hai, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aane wale 2027 tak halat dheere-dheere theek honge ji. 2023 se 2025 ke beech mehnat bahut zyada rahi hogi. Bataiye, sabse zyada chinta kis baare mein hai, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji. Family rishta dekh rahi hai ya koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji. Family rishta dekh rahi hai ya koi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents dekh rhe. Ek rishta chal rha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad baat pakki hone ka poora yog hai ji. Jo rishta abhi chal raha hai, wahi aage badh sakta hai. Iske liye 20 November se safed mithai ka daan shuru kariye ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad baat pakki hone ka poora yog hai ji. Jo rishta abhi chal raha hai, wahi aage badh sakta hai. Iske liye 20 November se safed mithai ka daan shuru kariye ji."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki baat hai ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki baat hai ji. Bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Kharcha",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 tak aate-aate kharche dheere-dheere kam hone lagenge ji. Dhan ke sthaan par dabav hone se haath mein paisa rukta nahi hai. Is samay koi purana udhaar chal raha hai kya?",
+    "sec": 135,
+    "raw_response": {
+      "message": "2028 tak aate-aate kharche dheere-dheere kam hone lagenge ji. Dhan ke sthaan par dabav hone se haath mein paisa rukta nahi hai. Is samay koi purana udhaar chal raha hai kya?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Thoda sa",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar m tension h",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, ghar ki tension toh dikh rahi hai. Yeh pareshani kis baat ko lekar zyada hai, apas mein baatcheet ko lekar ya kisi aur cheez par?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan ji, ghar ki tension toh dikh rahi hai. Yeh pareshani kis baat ko lekar zyada hai, apas mein baatcheet ko lekar ya kisi aur cheez par?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Apas m hi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh tension mid-2027 tak dheere-dheere kam ho jayegi ji. Grahon ke asar se mann mein thoda gussa aur bhaaripan rehta hai. Yeh jhagde choti baaton par hote hain kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh tension mid-2027 tak dheere-dheere kam ho jayegi ji. Grahon ke asar se mann mein thoda gussa aur bhaaripan rehta hai. Yeh jhagde choti baaton par hote hain kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Choti baaton par gussa Mangal ke asar se hota hai ji. Iske liye 24 November se Hanuman Chalisa padhna shuru kariye, taaki yeh gussa shaant ho.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Choti baaton par gussa Mangal ke asar se hota hai ji. Iske liye 24 November se Hanuman Chalisa padhna shuru kariye, taaki yeh gussa shaant ho."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bas 2028 tak ka samay dekhiye ji, ghar ka mahaul poori tarah badal jayega aur shanti aane lagegi. Tab tak thoda sabr rakhiye, sab theek hoga ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Bas 2028 tak ka samay dekhiye ji, ghar ka mahaul poori tarah badal jayega aur shanti aane lagegi. Tab tak thoda sabr rakhiye, sab theek hoga ji."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ke maamle mein aage rasta khulega ji. Tab tak apna dhyan rakhiye, sab theek hoga ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ke maamle mein aage rasta khulega ji. Tab tak apna dhyan rakhiye, sab theek hoga ji."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

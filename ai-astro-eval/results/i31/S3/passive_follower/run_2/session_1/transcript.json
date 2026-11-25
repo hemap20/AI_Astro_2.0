@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Zindagi ke kis pehlu ke baare mein aap sabse zyada chintit hain, career ya shaadi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Zindagi ke kis pehlu ke baare mein aap sabse zyada chintit hain, career ya shaadi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Paisa aur career",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein dheemi pragati abhi thodi aur rahegi, par March 2027 se acche badlav aayenge. 2023 se 2025 tak paise ki tangi rahi, hai na? Abhi aap kya kaam kar rahi hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Career mein dheemi pragati abhi thodi aur rahegi, par March 2027 se acche badlav aayenge. 2023 se 2025 tak paise ki tangi rahi, hai na? Abhi aap kya kaam kar rahi hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Student hu",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ka grah abhi career par dhyan dilwa raha hai, isliye teaching ya finance mein acche yog hain. Ek khaas field aapke liye darwaze kholegi. Aap kya padhai kar rahi hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kismat ka grah abhi career par dhyan dilwa raha hai, isliye teaching ya finance mein acche yog hain. Ek khaas field aapke liye darwaze kholegi. Aap kya padhai kar rahi hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "B.Com kar rahi hu",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "B.Com finance ke liye badhiya hai. Mehnat ka phal thoda ruk kar milega, kyunki career ka grah aur paisa jude hain. Ek badi naukri ka yog hai, par ek pehlu hai jo abhi chhupa hai. Kya sarkari naukri try kar rahi ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "B.Com finance ke liye badhiya hai. Mehnat ka phal thoda ruk kar milega, kyunki career ka grah aur paisa jude hain. Ek badi naukri ka yog hai, par ek pehlu hai jo abhi chhupa hai. Kya sarkari naukri try kar rahi ho?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Meh kitne number ki hu",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka number 5 hai. Yeh Budh, yani buddhi aur baat-cheet ka grah hai, isliye finance mein aapka dimaag tez chalega. Kya finance mein hi career banane ka iraada hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapka number 5 hai. Yeh Budh, yani buddhi aur baat-cheet ka grah hai, isliye finance mein aapka dimaag tez chalega. Kya finance mein hi career banane ka iraada hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kaisa hoga",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se shuru hoga, jab career mein bhi badlav aayenge. Rishton ka grah thoda kamzor hai, isliye arranged shaadi ke zyada chance hain. Ghar wale rishta dekhne lage hain kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se shuru hoga, jab career mein bhi badlav aayenge. Rishton ka grah thoda kamzor hai, isliye arranged shaadi ke zyada chance hain. Ghar wale rishta dekhne lage hain kya?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ka grah career aur shaadi dono ko prabhavit karta hai. Jaane-pehchane dayre se rishta milne ke zyada chance hain, jahan partner kaafi suljha hua hoga. Kya ghar wale kisi rishte par vichar kar rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kismat ka grah career aur shaadi dono ko prabhavit karta hai. Jaane-pehchane dayre se rishta milne ke zyada chance hain, jahan partner kaafi suljha hua hoga. Kya ghar wale kisi rishte par vichar kar rahe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha, baat chal rahi hai",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se career aur shaadi dono mein sudhar aayega, kyunki kismat ka grah tab majboot hoga. Is samay faisla soch-samajh kar lena. Kya aapko partner ke swabhav ko lekar koi chinta hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March 2027 se career aur shaadi dono mein sudhar aayega, kyunki kismat ka grah tab majboot hoga. Is samay faisla soch-samajh kar lena. Kya aapko partner ke swabhav ko lekar koi chinta hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  }
+]

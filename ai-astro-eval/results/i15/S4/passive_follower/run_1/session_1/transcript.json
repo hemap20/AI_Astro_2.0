@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri sadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mar 2027 se Sep 2028 ke beech shaadi pakki lag rahi hai, yeh ladka bhi theek match ho sakta hai. Tumne ghar pe bataya kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Mar 2027 se Sep 2028 ke beech shaadi pakki lag rahi hai, yeh ladka bhi theek match ho sakta hai. Tumne ghar pe bataya kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha bataya",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar walo ko pata hai toh baat aage badhegi, jaan-pehchaan se hi rishta pakka hoga. Friday se Om Shum Shukraya Namah ka 108 baar jaap shuru karo, sab theek hoga.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ghar walo ko pata hai toh baat aage badhegi, jaan-pehchaan se hi rishta pakka hoga. Friday se Om Shum Shukraya Namah ka 108 baar jaap shuru karo, sab theek hoga."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka calm aur padha-likha hoga, par thoda reserved bhi ho sakta hai. Uski kundli match karwayi hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ladka calm aur padha-likha hoga, par thoda reserved bhi ho sakta hai. Uski kundli match karwayi hai kya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, wo gussa krta hai",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa thoda Mangal ke asar se ho sakta hai, kundli milana sahi rahega. Tuesday se Hanuman Chalisa padhna shuru karo, sab set ho jayega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Gussa thoda Mangal ke asar se ho sakta hai, kundli milana sahi rahega. Tuesday se Hanuman Chalisa padhna shuru karo, sab set ho jayega."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar wale thode purane vichar ke ho sakte hain, par aage chal kar tumhe samajhenge. Tumne ladke se khud baat ki hai kabhi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar wale thode purane vichar ke ho sakte hain, par aage chal kar tumhe samajhenge. Tumne ladke se khud baat ki hai kabhi?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ha do baar mili",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Do baar milna theek hai, kundli mein uska nature calm aur educated dikh raha hai. Tumhe usse milke kaisa laga?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Do baar milna theek hai, kundli mein uska nature calm aur educated dikh raha hai. Tumhe usse milke kaisa laga?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Thik thak tha",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mar 2027 se Sep 2028 ke beech hi baat pakki hogi, Shani ka naya daur aane par der khatam ho jayegi. Tum dono ki aage milne ki koi baat hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mar 2027 se Sep 2028 ke beech hi baat pakki hogi, Shani ka naya daur aane par der khatam ho jayegi. Tum dono ki aage milne ki koi baat hui hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, ghar wale hi aage ki baat sambhal lenge. 2028 aate hi ghar ka mahaul aur bhi badal jayega, par uske baare mein tabhi batungi.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi, ghar wale hi aage ki baat sambhal lenge. 2028 aate hi ghar ka mahaul aur bhi badal jayega, par uske baare mein tabhi batungi."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai wo",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho raha hai",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Oct 2028 se Feb 2030 ke beech apna ghar ya settling ka yog bhi ban raha hai, wahi baat keh rahi thi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Oct 2028 se Feb 2030 ke beech apna ghar ya settling ka yog bhi ban raha hai, wahi baat keh rahi thi."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladke ke ghar wale thode traditional aur reserved rahenge, yeh baat March 2027 ke baad aur saaf pata chalegi. Apna dhyan rakho.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Ladke ke ghar wale thode traditional aur reserved rahenge, yeh baat March 2027 ke baad aur saaf pata chalegi. Apna dhyan rakho."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 24
+  }
+]

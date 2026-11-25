@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 7,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 6.94,
+  "shape": {
+    "M": 9,
+    "avg_words": 32.8,
+    "long_share": 0.67
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Abhi sabse zyada chinta kis baat ki hai, career ya shaadi?",
+        "why": "The user started with 'Future', and the astrologer acknowledged the vagueness by offering two specific paths to narrow it down."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya 2025 ke aakhiri mahino mein ghar mein shaadi ya rishte ki baat shuru hui thi?",
+        "why": "No Type C questions were asked, and at least half of the questions were Type A, building on the user's previous inputs."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user did not ask about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki shaadi ka yoga arranged match ka zyada banta hai. Kya 2025 ke aakhiri mahino mein ghar mein shaadi ya rishte ki baat shuru hui thi?",
+        "why": "The reading is about the present/past, new, and specific, but lacks a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi ka yoga arranged match ka zyada banta hai.",
+        "why": "A clear direction (arranged match) is given immediately in response to the user's question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Rishton ke grah ke dabne se baat aage badhne mein thodi deri hoti hai.",
+        "why": "More than half of the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Wo mod yeh hai ki partner lambe, shaant aur acche padhe-likhe milenge.",
+        "why": "Two later readings are new and use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukravaar 20 Nov se safed meethi cheez ka daan shuru kijiye.",
+        "why": "The timing provided is for remedies, and the facts remain consistent throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukravaar 20 Nov se safed meethi cheez ka daan shuru kijiye.",
+        "why": "A practical remedy is given with a specific day and time."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Shaadi ke bare mein maine aapko bataya ji... Abhi recharge karke mujhse aage ki baat jaaniye.",
+        "why": "Both questions (shaadi, paisa/job) were answered in order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapke partner ke swabhaav mein ek thoda chhipa hua roop bhi hai",
+        "why": "Names a specific further thing about the user's concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Himmat aur kamai ke grah par asar hone se ghar mein baatein ulajhti hain, par aapki niyat sahi hai.",
+        "why": "No closing message until the very end, and every reply carries a reading or question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Abhi recharge karke mujhse aage ki baat jaaniye.",
+        "why": "The last message is a pitch/close, leaving the user with nothing to return to."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ke dabne se baat aage badhne mein thodi deri hoti hai.",
+        "why": "No technical terms used without explanation, and no formal/bookish language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji, main Sitara hoon. Aapke aane wale kal ke bare mein zaroor dekhti hoon. Abhi sabse zyada chinta kis baat ki hai, career ya shaadi?",
+        "why": "The user was vague, and the astrologer changed the approach within the first reply by offering a reading/intro and a soft question."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      }
+    ]
+  }
+}

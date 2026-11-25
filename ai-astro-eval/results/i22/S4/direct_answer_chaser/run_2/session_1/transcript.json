@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi aur ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech ho sakti hai, rishta jaan-pehchaan se aayega. Ladka calm aur educated hoga, par thoda guarded bhi. Kya uske ghar wale traditional hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech ho sakti hai, rishta jaan-pehchaan se aayega. Ladka calm aur educated hoga, par thoda guarded bhi. Kya uske ghar wale traditional hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Date thik hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Par wo short-tempered hai, aapne calm kaha.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi, final bolo?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo upar se calm hain, par unka guarded side gusse jaisa lag sakta hai. Friday ko white sweets donate karna shuru kar do. Kya is rishte ki baat ghar mein pakki ho gayi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Wo upar se calm hain, par unka guarded side gusse jaisa lag sakta hai. Friday ko white sweets donate karna shuru kar do. Kya is rishte ki baat ghar mein pakki ho gayi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Nhi abhi pakki nhi hui.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Par aapne ye nhi bataya ki rishta mere liye sahi hai ya nhi?",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Yes ya No mein bolo.",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, zyada chance hai ki ye rishta sahi rahega kyunki in-laws traditional aur reserved honge. Kya ye rishta kisi jaan-pehchaan se aaya hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan, zyada chance hai ki ye rishta sahi rahega kyunki in-laws traditional aur reserved honge. Kya ye rishta kisi jaan-pehchaan se aaya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan jaan pehchan se hai.",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Par shadi ke liye 2027 mein kaunsa month?",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bataiye.",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein sabse zyada chance hai kyunki tabhi naya phase shuru hota hai. Par beech mein ek mahina aisa hai jab choti si galatfehmi ho sakti hai. Kya is baare mein ghar mein sabhi raazi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ya April 2027 mein sabse zyada chance hai kyunki tabhi naya phase shuru hota hai. Par beech mein ek mahina aisa hai jab choti si galatfehmi ho sakti hai. Kya is baare mein ghar mein sabhi raazi hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sab raazi hain.",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 final?",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, March 2027 se hi naya samay shuru ho raha hai, toh yehi mahina pakka lag raha hai. Kya is rishte ki tayaari abhi se shuru ho gayi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, March 2027 se hi naya samay shuru ho raha hai, toh yehi mahina pakka lag raha hai. Kya is rishte ki tayaari abhi se shuru ho gayi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nhi, abhi shuru nhi hui.",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 20
+  }
+]

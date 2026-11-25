@@ -1,0 +1,200 @@
+[
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli matching zaroori hai ji. Manglik milan thoda dekhna padega. Partner calm aur educated hoga.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Kundli matching zaroori hai ji. Manglik milan thoda dekhna padega. Partner calm aur educated hoga.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Matlab shi h ya nahi?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Maine do baar mila hai, gussa bahut hai usko.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gussa unka thoda zyada lag sakta hai, Mangal ka asar hai. Lekin kundli milan se sab clear ho jayega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Gussa unka thoda zyada lag sakta hai, Mangal ka asar hai. Lekin kundli milan se sab clear ho jayega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na mein batao.",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, theek ho sakta hai ji. Bas thoda Manglik milan dekhna padega.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Haan, theek ho sakta hai ji. Bas thoda Manglik milan dekhna padega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi meri?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog shuru hai. Shani antardasha ka asar rahega. Rishte ki baat jaankar circle se hogi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se yog shuru hai. Shani antardasha ka asar rahega. Rishte ki baat jaankar circle se hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine tak confirm hoga?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "September 2028 tak final ho sakta hai. Shani antardasha ka zor rahega. In-laws thode traditional mil sakte hain.",
+    "sec": 135,
+    "raw_response": {
+      "message": "September 2028 tak final ho sakta hai. Shani antardasha ka zor rahega. In-laws thode traditional mil sakte hain.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "2028 September tak pakka ho jayega?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, September 2028 tak poora yog hai. Shani antardasha ise pakka karegi. Partner kaafi calm aur samajhdar honge ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, September 2028 tak poora yog hai. Shani antardasha ise pakka karegi. Partner kaafi calm aur samajhdar honge ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Traditional family hai?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, parivar traditional aur reserved hoga ji. Shani ki vajah se yeh asar hai. Shaadi ke baad apne ghar ka yog bhi hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan, parivar traditional aur reserved hoga ji. Shani ki vajah se yeh asar hai. Shaadi ke baad apne ghar ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Sab kuch theek rahega na?",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, sab bilkul theek rahega ji. March 2027 ke baad rahat milegi. Shukra ke liye white sweets donate karein.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, sab bilkul theek rahega ji. March 2027 ke baad rahat milegi. Shukra ke liye white sweets donate karein.",
+      "marital_status": "unchanged"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak karna hai yeh upaay?",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shukra ke liye regular karein ji. March 2027 ke baad asar hoga. Aapki kundli mein 2028 tak apne ghar ka yog bhi hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Shukra ke liye regular karein ji. March 2027 ke baad asar hoga. Aapki kundli mein 2028 tak apne ghar ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 26
+  }
+]

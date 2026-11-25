@@ -1,0 +1,215 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Aapki shaadi ke yog March 2027 se September 2028 ke beech hain. Rishton ke grah ki kamzori se thodi deri hai. 2022 mein aapki padhai mein badlav aaya tha, hai na?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Aapki shaadi ke yog March 2027 se September 2028 ke beech hain. Rishton ke grah ki kamzori se thodi deri hai. 2022 mein aapki padhai mein badlav aaya tha, hai na?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka dob hai",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein main dekhti hoon ki partner thode shant aur samajhdaar honge, par unka ek hissa thoda chup-chap rehta hai. Kya yeh rishta ghar walon ne bataya hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki kundli mein main dekhti hoon ki partner thode shant aur samajhdaar honge, par unka ek hissa thoda chup-chap rehta hai. Kya yeh rishta ghar walon ne bataya hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ji",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Wo thoda gussa krte h wese",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner ka gussa Mangal grah se hai, wahi grah aapke stress ka karan hai. Unke ghar wale thode paramparik aur sambhal kar chalne wale honge. Kya aapne unse abhi baat ki hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Partner ka gussa Mangal grah se hai, wahi grah aapke stress ka karan hai. Unke ghar wale thode paramparik aur sambhal kar chalne wale honge. Kya aapne unse abhi baat ki hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Do baar mili bas",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Mujhe darr lg rha hai",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aap darie mat, ye shuruati jhijhak hai. Wo baat ye hai ki partner upar se sakht dikhte hain, par dil ke saaf hain. Gusse ki shanti ke liye mangalwar se Hanuman Chalisa kijiye.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aap darie mat, ye shuruati jhijhak hai. Wo baat ye hai ki partner upar se sakht dikhte hain, par dil ke saaf hain. Gusse ki shanti ke liye mangalwar se Hanuman Chalisa kijiye."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Hanuman chalisa se shi hoga?",
+    "sec": 120,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, Hanuman Chalisa se gussa shant hoga aur mann halka lagega. Aapki shaadi aur career mein 2027 se badlav aayega, kyunki grah ek hi samay majboot honge. Waise, sasural wale thode paramparik honge. Kya aapne shaadi ke baad naukri ka socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, Hanuman Chalisa se gussa shant hoga aur mann halka lagega. Aapki shaadi aur career mein 2027 se badlav aayega, kyunki grah ek hi samay majboot honge. Waise, sasural wale thode paramparik honge. Kya aapne shaadi ke baad naukri ka socha hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Job milegi na?",
+    "sec": 150,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, naukri zaroor milegi. Iska yog usi time ban raha hai jo maine shaadi ke liye bataya tha, tab career ka ghar majboot hoga. Aapne padhai kis field mein ki hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan, naukri zaroor milegi. Iska yog usi time ban raha hai jo maine shaadi ke liye bataya tha, tab career ka ghar majboot hoga. Aapne padhai kis field mein ki hai?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "B.com",
+    "sec": 180,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 180,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "B.com ke baad finance mein achhe yog hain. Shaadi ka samay wahi March 2027 se September 2028 tak hai, jab career aur rishte dono mein badlav aayega. Kya aapne finance mein try kiya hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "B.com ke baad finance mein achhe yog hain. Shaadi ka samay wahi March 2027 se September 2028 tak hai, jab career aur rishte dono mein badlav aayega. Kya aapne finance mein try kiya hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch?",
+    "sec": 210,
+    "idx": 25
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapka career finance ya teaching mein achha chalega. Meri salah hai ki Guru ka mantra har Guruvaar shuru kijiye, isse career mein rukawat kam hogi. Shaadi ke baad aapke apne ghar ka yog bhi 2028 ke baad ban raha hai.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapka career finance ya teaching mein achha chalega. Meri salah hai ki Guru ka mantra har Guruvaar shuru kijiye, isse career mein rukawat kam hogi. Shaadi ke baad aapke apne ghar ka yog bhi 2028 ke baad ban raha hai."
+    },
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 27
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao time khatam ho rha hai",
+    "sec": 240,
+    "idx": 28
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke shaadi aur career ke sawalon ke jawab maine de diye hain. Shaadi ke baad aapke aur partner ke beech ka talmel kaisa rahega, is par bhi aapki kundli mein kaafi kuch likha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapke shaadi aur career ke sawalon ke jawab maine de diye hain. Shaadi ke baad aapke aur partner ke beech ka talmel kaisa rahega, is par bhi aapki kundli mein kaafi kuch likha hai."
+    },
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 30
+  }
+]

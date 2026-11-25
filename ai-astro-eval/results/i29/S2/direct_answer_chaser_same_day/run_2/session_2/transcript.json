@@ -1,0 +1,140 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Kaise ho? Batao, aaj kya baat karni hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Kaise ho? Batao, aaj kya baat karni hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai. 2023 se 2025 tak tumne bohot mehnat ki par kaam nahi bana, hai na? Ghar pe rishton ki baat kahan tak pahunchi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai. 2023 se 2025 tak tumne bohot mehnat ki par kaam nahi bana, hai na? Ghar pe rishton ki baat kahan tak pahunchi hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hain, ek baat chal rhi.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "2027 me exact month batao?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "April ya May 2027 mein yog sabse majboot hai. Shaadi ka ghar aur kismat ka grah tab saath mil rahe hain. Shukra ke liye 'Om Shum Shukraya Namah' mantra shuru karo, baat jaldi banegi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "April ya May 2027 mein yog sabse majboot hai. Shaadi ka ghar aur kismat ka grah tab saath mil rahe hain. Shukra ke liye 'Om Shum Shukraya Namah' mantra shuru karo, baat jaldi banegi."
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Is mahine me koi khas date?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date nahi hoti. April-May 2027 yog ke liye best hai. Waise, kya wo kaafi shaant aur padhe-likhe hain? Unka ek chupa hua swabhav hai jo abhi dekhna zaruri hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Exact date nahi hoti. April-May 2027 yog ke liye best hai. Waise, kya wo kaafi shaant aur padhe-likhe hain? Unka ek chupa hua swabhav hai jo abhi dekhna zaruri hai."
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Date nahi bata sakte kya?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Wo kaisa hai chodo, date btao.",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein grahon ka daur mahino se dekha jata hai, din se nahi. April 2027 mein shubh yog hai. Hanuman Chalisa roz padhna shuru karo, isse ghar ka mahaul theek rahega. Agli baar baat karenge ki hone wale jeevansathi ka nature aur tumhari compatibility kaisi rahegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kundli mein grahon ka daur mahino se dekha jata hai, din se nahi. April 2027 mein shubh yog hai. Hanuman Chalisa roz padhna shuru karo, isse ghar ka mahaul theek rahega. Agli baar baat karenge ki hone wale jeevansathi ka nature aur tumhari compatibility kaisi rahegi."
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rahi wo bta ni rhe.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Mantra nahi, exact date btao.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh rahi hoon tum jaldi mein ho, par astrology mein grahon ki sthiti mahino mein badalti hai, din mein nahi. April 2027 ka samay tumhari kundli mein sabse sahi dikh raha hai. Abhi deri isliye lag rahi hai kyunki tumhara rishton ka grah thoda dab gaya hai, isliye shaanti rakho.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Main samajh rahi hoon tum jaldi mein ho, par astrology mein grahon ki sthiti mahino mein badalti hai, din mein nahi. April 2027 ka samay tumhari kundli mein sabse sahi dikh raha hai. Abhi deri isliye lag rahi hai kyunki tumhara rishton ka grah thoda dab gaya hai, isliye shaanti rakho."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Faltu ki baatein.",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 180,
+    "idx": 19
+  }
+]

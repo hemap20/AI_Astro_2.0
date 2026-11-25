@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi aur ladka sahi hai ya nahi?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat aage badh rahi hai ji. Yeh rishta ghar walon ne dhoondha hai ya aapki apni jaan-pehchaan hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shaadi ki baat aage badh rahi hai ji. Yeh rishta ghar walon ne dhoondha hai ya aapki apni jaan-pehchaan hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar walon ne dhoondha hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi ye bataiye.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladka padha-likha, shaant aur warm nature ka hoga ji. Uska swabhav thoda guarded ho sakta hai, par rishta theek rahega. Ladka kya kaam karta hai, kuch pata chala hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladka padha-likha, shaant aur warm nature ka hoga ji. Uska swabhav thoda guarded ho sakta hai, par rishta theek rahega. Ladka kya kaam karta hai, kuch pata chala hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Par mujhe wo short-tempered laga.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Shi hai ya nahi mere liye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Thoda gussa lagna aam hai ji, par yeh rishta chal sakta hai. Mangal ke asar ki wajah se yeh shuru mein dikhta hai. Aap Mangalwar se Hanuman Chalisa padhna shuru kar do ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Thoda gussa lagna aam hai ji, par yeh rishta chal sakta hai. Mangal ke asar ki wajah se yeh shuru mein dikhta hai. Aap Mangalwar se Hanuman Chalisa padhna shuru kar do ji."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 aur September 2028 ke beech ho sakti hai ji. Shukra ke thoda kamzor hone se baat aage badhne mein waqt lag raha hai. Kya is saal rishte ki baat aage badhne ki umeed hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shaadi March 2027 aur September 2028 ke beech ho sakti hai ji. Shukra ke thoda kamzor hone se baat aage badhne mein waqt lag raha hai. Kya is saal rishte ki baat aage badhne ki umeed hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak exact?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas ka mahina sabse khaas rahega ji, kyunki tab naya samay shuru hota hai. Baaki is poore window mein bhi baat ban sakti hai. Kya ladke walon se milna hua hai abhi tak?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas ka mahina sabse khaas rahega ji, kyunki tab naya samay shuru hota hai. Baaki is poore window mein bhi baat ban sakti hai. Kya ladke walon se milna hua hai abhi tak?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Matlab March 2027 pakka hai?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein sabse strong yog hai ji, kyunki tab naya samay shuru hota hai, baaki poora saal khula hai. Kya parivaron ki baat pakki ho gayi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 mein sabse strong yog hai ji, kyunki tab naya samay shuru hota hai, baaki poora saal khula hai. Kya parivaron ki baat pakki ho gayi hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 hi fix samjhu?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka samay sabse mazboot hai ji. Shani ke badalte asar se baat pakki hone ke yog yahin banenge. Dono gharon mein aage ki date ke liye kya baat hui hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ka samay sabse mazboot hai ji. Shani ke badalte asar se baat pakki hone ke yog yahin banenge. Dono gharon mein aage ki date ke liye kya baat hui hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli milan zaroor karwa lena ji, kyunki halka sa Mangal ka asar hai. Kya parivar ne kundli milan karwaya hai abhi tak?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kundli milan zaroor karwa lena ji, kyunki halka sa Mangal ka asar hai. Kya parivar ne kundli milan karwaya hai abhi tak?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Kundli milan me koi dikkat hai kya?",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi badi dikkat nahi hai ji, bas halka sa Mangal ka milan zaroor check karwa lena. September 2028 tak baat poori tarah tay hone ke yog bane rahenge ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi badi dikkat nahi hai ji, bas halka sa Mangal ka milan zaroor check karwa lena. September 2028 tak baat poori tarah tay hone ke yog bane rahenge ji."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai. March 2027 final?",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

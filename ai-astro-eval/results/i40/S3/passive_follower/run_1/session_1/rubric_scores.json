@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 7,
+    "1.4": 1,
+    "2.1": 9,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": null,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 5.88,
+  "shape": {
+    "M": 9,
+    "avg_words": 40.3,
+    "long_share": 0.78
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paisa aane ke baad rukta nahi hai kyunki aapki kundli mein dhan bhav kamzor hai.",
+        "why": "The astrologer acknowledges the user's specific concern about money and provides a reading based on it."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya aap janna chahti hain ki yeh raah kya hai?",
+        "why": "The question builds on the previous reading about a new path, making it Type A."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 1,
+        "quote": null,
+        "why": "The user's question is about their future, not a specific other person, so this is skipped."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Kya aapko yaad hai 2023 se 2025 ke beech mehnat zyada karni padi thi aur paise ki tangi thi?",
+        "why": "The reading is about the past/present, new to the user, specific, and tied to a chart reason (dhan bhav)."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Yeh nayi raah ek behtar job ki hai jo March 2027 se shuru hogi",
+        "why": "Provides a clear direction (job) and a time window (March 2027) without needing a counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paisa aane ke baad rukta nahi hai kyunki aapki kundli mein dhan bhav kamzor hai.",
+        "why": "Links a life statement (money not staying) to a chart factor (dhan bhav) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise, aapke rishte mein ek vyakti hai jo aapse zyada gussa karte hain.",
+        "why": "Adds a new point about a relationship that uses the user's context of having a partner/person in their life."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "February 2027 ke baad career mein sudhaar aur sukoon aana shuru ho jayega.",
+        "why": "Provides a window (after Feb 2027) and maintains consistency."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Iske liye guruwar se 108 baar Om Gram Greem Grom Sah Gurave Namah ka jaap karein.",
+        "why": "Provides a specific remedy (mantra) with a time (guruwar) for the stated problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "pehle shaadi wala dekh leta hu, job pe uske baad aata hu",
+        "why": "The astrologer manages multiple topics (money, job, relationships) clearly."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Waise, ek vyakti ka zikr hai jo shaadi ke baad lucky rahenge.",
+        "why": "Opens a specific further layer about marriage/partner."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "In baaton aur aane wale samay ke vishesh yog ko vistaar mein samajhne ke liye aap abhi chat recharge kijiye.",
+        "why": "The astrologer ends the chat with a pitch to recharge while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "In baaton aur aane wale samay ke vishesh yog ko vistaar mein samajhne ke liye aap abhi chat recharge kijiye.",
+        "why": "The last message is a pitch to recharge, not a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Paisa aane ke baad rukta nahi hai kyunki aapki kundli mein dhan bhav kamzor hai.",
+        "why": "Uses easy, everyday language without formal or bookish sentences."
+      },
+      "5.1": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No trigger occurred."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "reading"
+      },
+      {
+        "idx": 22,
+        "type": "reading"
+      }
+    ]
+  }
+}

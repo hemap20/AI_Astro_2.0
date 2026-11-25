@@ -1,0 +1,128 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, kaise hain aap? Bataiye, aaj kis baare mein baat karni hai, shaadi ya ghar ke halaat par?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, kaise hain aap? Bataiye, aaj kis baare mein baat karni hai, shaadi ya ghar ke halaat par?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Meri shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat important hai ji. Family rishta dhoondh rahi hai ya aapki koi aur hi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat important hai ji. Family rishta dhoondh rahi hai ya aapki koi aur hi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale dekh rahe hain, ek rishta chal raha hai. Kab tak fix hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh rishta March 2027 aur September 2028 ke beech fix ho sakta hai ji. Baat jaan-pehchaan ke circle se hi banegi. Is rishte wale family ke baare mein ghar wale kya sochte hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh rishta March 2027 aur September 2028 ke beech fix ho sakta hai ji. Baat jaan-pehchaan ke circle se hi banegi. Is rishte wale family ke baare mein ghar wale kya sochte hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. March 2027 me kaun se mahine?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke shuruat mein hi yog ban raha hai ji, kyunki Shani ka naya samay tabhi shuru hoga. Baaki poora window September 2028 tak khula rahega. Dono gharo mein baat kis stage par chal rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ke shuruat mein hi yog ban raha hai ji, kyunki Shani ka naya samay tabhi shuru hoga. Baaki poora window September 2028 tak khula rahega. Dono gharo mein baat kis stage par chal rahi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa ka kya hai, job kab lagegi?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise aur job ki chinta samajh sakti hoon ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise aur job ki chinta samajh sakti hoon ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kamai mein. Job kab lagegi?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi job aur kamai June 2027 ke baad theek hogi ji, kyunki career par Shani ka asar kam ho jayega. Abhi aap kahan apply kar rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Nayi job aur kamai June 2027 ke baad theek hogi ji, kyunki career par Shani ka asar kam ho jayega. Abhi aap kahan apply kar rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein man ko pareshan kar deti hai ji. Yeh tension zyadatar mummy-papa ki taraf se aa rahi hai ya kisi aur baat ko lekar hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein man ko pareshan kar deti hai ji. Yeh tension zyadatar mummy-papa ki taraf se aa rahi hai ya kisi aur baat ko lekar hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Mummy-papa. Kab tak khatam hogi?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki yeh pareshani June 2027 tak theek ho jayegi ji. Shani ka bhaari asar tab hat jayega. Kya ghar wale kisi naye faisle ko lekar pareshan hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki yeh pareshani June 2027 tak theek ho jayegi ji. Shani ka bhaari asar tab hat jayega. Kya ghar wale kisi naye faisle ko lekar pareshan hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 16
+  }
+]

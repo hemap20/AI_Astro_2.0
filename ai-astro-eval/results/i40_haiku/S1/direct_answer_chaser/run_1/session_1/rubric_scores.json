@@ -1,0 +1,219 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 8,
+    "1.4": null,
+    "2.1": 8,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 8,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 7.71,
+  "shape": {
+    "M": 7,
+    "avg_words": 46.0,
+    "long_share": 0.86
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji, aapne purani job ke baare mein poochha hai, samajh sakti hoon.",
+        "why": "The astrologer acknowledges the user's specific question about their old job."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kya aapki purani job Nov 2022 ke aaspas chhooti thi?",
+        "why": "All questions are Type A or B, building on the user's context."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "No specific other person involved."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki kismat aur gyaan ka grah, Guru, 10 number ghar ko majboot karta hai, isliye naya kaam ban sakta hai.",
+        "why": "The reading is about the present/future, new information, specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Seedha jawab: abhi purani job par wapas bulaye jaane ki sambhavna kam dikhti hai.",
+        "why": "Provides a clear direction without the user repeating the question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapka Budh, jo baat-cheet aur buddhi ka grah hai, aapke favour mein dikhta hai.",
+        "why": "Linked readings are provided using plain words for chart factors."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Us interview mein aap ka kaam kis field ka hai?",
+        "why": "Later readings use user details like 'IT field' and 'padhai' to build depth."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Naya kaam Mar 2027 se Sep 2028 ke beech ban sakta hai",
+        "why": "Provides a consistent, clear window without promising a specific date."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Interview se pehle Budh ko majboot karne ke liye, roz \"Om Budhaya Namah\" ka jaap kijiye.",
+        "why": "Remedy is tied to the cause (Budh/IT field) with clear instructions."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Seedha jawab: is interview mein selection ka haan ya na pakka nahi kah sakti.",
+        "why": "Answers the user's repeated questions directly."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapko ek baat confirm karni hai: kya aap ne 2023 se 2025 ke beech padhai ya skill par kaam kiya tha?",
+        "why": "Opens a specific further layer about the user's past efforts."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aap ki mehnat aur padhai ka sahara hai, isliye ummeed rakhiye.",
+        "why": "No closing message; every reply carries relevant content."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap ki mehnat aur padhai ka sahara hai, isliye ummeed rakhiye.",
+        "why": "The last message provides a reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapka Budh, jo baat-cheet aur buddhi ka grah hai, aapke favour mein dikhta hai.",
+        "why": "Uses easy language with explanations for chart terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aap ka gussa theek hai, aapki pichli baat ka bura laga, main samajh sakti hoon. Seedha jawab: is interview mein selection ka haan ya na pakka nahi kah sakti.",
+        "why": "Adapts to the angry user by acknowledging feelings and providing a direct answer without defending."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "question"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "reading"
+      },
+      {
+        "idx": 7,
+        "type": "question"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "question"
+      },
+      {
+        "idx": 13,
+        "type": "reading"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "question"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      }
+    ]
+  }
+}

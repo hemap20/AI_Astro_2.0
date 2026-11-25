@@ -1,0 +1,134 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ye ladka shi h ya nhi mere liye",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/01/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar ka hai wo",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shadi ki baat aana ek bada faisla hai ji, isliye soch-samajhkar hi kadam uthana chahiye. Yeh ladka aapki apni pasand hai ya family ke through baat aage badhi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Shadi ki baat aana ek bada faisla hai ji, isliye soch-samajhkar hi kadam uthana chahiye. Yeh ladka aapki apni pasand hai ya family ke through baat aage badhi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi? Btaiye.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh ladka kafi shant aur padhe-likhe nature ke lagte hain, jinka thoda sa ek reserved swabhav bhi ho sakta hai ji. Kundli ke anusar inka vyavhar samajhdar rahega, bas thoda sa manglik milan dhyan rakhna zaroori hoga. Unse aapki baat-cheet kab se chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Yeh ladka kafi shant aur padhe-likhe nature ke lagte hain, jinka thoda sa ek reserved swabhav bhi ho sakta hai ji. Kundli ke anusar inka vyavhar samajhdar rahega, bas thoda sa manglik milan dhyan rakhna zaroori hoga. Unse aapki baat-cheet kab se chal rahi hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Wo shant nhi hai.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Mai 2 baar mili hu, bohot gussa krte hai.",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Agar woh milne par gussa karte hain ji, toh yeh swabhav agey chal kar mushkil de sakta hai. Kundli mein thoda gusse aur dabav ka asar hai, isliye soch-samajhkar faisla lijiye. Kya is baare mein ghar walon ko pata hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Agar woh milne par gussa karte hain ji, toh yeh swabhav agey chal kar mushkil de sakta hai. Kundli mein thoda gusse aur dabav ka asar hai, isliye soch-samajhkar faisla lijiye. Kya is baare mein ghar walon ko pata hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Sahi h ya nahi? Haan ya na?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Zyada theek lagta nahi hai ji, kyunki aage chal kar yeh gussa rishte mein bohot pareshani de sakta hai. Grahon ki sthiti batati hai ki inka swabhav aapke mann par dabav daalega. Kya aapne unse is baare mein baat ki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Zyada theek lagta nahi hai ji, kyunki aage chal kar yeh gussa rishte mein bohot pareshani de sakta hai. Grahon ki sthiti batati hai ki inka swabhav aapke mann par dabav daalega. Kya aapne unse is baare mein baat ki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shadi ke yog ban rahe hain ji, aur isse pehle aane wale mahino mein baat aage badh sakti hai. Shukra ki kamzori ki wajah se shuru mein thodi der ya rukawat aa sakti hai. Kya family abhi koi naya rishta dekh rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shadi ke yog ban rahe hain ji, aur isse pehle aane wale mahino mein baat aage badh sakti hai. Shukra ki kamzori ki wajah se shuru mein thodi der ya rukawat aa sakti hai. Kya family abhi koi naya rishta dekh rahi hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak 2027 me?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Exact mahina bataiye.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ka mahina sabse khaas rah sakta hai ji, kyunki tabhi naya samay shuru hota hai. Shani ke badlaav se baat pakki hone ke yog banenge, baaki aage ka rasta khula rahega. Kya aapko lagta hai ki tab tak gharwale maan jayenge?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ka mahina sabse khaas rah sakta hai ji, kyunki tabhi naya samay shuru hota hai. Shani ke badlaav se baat pakki hone ke yog banenge, baaki aage ka rasta khula rahega. Kya aapko lagta hai ki tab tak gharwale maan jayenge?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 18
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2023 se 2025 tak paise tight rahe aur mehnat bohot lagi, hai na? Batao aaj kis baare mein baat karni hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2023 se 2025 tak paise tight rahe aur mehnat bohot lagi, hai na? Batao aaj kis baare mein baat karni hai."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha, sahi h.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar pe shaadi ki baat abhi kahan tak pahuchi hai? Distant relatives ki taraf se koi rishta aaya hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ghar pe shaadi ki baat abhi kahan tak pahuchi hai? Distant relatives ki taraf se koi rishta aaya hai kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha, rishta aaya h.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad hi shaadi ke pakke yog ban rahe hain, aur ye rishta kisi jaan-pehchaan mein se hi aane ki umeed hai. Tumhe ye wala rishta kaisa lag raha hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad hi shaadi ke pakke yog ban rahe hain, aur ye rishta kisi jaan-pehchaan mein se hi aane ki umeed hai. Tumhe ye wala rishta kaisa lag raha hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Dar lag rha h.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Darr mat lo, partner kaafi calm aur samajhdar aayega. Ek baat aur hai, aage ek aisi cheez hai jise samajhna zaroori hoga. Tumhe is rishte mein kis baat ki sabse zyada fikar hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Darr mat lo, partner kaafi calm aur samajhdar aayega. Ek baat aur hai, aage ek aisi cheez hai jise samajhna zaroori hoga. Tumhe is rishte mein kis baat ki sabse zyada fikar hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi. Haan bataiye.",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "In-laws thode traditional aur reserved ho sakte hain. Friday ko white sweets donate kiya karo, shaadi ki rukaawat hategi. Kya ghar wale is rishte ke liye bohot force kar rahe hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "In-laws thode traditional aur reserved ho sakte hain. Friday ko white sweets donate kiya karo, shaadi ki rukaawat hategi. Kya ghar wale is rishte ke liye bohot force kar rahe hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ha thoda",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka pressure jaldi kam hoga. Partner ka nature calm aur educated hoga, par ek aisi baat hai jo baad mein pata chalegi. Kya ghar wale jaldi faisla chahte hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ka pressure jaldi kam hoga. Partner ka nature calm aur educated hoga, par ek aisi baat hai jo baad mein pata chalegi. Kya ghar wale jaldi faisla chahte hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka tension aur paisa na rukna, dono ka karan Chandra kamzor hona hai. March 2027 se halat badlegi, tab tak Monday ko Om Som Somaya Namah jaap karo. Abhi kharcha kahan ho raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ka tension aur paisa na rukna, dono ka karan Chandra kamzor hona hai. March 2027 se halat badlegi, tab tak Monday ko Om Som Somaya Namah jaap karo. Abhi kharcha kahan ho raha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi, bas ho jata h.",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa haath mein nahi rukta kyunki saving wala area weak hai. March 2027 ke baad yeh badlega. Kya abhi job mein koi pareshani hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Paisa haath mein nahi rukta kyunki saving wala area weak hai. March 2027 ke baad yeh badlega. Kya abhi job mein koi pareshani hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ha, thodi tension h.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak job mein dheema daur hai. Thursday ko chana dal donate kiya karo. June mein ek aisi galti ho sakti hai jo career do saal peeche kar de. Abhi kis field mein kaam kar rahe ho?",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 tak job mein dheema daur hai. Thursday ko chana dal donate kiya karo. June mein ek aisi galti ho sakti hai jo career do saal peeche kar de. Abhi kis field mein kaam kar rahe ho?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Sales",
+    "sec": 270,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales mein communication kaafi kaam aati hai, aur kundli mein wahi strong point hai. Par abhi June 2027 tak bina soche job mat badalna. Kya yaha target pure karne mein zyada stress ho raha hai?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Sales mein communication kaafi kaam aati hai, aur kundli mein wahi strong point hai. Par abhi June 2027 tak bina soche job mat badalna. Kya yaha target pure karne mein zyada stress ho raha hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 22
+  }
+]

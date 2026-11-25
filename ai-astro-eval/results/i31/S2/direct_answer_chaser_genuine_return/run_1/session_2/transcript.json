@@ -1,0 +1,113 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Pichli baar aapne shaadi aur career ko lekar chinta jatayi thi, kya tab se koi nayi baat hui hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Pichli baar aapne shaadi aur career ko lekar chinta jatayi thi, kya tab se koi nayi baat hui hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe hain. Ek rishta chal raha hai.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak fix hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 aur September 2028 ke beech pakki hogi, vivah ka ghar majboot hai. Jo rishta abhi dekh rahe hain, kya wo aapke jankaron ke through hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 aur September 2028 ke beech pakki hogi, vivah ka ghar majboot hai. Jo rishta abhi dekh rahe hain, kya wo aapke jankaron ke through hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaunsa mahina?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke aas-paas ke mahine zyada sahi lag rahe hain kyunki tabse kismat ka grah career mein bhi badlav laayega. Kya aapne rishte walon se baat-cheet shuru kar di hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March ke aas-paas ke mahine zyada sahi lag rahe hain kyunki tabse kismat ka grah career mein bhi badlav laayega. Kya aapne rishte walon se baat-cheet shuru kar di hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur career mein sudhaar March 2027 se aana shuru hoga, jab mehnat ka grah aapke favor mein hoga. Kya aapne career ke liye koi khaas kshetra socha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa aur career mein sudhaar March 2027 se aana shuru hoga, jab mehnat ka grah aapke favor mein hoga. Kya aapne career ke liye koi khaas kshetra socha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki pareshani March 2027 ke baad dheere-dheere kam hone lagegi, jab career ka grah aapko rahat dega. Kya aapne ghar pe apni career ki baaton ko lekar koi charcha ki hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ki pareshani March 2027 ke baad dheere-dheere kam hone lagegi, jab career ka grah aapko rahat dega. Kya aapne ghar pe apni career ki baaton ko lekar koi charcha ki hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ki hai.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 15
+  }
+]

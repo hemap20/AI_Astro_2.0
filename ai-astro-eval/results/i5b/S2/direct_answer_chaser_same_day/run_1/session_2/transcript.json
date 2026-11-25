@@ -1,0 +1,136 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. March 2027 ke baad career aur paise mein rahat milegi. Aapko abhi kis baat ki sabse zyada fikar hai ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. March 2027 ke baad career aur paise mein rahat milegi. Aapko abhi kis baat ki sabse zyada fikar hai ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Shaadi kb hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein yog hai ji. Shani ki dasha chalegi tab. Rishta kahin jaan-pehchaan se hi aayega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 mein yog hai ji. Shani ki dasha chalegi tab. Rishta kahin jaan-pehchaan se hi aayega.",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "September 2028 tak ka samay hai ji. Shani ki dasha se ye pakka yog hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "September 2028 tak ka samay hai ji. Shani ki dasha se ye pakka yog hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe hain. Ek rishta abhi chal rha hai.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh baat bilkul kundli se milti hai ji. Yahan jaan-pehchaan se hi rishta pakka hone ka yog hai. Inki nature thodi calm aur educated hogi.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Yeh baat bilkul kundli se milti hai ji. Yahan jaan-pehchaan se hi rishta pakka hone ka yog hai. Inki nature thodi calm aur educated hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya ye rishta jo abhi chal rha hai, isi se shaadi hogi?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, isi rishte ke pakke hone ke poore yog hain ji. March ke baad Shani AD isko aage badhayegi.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, isi rishte ke pakke hone ke poore yog hain ji. March ke baad Shani AD isko aage badhayegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa 2027 mein kaun se mahine se aana shuru hoga?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad paisa aana shuru hoga ji. Ketu aur Mangal ki sthiti se dhan labh hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad paisa aana shuru hoga ji. Ketu aur Mangal ki sthiti se dhan labh hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Specific month batao. March ya baad?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuru hoga ji. Shani ki dasha dhan badhayegi. Job mein bhi tabhi tarakki hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se shuru hoga ji. Shani ki dasha dhan badhayegi. Job mein bhi tabhi tarakki hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 ya April? Exact month bolo.",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se hi shuru ho jayega ji. Shani AD ki shuruat tabhi hai. Ghar ka mahol bhi June ke baad sudhrega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "March se hi shuru ho jayega ji. Shani AD ki shuruat tabhi hai. Ghar ka mahol bhi June ke baad sudhrega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 16
+  }
+]

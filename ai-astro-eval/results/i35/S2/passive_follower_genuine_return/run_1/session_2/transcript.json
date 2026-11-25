@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, bataiye aaj main aapki kya madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, bataiye aaj main aapki kya madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, shaadi ka achha samay March 2027 se September 2028 ke beech hai. Kya 2023 se 2025 ke beech aapne career mein mehnat toh bohot ki, par paise ki tangi rahi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, shaadi ka achha samay March 2027 se September 2028 ke beech hai. Kya 2023 se 2025 ke beech aapne career mein mehnat toh bohot ki, par paise ki tangi rahi?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha bht tangi thi",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki naukri aur ghar ki tension dono ek hi wajah se hain, career ka ghar abhi dheema hai. Waise, shaadi ke liye ek baat aisi hai jo aapko abhi se samajhni hogi. Aap ghar par apni pasand ki baat kaise rakhti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Aapki naukri aur ghar ki tension dono ek hi wajah se hain, career ka ghar abhi dheema hai. Waise, shaadi ke liye ek baat aisi hai jo aapko abhi se samajhni hogi. Aap ghar par apni pasand ki baat kaise rakhti hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe, ek aaya h",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo baat ye hai ki hone wala partner shaant, par kam bolne wala hoga. Rishton ke liye Shukravar se 'Om Shum Shukraya Namah' jaap kijiye. Kya jo rishta aaya hai, ladka aisa hi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Wo baat ye hai ki hone wala partner shaant, par kam bolne wala hoga. Rishton ke liye Shukravar se 'Om Shum Shukraya Namah' jaap kijiye. Kya jo rishta aaya hai, ladka aisa hi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aane ka rasta March 2027 se saaf hone lagega, jab aapka career ka grah majboot hoga. Aapke liye videsh jaane ka bhi ek chhota sa mauka ban raha hai. Kya aapne abhi koi naya kaam ya naukri badalne ki sochi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa aane ka rasta March 2027 se saaf hone lagega, jab aapka career ka grah majboot hoga. Aapke liye videsh jaane ka bhi ek chhota sa mauka ban raha hai. Kya aapne abhi koi naya kaam ya naukri badalne ki sochi hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Socha hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Wo mauka 2027-2028 mein videsh ka hai. Ghar aur career ki tension ek hi grah se judi hai. Mangal ke liye Hanuman Chalisa shuru kijiye. Kya ghar par apni baat khul kar kehti hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Wo mauka 2027-2028 mein videsh ka hai. Ghar aur career ki tension ek hi grah se judi hai. Mangal ke liye Hanuman Chalisa shuru kijiye. Kya ghar par apni baat khul kar kehti hain?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Nahi bol paati",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon. Aapka mann ka grah kamzor hai, isliye himmat kam padti hai. Somvar ka vrat 23 November se shuru kijiye, isse mann ko himmat milegi. Kya aapne pehle kabhi vrat rakha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Main samajh sakti hoon. Aapka mann ka grah kamzor hai, isliye himmat kam padti hai. Somvar ka vrat 23 November se shuru kijiye, isse mann ko himmat milegi. Kya aapne pehle kabhi vrat rakha hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kabhi nahi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, vrat ka asar aapko jaldi dikhega aur ghar ki tension mein kami aayegi. Aapke career aur shaadi ka samay saaf hai, aur jab aap thoda sthir hongi, tab hum aapki sehat aur neend ke baare mein bhi baat kar sakte hain.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Koi baat nahi, vrat ka asar aapko jaldi dikhega aur ghar ki tension mein kami aayegi. Aapke career aur shaadi ka samay saaf hai, aur jab aap thoda sthir hongi, tab hum aapki sehat aur neend ke baare mein bhi baat kar sakte hain."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi aur naukri ke sawalon ka jawab maine de diya hai. Aapki kundli mein aane wala waqt pehle se kaafi behtar hai, jismein aapke career ke naye raste khulenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki shaadi aur naukri ke sawalon ka jawab maine de diya hai. Aapki kundli mein aane wala waqt pehle se kaafi behtar hai, jismein aapke career ke naye raste khulenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

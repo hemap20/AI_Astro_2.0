@@ -1,0 +1,143 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 aate hi tumhari life mein naye mauke aur badlav dikh rahe hain. Batao, career, paise ya shaadi, kis baare mein sabse pehle janna hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 aate hi tumhari life mein naye mauke aur badlav dikh rahe hain. Batao, career, paise ya shaadi, kis baare mein sabse pehle janna hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar par rishte ki baat chal rahi hai kya abhi, ya tum khud hi yeh sab soch kar thoda pareshan ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ghar par rishte ki baat chal rahi hai kya abhi, ya tum khud hi yeh sab soch kar thoda pareshan ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rhe ghar wale. Kab tak fix hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki hone ka yog hai, rishta jaan-pehchaan se aayega. Par shaadi se pehle ek aur aisi jagah baat aayegi jise pehchanna zaroori hai. Tumhe apne hone wale partner mein sabse pehle kya chahiye?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki hone ka yog hai, rishta jaan-pehchaan se aayega. Par shaadi se pehle ek aur aisi jagah baat aayegi jise pehchanna zaroori hai. Tumhe apne hone wale partner mein sabse pehle kya chahiye?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse mahine tak confirm hoga?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein baat pakki hone ke poore yog hain. Friday 20 Nov se 'Om Shum Shukraya Namah' 108 baar jaap karo aur safed mithai baanto. Ladke ki taraf se kya expectations hain tumhari?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March ya April 2027 mein baat pakki hone ke poore yog hain. Friday 20 Nov se 'Om Shum Shukraya Namah' 108 baar jaap karo aur safed mithai baanto. Ladke ki taraf se kya expectations hain tumhari?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kb tak aayega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paison ko lekar abhi kya dikkat chal rahi hai, aur saving nahi ho pa rahi ya kharche badh gaye hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paison ko lekar abhi kya dikkat chal rahi hai, aur saving nahi ho pa rahi ya kharche badh gaye hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Savings nahi ho rahi. Paisa kab tak aayega?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki tension aur paise na tikne ka karan ek hi hai: tumhara Chandra kamzor hai. March 2027 se halat sudhregi aur saving shuru hogi. Abhi kahin job kar rahe ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi ki tension aur paise na tikne ka karan ek hi hai: tumhara Chandra kamzor hai. March 2027 se halat sudhregi aur saving shuru hogi. Abhi kahin job kar rahe ho?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar par kis baat ko lekar zyada tension chal rahi hai, kisi specific baat par jhagda hai kya? Yeh kab se ho raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar par kis baat ko lekar zyada tension chal rahi hai, kisi specific baat par jhagda hai kya? Yeh kab se ho raha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Papa ki health. Kab tak khatam hogi?",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Papa ki tabiyat ko lekar kab se pareshani chal rahi hai, doctor kya bol rahe hain abhi?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Papa ki tabiyat ko lekar kab se pareshani chal rahi hai, doctor kya bol rahe hain abhi?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kuch mahino se. Kab tak khatam hogi tension?",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak yeh tension dheere-dheere khatam ho jayegi, abhi bas thoda dhiraj rakho. June ke baad ek aisa hidden financial mauka aane wala hai jo sab set kar dega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "June 2027 tak yeh tension dheere-dheere khatam ho jayegi, abhi bas thoda dhiraj rakho. June ke baad ek aisa hidden financial mauka aane wala hai jo sab set kar dega."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 18
+  }
+]

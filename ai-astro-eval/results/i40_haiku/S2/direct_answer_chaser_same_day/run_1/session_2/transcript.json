@@ -1,0 +1,188 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Aap kaise hain? Batayiye, aaj aapke mann mein kya chal raha hai.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Aap kaise hain? Batayiye, aaj aapke mann mein kya chal raha hai."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Theek hoon.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Meri shadi kab hogi?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichli baar aapki shaadi aur paise ki baat hui thi. Aapki shaadi ke liye Mar 2027 se Sep 2028 ka samay dekhti hoon. Kya aapki shaadi ki baat abhi kisi rishte se chal rahi hai, ya ghar wale dekh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, pichli baar aapki shaadi aur paise ki baat hui thi. Aapki shaadi ke liye Mar 2027 se Sep 2028 ka samay dekhti hoon. Kya aapki shaadi ki baat abhi kisi rishte se chal rahi hai, ya ghar wale dekh rahe hain?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ghar wale dekh rahe hain aur ek rishta chal raha hai.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kya ye rishta final hoga?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, is rishte ke pakka hone ki sambhavna achhi hai. Guru 7th bhav mein Budh ke saath hai, jo shaadi ke rishte ko samarthan deta hai. Kya aap bata sakti hain ki 2022 mein aapki padhai ya college life mein koi bada badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, is rishte ke pakka hone ki sambhavna achhi hai. Guru 7th bhav mein Budh ke saath hai, jo shaadi ke rishte ko samarthan deta hai. Kya aap bata sakti hain ki 2022 mein aapki padhai ya college life mein koi bada badlav aaya tha?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, kuch nahi hua.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta final hoga? Haan ya na.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, haan, ye rishta final hone ki sambhavna achhi hai. Is rishte mein aage badhne ka sahi samay Mar 2027 ke baad hai. Kya aap ye confirm kar sakti hain ki Mar 2025 se abhi tak aapki neend aur mann par thoda bhaari asar raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, haan, ye rishta final hone ki sambhavna achhi hai. Is rishte mein aage badhne ka sahi samay Mar 2027 ke baad hai. Kya aap ye confirm kar sakti hain ki Mar 2025 se abhi tak aapki neend aur mann par thoda bhaari asar raha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Abhi rishta chal raha hai toh 2027 kyun?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Isi saal hoga ya nahi?",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, aapki baat sahi hai, pichli baar ki baat se aap pareshan hui hongi. Is saal, 2026 mein, shaadi pakki hone ka samay abhi nahi aaya hai. Shaadi ki shuruaat ka samay 2027 ka hai, kyunki Shani ka asar 2027 se halka hota hai. Kya aapko Mar 2025 se neend aur mann par bojh mehsoos ho raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, aapki baat sahi hai, pichli baar ki baat se aap pareshan hui hongi. Is saal, 2026 mein, shaadi pakki hone ka samay abhi nahi aaya hai. Shaadi ki shuruaat ka samay 2027 ka hai, kyunki Shani ka asar 2027 se halka hota hai. Kya aapko Mar 2025 se neend aur mann par bojh mehsoos ho raha hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Isi saal hoga ya nahi, haan ya na bolo.",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, seedha jawab hai: is saal, 2026 mein, shaadi tay hone ki sambhavna kam hai. Aapki shaadi ka sahi samay Mar 2027 se Sep 2028 ke beech hai. Kya aap confirm kar sakti hain ki Mar 2025 se aapki neend par asar hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ji, seedha jawab hai: is saal, 2026 mein, shaadi tay hone ki sambhavna kam hai. Aapki shaadi ka sahi samay Mar 2027 se Sep 2028 ke beech hai. Kya aap confirm kar sakti hain ki Mar 2025 se aapki neend par asar hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak badhega?",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, paise ki halat Mar 2027 se Sep 2028 ke beech dheere-dheere sudharegi. Mangal aapki kamai ka grah hai aur 11th bhav mein majboot hai, isliye madad milti hai. Kya aap bata sakti hain ki padhai ka kharcha abhi kaun uthata hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, paise ki halat Mar 2027 se Sep 2028 ke beech dheere-dheere sudharegi. Mangal aapki kamai ka grah hai aur 11th bhav mein majboot hai, isliye madad milti hai. Kya aap bata sakti hain ki padhai ka kharcha abhi kaun uthata hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Papa uthate hain.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, ghar ki tension Feb 2027 ke baad halki hone lagegi, aur Jun 2027 tak aur kam ho jayegi. Papa ka padhai ka kharcha uthana samajh sakti hoon. Kya aap bata sakti hain ki ye tension zyada kis baat par hoti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ji, ghar ki tension Feb 2027 ke baad halki hone lagegi, aur Jun 2027 tak aur kam ho jayegi. Papa ka padhai ka kharcha uthana samajh sakti hoon. Kya aap bata sakti hain ki ye tension zyada kis baat par hoti hai?"
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Paise ki wajah se.",
+    "sec": 240,
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 26
+  }
+]

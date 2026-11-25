@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Aane wale ek-do saal mein career aur paise ki thakaan kam hogi. Aapko sabse zyada kis cheez ki fikar hai, career ki ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Aane wale ek-do saal mein career aur paise ki thakaan kam hogi. Aapko sabse zyada kis cheez ki fikar hai, career ki ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji, yeh toh sabse badi chinta hoti hai. Family rishta dekh rahi hai ya aapki koi pasand hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji, yeh toh sabse badi chinta hoti hai. Family rishta dekh rahi hai ya aapki koi pasand hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech banega ji. Yeh rishta jaan-pehchaan ke zariye aane ka yog hai. Isme der na ho, isliye 20 November se Friday ko safed mithai daan kiya karein.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech banega ji. Yeh rishta jaan-pehchaan ke zariye aane ka yog hai. Isme der na ho, isliye 20 November se Friday ko safed mithai daan kiya karein."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paiye ki chinta hai toh batayein, paisa kahan atak raha hai, kharche mein ya kamai mein ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paiye ki chinta hai toh batayein, paisa kahan atak raha hai, kharche mein ya kamai mein ji?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Dono",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht h",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki tangi March 2027 ke baad theek hogi ji. Shani ke prabhav se ghar mein abhi thoda bojh aur karcha zyada hai. Yeh tension kis baat ko lekar hai ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki tangi March 2027 ke baad theek hogi ji. Shani ke prabhav se ghar mein abhi thoda bojh aur karcha zyada hai. Yeh tension kis baat ko lekar hai ji?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Sab ladte rehte",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, ghar mein baat-baat par jhagda hona aam baat hai. Mangal aur Shani ke asar se sabka gussa tez hai ji. Yeh jhagde kis baat par shuru hote hain ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Haan ji, ghar mein baat-baat par jhagda hona aam baat hai. Mangal aur Shani ke asar se sabka gussa tez hai ji. Yeh jhagde kis baat par shuru hote hain ji?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki galti nahi hai ji. Yeh grahon ke asar se tez gusse ka samay hai. Iske liye 24 November se Hanuman Chalisa padhna shuru karein.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Aapki galti nahi hai ji. Yeh grahon ke asar se tez gusse ka samay hai. Iske liye 24 November se Hanuman Chalisa padhna shuru karein."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Aur kuch bataye",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career mein nayi shuruat March 2027 ke baad hogi ji. Abhi kaam mein jo rukawat hai, woh jaldi theek hogi. Aap abhi kya kaam kar rahe hain ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Career mein nayi shuruat March 2027 ke baad hogi ji. Abhi kaam mein jo rukawat hai, woh jaldi theek hogi. Aap abhi kya kaam kar rahe hain ji?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kar rhi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai ke baad career ki shuruat March 2027 ke baad theek ho jayegi ji. Teaching ya finance line mein aage badhne ka yog ban raha hai. Padhai poori hokar job ka rasta kab tak banega, yeh 2027 ke beech mein saaf hoga ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Padhai ke baad career ki shuruat March 2027 ke baad theek ho jayegi ji. Teaching ya finance line mein aage badhne ka yog ban raha hai. Padhai poori hokar job ka rasta kab tak banega, yeh 2027 ke beech mein saaf hoga ji."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

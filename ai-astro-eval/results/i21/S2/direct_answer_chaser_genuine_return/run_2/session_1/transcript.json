@@ -1,0 +1,197 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! 2027 se tumhara time badal raha hai aur purani pareshaniyan door hone lagengi. Batao, abhi zindagi ke kis hisse ko lekar sabse zyada tension hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! 2027 se tumhara time badal raha hai aur purani pareshaniyan door hone lagengi. Batao, abhi zindagi ke kis hisse ko lekar sabse zyada tension hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaunse month se?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi meri?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai. 2025 se hi settle hone ki baatein chal rahi hain na? Ghar pe koi rishta aaya hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai. 2025 se hi settle hone ki baatein chal rahi hain na? Ghar pe koi rishta aaya hai kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta chal raha hai ghar par.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein pakka ho jayega?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein baat aage badh sakti hai. Shukra weak hone ki wajah se thodi delay ho sakti hai. Tumne ladke ko ya unki family ko dekha hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein baat aage badh sakti hai. Shukra weak hone ki wajah se thodi delay ho sakti hai. Tumne ladke ko ya unki family ko dekha hai kya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi paisa thoda tight chal raha hai aur mehnat bohot lag rahi hai, hai na? Abhi kharcha kahan zyada ho raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2023 se hi paisa thoda tight chal raha hai aur mehnat bohot lag rahi hai, hai na? Abhi kharcha kahan zyada ho raha hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega, wo bataiye.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Month bataiye, exact.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein hi paisa aane ke raste khulne lagenge, khaas kar March ka mahina strong hai. Mangal ke asar se halat sudhrenge. Par ek jagah paisa fasne ka khatra hai, wo kya hai? Tum abhi saving ke liye kya kar rahe ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein hi paisa aane ke raste khulne lagenge, khaas kar March ka mahina strong hai. Mangal ke asar se halat sudhrenge. Par ek jagah paisa fasne ka khatra hai, wo kya hai? Tum abhi saving ke liye kya kar rahe ho?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye ghar ki tension kis baat ko lekar hai, aur kis-kis ke beech baatein bigad rahi hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ye ghar ki tension kis baat ko lekar hai, aur kis-kis ke beech baatein bigad rahi hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Mummy papa ke beech.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak thik hoga?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad ghar ka mahol dheere-dheere theek hone lagega aur jhagde kam honge. Kya mummy-papa ki yeh baat kisi purani baat ko lekar hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 ke baad ghar ka mahol dheere-dheere theek hone lagega aur jhagde kam honge. Kya mummy-papa ki yeh baat kisi purani baat ko lekar hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Haan.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact date?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ke pehle hafte se hi asar dikhega kyunki naya samay tabhi shuru ho raha hai. March ki 14 tareekh ke aas-paas ek chhota mod aayega jo baat ko sambhal lega. Kya is bare mein pehle bhi ghar pe baat hui hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "March ke pehle hafte se hi asar dikhega kyunki naya samay tabhi shuru ho raha hai. March ki 14 tareekh ke aas-paas ek chhota mod aayega jo baat ko sambhal lega. Kya is bare mein pehle bhi ghar pe baat hui hai?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "14 March hi?",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "14 March ke aas-paas ka time sabse main hai, par poora March ka mahina hi badlav layega. Ek aur baat, aage ek aisa mahina aayega jab ghar ke liye bada kharcha ho sakta hai. Kya ghar wale is mamle mein kisi aur ki salah le rahe hain?",
+    "sec": 255,
+    "raw_response": {
+      "message": "14 March ke aas-paas ka time sabse main hai, par poora March ka mahina hi badlav layega. Ek aur baat, aage ek aisa mahina aayega jab ghar ke liye bada kharcha ho sakta hai. Kya ghar wale is mamle mein kisi aur ki salah le rahe hain?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 270,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 27
+  }
+]

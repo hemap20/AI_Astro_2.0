@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon. Bataiye, aaj mann mein kya hai aur main aapki kaise madad kar sakti hoon?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon. Bataiye, aaj mann mein kya hai aur main aapki kaise madad kar sakti hoon?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, main aapko aapke hone wale jeevansathi ke baare mein batane wali thi. Woh insaan lambe, shant aur samay ke saath thode reserved nature ke honge. Kya aapne rishton ke liye kahin baat aage badhayi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan, main aapko aapke hone wale jeevansathi ke baare mein batane wali thi. Woh insaan lambe, shant aur samay ke saath thode reserved nature ke honge. Kya aapne rishton ke liye kahin baat aage badhayi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, mummy papa dekh rhe h",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Achha hai, ghar wale rishta dekh rahe hain kyunki 2027 mein shaadi ka mazboot yog hai. Ghar ki tension aur paise, dono 2028 tak theek ho jayenge. 2023 se 2025 tak paise tight rahe the, hai na?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Achha hai, ghar wale rishta dekh rahe hain kyunki 2027 mein shaadi ka mazboot yog hai. Ghar ki tension aur paise, dono 2028 tak theek ho jayenge. 2023 se 2025 tak paise tight rahe the, hai na?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan sahi h",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki pareshani aur ghar ka mahaul dono ek hi wajah se hain, kyunki karm ka grah abhi thoda bhari hai. Par ek bada mauka shaadi ke baad aane wala hai, jise abhi pehchanna hoga. Ghar par rishte ki baat kahan tak pahunchi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapki pareshani aur ghar ka mahaul dono ek hi wajah se hain, kyunki karm ka grah abhi thoda bhari hai. Par ek bada mauka shaadi ke baad aane wala hai, jise abhi pehchanna hoga. Ghar par rishte ki baat kahan tak pahunchi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ek jagah baat chal rhi h",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ki baat aur career, dono 10th ghar se jude hain. Is rishte mein ek khaas baat hai jo career mein bhi madad karegi. Kya ladke ke ghar wale traditional hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Aapki shaadi ki baat aur career, dono 10th ghar se jude hain. Is rishte mein ek khaas baat hai jo career mein bhi madad karegi. Kya ladke ke ghar wale traditional hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "10th ghar kya h",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan traditional h",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "10th ghar career ka hai. Shaadi aur kaam jude hain, isliye traditional ghar se madad milegi. Ek mauka aane wala hai, par ek galti se bachna hoga. Kya aapne videsh jane ka socha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "10th ghar career ka hai. Shaadi aur kaam jude hain, isliye traditional ghar se madad milegi. Ek mauka aane wala hai, par ek galti se bachna hoga. Kya aapne videsh jane ka socha hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k tension h",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa ka tension 2027 se kam hone lagega kyunki aapka kamai ka ghar majboot hai. Shaadi ke baad ek bada financial badlav aayega jo sab sambhal lega. Guru ke liye chana dal ka daan shuru kiya kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paisa ka tension 2027 se kam hone lagega kyunki aapka kamai ka ghar majboot hai. Shaadi ke baad ek bada financial badlav aayega jo sab sambhal lega. Guru ke liye chana dal ka daan shuru kiya kya?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Kaha pe?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Guru mantra 'Om Gram Greem Grom Sah Gurave Namah' 108 baar aur chana dal mandir mein daan kijiye. Ye career aur paise ki dikkat door karega. Kya aapne kabhi ratna pehna hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Guru mantra 'Om Gram Greem Grom Sah Gurave Namah' 108 baar aur chana dal mandir mein daan kijiye. Ye career aur paise ki dikkat door karega. Kya aapne kabhi ratna pehna hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Nahi pehna",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ratna ki zaroorat nahi hai, bas wo upay karte rahiye. Aapka shaadi aur paise ka sawal yahan saaf hai. Partner ka swabhav aur jodi kaisi rahegi, agli baar detail mein samjhenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ratna ki zaroorat nahi hai, bas wo upay karte rahiye. Aapka shaadi aur paise ka sawal yahan saaf hai. Partner ka swabhav aur jodi kaisi rahegi, agli baar detail mein samjhenge."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 21
+  }
+]

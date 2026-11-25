@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Ye ladka shi h ya nhi mere liye?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke hisaab se tumhara hone wala partner kaafi calm, educated aur warm nature ka hoga, par thoda guarded bhi rehta hai. Kya uska nature aisa hi hai, aur tum dono ki baat kitne time se chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Kundli ke hisaab se tumhara hone wala partner kaafi calm, educated aur warm nature ka hoga, par thoda guarded bhi rehta hai. Kya uska nature aisa hi hai, aur tum dono ki baat kitne time se chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, wo to gusse wala hai.",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye, ye batao.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Gusse wala hai toh thoda dhyan dena, kyunki kundli mein is rishte ko lekar thoda pressure dikh raha hai. Kya ghar wale iske liye raaji hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Gusse wala hai toh thoda dhyan dena, kyunki kundli mein is rishte ko lekar thoda pressure dikh raha hai. Kya ghar wale iske liye raaji hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Sahi hai ya nahi, haan ya na?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Seedha haan kehna mushkil hai kyunki yeh rishta jaan-pehchaan ke zariye hi theek baith sakta hai. Kya yeh ladka tumhe pehle se pata tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Seedha haan kehna mushkil hai kyunki yeh rishta jaan-pehchaan ke zariye hi theek baith sakta hai. Kya yeh ladka tumhe pehle se pata tha?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Matlab hoga ya nhi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Direct bolo.",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is rishte ke hone ke chances hain, par March 2027 ke baad hi baat aage badhegi jab naya samay shuru hoga. Kya is baare mein ghar pe baat ho chuki hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Is rishte ke hone ke chances hain, par March 2027 ke baad hi baat aage badhegi jab naya samay shuru hoga. Kya is baare mein ghar pe baat ho chuki hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunse mahine?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March ya April 2027 mein baat pakki hone ke chances hain. Ek mahina aisa aayega jab in-laws ki taraf se thodi rok-tok ho sakti hai. Kya isme koi jaan-pehchaan ka hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March ya April 2027 mein baat pakki hone ke chances hain. Ek mahina aisa aayega jab in-laws ki taraf se thodi rok-tok ho sakti hai. Kya isme koi jaan-pehchaan ka hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ke liye 2027 ke aakhir se 2028 ke beech ka samay best hai. In-laws thode traditional aur reserved nature ke honge. Friday ko safed mithai daan kiya karo. Kya is baare mein ghar walo ki poori tayari hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Shaadi ke liye 2027 ke aakhir se 2028 ke beech ka samay best hai. In-laws thode traditional aur reserved nature ke honge. Friday ko safed mithai daan kiya karo. Kya is baare mein ghar walo ki poori tayari hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "2028 me kaunse mahine?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "2028 mein March se June ke beech shaadi ka sabse sahi time hai. Par 2028 mein ek mahina aisa aayega jab choti baat par rukaavat aa sakti hai. Kya ladke ke ghar walo se pehle milna hua hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "2028 mein March se June ke beech shaadi ka sabse sahi time hai. Par 2028 mein ek mahina aisa aayega jab choti baat par rukaavat aa sakti hai. Kya ladke ke ghar walo se pehle milna hua hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi mile abhi tak.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "2028 me koi exact date hai?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Exact date toh nahi hoti, par March ya April 2028 ke beech sabse strong yog ban rahe hain. Kya ladke wale aane wale hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Exact date toh nahi hoti, par March ya April 2028 ke beech sabse strong yog ban rahe hain. Kya ladke wale aane wale hain?"
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 23
+  }
+]

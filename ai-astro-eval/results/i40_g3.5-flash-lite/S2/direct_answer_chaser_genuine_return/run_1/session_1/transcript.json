@@ -1,0 +1,152 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aapke aane wale waqt ke baare mein baat karti hoon, bataiye kis cheez ki sabse zyada chinta hai aapko?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aapke aane wale waqt ke baare mein baat karti hoon, bataiye kis cheez ki sabse zyada chinta hai aapko?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka acha waqt agle saal March se shuru hokar 2028 tak ban raha hai. Kya November 2022 ke aas-paas aapki padhai ya college ki life mein koi badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka acha waqt agle saal March se shuru hokar 2028 tak ban raha hai. Kya November 2022 ke aas-paas aapki padhai ya college ki life mein koi badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Konse month tak pakka hai?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, 2022 me college khatam hua tha.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuruat ke mahino mein ye baat pakki ho sakti hai. Karm ke grah ke badlav se rishton ki baat aage badhegi. Kya aisi baatein chalne par aap ghar walon se khulkar baat karti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke shuruat ke mahino mein ye baat pakki ho sakti hai. Karm ke grah ke badlav se rishton ki baat aage badhegi. Kya aisi baatein chalne par aap ghar walon se khulkar baat karti hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab badhega?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat 2028 ke aakhiri mahino mein behtar hogi, kyunki kamai ke grah ka asar achha rahega. Kya mahine ke aakhir mein bachat karne mein thodi mushkil aati hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki halat 2028 ke aakhiri mahino mein behtar hogi, kyunki kamai ke grah ka asar achha rahega. Kya mahine ke aakhir mein bachat karne mein thodi mushkil aati hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Konse month? November ya December?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "November ke mahine mein main yeh asar saaf dekhti hoon, jab kamai ke grah ki sthiti badlav layegi. Kya aane wale samay ke liye aapne koi naya plan socha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "November ke mahine mein main yeh asar saaf dekhti hoon, jab kamai ke grah ki sthiti badlav layegi. Kya aane wale samay ke liye aapne koi naya plan socha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension saal 2027 ke beech mein kam hogi, jab ye daur badlega. Iske asar ko halka karne ke liye Tuesday se Hanuman Chalisa shuru kijiye, sukoon milega.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension saal 2027 ke beech mein kam hogi, jab ye daur badlega. Iske asar ko halka karne ke liye Tuesday se Hanuman Chalisa shuru kijiye, sukoon milega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak 2027 ke beech mein?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Exact month bataiye.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke aas-paas mehnat aur karm ke grah ki sthiti badalne par yeh tension door ho jayegi. Kya is baare mein ghar mein aapki kisi se zyada behas hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke aas-paas mehnat aur karm ke grah ki sthiti badalne par yeh tension door ho jayegi. Kya is baare mein ghar mein aapki kisi se zyada behas hoti hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Mummy se.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke sawaalon ke jawab mil chuke hain ji. Aapke hone wale sathi ka swabhav shant aur padha-likha hone ke sath thoda reserved bhi rahega, jiska pata unke aane par chalega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aapke sawaalon ke jawab mil chuke hain ji. Aapke hone wale sathi ka swabhav shant aur padha-likha hone ke sath thoda reserved bhi rahega, jiska pata unke aane par chalega."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 20
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 4,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 8,
+    "2.7": 8,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 7,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 5.94,
+  "shape": {
+    "M": 9,
+    "avg_words": 31.0,
+    "long_share": 0.44
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Namaste ji, aapke aane wale waqt ke baare mein zaroor baat karti hoon.",
+        "why": "The astrologer acknowledges the user's request for 'future' but does not repeat any specific detail or feeling, as none was provided."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aap abhi kya kaam karti hain?",
+        "why": "All questions asked are Type B; they are relevant to the topic but could be asked to any user."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Padhai aur career mein tarakki agle saal se shuru hogi",
+        "why": "The reading speaks only about the future, not the present or past."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki shaadi bhi usi dauran pehchan walon mein tay hogi.",
+        "why": "A clear direction (March 2027) is given for the marriage question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 4,
+        "quote": "kismat ka grah majboot ho raha hai",
+        "why": "The chart reference is generic and true for everyone; it is not linked to a specific life event."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "B.Sc. ke baad ek alag shehar ya videsh se jude bade mauke ka rasta khulne wala hai",
+        "why": "The reading uses the user's detail (B.Sc.) and adds a new point."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "March 2027 ke baad khulega",
+        "why": "The astrologer provides a clear time window for the events."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aap Somwar ke din thoda shant rehkar man ko aaram dijiye.",
+        "why": "The remedy is tied to the user's stated problem (ghar ki tension) and includes a specific day."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke bhavishya aur paisa-shaadi ki baaton ka jawab maine de diya hai ji.",
+        "why": "The astrologer addresses both the marriage and money questions throughout the chat."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Videsh ya doosre shehar se jude safar ka rasta is daur mein khulne wala hai, jisse aapko aage ki asli tasveer dikhegi.",
+        "why": "The astrologer points to a further development regarding the user's career/travel."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is baare mein aur gehraai se janna chahti hain, toh abhi chat recharge kar lijiye.",
+        "why": "The astrologer closes the chat with a pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Agar aap is baare mein aur gehraai se janna chahti hain, toh abhi chat recharge kar lijiye.",
+        "why": "The last message is a pitch/closing, leaving the user with no reason to return."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aap Somwar ke din thoda shant rehkar man ko aaram dijiye.",
+        "why": "The language is simple and conversational, with no unexplained technical terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Namaste ji, aapke aane wale waqt ke baare mein zaroor baat karti hoon. Aap abhi kya kaam karti hain?",
+        "why": "The user triggered the 'Vague' condition, and the astrologer responded with a reading and a soft question within the first reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "question"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "other"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 10,
+        "type": "other"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "other"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      }
+    ]
+  }
+}

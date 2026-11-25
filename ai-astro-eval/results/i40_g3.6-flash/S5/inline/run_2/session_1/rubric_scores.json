@@ -1,0 +1,257 @@
+{
+  "scores": {
+    "1.1": 3,
+    "1.2": 1,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 6,
+    "2.5": 7,
+    "2.6": 6,
+    "2.7": 1,
+    "3.1": 1,
+    "3.2": 1,
+    "3.3": 1,
+    "4.2": 7,
+    "5.1": 1,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 3
+  },
+  "gate_fail": [
+    "G3"
+  ],
+  "overall": 3,
+  "shape": {
+    "M": 10,
+    "avg_words": 29.1,
+    "long_share": 0.7
+  },
+  "rep": {
+    "rep": 5,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": "Aap bilkul bhi unlucky nahi hain, aisa mat sochiye."
+      },
+      "G2": {
+        "fail": false,
+        "quote": "Nahi ji, main Sitara hoon."
+      },
+      "G3": {
+        "fail": true,
+        "quote": "Ise samajhne ke liye abhi recharge kijiye."
+      },
+      "G4": {
+        "fail": false,
+        "quote": "Kundali mein pehle job aur phir khud ke business ka yog hai."
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "Abhi aap kisi ke saath rishte mein hain ya single hain?",
+        "why": "The astrologer ignores the user's topic of 'Love life' and immediately asks a data question."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aap abhi kisi ke saath rishte mein hain ya single hain?",
+        "why": "The astrologer repeats the exact same question from the previous turn, which is a Type C question."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": ""
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kamai ke liye March 2027 se September 2028 ka samay sabse accha hai",
+        "why": "The reading is entirely about the future, not the present."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kamai ke liye March 2027 se September 2028 ka samay sabse accha hai",
+        "why": "A clear direction and time window are provided for the earning question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ke ghar mein Surya hai, aapki job se ghar ki dikkat door hogi.",
+        "why": "A chart factor (Surya in earning house) is linked to a life outcome (job solving home issues)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kundali mein pehle job aur phir khud ke business ka yog hai.",
+        "why": "Multiple new points are added, but none use specific details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ke liye March 2027 se September 2028 ka samay sabse accha hai",
+        "why": "A clear time window is provided."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kismat ke grah ke liye guruwar ko chana dal daan kijiye.",
+        "why": "A remedy is given, but it lacks specific instructions on how or when to perform it effectively for the user's specific problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aapke kamai aur love life ke sawal par humne baat kar li hai.",
+        "why": "The astrologer claims to have answered the love life question, but never actually provided a reading for it."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Aapke partner ke calm nature aur family se judi khas baat baaki hai. Ise samajhne ke liye abhi recharge kijiye.",
+        "why": "The astrologer uses a tease to push for a recharge instead of providing value."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise samajhne ke liye abhi recharge kijiye.",
+        "why": "The astrologer repeatedly closes the chat with recharge pitches while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise samajhne ke liye abhi recharge kijiye.",
+        "why": "The last messages are recharge pitches, not readings."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kamai ke ghar mein Surya hai",
+        "why": "The language is simple and accessible."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Ise samajhne ke liye abhi recharge kijiye.",
+        "why": "When the user expresses frustration, the astrologer responds with a recharge pitch instead of adapting."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "reading"
+      },
+      {
+        "idx": 6,
+        "type": "question"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "question"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "reading"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "other"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "other"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      },
+      {
+        "idx": 26,
+        "type": "other"
+      }
+    ]
+  }
+}

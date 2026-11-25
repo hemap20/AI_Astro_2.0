@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Bataiye, aaj kis baare mein baat karni hai, koi naya sawal hai ya purani baat ko aage badhayein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Bataiye, aaj kis baare mein baat karni hai, koi naya sawal hai ya purani baat ko aage badhayein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baat hi continue krte h. Shaadi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar aapne rishte mein ho rahi deri ki chinta ki thi ji. Aapki shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain, jismein Shani ka samay madad karega. Ghar par abhi rishton ko lekar kya baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar aapne rishte mein ho rahi deri ki chinta ki thi ji. Aapki shaadi ke yog March 2027 se September 2028 ke beech ban rahe hain, jismein Shani ka samay madad karega. Ghar par abhi rishton ko lekar kya baat chal rahi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale dekh rhe h. Ek rishta aya h.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh toh achhi baat hai ji, rishta aana shuru ho gaya hai. Chart ke mutabiq yeh arranged match kisi jaan-pehchan ke zariye lag sakta hai. Yeh rishta aapke kisi kareeb ke through aaya hai kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Yeh toh achhi baat hai ji, rishta aana shuru ho gaya hai. Chart ke mutabiq yeh arranged match kisi jaan-pehchan ke zariye lag sakta hai. Yeh rishta aapke kisi kareeb ke through aaya hai kya?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ji. Mummy ke friend ne bataya.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy ki friend se aana matlab jaan-pehchan ke circle se rishta aana, jo chart se match hota hai ji. Guru ka asar aisi jagah baat aage badhata hai. Us parivaar ke baare mein ghar walon ne kya bataya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Mummy ki friend se aana matlab jaan-pehchan ke circle se rishta aana, jo chart se match hota hai ji. Guru ka asar aisi jagah baat aage badhata hai. Us parivaar ke baare mein ghar walon ne kya bataya?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Pata nhi. Bas thik thak hai.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shuruaat mein aisi hi baatein hoti hain ji, dheere-dheere clarity aayegi. Chart ke mutabiq aapke hone wale sathi ka swabhav kaafi shaant, samajhdar aur thoda reserved ho sakta hai. Kya aapko aise swabhav wale log pasand hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shuruaat mein aisi hi baatein hoti hain ji, dheere-dheere clarity aayegi. Chart ke mutabiq aapke hone wale sathi ka swabhav kaafi shaant, samajhdar aur thoda reserved ho sakta hai. Kya aapko aise swabhav wale log pasand hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan thik hai. Paisa kaisa rahega?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur savings ki chinta aajkal sabko pareshan karti hai ji. Mujhe bas itna batayiye ki abhi pareshani kharche badhne ki wajah se hai ya kamai kam hone ki wajah se?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Paisa aur savings ki chinta aajkal sabko pareshan karti hai ji. Mujhe bas itna batayiye ki abhi pareshani kharche badhne ki wajah se hai ya kamai kam hone ki wajah se?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Kharch zyada hai",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kharchon par control 2027 ke baad aana shuru hoga ji, aur aamdani ke raste bhi behtar honge. Paisa isliye nahi rukta kyunki dhan sthaan mein thodi kamzori hai. Iske liye aane wale Mangalwar se Hanuman Chalisa padhna shuru kariye ji.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Kharchon par control 2027 ke baad aana shuru hoga ji, aur aamdani ke raste bhi behtar honge. Paisa isliye nahi rukta kyunki dhan sthaan mein thodi kamzori hai. Iske liye aane wale Mangalwar se Hanuman Chalisa padhna shuru kariye ji."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar mein tension bhot h",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki yeh tension sach mein mann ko bhari kar deti hai ji. Yeh khinch-taan kisi khaas baat ko lekar hai ya aam taur par baatein bigad jaati hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki yeh tension sach mein mann ko bhari kar deti hai ji. Yeh khinch-taan kisi khaas baat ko lekar hai ya aam taur par baatein bigad jaati hain?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Sab choti baaton pe",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Choti baaton ki yeh takraar June 2027 ke baad poori tarah kam ho jayegi ji. Shani ka samay abhi aisi thakan aur rukaawat deta hai. Is dauran ghar ka mahaul kaise sambhalna hai, is par hum agle saptah milkar vichar karenge ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Choti baaton ki yeh takraar June 2027 ke baad poori tarah kam ho jayegi ji. Shani ka samay abhi aisi thakan aur rukaawat deta hai. Is dauran ghar ka mahaul kaise sambhalna hai, is par hum agle saptah milkar vichar karenge ji."
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji. Aap bas February 2027 ka samay dhyan rakhiyega, jab ghar ke mahaul mein pehli raahat dikhni shuru hogi. Tab tak thoda sabr rakhiye, sab theek hoga ji.",
+    "sec": 285,
+    "raw_response": {
+      "message": "Theek hai ji. Aap bas February 2027 ka samay dhyan rakhiyega, jab ghar ke mahaul mein pehli raahat dikhni shuru hogi. Tab tak thoda sabr rakhiye, sab theek hoga ji."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 20
+  }
+]

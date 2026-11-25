@@ -1,0 +1,185 @@
+[
+  {
+    "role": "USER",
+    "text": "meri shadi kb hogi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta kisi jaan-pehchaan mein hi aayega. Ghar pe kisi ne is baare mein baat shuru ki hai kya?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, rishta kisi jaan-pehchaan mein hi aayega. Ghar pe kisi ne is baare mein baat shuru ki hai kya?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ghar pe baat chal rhi hai",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Bihar",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ladke ki rashi kundli se match ho rahi hai, wo shant aur padhe-likhe honge par thode reserved bhi ho sakte hain. Tumne unse kabhi baat ki hai ya abhi sirf ghar walon ki baat chal rahi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ladke ki rashi kundli se match ho rahi hai, wo shant aur padhe-likhe honge par thode reserved bhi ho sakte hain. Tumne unse kabhi baat ki hai ya abhi sirf ghar walon ki baat chal rahi hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Mile the 2 baar",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Thode gusse wale lage mujhe",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein thoda tez aasar dikhta hai, isliye wo gusse wale lage honge, par wo dil ke acche hain. Tumhe unke sath baat karke kya laga, aage baat badhayein?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Kundli mein thoda tez aasar dikhta hai, isliye wo gusse wale lage honge, par wo dil ke acche hain. Tumhe unke sath baat karke kya laga, aage baat badhayein?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi, sahi rahenge kya",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke hisaab se wo andar se samajhdar aur acche rahenge, bas shuru mein thode alag lag sakte hain. Friday se Om Shum Shukraya Namah 108 baar jaap shuru karo, riste mein aage clarity aayegi. Tumhe andar se kya lagta hai, inhi ke sath baat aage badhayein?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kundli ke hisaab se wo andar se samajhdar aur acche rahenge, bas shuru mein thode alag lag sakte hain. Friday se Om Shum Shukraya Namah 108 baar jaap shuru karo, riste mein aage clarity aayegi. Tumhe andar se kya lagta hai, inhi ke sath baat aage badhayein?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi jaldi nahi hai, acche se soch lo. March 2027 ke baad waise bhi riste mein aur clarity aane lagegi. Tumhe aur kya confusing lag raha hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Koi jaldi nahi hai, acche se soch lo. March 2027 ke baad waise bhi riste mein aur clarity aane lagegi. Tumhe aur kya confusing lag raha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat pakki hone ka main yog hai. Ek aur acha time October 2028 se shuru hoga, jismein bade mauke milenge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat pakki hone ka main yog hai. Ek aur acha time October 2028 se shuru hoga, jismein bade mauke milenge."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Career kaisa rahega",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Abhi job kar rahi ho ya kuch naya dekh rahi ho? Ye confusion kab se chal raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Abhi job kar rahi ho ya kuch naya dekh rahi ho? Ye confusion kab se chal raha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Job nhi hai abhi",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Padhai kar rhi hu",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Padhai ke baad kis field mein jaane ka man hai, ya aage career ko lekar kya tension chal rahi hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Padhai ke baad kis field mein jaane ka man hai, ya aage career ko lekar kya tension chal rahi hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Bank ki preparation",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Jaldi batao, time khatam ho raha hai",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bank ki taiyari ke liye March 2027 ke baad bohot acche yog ban rahe hain. June 2027 ke baad career mein rukawat bilkul khatam ho jayegi.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Bank ki taiyari ke liye March 2027 ke baad bohot acche yog ban rahe hain. June 2027 ke baad career mein rukawat bilkul khatam ho jayegi."
+    },
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 25
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se ek behtar samay shuru ho raha hai, jisme career aur baaki cheezein track pe aayengi. Batao, life mein abhi sabse zyada tension kis cheez ki hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "March 2027 se ek behtar samay shuru ho raha hai, jisme career aur baaki cheezein track pe aayengi. Batao, life mein abhi sabse zyada tension kis cheez ki hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat chal rahi hai kya kahin, ya ghar wale abhi dekh rahe hain? Tum khud is baare mein kya chahte ho?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat chal rahi hai kya kahin, ya ghar wale abhi dekh rahe hain? Tum khud is baare mein kya chahte ho?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rhe hai. Tension hai.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, baat jaan-pehchaan se hi aayegi. Friday 20 November se Om Shum Shukraya Namah ka 108 baar jaap shuru karo, raste aasan honge. Partner mein sabse zaroori cheez kya lagti hai tumhe?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog ban raha hai, baat jaan-pehchaan se hi aayegi. Friday 20 November se Om Shum Shukraya Namah ka 108 baar jaap shuru karo, raste aasan honge. Partner mein sabse zaroori cheez kya lagti hai tumhe?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 ke beech paise bohot tight rahe aur mehnat zyada lagi, hai na? March 2027 ke baad halat sudhrenge. Paise ke liye kundli mein ek chhoti si galti dikh rahi hai jo tum baar baar kar rahe ho. Saving kyun nahi ruk paati?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2023 se 2025 ke beech paise bohot tight rahe aur mehnat zyada lagi, hai na? March 2027 ke baad halat sudhrenge. Paise ke liye kundli mein ek chhoti si galti dikh rahi hai jo tum baar baar kar rahe ho. Saving kyun nahi ruk paati?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein Chandra weak hone se hath mein paisa rukta nahi hai, jaldi kharch ho jata hai. Monday ko Om Som Somaya Namah ka jaap shuru karo, rahat milegi. Abhi kis field mein job dekh rahe ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Kundli mein Chandra weak hone se hath mein paisa rukta nahi hai, jaldi kharch ho jata hai. Monday ko Om Som Somaya Namah ka jaap shuru karo, rahat milegi. Abhi kis field mein job dekh rahe ho?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Job nhi.",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bhot tension hai.",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar pe kis baat ko lekar zyada bahas ho rahi hai, aur ye kab se chal raha hai? Iska asar tumhare mood pe kitna padta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar pe kis baat ko lekar zyada bahas ho rahi hai, aur ye kab se chal raha hai? Iska asar tumhare mood pe kitna padta hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Sab cheez pr.",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Bohot tension hai.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tumhari galti nahi hai. Kundli mein heavy phase chal raha hai isliye sab taraf se bojh lag raha hai. Tuesday se Hanuman Chalisa padhna shuru karo, thodi rahat milegi. Kis member ke sath sabse zyada clash hota hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Tumhari galti nahi hai. Kundli mein heavy phase chal raha hai isliye sab taraf se bojh lag raha hai. Tuesday se Hanuman Chalisa padhna shuru karo, thodi rahat milegi. Kis member ke sath sabse zyada clash hota hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Mummy se",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy se jhagda aur paise ki tangi ek hi phase se hain jo mid-2027 mein badlega. Jo partner aayega, wo bohot calm aur educated hoga. Kya unse ye sab share kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mummy se jhagda aur paise ki tangi ek hi phase se hain jo mid-2027 mein badlega. Jo partner aayega, wo bohot calm aur educated hoga. Kya unse ye sab share kiya hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nhi",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi. In-laws thode traditional aur reserved ho sakte hain, isliye waha thoda sambhal kar chalna padega. Kya mummy ko aisi hi family chahiye?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Koi baat nahi. In-laws thode traditional aur reserved ho sakte hain, isliye waha thoda sambhal kar chalna padega. Kya mummy ko aisi hi family chahiye?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ji ha",
+    "sec": 270,
+    "idx": 21
+  }
+]

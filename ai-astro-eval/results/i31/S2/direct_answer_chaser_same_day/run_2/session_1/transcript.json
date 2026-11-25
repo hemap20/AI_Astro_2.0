@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Future ke baare mein janne ke liye kya aap mujhe apni zindagi ki koi khaas chinta ya sawal bata sakti hain, taaki main kundli dekh saku?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Future ke baare mein janne ke liye kya aap mujhe apni zindagi ki koi khaas chinta ya sawal bata sakti hain, taaki main kundli dekh saku?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb hogi meri, date btao.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Kismat ka grah abhi career par zyada dhyan dilwa raha hai, isliye deri hai. Kya ghar wale rishta dekh rahe hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech hai. Kismat ka grah abhi career par zyada dhyan dilwa raha hai, isliye deri hai. Kya ghar wale rishta dekh rahe hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok, 2027 me kaunse mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan, rishta dekh rhe gharwale.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Us samay ke baad se yog ban jayenge. Rishton ki baat karte waqt kya aapko thoda dabav ya tension mehsoos hoti hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Us samay ke baad se yog ban jayenge. Rishton ki baat karte waqt kya aapko thoda dabav ya tension mehsoos hoti hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha thodi.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Par exact month batao 2027 me.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se yog shuru ho jayenge. Rishton ki tension mann ke grah par dabav ki wajah se hai. Hone wala partner shant aur samajhdaar hoga, par unka ek raaz bhi hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se yog shuru ho jayenge. Rishton ki tension mann ke grah par dabav ki wajah se hai. Hone wala partner shant aur samajhdaar hoga, par unka ek raaz bhi hai."
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kya raaz hai?",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact month btao.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Unhone apne past ki baatein shayad chupayi hon, kyunki wo thode reserved hain. Us mahine se yog shuru hote hi baat aage badhegi. Kya aapne ye chinta ghar mein kahi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Unhone apne past ki baatein shayad chupayi hon, kyunki wo thode reserved hain. Us mahine se yog shuru hote hi baat aage badhegi. Kya aapne ye chinta ghar mein kahi?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kahi.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunsa mahina, date btao.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein koi ek din fixed nahi hota, bas samay ka badlav hota hai. Is tension ko kam karne ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap karein, shaadi ke yog majboot honge.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kundli mein koi ek din fixed nahi hota, bas samay ka badlav hota hai. Is tension ko kam karne ke liye 20 November se 'Om Shum Shukraya Namah' ka jaap karein, shaadi ke yog majboot honge."
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe. Sirf month confirm karo.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein yog sabse prabal hain. Shaadi ka grah asar dikhayega toh aapka stress apne aap kam ho jayega. Kya career mein bhi koi badlav chahati hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 mein yog sabse prabal hain. Shaadi ka grah asar dikhayega toh aapka stress apne aap kam ho jayega. Kya career mein bhi koi badlav chahati hain?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se September 2028 mein sudhregi. Kamai ka grah majboot hai, par bachat dusre ghar ki kamzori se rukti hai. Shaadi aur paisa isi waqt sudhrenge. Kahin job karti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Paisa March 2027 se September 2028 mein sudhregi. Kamai ka grah majboot hai, par bachat dusre ghar ki kamzori se rukti hai. Shaadi aur paisa isi waqt sudhrenge. Kahin job karti hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye tension ek grah ki chal se hai jo June 2027 tak bhari hai. 21 November se 'Om Sham Shanaishcharaya Namah' padhein, rahat milegi. Career kab aur kaise shuru hoga, agli baar baat karenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ye tension ek grah ki chal se hai jo June 2027 tak bhari hai. 21 November se 'Om Sham Shanaishcharaya Namah' padhein, rahat milegi. Career kab aur kaise shuru hoga, agli baar baat karenge."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 24
+  }
+]

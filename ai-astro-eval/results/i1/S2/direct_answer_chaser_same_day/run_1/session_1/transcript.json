@@ -1,0 +1,176 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Future mein sab theek hoga. Career mein growth jaldi aayegi. Shaadi ho chuki hai kya ji?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Future mein sab theek hoga. Career mein growth jaldi aayegi. Shaadi ho chuki hai kya ji?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, shaadi nahi hui hai. Mummy papa rishta dekh rahe hain. Kab tak hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 aur September 2028 mein hogi ji. Shani AD shuru hone se rishta pakka hoga. Partner ke baare mein ek baat batau?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 aur September 2028 mein hogi ji. Shani AD shuru hone se rishta pakka hoga. Partner ke baare mein ek baat batau?",
+      "marital_status": "unmarried"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine mein confirm hai?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye, kya hai.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se shuruat pakki hai ji. Partner kaafi calm aur educated honge. Ek aur baat batau unke baare mein?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se shuruat pakki hai ji. Partner kaafi calm aur educated honge. Ek aur baat batau unke baare mein?",
+      "marital_status": "unchanged"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye, kya hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "In-laws traditional aur reserved honge ji. Shani dev ka prabhav hai yeh. Ek aur secret batau kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "In-laws traditional aur reserved honge ji. Shani dev ka prabhav hai yeh. Ek aur secret batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Career mein paisa kab tak badhega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se paisa badhega ji. Guru aur Mangal ki kripa hai. Ek aur baat batau?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 se paisa badhega ji. Guru aur Mangal ki kripa hai. Ek aur baat batau?",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad tension hategi. Shani ki chal badlegi tab ji. Ek aur baat batau kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "June 2027 ke baad tension hategi. Shani ki chal badlegi tab ji. Ek aur baat batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Teaching ya tech mein tarakki pakki hai ji. Budh aur Guru ka asar hai yeh. Ek aur baat batau kya?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Teaching ya tech mein tarakki pakki hai ji. Budh aur Guru ka asar hai yeh. Ek aur baat batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Tabiyat aur neend bhi theek hogi. 2027 ke baad relief milega ji. Ek aur cheez batau kya?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Tabiyat aur neend bhi theek hogi. 2027 ke baad relief milega ji. Ek aur cheez batau kya?",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kya hai?",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Time thoda kam reh gaya hai ji. Kundli mein ghar ka yog (Oct 2028-Feb 2030) hai. Thoda aur time ho toh batau?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Time thoda kam reh gaya hai ji. Kundli mein ghar ka yog (Oct 2028-Feb 2030) hai. Thoda aur time ho toh batau?",
+      "marital_status": "unchanged"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Time aise hi nikal gaya.",
+    "sec": 270,
+    "idx": 22
+  }
+]

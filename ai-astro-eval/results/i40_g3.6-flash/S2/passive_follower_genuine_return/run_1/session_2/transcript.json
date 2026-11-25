@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Aapka swagat hai. Kaise hain aap aur aaj kis baare mein baat karna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Aapka swagat hai. Kaise hain aap aur aaj kis baare mein baat karna chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Thik hu.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichli baar humne aapki shaadi ke yog aur mann ki tension par baat ki thi. Kya aapne Monday wala mantra shuru kiya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, pichli baar humne aapki shaadi ke yog aur mann ki tension par baat ki thi. Kya aapne Monday wala mantra shuru kiya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi kiya",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, jab sahi lage tab shuru kar lena. Waise aapke chart mein late 2022 mein padhai ya routine mein bada badlaav dikhta hai, kya ye sahi hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Koi baat nahi ji, jab sahi lage tab shuru kar lena. Waise aapke chart mein late 2022 mein padhai ya routine mein bada badlaav dikhta hai, kya ye sahi hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi ka kya h?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog hai. Aapke partner ke baare mein ek khas baat dikhti hai. Kya abhi koi rishta aaya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog hai. Aapke partner ke baare mein ek khas baat dikhti hai. Kya abhi koi rishta aaya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ha ek rishta hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lambe, shaant aur padhe-likhe honge, par thoda reserved rahenge. Guruvar se 'Om Gram Greem Grom Sah Gurave Namah' jaapein. Kya is rishte ki baat aage badhi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Partner lambe, shaant aur padhe-likhe honge, par thoda reserved rahenge. Guruvar se 'Om Gram Greem Grom Sah Gurave Namah' jaapein. Kya is rishte ki baat aage badhi hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha ghar pe baat ho rhi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki lagna lord Budh aur Guru saath hain, isliye rishta aapke jaane-pehchane logo se aayega. Baatcheet mein koi dikkat ya rukawat lag rahi hai kya?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki lagna lord Budh aur Guru saath hain, isliye rishta aapke jaane-pehchane logo se aayega. Baatcheet mein koi dikkat ya rukawat lag rahi hai kya?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ko le k tension hai",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "3rd house mein Budh-Guru ke saath Hone se kamai aur rishte ek saath jude hain. March 2027 ke baad paisa aur shaadi dono mein aaram milega. Kya abhi job dhoondh rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "3rd house mein Budh-Guru ke saath Hone se kamai aur rishte ek saath jude hain. March 2027 ke baad paisa aur shaadi dono mein aaram milega. Kya abhi job dhoondh rahe hain?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ha dhoondh rhi",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension jyada hai",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur paisa dono 3rd house aur weak Chandra se jude hain. Job milte hi ghar ka mahaul bhi badlega. Kya abhi neend na aane ki dikkat hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ki tension aur paisa dono 3rd house aur weak Chandra se jude hain. Job milte hi ghar ka mahaul bhi badlega. Kya abhi neend na aane ki dikkat hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ha bohot",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi aur career ke yog ke baare mein humne baat kar li hai. Aapke hone wale sasural wale bohot traditional aur reserved honge, unka nature aur aapki unke saath compatibility kaisi rahegi, iski poori clarity mil sakti hai. Issi baat ko abhi aur gehraai se samajhne ke liye chat ko abhi recharge kijiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki shaadi aur career ke yog ke baare mein humne baat kar li hai. Aapke hone wale sasural wale bohot traditional aur reserved honge, unka nature aur aapki unke saath compatibility kaisi rahegi, iski poori clarity mil sakti hai. Issi baat ko abhi aur gehraai se samajhne ke liye chat ko abhi recharge kijiye."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok thanks",
+    "sec": 270,
+    "idx": 24
+  }
+]

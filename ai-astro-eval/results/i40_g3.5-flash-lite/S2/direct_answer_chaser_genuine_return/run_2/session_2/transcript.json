@@ -1,0 +1,215 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Aapne pehle bhi baat ki thi hamse, shaadi aur ghar ke halat ko lekar. Abhi kya chal raha hai waha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Aapne pehle bhi baat ki thi hamse, shaadi aur ghar ke halat ko lekar. Abhi kya chal raha hai waha?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar rishte ki baat thi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe hai, ek ladka dekh rhe hai abhi.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March se June 2027 ke beech ban raha hai. Kya November 2022 ke aaspaas aapki padhai mein koi badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March se June 2027 ke beech ban raha hai. Kya November 2022 ke aaspaas aapki padhai mein koi badlaav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Kaunse month me exact?",
+    "sec": 60,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "June me ya March me?",
+    "sec": 60,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main yahi dekh sakti hoon ki March 2027 mein yog sabse pakka hai. Aapke hone wale pati ka ek alag roop bhi hai. Ghar wale kya kehte hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Main yahi dekh sakti hoon ki March 2027 mein yog sabse pakka hai. Aapke hone wale pati ka ek alag roop bhi hai. Ghar wale kya kehte hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 fix hai?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale toh maan gye hain.",
+    "sec": 90,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Rishta final ho jayega kya tab tak?",
+    "sec": 90,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, March mein rishta pakka hone ka yog hai aur woh padhe-likhe, shant par thode guarded rahenge. Har Shukrawar safed mithai daan kijiye. Kya aap unhe pehle se jaanti hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Haan, March mein rishta pakka hone ka yog hai aur woh padhe-likhe, shant par thode guarded rahenge. Har Shukrawar safed mithai daan kijiye. Kya aap unhe pehle se jaanti hain?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, arrange hai.",
+    "sec": 120,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ab ye bataiye, paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat March 2027 ke baad sudharegi, yeh main batati hoon. Kamai ke grah ki majbooti se karza dheere-dheere utrega. Aapke kaam mein abhi kya rukawat aa rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki halat March 2027 ke baad sudharegi, yeh main batati hoon. Kamai ke grah ki majbooti se karza dheere-dheere utrega. Aapke kaam mein abhi kya rukawat aa rahi hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Job nahi mil rahi.",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension aur naukri ki pareshani March 2027 ke baad theek ho jayegi. Kismat ka grah naye kaam ka rasta banayega. Job ke liye aapne kahan try kiya hai abhi tak?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension aur naukri ki pareshani March 2027 ke baad theek ho jayegi. Kismat ka grah naye kaam ka rasta banayega. Job ke liye aapne kahan try kiya hai abhi tak?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Job exact kab milegi?",
+    "sec": 180,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Naukri March 2027 se September 2028 ke beech mil sakti hai. Finance ya teaching line mein koshish kijiye. Interview ke baad kya sochti hain aap?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Naukri March 2027 se September 2028 ke beech mil sakti hai. Finance ya teaching line mein koshish kijiye. Interview ke baad kya sochti hain aap?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ek saal ka gap hai.",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Exact month batao.",
+    "sec": 210,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak milegi?",
+    "sec": 210,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main March 2027 hi dekhti hoon, kyonki kismat aur gyaan ka grah tab majboot hai. Aap kya padhai ki hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main March 2027 hi dekhti hoon, kyonki kismat aur gyaan ka grah tab majboot hai. Aap kya padhai ki hain?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Graduation.",
+    "sec": 240,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 matlab 1st March ya 31st?",
+    "sec": 240,
+    "idx": 27
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi aur naukri ka samay maine bata diya hai. In-laws traditional aur reserved rahenge, isse unke parivar ke baare mein aur clear hoga. Aap abhi chat recharge karke ise poora jaan sakti hain.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki shaadi aur naukri ka samay maine bata diya hai. In-laws traditional aur reserved rahenge, isse unke parivar ke baare mein aur clear hoga. Aap abhi chat recharge karke ise poora jaan sakti hain."
+    },
+    "idx": 28
+  },
+  {
+    "role": "USER",
+    "text": "Aap date bta ni rhe, bas recharge ka bol rhe ho.",
+    "sec": 270,
+    "idx": 29
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 270,
+    "idx": 30
+  }
+]

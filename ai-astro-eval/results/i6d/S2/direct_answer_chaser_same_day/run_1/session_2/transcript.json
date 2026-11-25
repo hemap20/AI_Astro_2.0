@@ -1,0 +1,148 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, bataiye kya pareshani hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, bataiye kya pareshani hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yaad hai mujhe. March 2027 se waqt badlega. Shani period se rahat milegi.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, yaad hai mujhe. March 2027 se waqt badlega. Shani period se rahat milegi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech yog hai ji. Shani AD aane par baat pakki hogi.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech yog hai ji. Shani AD aane par baat pakki hogi.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak confirm?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke mid tak baat ban sakti hai ji. Ghar ke through hi rishta aayega. Partner ke nature mein ek khas baat dikh rahi hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "2027 ke mid tak baat ban sakti hai ji. Ghar ke through hi rishta aayega. Partner ke nature mein ek khas baat dikh rahi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe, ek baat chal rhi hai.",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Wahi wala confirm hai kya?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, yehi baat pakki ho sakti hai. March 2027 ke aas-paas yog strong hai. Inka nature thoda calm aur educated rahega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan ji, yehi baat pakki ho sakti hai. March 2027 ke aas-paas yog strong hai. Inka nature thoda calm aur educated rahega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak ayega?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad financial halat sudhregi ji. Mangal strong hone se savings achhi hongi. Apna ghar ka yog bhi aage aane wala hai.",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke baad financial halat sudhregi ji. Mangal strong hone se savings achhi hongi. Apna ghar ka yog bhi aage aane wala hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine se paisa aana shuru hoga?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se hi shuru hoga ji. Mangal strong hone se savings achhi banegi. Apna ghar ka yog bhi banega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "March 2027 se hi shuru hoga ji. Mangal strong hone se savings achhi banegi. Apna ghar ka yog bhi banega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 tak ghar ki tension khatam ho jayegi ji. Shani ka rukh badalne se mahol shant hoga.",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 tak ghar ki tension khatam ho jayegi ji. Shani ka rukh badalne se mahol shant hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 18
+  }
+]

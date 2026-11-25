@@ -1,0 +1,155 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Aane wala waqt mila-jula hai, par 2027 se career mein acchi badhotari dikh rahi hai. Kya November 2022 ke aas-paas aapki padhai ya college life mein badlav aaya tha?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Aane wala waqt mila-jula hai, par 2027 se career mein acchi badhotari dikh rahi hai. Kya November 2022 ke aas-paas aapki padhai ya college life mein badlav aaya tha?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan, badlav aaya tha.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi March 2027 se September 2028 ke beech sambhav hai. Rishton ke grah ke kaaran rishta jaan-pehchan mein hi hoga. Kya aapko ghar par apni baat kehne mein jhijhak hoti hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi March 2027 se September 2028 ke beech sambhav hai. Rishton ke grah ke kaaran rishta jaan-pehchan mein hi hoga. Kya aapko ghar par apni baat kehne mein jhijhak hoti hai?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Konse month tak confirm hoga?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March-May 2027 mein baat pakki hone ke yog hain. Aapki jhijhak man ke grah par mehnat ke grah ki nazar se hai. Saathi lambe honge, par unka ek chupa hua pahlu bhi hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March-May 2027 mein baat pakki hone ke yog hain. Aapki jhijhak man ke grah par mehnat ke grah ki nazar se hai. Saathi lambe honge, par unka ek chupa hua pahlu bhi hai."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya chupa hua pehlu?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh reserved nature karm ke grah se hai. Har Shanivar 108 baar jaap kijiye aur kaale til daan karein. Paise ki tangi March 2027 se kam hogi; kya aap abhi koi kaam kar rahi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Woh reserved nature karm ke grah se hai. Har Shanivar 108 baar jaap kijiye aur kaale til daan karein. Paise ki tangi March 2027 se kam hogi; kya aap abhi koi kaam kar rahi hain?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Exact date batao, paisa kab tak aayega?",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se aayega jab career shuru hoga. Aapka career grah majboot hai, toh abhi naye skills seekhein. Har Guruvar chana dal daan karein, isse naye mauke milenge. Ek naya kshetra aapke liye khulne wala hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa March 2027 se aayega jab career shuru hoga. Aapka career grah majboot hai, toh abhi naye skills seekhein. Har Guruvar chana dal daan karein, isse naye mauke milenge. Ek naya kshetra aapke liye khulne wala hai."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Date nahi mili.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh finance ya communication ka field hai, jisme aapki buddhi khub chalegi. Ghar ki pareshani 2027 ke beech tak shant hogi. Mangal ke liye har Mangalwar Hanuman Chalisa parhiye, man ka bojh halka hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Woh finance ya communication ka field hai, jisme aapki buddhi khub chalegi. Ghar ki pareshani 2027 ke beech tak shant hogi. Mangal ke liye har Mangalwar Hanuman Chalisa parhiye, man ka bojh halka hoga."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Konse mahine tak tension khatam hogi?",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 se aapko man ki shanti aur ghar par sukoon milega. Aapki pareshani career ki rukawat aur kamai se judi hai, isliye kaam shuru hote hi tension kam hogi. Kya aapne kabhi naya kaam shuru karne ki koshish ki?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 se aapko man ki shanti aur ghar par sukoon milega. Aapki pareshani career ki rukawat aur kamai se judi hai, isliye kaam shuru hote hi tension kam hogi. Kya aapne kabhi naya kaam shuru karne ki koshish ki?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 21
+  }
+]

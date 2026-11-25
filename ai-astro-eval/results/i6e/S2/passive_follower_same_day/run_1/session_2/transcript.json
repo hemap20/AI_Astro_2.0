@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, main Sitara hoon. Aap bataiye, aaj kiske baare mein jaanna chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, main Sitara hoon. Aap bataiye, aaj kiske baare mein jaanna chahte hain?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, March 2027 se career aur shaadi ka time shuru hoga. Shani ke aate hi raste khul jayenge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, March 2027 se career aur shaadi ka time shuru hoga. Shani ke aate hi raste khul jayenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kaisa hoga?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta arranged hoga ji. Partner lamba aur shaant hoga. In-laws traditional rahenge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta arranged hoga ji. Partner lamba aur shaant hoga. In-laws traditional rahenge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha wahi baat chal rhi hai",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se Shani period pakka karega. Yeh window September 2028 tak rahegi. Shaadi ke baad apna ghar ka yog bhi hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 se Shani period pakka karega. Yeh window September 2028 tak rahegi. Shaadi ke baad apna ghar ka yog bhi hai.",
+      "marital_status": "unmarried"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Acha",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa rahega phir",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 ke baad sudhrega. Karza dheere dheere kam hoga ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa March 2027 ke baad sudhrega. Karza dheere dheere kam hoga ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension bht hai",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension ka bojh gehra hai ji. Mangal ke asar se ghar mein kheenchatani badhti hai. March 2027 ke baad yeh sab shant hoga.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki tension ka bojh gehra hai ji. Mangal ke asar se ghar mein kheenchatani badhti hai. March 2027 ke baad yeh sab shant hoga.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Neend ki dikkat theek hogi ji. Chandra ki kamzori se man bhaari hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Neend ki dikkat theek hogi ji. Chandra ki kamzori se man bhaari hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mid-2027 tak health theek hogi ji. Somwar vrat se aaram milega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Mid-2027 tak health theek hogi ji. Somwar vrat se aaram milega.",
+      "marital_status": "unchanged"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki kundli mein ek aur baat dikh rahi hai, March 2027 ke baad videsh ka yog bhi hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki kundli mein ek aur baat dikh rahi hai, March 2027 ke baad videsh ka yog bhi hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Kaha",
+    "sec": 270,
+    "idx": 20
+  }
+]

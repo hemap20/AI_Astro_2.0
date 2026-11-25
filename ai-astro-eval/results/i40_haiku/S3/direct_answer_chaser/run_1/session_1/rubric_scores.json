@@ -1,0 +1,183 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 1,
+    "1.4": null,
+    "2.1": 6,
+    "2.2": 8,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 9
+  },
+  "gate_fail": [],
+  "overall": 6.59,
+  "shape": {
+    "M": 9,
+    "avg_words": 48.8,
+    "long_share": 1.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 2
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ji, aapke career aur paise ke liye aane wala samay achha hai.",
+        "why": "The astrologer acknowledges the user's concern about career and money."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Kya aap confirm kar sakti hain ki Oct 2025 se career ki soch ghoomne lagi thi?",
+        "why": "The astrologer asks the same question about Oct 2025 three times, which is a Type C question."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "Not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kaam mein agla aage badhne ka mauka Mar 2027 se Sep 2028 ke beech dikh raha hai.",
+        "why": "The reading is about the future and specific, but lacks a chart reason in the first message."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Kaam mein agla aage badhne ka mauka Mar 2027 se Sep 2028 ke beech dikh raha hai.",
+        "why": "Provides a clear direction and time window for the career question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Mangal aapki kamai ka grah hai aur uski majbooti se aage aate paise ka rasta bangega.",
+        "why": "Multiple linked readings provided using plain words like Mangal and Chandra."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Hisab-kitab wala kaam aapke liye sahi hai",
+        "why": "Uses the user's detail about 'hisab-kitab' to build depth."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mar 2027 se Sep 2028 ke beech",
+        "why": "Consistent time window provided throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehle naukri pakki kijiye, phir vyapar ki soch sahi rahegi.",
+        "why": "Practical advice given for the career problem."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ji, aapke liye pehle job aur phir business sahi rahega.",
+        "why": "Answers both career and money/business questions."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Hisab-kitab wala kaam aapke liye sahi hai, aur Guru aapke saath hai.",
+        "why": "Opens a new layer regarding the type of work."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "",
+        "why": "No early close, every message carries value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ji, 2027 mein job milne ka yoga hai, lekin pakka tareekh Mar 2027 ke baad hi dikhegi.",
+        "why": "Ends on a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Mangal aapki kamai ka grah hai",
+        "why": "Uses easy language with no formal or bookish sentences."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Ji, is saal bada paisa aane ke yoga kam dikhte hain, par bilkul nahi aayega aisa nahi hai.",
+        "why": "Adapts to the user's push for clarity in the very next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 6,
+        "type": "reading"
+      },
+      {
+        "idx": 9,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 23,
+        "type": "both"
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre suno, 2027 se tumhara naya time shuru ho raha hai, pichle saalon ki pareshani kam hogi. Batao, life ke kis area ke baare mein sabse zyada tension hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre suno, 2027 se tumhara naya time shuru ho raha hai, pichle saalon ki pareshani kam hogi. Batao, life ke kis area ke baare mein sabse zyada tension hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat ghar pe chal rahi hai kya, ya tum khud hi thoda soch rahe ho is baare mein?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat ghar pe chal rahi hai kya, ya tum khud hi thoda soch rahe ho is baare mein?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale dekh rahe, ek rishta chal raha hai. Kab tak hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ki baat pakki lag rahi hai. Jo rishta abhi chal raha hai, usme aane wale partner ka nature thoda calm par guarded ho sakta hai. Kya yeh rishta kisi jaan-pehchan se hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ki baat pakki lag rahi hai. Jo rishta abhi chal raha hai, usme aane wale partner ka nature thoda calm par guarded ho sakta hai. Kya yeh rishta kisi jaan-pehchan se hai?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok, konse month tak final hogi? Jan pehchan wala hai. Paisa kab aayega?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 ke beech mein, khaas kar June ke baad, baat pakki hone ke chances sabse zyada hain. Aur paisa aane ki baat pe, abhi tumhari kamai ya job ki kya halat chal rahi hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2027 ke beech mein, khaas kar June ke baad, baat pakki hone ke chances sabse zyada hain. Aur paisa aane ki baat pe, abhi tumhari kamai ya job ki kya halat chal rahi hai?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Job abhi start ki hai. Paisa kab tak badhega?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat aur job me paisa badhna, dono ek hi planet se judte hain. March 2027 ke baad se salary aur savings me pakka sudhar aayega. Kal Thursday se mandir me thodi chana dal daan karna shuru kar do, halat theek hone lagegi. Wese naye office me timing kaisi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi ki baat aur job me paisa badhna, dono ek hi planet se judte hain. March 2027 ke baad se salary aur savings me pakka sudhar aayega. Kal Thursday se mandir me thodi chana dal daan karna shuru kar do, halat theek hone lagegi. Wese naye office me timing kaisi hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak badhega salary? 2027 March ya baad?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke shuru mein hi, khaas kar March aur June ke beech salary me jump dikhega. Baki 2028 tak steady growth rahegi. Kya office me abhi koi senior help kar raha hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 ke shuru mein hi, khaas kar March aur June ke beech salary me jump dikhega. Baki 2028 tak steady growth rahegi. Kya office me abhi koi senior help kar raha hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahaul thoda heavy chal raha hai. Ye tanaav kab se chal raha hai, aur iska sabse zyada asar tum par kaisa pad raha hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ka mahaul thoda heavy chal raha hai. Ye tanaav kab se chal raha hai, aur iska sabse zyada asar tum par kaisa pad raha hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "2 saal se.",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ye do saal ka tanaav June 2027 ke baad thandha hoga. 2027 ke shuru mein ek mahina aisa hai jo ghar ka rukh badal dega. Tuesday se Hanuman Chalisa padhna shuru karo. Kya sabko kisi ek hi baat ki chinta hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ye do saal ka tanaav June 2027 ke baad thandha hoga. 2027 ke shuru mein ek mahina aisa hai jo ghar ka rukh badal dega. Tuesday se Hanuman Chalisa padhna shuru karo. Kya sabko kisi ek hi baat ki chinta hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Haan, paise ki. June 2027 ke kaunse month tak?",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke mahine mein paise ka dabav sabse pehle kam hona shuru hoga. Kya ghar pe koi naya kharcha ya investment ka plan chal raha hai?",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 ke mahine mein paise ka dabav sabse pehle kam hona shuru hoga. Kya ghar pe koi naya kharcha ya investment ka plan chal raha hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Ok.",
+    "sec": 270,
+    "idx": 19
+  }
+]

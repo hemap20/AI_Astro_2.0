@@ -1,0 +1,179 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello ji! Aane wala samay aapke liye kaafi behtar badlav lekar aa raha hai. Bataiye, aaj sabse pehle kis baare mein baat karni hai, career, family ya kuch aur?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello ji! Aane wala samay aapke liye kaafi behtar badlav lekar aa raha hai. Bataiye, aaj sabse pehle kis baare mein baat karni hai, career, family ya kuch aur?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap? Shaadi kb hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar aapne jo shaadi mein delay aur ghar ki tension ki chinta batayi thi ji, uske badlav ka samay ab paas aa raha hai. Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, jo kisi jaane-pehchane circle se ho sakti hai. Shani ka jo bhaari asar abhi chal raha hai, woh tab badalkar aapke kaam aasan karega.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar aapne jo shaadi mein delay aur ghar ki tension ki chinta batayi thi ji, uske badlav ka samay ab paas aa raha hai. Aapki shaadi ka yog March 2027 se September 2028 ke beech ban raha hai, jo kisi jaane-pehchane circle se ho sakti hai. Shani ka jo bhaari asar abhi chal raha hai, woh tab badalkar aapke kaam aasan karega."
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine me",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale abhi ek rishta dekh rhe, usme hoga?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ki shuruwat mein hi yeh yog sabse strong ho raha hai ji, jab ek naya samay shuru hoga. Ghar wale jo rishta abhi dekh rahe hain, usme baat aage badhne ke acche chances hain kyunki yeh kisi jaane-pehchane circle ki taraf ishara kar raha hai. Yeh rishta kya kisi jaan-pehchan wale ke through hi hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ki shuruwat mein hi yeh yog sabse strong ho raha hai ji, jab ek naya samay shuru hoga. Ghar wale jo rishta abhi dekh rahe hain, usme baat aage badhne ke acche chances hain kyunki yeh kisi jaane-pehchane circle ki taraf ishara kar raha hai. Yeh rishta kya kisi jaan-pehchan wale ke through hi hai ji?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Haan jaan pehchan ka hi hai.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Isi rishte me confirm hai ya nhi?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is rishte ke pakka hone ke kaafi acche chances hain ji, kyunki yeh sahi samay aur aapke dayre se hi jud raha hai. Grah sthiti batati hai ki aise rishte aage chalkar kaafi sthir hote hain. Kya inke parivar ka mahaul thoda traditional aur disciplined hai ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Is rishte ke pakka hone ke kaafi acche chances hain ji, kyunki yeh sahi samay aur aapke dayre se hi jud raha hai. Grah sthiti batati hai ki aise rishte aage chalkar kaafi sthir hote hain. Kya inke parivar ka mahaul thoda traditional aur disciplined hai ji?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Haan traditional hai. Confirm hai ya nahi?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Traditional parivar ka yog chart mein bilkul hai, isliye is rishte ke pakka hone ke strong chances hain ji. Shani ka asar yahan parivaarik discipline dikhata hai. 2027-28 ke dauran is rishte ke sath videsh ya door yatra ka yog bhi ban raha hai ji.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Traditional parivar ka yog chart mein bilkul hai, isliye is rishte ke pakka hone ke strong chances hain ji. Shani ka asar yahan parivaarik discipline dikhata hai. 2027-28 ke dauran is rishte ke sath videsh ya door yatra ka yog bhi ban raha hai ji."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye, ye rishta confirm hoga ya nahi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is rishte ke pakka hone ke chances poore hain ji kyunki timing bilkul match ho rahi hai. Yeh March 2027 ke aas-paas aage badhkar final roop le sakta hai. Kya is parivar ke sath aage ki baat ke liye koi samay tay hua hai ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Is rishte ke pakka hone ke chances poore hain ji kyunki timing bilkul match ho rahi hai. Yeh March 2027 ke aas-paas aage badhkar final roop le sakta hai. Kya is parivar ke sath aage ki baat ke liye koi samay tay hua hai ji?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe.",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ye rishta final hoga ki nhi, haan ya na?",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, is rishte ke final hone ke poore chance hain. Grahon ka sath ise aage badhane mein madad kar raha hai. Kya dono parivaron ki taraf se baat pakki karne ke liye koi agla din tay hua hai ji?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan ji, is rishte ke final hone ke poore chance hain. Grahon ka sath ise aage badhane mein madad kar raha hai. Kya dono parivaron ki taraf se baat pakki karne ke liye koi agla din tay hua hai ji?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Career aur paisa kab set hoga?",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career aur paise mein stability March 2027 ke baad aayegi ji. Career par Shani ka dabav June 2027 tak dheere-dheere kam ho jayega. Is dauran guruwar ko chana dal ka daan shuru karein ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Career aur paise mein stability March 2027 ke baad aayegi ji. Career par Shani ka dabav June 2027 tak dheere-dheere kam ho jayega. Is dauran guruwar ko chana dal ka daan shuru karein ji."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension March 2027 ke baad dheere-dheere khatam ho jayegi ji. Shani ka jo bhaari asar chal raha hai, woh mid-2027 tak kam ho jayega. Iske baad 2028 mein apne ghar ya property ka yog bhi ban raha hai.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Ghar ki tension March 2027 ke baad dheere-dheere khatam ho jayegi ji. Shani ka jo bhaari asar chal raha hai, woh mid-2027 tak kam ho jayega. Iske baad 2028 mein apne ghar ya property ka yog bhi ban raha hai."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 24
+  }
+]

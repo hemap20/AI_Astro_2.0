@@ -1,0 +1,20 @@
+{
+  "simulator": {
+    "calls": 10,
+    "input": 18821,
+    "output": 150,
+    "thinking": 2926
+  },
+  "astro": {
+    "calls": 8,
+    "input": 41265,
+    "output": 442,
+    "thinking": 7021
+  },
+  "event_judge": {
+    "calls": 1,
+    "input": 1478,
+    "output": 1470,
+    "thinking": 0
+  }
+}

@@ -1,0 +1,168 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji, welcome back. Bataiye, aaj kya jaan na hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji, welcome back. Bataiye, aaj kya jaan na hai?",
+      "marital_status": "unchanged"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Acha ji, yaad hai mujhe. Jupiter Ashwini nakshatra mein hai, jisse partner kaafi dynamic aur energetic honge.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Acha ji, yaad hai mujhe. Jupiter Ashwini nakshatra mein hai, jisse partner kaafi dynamic aur energetic honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Matlab aapke partner kaafi energetic honge, ji. Ashwini nakshatra unhe active banata hai.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Matlab aapke partner kaafi energetic honge, ji. Ashwini nakshatra unhe active banata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Achaa",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "D9 chart mein Jupiter Cancer mein hai. Yeh dikhata hai ki partner family-oriented honge.",
+    "sec": 105,
+    "raw_response": {
+      "message": "D9 chart mein Jupiter Cancer mein hai. Yeh dikhata hai ki partner family-oriented honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "D9 matlab marriage wala chart, ji. Waha Jupiter hone se partner family-oriented honge.",
+    "sec": 135,
+    "raw_response": {
+      "message": "D9 matlab marriage wala chart, ji. Waha Jupiter hone se partner family-oriented honge.",
+      "marital_status": "unchanged"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rahu aur Saturn ka safar chal raha hai. Yeh time serious commitment dega, ji.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Rahu aur Saturn ka safar chal raha hai. Yeh time serious commitment dega, ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Shadi",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pisces seventh house hai, ji. Shani waha aakar serious connection banata hai.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Pisces seventh house hai, ji. Shani waha aakar serious connection banata hai.",
+      "marital_status": "unchanged"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Samji nahi",
+    "sec": 210,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aasan shabdon mein kahu toh, Shani dev shadi thodi late karenge, par rishta bohot pakka hoga ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aasan shabdon mein kahu toh, Shani dev shadi thodi late karenge, par rishta bohot pakka hoga ji.",
+      "marital_status": "unchanged"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Rishta aa raha hai ghar pe",
+    "sec": 240,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bahut acchi khabar hai ji! Yeh Rahu Saturn period ka hi asar hai. Ek aur baat dekhni hai, bataau?",
+    "sec": 255,
+    "raw_response": {
+      "message": "Bahut acchi khabar hai ji! Yeh Rahu Saturn period ka hi asar hai. Ek aur baat dekhni hai, bataau?",
+      "marital_status": "unmarried"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan bataiye",
+    "sec": 270,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli ke 8th house mein Jupiter aur Saturn sath baithe hain. Shadi ke baad financial growth pakki hai, ji. Ek aur baat batau?",
+    "sec": 285,
+    "raw_response": {
+      "message": "Kundli ke 8th house mein Jupiter aur Saturn sath baithe hain. Shadi ke baad financial growth pakki hai, ji. Ek aur baat batau?",
+      "marital_status": "unchanged"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 300,
+    "idx": 20
+  }
+]

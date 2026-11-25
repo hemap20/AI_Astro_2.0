@@ -1,0 +1,158 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste, main Sitara hoon. Aap kaise hain? Aap apni kis baat ke liye aaye hain, bataiye.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste, main Sitara hoon. Aap kaise hain? Aap apni kis baat ke liye aaye hain, bataiye."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the? Shaadi kb hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, pichli baar shaadi aur naukri ki baat hui thi, main wahi aage dekhti hoon. Shaadi ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai. Kya Nov 2022 ke aas-paas aapki padhai ya college mein koi badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Ji, pichli baar shaadi aur naukri ki baat hui thi, main wahi aage dekhti hoon. Shaadi ke liye Mar 2027 se Sep 2028 ka samay achha dikhta hai. Kya Nov 2022 ke aas-paas aapki padhai ya college mein koi badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 me kaun se mahine?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, shaadi ke liye 2027 mein Mar se Jun ke beech ka samay zyada achha lagta hai, kyunki tab rishton ki baat jaldi aage badhti hai. Aap bata sakti hain ki Nov 2022 mein padhai ya college mein sach mein badlav aaya tha?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Ji, shaadi ke liye 2027 mein Mar se Jun ke beech ka samay zyada achha lagta hai, kyunki tab rishton ki baat jaldi aage badhti hai. Aap bata sakti hain ki Nov 2022 mein padhai ya college mein sach mein badlav aaya tha?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Haan, course change hua tha.",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rahe, baat chal rahi hai.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab aayega? Job kab lagegi?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, course badalne wali baat sahi hai, isi se aapki padhai ka rasta badla. Job ke liye Mar 2027 se Sep 2028 ka samay achha hai, aur paise ki halat bhi usi dauran dheere-dheere sudharegi. Abhi kaunsa rishta sabse zyada dabav bana raha hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Ji, course badalne wali baat sahi hai, isi se aapki padhai ka rasta badla. Job ke liye Mar 2027 se Sep 2028 ka samay achha hai, aur paise ki halat bhi usi dauran dheere-dheere sudharegi. Abhi kaunsa rishta sabse zyada dabav bana raha hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar wale jo rishta laaye hain wahi.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Job confirm kab tak lagegi? Specific month batao.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, job ke liye Jun 2027 ke aas-paas ka samay sabse achha dikhta hai, kyunki tab mehnat ka phal milne lagta hai. Pehle Mar 2027 se kaam ke mauke badhenge. Kya aapne abhi kisi job ke liye apply kiya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ji, job ke liye Jun 2027 ke aas-paas ka samay sabse achha dikhta hai, kyunki tab mehnat ka phal milne lagta hai. Pehle Mar 2027 se kaam ke mauke badhenge. Kya aapne abhi kisi job ke liye apply kiya hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok. June 2027 pakka?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension bohot hai, kab khatam hogi?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pakka to main nahi keh sakti, lekin Jun 2027 ke aas-paas Shani ka asar kam hota hai aur kaam mein saaf rasta dikhta hai. Ghar ka tension Mar 2027 se Sep 2028 ke beech dheere-dheere kam hone ki sambhavna hai. Kya aap bata sakti hain ki ghar mein sabse zyada bahas kis baat par hoti hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Pakka to main nahi keh sakti, lekin Jun 2027 ke aas-paas Shani ka asar kam hota hai aur kaam mein saaf rasta dikhta hai. Ghar ka tension Mar 2027 se Sep 2028 ke beech dheere-dheere kam hone ki sambhavna hai. Kya aap bata sakti hain ki ghar mein sabse zyada bahas kis baat par hoti hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi aur career.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Tension exact kis month khatam hogi?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ji, exact month batana mushkil hai, lekin Mar 2027 se ghar ka tension dheere-dheere kam hone lagta hai. Shaadi aur career dono par ek saath bahas hoti hai, isliye Mar 2027 se Sep 2028 ke beech halat sudharti hai. Kya aap mujhe bata sakti hain ki ye bahas aksar kab shuru hoti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ji, exact month batana mushkil hai, lekin Mar 2027 se ghar ka tension dheere-dheere kam hone lagta hai. Shaadi aur career dono par ek saath bahas hoti hai, isliye Mar 2027 se Sep 2028 ke beech halat sudharti hai. Kya aap mujhe bata sakti hain ki ye bahas aksar kab shuru hoti hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Roz shaam ko. Jo main puchh rahi wo bta ni rahe. Exact month bataiye.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aap sahi keh rahi hain, main seedha jawab deti hoon. Mar 2027 sabse likely mahina hai jab ghar ka tension kam hona shuru hoga. Roz shaam ki bahas mein Mangal ka asar hai, isliye thoda sabr rakhiye.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Aap sahi keh rahi hain, main seedha jawab deti hoon. Mar 2027 sabse likely mahina hai jab ghar ka tension kam hona shuru hoga. Roz shaam ki bahas mein Mangal ka asar hai, isliye thoda sabr rakhiye."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 21
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale saalo mein halat dheere-dheere theek honi shuru hogi ji. Aapko sabse zyada kis cheez ki fikar hai, career ya family?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aane wale saalo mein halat dheere-dheere theek honi shuru hogi ji. Aapko sabse zyada kis cheez ki fikar hai, career ya family?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, shaadi ek zaroori vishay hai. Aapki family abhi rishta dekh rahi hai ya koi pasand hai ji?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Haan ji, shaadi ek zaroori vishay hai. Aapki family abhi rishta dekh rahi hai ya koi pasand hai ji?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha parents ek rishta dekh rhe",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech baat banne ke acche yog hain ji. Shukra kamzor hone ki wajah se thodi der hai, par rishta jaan-pehchaan se aayega. Kya yeh baat kisi apne ke zariye chal rahi hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech baat banne ke acche yog hain ji. Shukra kamzor hone ki wajah se thodi der hai, par rishta jaan-pehchaan se aayega. Kya yeh baat kisi apne ke zariye chal rahi hai ji?"
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ha relative hai",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Shukra kya hota h",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shukra woh grah hai jo shaadi aur ghar ki sukh-shanti dekhta hai ji. Iske kamzor hone se baatein dheere chalti hain. Kya uss relative ki taraf se koi pakki baat aayi hai ji?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shukra woh grah hai jo shaadi aur ghar ki sukh-shanti dekhta hai ji. Iske kamzor hone se baatein dheere chalti hain. Kya uss relative ki taraf se koi pakki baat aayi hai ji?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nhi abhi nhi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kaisa hoga",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki fikar sabko hoti hai ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki fikar sabko hoti hai ji. Paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension rehti h",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki yeh tension thaka deti hai ji. Yeh baat kis cheez ko lekar zyada ho rahi hai, ghar ke kharchon ko ya kuch aur?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki yeh tension thaka deti hai ji. Yeh baat kis cheez ko lekar zyada ho rahi hai, ghar ke kharchon ko ya kuch aur?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Sab log ladte rehte h",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Yeh jhagde mid-2027 tak dheere-dheere kam honge ji. Mangal aur Shani ke asar se ghar mein gussa aur tanaav badhta hai. Aap har Manghwar Hanuman Chalisa padhein ji, isse shanti milegi.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Yeh jhagde mid-2027 tak dheere-dheere kam honge ji. Mangal aur Shani ke asar se ghar mein gussa aur tanaav badhta hai. Aap har Manghwar Hanuman Chalisa padhein ji, isse shanti milegi."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Theek hai ji, yeh koshish zaroor kariye. Aap abhi apni padhai kar rahe hain ya kahin kaam karte hain ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Theek hai ji, yeh koshish zaroor kariye. Aap abhi apni padhai kar rahe hain ya kahin kaam karte hain ji?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kaam karti hu",
+    "sec": 240,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kaam mein abhi jo dheela pan hai, woh June 2027 ke baad theek hona shuru ho jayega ji. Uske baad hi tarqqi ka naya rasta banega.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Kaam mein abhi jo dheela pan hai, woh June 2027 ke baad theek hona shuru ho jayega ji. Uske baad hi tarqqi ka naya rasta banega."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Thik hai",
+    "sec": 270,
+    "idx": 21
+  }
+]

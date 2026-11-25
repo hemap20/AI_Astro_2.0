@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arre hello! Kaise ho? Boliye, aaj kis baare mein baat karni hai, shaadi ya paise ki halat?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Arre hello! Kaise ho? Boliye, aaj kis baare mein baat karni hai, shaadi ya paise ki halat?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Pichli baar kuch batane wale the aap?",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pichli baar humne shaadi ki baat ki thi, March 2027 ke baad yog ban rahe hain. Rishta jaan-pehchaan se aayega aur partner kaafi shaant aur educated hoga. Ghar pe is baare mein baat shuru hui hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pichli baar humne shaadi ki baat ki thi, March 2027 ke baad yog ban rahe hain. Rishta jaan-pehchaan se aayega aur partner kaafi shaant aur educated hoga. Ghar pe is baare mein baat shuru hui hai kya?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ha.",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Rishta dekh rhe mummy papa.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mummy-papa dekh rahe hain toh jaldi hi baat banegi, bas Shukra thoda weak hone se thoda time lag raha hai. Aap Friday ko Om Shum Shukraya Namah 108 baar jaap karke white sweets donate karo, raste aasan ho jayenge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Mummy-papa dekh rahe hain toh jaldi hi baat banegi, bas Shukra thoda weak hone se thoda time lag raha hai. Aap Friday ko Om Shum Shukraya Namah 108 baar jaap karke white sweets donate karo, raste aasan ho jayenge."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Paisa ka kya hoga?",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki halat March 2027 ke baad sudharni shuru hogi, tab tak saving thodi tight rahegi. Thursday ko chana dal donate kiya karo, kaafi farq padega.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paise ki halat March 2027 ke baad sudharni shuru hogi, tab tak saving thodi tight rahegi. Thursday ko chana dal donate kiya karo, kaafi farq padega."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe bohot tension h",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ka mahol Shani ke asar se thoda bhaari hai, par mid-2027 tak ye tension khatam ho jayegi. Saturday ko kale til donate kiya karo, sukoon milega.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Ghar ka mahol Shani ke asar se thoda bhaari hai, par mid-2027 tak ye tension khatam ho jayegi. Saturday ko kale til donate kiya karo, sukoon milega."
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Kaha pe donate karu",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kisi bhi paas ke mandir mein de do ya kisi zarooratmand ko. Raat ko neend theek se aati hai ya waha bhi pareshani hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kisi bhi paas ke mandir mein de do ya kisi zarooratmand ko. Raat ko neend theek se aati hai ya waha bhi pareshani hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Neend nhi aati thik se",
+    "sec": 180,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Raat ko neend na aana weak Moon ki wajah se hai, par mid-2027 tak ye theek ho jayega. Aap Monday ko Om Som Somaya Namah 108 baar jaap kiya karo, mind shant rahega.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Raat ko neend na aana weak Moon ki wajah se hai, par mid-2027 tak ye theek ho jayega. Aap Monday ko Om Som Somaya Namah 108 baar jaap kiya karo, mind shant rahega."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Sab theek ho jayega?",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, bilkul sab theek hoga ji! 2027 ke baad halat poori tarah badal jayenge aur sukoon aayega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, bilkul sab theek hoga ji! 2027 ke baad halat poori tarah badal jayenge aur sukoon aayega."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Thik h",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech career mein naye mauke aur growth bhi nazar aayegi, uss time ko pakad ke chalna.",
+    "sec": 255,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech career mein naye mauke aur growth bhi nazar aayegi, uss time ko pakad ke chalna."
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 26
+  }
+]

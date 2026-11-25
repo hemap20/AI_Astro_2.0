@@ -1,0 +1,182 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji! Kaise hain aap? Shaadi, career ya ghar ki kisi baat ko lekar chinta hai, mujhe batayein.",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji! Kaise hain aap? Shaadi, career ya ghar ki kisi baat ko lekar chinta hai, mujhe batayein."
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kb hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Pehle bhi humne shaadi par baat ki thi. March 2027 se September 2028 ke beech aapki shaadi ka pakka yog hai. Kya 2022 mein aapki padhai mein koi badlaav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Pehle bhi humne shaadi par baat ki thi. March 2027 se September 2028 ke beech aapki shaadi ka pakka yog hai. Kya 2022 mein aapki padhai mein koi badlaav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "2022 ka chhodo, ye batao.",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "April-May 2027 mein sabse ache chances hain. Rishton ke grah Shukra par pressure ki wajah se thoda waqt lag raha hai. Aap kis tarah ke partner ki umeed kar rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "April-May 2027 mein sabse ache chances hain. Rishton ke grah Shukra par pressure ki wajah se thoda waqt lag raha hai. Aap kis tarah ke partner ki umeed kar rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Parents ne rishta dekha hai.",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ye wala sahi hai ya nahi?",
+    "sec": 90,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Arranged match aapke liye behtar hai. Partner ke nature ko lekar chart mein ek khaas baat dikhti hai jo baad mein pata chalegi. Kya ye rishta kisi jaan-pehchan se aaya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Arranged match aapke liye behtar hai. Partner ke nature ko lekar chart mein ek khaas baat dikhti hai jo baad mein pata chalegi. Kya ye rishta kisi jaan-pehchan se aaya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Haan, door ke relative hain.",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Is rishte se shaadi hogi ya nahi?",
+    "sec": 120,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, 7th ghar ke swami se yahan shaadi ke ache yog hain. Partner calm honge par thode reserved nature ke. Shukrawar se 'Om Shum Shukraya Namah' japein. Kya baat aage badhi?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Haan, 7th ghar ke swami se yahan shaadi ke ache yog hain. Partner calm honge par thode reserved nature ke. Shukrawar se 'Om Shum Shukraya Namah' japein. Kya baat aage badhi?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Baat chal rahi hai.",
+    "sec": 150,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi?",
+    "sec": 150,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech job lagne ka acha daur hai. 10th ghar ke swami Guru aapko safalta denge. Abhi tayyari mein kya dikkat aa rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech job lagne ka acha daur hai. 10th ghar ke swami Guru aapko safalta denge. Abhi tayyari mein kya dikkat aa rahi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Itna lamba time? Exact month batao.",
+    "sec": 180,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "July-August 2027 mein sabse majboot yog hain. Mehnat ke grah ki dheemi chaal se June 2027 tak deri hai. Abhi aap kis field mein job search kar rahe hain?",
+    "sec": 195,
+    "raw_response": {
+      "message": "July-August 2027 mein sabse majboot yog hain. Mehnat ke grah ki dheemi chaal se June 2027 tak deri hai. Abhi aap kis field mein job search kar rahe hain?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 210,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka maahol theek hone lagega. Abhi mann aur mehnat ke grahon par dabaav hai. Kya ghar mein aksar behas ya paise ki chinta rehti hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka maahol theek hone lagega. Abhi mann aur mehnat ke grahon par dabaav hai. Kya ghar mein aksar behas ya paise ki chinta rehti hai?"
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Haan, wahi.",
+    "sec": 240,
+    "idx": 24
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 25
+  }
+]

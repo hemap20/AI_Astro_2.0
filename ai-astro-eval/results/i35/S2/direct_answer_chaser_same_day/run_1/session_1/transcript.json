@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main samajh sakti hoon ki aane wala waqt kaisa hoga, ye janne ki ichha sabko hoti hai. Aap career ke bare mein janna chahti hain ya shaadi ke?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main samajh sakti hoon ki aane wala waqt kaisa hoga, ye janne ki ichha sabko hoti hai. Aap career ke bare mein janna chahti hain ya shaadi ke?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi meri",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Guru ka daur chalne se kya ghar pe rishte ki baat shuru hui hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog March 2027 se September 2028 ke beech ban raha hai. Guru ka daur chalne se kya ghar pe rishte ki baat shuru hui hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha, ek rishta dekh rahe.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Konse month me confirm hai?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad shaadi ka yog mazboot hai. Rishton ka grah thoda kamzor hone se der ho rahi hai, par faisla sahi hoga. Waise, aapke hone wale partner ke bare mein ek khaas baat dikh rahi hai; kya ye rishta jaan-pehchan walon mein se hai?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 ke baad shaadi ka yog mazboot hai. Rishton ka grah thoda kamzor hone se der ho rahi hai, par faisla sahi hoga. Waise, aapke hone wale partner ke bare mein ek khaas baat dikh rahi hai; kya ye rishta jaan-pehchan walon mein se hai?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ha, bataiye.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 mein kaunsa month fix hai?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Partner lambe, shaant aur kam bolne wale honge. March 2027 se yog banta hai, isliye rishton ke grah ka mantra Shukravaar se shuru kijiye. Kya aap unse mili hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Partner lambe, shaant aur kam bolne wale honge. March 2027 se yog banta hai, isliye rishton ke grah ka mantra Shukravaar se shuru kijiye. Kya aap unse mili hain?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me kaunsa mahina, date batao.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke baad se yog banta hai, par koi ek tareekh pakka nahi hoti. Aapki naukri aur shaadi, dono mein deri ka ek hi karan hai: abhi ka mushkil daur. Kya aap abhi kaam ko lekar zyada pareshan hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "March 2027 ke baad se yog banta hai, par koi ek tareekh pakka nahi hoti. Aapki naukri aur shaadi, dono mein deri ka ek hi karan hai: abhi ka mushkil daur. Kya aap abhi kaam ko lekar zyada pareshan hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha, thodi.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Jo mai puchh rha wo bta ni rhe, exact month batao.",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kundli mein mahina nahi, bada daur hota hai. Naukri aur shaadi mein deri 'pareshani aur badlav ke ghar' ke dabav se hai, jo June 2027 tak rahega. Waise, sasural wale kaafi traditional honge. Kya ghar pe baat chidi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Kundli mein mahina nahi, bada daur hota hai. Naukri aur shaadi mein deri 'pareshani aur badlav ke ghar' ke dabav se hai, jo June 2027 tak rahega. Waise, sasural wale kaafi traditional honge. Kya ghar pe baat chidi hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Haan ghar pe baat chidi hai.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Aap faltu ghuma rahe ho, exact month batao.",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Samajh sakti hoon, kundli mein exact mahina nahi, daur hota hai. Naukri aur shaadi mein deri ka ek hi karan hai: mehnat ke grah ka dabav. Shanivaar se kaale til daan kijiye.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Samajh sakti hoon, kundli mein exact mahina nahi, daur hota hai. Naukri aur shaadi mein deri ka ek hi karan hai: mehnat ke grah ka dabav. Shanivaar se kaale til daan kijiye."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Faltu.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Not satisfied.",
+    "sec": 210,
+    "idx": 20
+  }
+]

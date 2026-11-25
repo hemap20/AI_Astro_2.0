@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Mujhe janna hai meri future. Career aur paisa kaisa rahega is saal?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main samajh sakti hoon, career aur paise ki chinta sabko hoti hai. Abhi mehnat zyada hai par phal kam mil raha hai. Aap abhi kya kaam karti hain ya padhai kar rahi hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main samajh sakti hoon, career aur paise ki chinta sabko hoti hai. Abhi mehnat zyada hai par phal kam mil raha hai. Aap abhi kya kaam karti hain ya padhai kar rahi hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Job dhund rahi hu. Kab tak lagegi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job March 2027 se September 2028 ke beech milne ke acche yog hain. 2023 se 2025 tak aapne mehnat bohot ki thi, hai na? Aap abhi kis field mein job dekh rahi hain?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Job March 2027 se September 2028 ke beech milne ke acche yog hain. 2023 se 2025 tak aapne mehnat bohot ki thi, hai na? Aap abhi kis field mein job dekh rahi hain?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Software field.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "2027 me kaun se mahine me?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "April 2027 ke aas-paas naukri milne ke acche yog hain. Career ka grah majboot hone se aamdani aur naukri dono mein sudhaar aayega. Software field mein interest kaise bana?",
+    "sec": 75,
+    "raw_response": {
+      "message": "April 2027 ke aas-paas naukri milne ke acche yog hain. Career ka grah majboot hone se aamdani aur naukri dono mein sudhaar aayega. Software field mein interest kaise bana?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok. April 2027 confirm?",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Aur ye batao, meh kitne number ki hu?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "April 2027 ka samay career ke grah ki wajah se kaafi majboot dikh raha hai. Aapka ank 3 hai, jo kismat aur gyaan ke grah Guru ka hota hai, jo aapke career ko sambhalta hai. Kya aapne kabhi teaching ya finance mein bhi try kiya hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "April 2027 ka samay career ke grah ki wajah se kaafi majboot dikh raha hai. Aapka ank 3 hai, jo kismat aur gyaan ke grah Guru ka hota hai, jo aapke career ko sambhalta hai. Kya aapne kabhi teaching ya finance mein bhi try kiya hai?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Is saal baki ka time kaisa rahega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal ke baki din thode dhime rahenge, mehnat aur karm ka grah abhi dabav bana raha hai. Isliye career mein thoda intezar hai. Kya aap raat ko chain ki neend so pati hain?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Is saal ke baki din thode dhime rahenge, mehnat aur karm ka grah abhi dabav bana raha hai. Isliye career mein thoda intezar hai. Kya aap raat ko chain ki neend so pati hain?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Nahi. Matlab is saal job nahi milegi?",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Is saal job ke yog kam hain, kyunki career aur mann dono par abhi dabav hai jo mid-2027 tak rahega. Isi wajah se neend mein bhi pareshani aati hai. Kya aapne kabhi mantra ka jaap try kiya hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Is saal job ke yog kam hain, kyunki career aur mann dono par abhi dabav hai jo mid-2027 tak rahega. Isi wajah se neend mein bhi pareshani aati hai. Kya aapne kabhi mantra ka jaap try kiya hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aapne pehle April 2027 bola, ab mid-2027. Sahi kya hai?",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Donon sahi hain. April se yog shuru, June 2027 tak dabav hat-ta hai. Career aur neend ka connection ek grah se hai. Ek aur field aapke liye behtar hai, wo kya ho sakti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Donon sahi hain. April se yog shuru, June 2027 tak dabav hat-ta hai. Career aur neend ka connection ek grah se hai. Ek aur field aapke liye behtar hai, wo kya ho sakti hai?"
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Pehle sahi date batao.",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Aap ghum fir ke baat kar rahe ho.",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Main samajh sakti hoon. March 2027 se yog shuru hai, aur April 2027 mein naukri ke sabse zyada chance hain. Career ka grah tabhi majboot hoga. Aapne koi naya course kiya hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Main samajh sakti hoon. March 2027 se yog shuru hai, aur April 2027 mein naukri ke sabse zyada chance hain. Career ka grah tabhi majboot hoga. Aapne koi naya course kiya hai?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Haan kiya hai.",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Jo main puch rahi hu, wo bata ni rahe.",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Maafi, March 2027 se yog shuru hain, April sabse sahi hai. Karm ka grah tabhi dhila hoga. Guru ke liye chana dal daan karein. Agli baar career par vistar se baat karenge.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Maafi, March 2027 se yog shuru hain, April sabse sahi hai. Karm ka grah tabhi dhila hoga. Guru ke liye chana dal daan karein. Agli baar career par vistar se baat karenge."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok. April 2027.",
+    "sec": 270,
+    "idx": 23
+  }
+]

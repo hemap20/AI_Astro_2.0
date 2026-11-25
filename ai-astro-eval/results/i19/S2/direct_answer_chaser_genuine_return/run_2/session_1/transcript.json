@@ -1,0 +1,101 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "2027 se tumhara time badal raha hai, career aur growth ke liye naye raste khulenge. Batao, life ke kis area mein sabse zyada tension chal rahi hai?",
+    "sec": 15,
+    "raw_response": {
+      "message": "2027 se tumhara time badal raha hai, career aur growth ke liye naye raste khulenge. Batao, life ke kis area mein sabse zyada tension chal rahi hai?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab tak hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ke yog hain, rishta jaan-pehchaan se aayega. Ghar pe abhi is baare mein koi baat chal rahi hai kya?",
+    "sec": 45,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ke yog hain, rishta jaan-pehchaan se aayega. Ghar pe abhi is baare mein koi baat chal rahi hai kya?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hain ghar wale.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Exact kaun sa mahina hai?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 mein baat pakki hone ka strong yog hai. Partner calm aur tall hoga, par ek baat aisi hai jo thodi guarded hogi. Ghar wale is rishte se kitne khush hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 mein baat pakki hone ka strong yog hai. Partner calm aur tall hoga, par ek baat aisi hai jo thodi guarded hogi. Ghar wale is rishte se kitne khush hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak aayega.",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se hi paise haath mein nahi ruk rahe na? March 2027 ke baad halat sudhregi aur income steady hogi. Tum khud abhi kya kaam kar rahe ho?",
+    "sec": 105,
+    "raw_response": {
+      "message": "2023 se hi paise haath mein nahi ruk rahe na? March 2027 ke baad halat sudhregi aur income steady hogi. Tum khud abhi kya kaam kar rahe ho?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi.",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke baad ghar ka stress kam ho jayega. Har Tuesday Hanuman Chalisa padhna shuru karo, man ko shanti milegi. Ghar mein kis baat par zyada behas hoti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "June 2027 ke baad ghar ka stress kam ho jayega. Har Tuesday Hanuman Chalisa padhna shuru karo, man ko shanti milegi. Ghar mein kis baat par zyada behas hoti hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 150,
+    "idx": 13
+  }
+]

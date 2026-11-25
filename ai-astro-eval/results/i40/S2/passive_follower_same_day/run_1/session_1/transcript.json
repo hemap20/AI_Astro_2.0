@@ -1,0 +1,167 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste. Main Sitara hoon, aapki jindagi ke bare mein sahi disha batane ke liye yaha hoon. Aap career ke bare mein janna chahti hain ya shaadi se judi baatein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste. Main Sitara hoon, aapki jindagi ke bare mein sahi disha batane ke liye yaha hoon. Aap career ke bare mein janna chahti hain ya shaadi se judi baatein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ka yog arranged rishte mein hai, par rishton ke grah ke dabne se thoda intezar hai. Kya 2022 mein aapki padhai ya college life mein bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ka yog arranged rishte mein hai, par rishton ke grah ke dabne se thoda intezar hai. Kya 2022 mein aapki padhai ya college life mein bada badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Ha aaya tha",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Parents rishta dekh rhe",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Parents jo rishta dekh rahe hain, usme March 2027 ke baad baat banegi. Aapka jeevansathi samajhdaar hoga, par unke ghar ka mahaul thoda purani soch ka hoga. Kya career mein kuch khaas karna chahti hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Parents jo rishta dekh rahe hain, usme March 2027 ke baad baat banegi. Aapka jeevansathi samajhdaar hoga, par unke ghar ka mahaul thoda purani soch ka hoga. Kya career mein kuch khaas karna chahti hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Paisa",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa aur rishte dono par abhi dabav hai, par March 2027 se karz kam hoga aur halat sudharenge. Ek aisi jagah hai jaha se aapki kamai badh sakti hai. Kya aap abhi kaam kar rahi hain?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Paisa aur rishte dono par abhi dabav hai, par March 2027 se karz kam hoga aur halat sudharenge. Ek aisi jagah hai jaha se aapki kamai badh sakti hai. Kya aap abhi kaam kar rahi hain?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ghar pe tension hai",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh jagah teaching, finance ya communication ka kshetra hai, jaha aapka career ban sakta hai. Ghar ka tanav aur paise ki kami ek saath chal rahe hain kyunki mann ka grah abhi dabav mein hai. Hanuman Chalisa padhna shuru kijiye, isse gussa kam hoga aur ghar ka mahaul theek hoga. Kya aapne kabhi in kshetro mein try kiya hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Woh jagah teaching, finance ya communication ka kshetra hai, jaha aapka career ban sakta hai. Ghar ka tanav aur paise ki kami ek saath chal rahe hain kyunki mann ka grah abhi dabav mein hai. Hanuman Chalisa padhna shuru kijiye, isse gussa kam hoga aur ghar ka mahaul theek hoga. Kya aapne kabhi in kshetro mein try kiya hai?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 150,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi, abhi sahi samay aane wala hai. Aapke hone wale jeevansathi ka ek aisa swabhav hai jo ghar ke tanav ko kam karne mein madad karega. Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' 108 baar 19 Nov se padhiye. Kya aapko kisi bade rishte mein jaldi faisla lene ki adat hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Koi baat nahi, abhi sahi samay aane wala hai. Aapke hone wale jeevansathi ka ek aisa swabhav hai jo ghar ke tanav ko kam karne mein madad karega. Guru ke liye 'Om Gram Greem Grom Sah Gurave Namah' 108 baar 19 Nov se padhiye. Kya aapko kisi bade rishte mein jaldi faisla lene ki adat hai?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 180,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Woh jeevansathi lambe aur shant honge, jo ghar ka tanav dur karenge. Career aur ghar ki pareshani ek hi grah ke asar se hai, jo June 2027 tak sudharegi. 21 Nov se Shani mantra japen.",
+    "sec": 195,
+    "raw_response": {
+      "message": "Woh jeevansathi lambe aur shant honge, jo ghar ka tanav dur karenge. Career aur ghar ki pareshani ek hi grah ke asar se hai, jo June 2027 tak sudharegi. 21 Nov se Shani mantra japen."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 210,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Theek ho jayega?",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan, sab bilkul theek hoga. June 2027 ke baad grahon ka dabav hat jayega aur ghar ka mahaul shant ho jayega. Kya aap apni neend aur sehat ka dhyan rakhti hain?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Haan, sab bilkul theek hoga. June 2027 ke baad grahon ka dabav hat jayega aur ghar ka mahaul shant ho jayega. Kya aap apni neend aur sehat ka dhyan rakhti hain?"
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki sabhi pareshaniyan jald hi door ho jayengi, sab theek hoga. Aapke hone wale jeevansathi ka lambe aur shant hona, aur unke vyaktitva mein chupa hua ek gambhir pehlu, ye baatein aapke rishte ko kaise badlengi, isse spashtta milegi. Is baare mein vistaar se baat karne ke liye aap abhi chat recharge kar sakti hain.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki sabhi pareshaniyan jald hi door ho jayengi, sab theek hoga. Aapke hone wale jeevansathi ka lambe aur shant hona, aur unke vyaktitva mein chupa hua ek gambhir pehlu, ye baatein aapke rishte ko kaise badlengi, isse spashtta milegi. Is baare mein vistaar se baat karne ke liye aap abhi chat recharge kar sakti hain."
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 22
+  }
+]

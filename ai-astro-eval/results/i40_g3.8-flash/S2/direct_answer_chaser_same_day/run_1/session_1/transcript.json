@@ -1,0 +1,170 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Main Sitara hoon, aapki patri dekh sakti hoon. Aap aane wale kal mein sabse pehle kis baare mein janana chahte hain?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Main Sitara hoon, aapki patri dekh sakti hoon. Aap aane wale kal mein sabse pehle kis baare mein janana chahte hain?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai ji. Kya 2022 ke aaspas aapki padhai ya college mein koi bada badlav aaya tha?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Aapki shaadi ka yog March 2027 se September 2028 ke beech banta hai ji. Kya 2022 ke aaspas aapki padhai ya college mein koi bada badlav aaya tha?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, graduation hua tha.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 ya 2028? Konse month me?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "Saal 2027 ke aakhiri mahino mein baat pakki hone ke yog sabse jyada hain. Rishton ke grah ki sthiti thodi dabbi hai, ispar ek khaas baat dikh rahi hai. Ghar wale abhi se koi baat chala rahe hain kya?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Saal 2027 ke aakhiri mahino mein baat pakki hone ke yog sabse jyada hain. Rishton ke grah ki sthiti thodi dabbi hai, ispar ek khaas baat dikh rahi hai. Ghar wale abhi se koi baat chala rahe hain kya?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rahe hain.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "October ya November?",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "November 2027 mein baat banne ke sabse acche aasaar hain ji. Kismat aur gyaan ka grah teesre ghar mein hone se yeh rishta jaan-pehchan ke zariye hi tay hoga. Shukravar se 'Om Shum Shukraya Namah' ka jaap karein aur safed mithai daan karein. Kya ladke walon se seedhi baat shuru hui hai ya kisi bicholiye ke zariye?",
+    "sec": 105,
+    "raw_response": {
+      "message": "November 2027 mein baat banne ke sabse acche aasaar hain ji. Kismat aur gyaan ka grah teesre ghar mein hone se yeh rishta jaan-pehchan ke zariye hi tay hoga. Shukravar se 'Om Shum Shukraya Namah' ka jaap karein aur safed mithai daan karein. Kya ladke walon se seedhi baat shuru hui hai ya kisi bicholiye ke zariye?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ok, bicholiye ke through hai.",
+    "sec": 120,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Job kab lagegi, paisa kab ayega?",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Job ka yog bhi March 2027 ke baad hi khulta dikh raha hai ji. Kamai aur bachat ka doosra ghar thoda kamzor hone se paisa tikne mein abhi pareshani aati hai. Kya pichhle ek-do saal se lagatar mehnat ke baad bhi aamdani thodi ruki hui lagti hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Job ka yog bhi March 2027 ke baad hi khulta dikh raha hai ji. Kamai aur bachat ka doosra ghar thoda kamzor hone se paisa tikne mein abhi pareshani aati hai. Kya pichhle ek-do saal se lagatar mehnat ke baad bhi aamdani thodi ruki hui lagti hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Haan, paise nahi rukte.",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Ghar me hamesha tension rehti hai, ye kab khatam hoga?",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ke grah par bhari asar hone se ghar ka mahol thoda chidchida rehta hai. Yeh tension June 2027 ke baad dheere-dheere kam hone lagegi. Kya is tension ki wajah se aapki neend par bhi asar padta hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Mann ke grah par bhari asar hone se ghar ka mahol thoda chidchida rehta hai. Yeh tension June 2027 ke baad dheere-dheere kam hone lagegi. Kya is tension ki wajah se aapki neend par bhi asar padta hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ha, padta hai.",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 pakka?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Haan ji, mehnat aur karm ke grah ka dabav June 2027 mein hatt jayega. Aapke career ke dasve ghar mein aage chalkar aisi jagah dikh rahi hai jo bohot fayda degi. Somvar se 'Om Som Somaya Namah' 108 baar padhein. Raat ko sone se pehle sabse jyada kya baat pareshan karti hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Haan ji, mehnat aur karm ke grah ka dabav June 2027 mein hatt jayega. Aapke career ke dasve ghar mein aage chalkar aisi jagah dikh rahi hai jo bohot fayda degi. Somvar se 'Om Som Somaya Namah' 108 baar padhein. Raat ko sone se pehle sabse jyada kya baat pareshan karti hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Career aur shadi.",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Sab sahi ho jayega na?",
+    "sec": 210,
+    "idx": 20
+  },
+  {
+    "role": "ASTRO",
+    "text": "Bohot chinta mat kijiye, 2027 ke baad dono raaste khulenge. Career ke liye teaching ya finance ka field aapko sabse jyada aage le jayega. Kya aapne inme se kisi field ke baare mein pehle socha hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Bohot chinta mat kijiye, 2027 ke baad dono raaste khulenge. Career ke liye teaching ya finance ka field aapko sabse jyada aage le jayega. Kya aapne inme se kisi field ke baare mein pehle socha hai?"
+    },
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Finance socha hai.",
+    "sec": 240,
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 23
+  }
+]

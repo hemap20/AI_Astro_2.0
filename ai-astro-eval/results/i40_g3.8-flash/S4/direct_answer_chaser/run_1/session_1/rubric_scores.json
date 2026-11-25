@@ -1,0 +1,169 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 6,
+    "1.4": 7,
+    "2.1": 7,
+    "2.2": 7,
+    "2.3": 7,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": 7,
+    "2.7": 7,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": null,
+    "5.1": 8,
+    "1.3": 7,
+    "4.1": 3,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.0,
+  "shape": {
+    "M": 7,
+    "avg_words": 30.4,
+    "long_share": 0.43
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Haan ghar walo ka hai.",
+        "why": "The astrologer acknowledges the user's confirmation that the marriage is arranged, which was the answer to the previous question."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya 2022 mein padhai ya college mein koi bada badlav hua tha?",
+        "why": "The astrologer asks questions that are not Type C, but they are Type B (generic life questions) rather than building on the user's specific concerns about the boy's temper."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shaadi ki baat aage badhane ke liye rishton ka grah dekhna hoga.",
+        "why": "The astrologer asks for the boy's details (implied by the need to check the chart) and provides a reason (to check the relationship/rishton ka grah)."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ladka theek lagta hai, thoda shant aur padha-likha hoga.",
+        "why": "The reading is about the present, provides new information (calm/educated), is specific, and is tied to the chart."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishta pakka hone ki umeed hai ji, par faisla March ke aakhiri hafte mein banega.",
+        "why": "The astrologer provides a clear direction (yes, it can happen) and a time window (March 2027, last week) after the user repeatedly asked."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Rishton ke grah ki kamzori se thoda rukavat aati hai.",
+        "why": "The astrologer links the life situation (delays/obstacles) to a chart factor (rishton ka grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Gusse ki wajah unka kismat ka dosh hai, par rishte mein wafadari rahegi.",
+        "why": "The astrologer uses the user's detail (short tempered) to provide a new reading (kismat ka dosh/loyalty)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "faisla March ke aakhiri hafte mein banega",
+        "why": "The astrologer provides a window (last week of March) and maintains consistency throughout the chat."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Shukrawar se safed meethai baantna shuru kijiye.",
+        "why": "The astrologer gives a practical remedy (distributing sweets) with a specific time (Friday) for the stated problem (delays in marriage)."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Pehle mera jawab do, khaas baat chhoro.",
+        "why": "The astrologer eventually answers the marriage question clearly, though the user had to push."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ek khaas baat rishte mein dikh rahi hai.",
+        "why": "The astrologer opens a next layer (the in-laws' nature) which is specific to the concern."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Badi dikkat nahi aayegi ji, March 2027 se jhagde kam honge aur raksha ka grah sambhal lega.",
+        "why": "No closing message, and every reply carries a reading or relevant question."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Badi dikkat nahi aayegi ji, March 2027 se jhagde kam honge aur raksha ka grah sambhal lega.",
+        "why": "The last message provides a real reading/guidance regarding the user's concern."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Haan ji, yeh rishta pakka ho sakta hai.",
+        "why": "The user was pushing for a yes/no answer, and the astrologer adapted by giving a direct answer in the next reply."
+      }
+    },
+    "labels": [
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 24,
+        "type": "both"
+      }
+    ]
+  }
+}

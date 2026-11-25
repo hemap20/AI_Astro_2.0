@@ -1,0 +1,239 @@
+{
+  "scores": {
+    "1.1": 8,
+    "1.2": 7,
+    "1.4": null,
+    "2.1": 8,
+    "2.2": 8,
+    "2.3": 9,
+    "2.4": 9,
+    "2.5": 9,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 1,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 9,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.35,
+  "shape": {
+    "M": 9,
+    "avg_words": 32.1,
+    "long_share": 0.78
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": ""
+      },
+      "G2": {
+        "fail": false,
+        "quote": ""
+      },
+      "G3": {
+        "fail": false,
+        "quote": ""
+      },
+      "G4": {
+        "fail": false,
+        "quote": ""
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Purani job ko lekar aap pareshan lag rahe hain.",
+        "why": "The astrologer repeats the detail (purani job) and names the feeling (pareshan)."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya wahan se baat abhi bilkul band ho gayi hai ya thodi baat chal rahi hai?",
+        "why": "No Type C questions. At least half are Type A (building on user input)."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": "",
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Purani job se abhi wapas bulaawa aane ke mauke kam hain. Mehnat ke grah ki wajah se kaam dheema hai.",
+        "why": "The reading is about the present, new to the user, specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Purani job se abhi wapas bulaawa aane ke mauke kam hain.",
+        "why": "A clear direction (low chance) is given before any counter-question."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Mehnat ke grah ki wajah se kaam dheema hai.",
+        "why": "More than half the readings are linked to chart factors in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Nayi job ke achhe mauke March 2027 se September 2028 ke beech banenge.",
+        "why": "Multiple later readings are new and use details provided by the user."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 9,
+        "quote": "March 2027 se September 2028 ke beech banenge.",
+        "why": "A clear window is provided with no promise, based on the chart."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Guruwar se Guru mantra ka 108 baar jaap kijiye.",
+        "why": "Remedies are tied to the cause, with how and when, plus a practical step."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Job aur rishte se judi baat clear ho gayi hai.",
+        "why": "Both questions (job and marriage) are answered in a stated order."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kundali mein 2027-2028 mein videsh se judne ka bhi yog hai.",
+        "why": "Names a specific further thing about the user's life."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 1,
+        "quote": "Is baare mein janne ke liye abhi chat recharge kar lijiye.",
+        "why": "The astrologer ends the chat with a pitch while time remains."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kundali mein 2027-2028 mein videsh se judne ka bhi yog hai.",
+        "why": "One of the last two messages is a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Purani job ko lekar aap pareshan lag rahe hain.",
+        "why": "No technical terms used without explanation and no formal/bookish language."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapki baat sahi hai ji, kabhi waqt thoda aage-peeche ho jata hai. Abhi buddhi aur baat-cheet ke grah se ye customer service ka role aapke liye achha dikh raha hai.",
+        "why": "Adapts in the very next reply, accepts the correction, and gives a reading tied to the user's input."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "question"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 4,
+        "type": "other"
+      },
+      {
+        "idx": 5,
+        "type": "question"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "both"
+      },
+      {
+        "idx": 9,
+        "type": "other"
+      },
+      {
+        "idx": 10,
+        "type": "question"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "other"
+      },
+      {
+        "idx": 14,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "other"
+      },
+      {
+        "idx": 16,
+        "type": "both"
+      },
+      {
+        "idx": 17,
+        "type": "other"
+      },
+      {
+        "idx": 18,
+        "type": "question"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      },
+      {
+        "idx": 20,
+        "type": "other"
+      },
+      {
+        "idx": 21,
+        "type": "reading"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      }
+    ]
+  }
+}

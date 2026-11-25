@@ -1,0 +1,191 @@
+[
+  {
+    "role": "USER",
+    "text": "Meri shadi kb hogi aur ladka shi h ya nhi mere liye.",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "USER",
+    "text": "26/1/1995 ladke ka hai dob.",
+    "sec": 0,
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Bihar.",
+    "sec": 0,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Bataiye ladka shi h ya nhi.",
+    "sec": 0,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki shaadi ka achha samay March 2027 se September 2028 ke beech shuru hoga. Kya aapne 2023 se 2025 ke beech apni padhai ya kaam mein bohot mehnat ki thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aapki shaadi ka achha samay March 2027 se September 2028 ke beech shuru hoga. Kya aapne 2023 se 2025 ke beech apni padhai ya kaam mein bohot mehnat ki thi?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 30,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nhi mere liye?",
+    "sec": 30,
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Spasht kijiye.",
+    "sec": 30,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shant, gambhir jeevansathi sahi rahenge. Rishton ka grah Shukra kamzor hone se mehnat aur rishte dono prabhavit rahe. Har Shukravar safed mithai daan kijiye; kya wo ladka swabhav se thoda guarded hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shant, gambhir jeevansathi sahi rahenge. Rishton ka grah Shukra kamzor hone se mehnat aur rishte dono prabhavit rahe. Har Shukravar safed mithai daan kijiye; kya wo ladka swabhav se thoda guarded hai?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Haan, thoda gusse wala hai.",
+    "sec": 60,
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Ladka sahi hai ya nahi mere liye?",
+    "sec": 60,
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Seedha bataiye.",
+    "sec": 60,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Rishta aur gussa dono Mangal ki nazar se jude hain, isliye dhairya rakhiye. Mangal ke liye Mangalwar se Hanuman Chalisa shuru kijiye. Waise, aapke sasural wale kafi kam bolne wale honge.",
+    "sec": 75,
+    "raw_response": {
+      "message": "Rishta aur gussa dono Mangal ki nazar se jude hain, isliye dhairya rakhiye. Mangal ke liye Mangalwar se Hanuman Chalisa shuru kijiye. Waise, aapke sasural wale kafi kam bolne wale honge."
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ladka shi h ya nahi mere liye?",
+    "sec": 90,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aap gol-mol jawab de rahe ho.",
+    "sec": 90,
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Haan ya na bolo.",
+    "sec": 90,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapke liye yeh rishta achha hai kyunki waha traditional parivaar hai. Mangal aur Shani ka asar mann par hai, isliye abhi sab kuch thoda heavy lag raha hai.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Aapke liye yeh rishta achha hai kyunki waha traditional parivaar hai. Mangal aur Shani ka asar mann par hai, isliye abhi sab kuch thoda heavy lag raha hai."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 120,
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kab tak hogi?",
+    "sec": 120,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Exact year bataiye.",
+    "sec": 120,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi 2027 mein hona sambhav hai. Rishton mein clarity aur shaadi ki deri dono rishton ke grah Shukra ke kamzor hone se hai. Career mein bhi ek bada badlav aane wala hai.",
+    "sec": 135,
+    "raw_response": {
+      "message": "Shaadi 2027 mein hona sambhav hai. Rishton mein clarity aur shaadi ki deri dono rishton ke grah Shukra ke kamzor hone se hai. Career mein bhi ek bada badlav aane wala hai."
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "2027 mein kaun se mahine?",
+    "sec": 150,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Bataiye.",
+    "sec": 150,
+    "idx": 22
+  },
+  {
+    "role": "ASTRO",
+    "text": "Career badlav March 2027 mein naye kaam se shuru hoga. Shaadi ke liye March se June 2027 ka samay achha hai. Guru grah ke liye 19 Nov se har Guruvar chana dal daan kijiye.",
+    "sec": 165,
+    "raw_response": {
+      "message": "Career badlav March 2027 mein naye kaam se shuru hoga. Shaadi ke liye March se June 2027 ka samay achha hai. Guru grah ke liye 19 Nov se har Guruvar chana dal daan kijiye."
+    },
+    "idx": 23
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 180,
+    "idx": 24
+  },
+  {
+    "role": "ASTRO",
+    "text": "Badlav teaching ya finance mein hoga kyunki Guru kismat ke grah hain. Shaadi aur career dono isi se judte hain kyunki wo rishte aur kaam dono ke malik hain. In fields mein interest hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Badlav teaching ya finance mein hoga kyunki Guru kismat ke grah hain. Shaadi aur career dono isi se judte hain kyunki wo rishte aur kaam dono ke malik hain. In fields mein interest hai?"
+    },
+    "idx": 25
+  },
+  {
+    "role": "USER",
+    "text": "Nahi.",
+    "sec": 210,
+    "idx": 26
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 210,
+    "idx": 27
+  }
+]

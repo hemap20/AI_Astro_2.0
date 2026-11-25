@@ -1,0 +1,164 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani job ke baare mein soch rahe ho ji. Purani company ne kab chhoda tha, aur abhi aap kahin aur try kar rahe ho?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Purani job ke baare mein soch rahe ho ji. Purani company ne kab chhoda tha, aur abhi aap kahin aur try kar rahe ho?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "3 mahine pehle.",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Ha, interview hai agle hafte.",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Purani jagah wapas bulane ke chances kam hain ji, par agle hafte ke interview mein safalta ke yog hain. March 2027 se career mein acchi tezi aayegi. Interview se pehle Thursday ko thodi chana dal daan kiya karein ji.",
+    "sec": 45,
+    "raw_response": {
+      "message": "Purani jagah wapas bulane ke chances kam hain ji, par agle hafte ke interview mein safalta ke yog hain. March 2027 se career mein acchi tezi aayegi. Interview se pehle Thursday ko thodi chana dal daan kiya karein ji."
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Interview pakka hoga?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Interview mein selection ke chances kaafi acche hain ji, mehnat rang laayegi. Guru ki sthiti aapke career ke sthaan par poora sath de rahi hai. Yeh interview kis profile ke liye hai ji?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Interview mein selection ke chances kaafi acche hain ji, mehnat rang laayegi. Guru ki sthiti aapke career ke sthaan par poora sath de rahi hai. Yeh interview kis profile ke liye hai ji?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Sales profile",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sales profile ke liye communication aur Budh ka yog aapko is field mein aage badhayega ji. Yeh samay aapki mehnat ko sahi disha de raha hai kyunki career ke sthaan par naye raste khul rahe hain. Ek aur baat hai, 2027 ke baad aapke kaam ke silsile mein door yatra ya transfer ke yog bhi ban rahe hain.",
+    "sec": 105,
+    "raw_response": {
+      "message": "Sales profile ke liye communication aur Budh ka yog aapko is field mein aage badhayega ji. Yeh samay aapki mehnat ko sahi disha de raha hai kyunki career ke sthaan par naye raste khul rahe hain. Ek aur baat hai, 2027 ke baad aapke kaam ke silsile mein door yatra ya transfer ke yog bhi ban rahe hain."
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Vesa hota nahi pichli baar bhi galat hua",
+    "sec": 120,
+    "idx": 12
+  },
+  {
+    "role": "ASTRO",
+    "text": "Sahi keh rahe ho ji, kabhi-kabhi samay thoda aage-piche ho jata hai. Shani ka prabhav kaam mein thodi rukawat zaroor deta hai, isliye samay lag raha hai. Aapka agla step kya hai is interview ke baad ji?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Sahi keh rahe ho ji, kabhi-kabhi samay thoda aage-piche ho jata hai. Shani ka prabhav kaam mein thodi rukawat zaroor deta hai, isliye samay lag raha hai. Aapka agla step kya hai is interview ke baad ji?"
+    },
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Pta nhi",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Koi baat nahi ji, jab samay thoda tight ho toh aage ka rasta saaf nahi dikhta. Communication ya finance jaisi fields aapke liye aage chal kar behtar option ban sakti hain. Kya aapne kabhi inhi fields mein try kiya hai ji?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Koi baat nahi ji, jab samay thoda tight ho toh aage ka rasta saaf nahi dikhta. Communication ya finance jaisi fields aapke liye aage chal kar behtar option ban sakti hain. Kya aapne kabhi inhi fields mein try kiya hai ji?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Paisa kab tak badhega?",
+    "sec": 180,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ko lekar pareshani hona toh aam baat hai ji. Aapko kya lagta hai, paisa kahan atak raha hai, kharche badhe hue hain ya kamai mein dikkat aa rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Paise ko lekar pareshani hona toh aam baat hai ji. Aapko kya lagta hai, paisa kahan atak raha hai, kharche badhe hue hain ya kamai mein dikkat aa rahi hai?"
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Kamai mein dikkat",
+    "sec": 210,
+    "idx": 19
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ki tangi February 2027 ke baad dheere-dheere door hone lagegi ji. Chhipe hue raste banne se aamdani mein sudhar aayega aur aage chal kar sthiti behtar hogi. Kya koi purana karz ya udhaar hai jo abhi pareshan kar raha hai ji?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kamai ki tangi February 2027 ke baad dheere-dheere door hone lagegi ji. Chhipe hue raste banne se aamdani mein sudhar aayega aur aage chal kar sthiti behtar hogi. Kya koi purana karz ya udhaar hai jo abhi pareshan kar raha hai ji?"
+    },
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 22
+  }
+]

@@ -1,0 +1,251 @@
+{
+  "scores": {
+    "1.1": 6,
+    "1.2": 6,
+    "1.4": null,
+    "2.1": 4,
+    "2.2": 8,
+    "2.3": 7,
+    "2.4": 9,
+    "2.5": 7,
+    "2.6": 9,
+    "2.7": 9,
+    "3.1": 7,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": null,
+    "5.1": 9,
+    "1.3": 7,
+    "4.1": 1,
+    "4.3": 10
+  },
+  "gate_fail": [],
+  "overall": 7.12,
+  "shape": {
+    "M": 9,
+    "avg_words": 40.1,
+    "long_share": 1.0
+  },
+  "rep": {
+    "rep": 0,
+    "top_opener": 1
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Aapke bhavishya mein naukri aur shaadi ke acche yog dikh rahe hain",
+        "why": "The astrologer acknowledges the user's request for 'Future' but the response is generic and could apply to anyone."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 6,
+        "quote": "Kya Nov 2022 mein aapki padhai ya college mein koi bada badlav aaya tha?",
+        "why": "Most questions are Type B (generic life questions) rather than building on specific user details."
+      },
+      "1.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Kya Nov 2022 mein aapki padhai ya college mein koi bada badlav aaya tha?",
+        "why": "Q=0, R=0, T=7. The astrologer gets to the reading immediately."
+      },
+      "1.4": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "The user's question is not about a specific other person."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Aapke bhavishya mein naukri aur shaadi ke acche yog dikh rahe hain",
+        "why": "The first reading is about the future and is generic, lacking specificity or a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke bhavishya mein naukri aur shaadi ke acche yog dikh rahe hain",
+        "why": "The main question 'Future' is answered immediately with a direction."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Ghar ki tension ka karan mann ke grah par himmat aur karm ke grahon ki nazar hai.",
+        "why": "The astrologer links a life issue (tension) to a chart factor (mann ke grah) in plain words."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapka chup rehna batata hai ki mann ka grah dabav mein hai",
+        "why": "Later readings add new points and use details provided by the user (chup rehna)."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "asli yog 2027 se ban rahe hain",
+        "why": "The timing is a window (2027-2028) and remains consistent."
+      },
+      "2.6": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aap 21 Nov se har Shanivar kale til daan kijiye aur 'Om Sham Shanaishcharaya Namah' ka jaap kijiye",
+        "why": "Remedies are tied to the specific problems (money, tension) with clear instructions."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke naukri aur shaadi ke sawalon ka jawab maine de diya hai.",
+        "why": "All questions (marriage, money, tension, job) are answered fully."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "2027-2028 mein aapke videsh jane ke yog ban rahe hain",
+        "why": "The astrologer opens a new layer (foreign travel) after answering the main questions."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapke naukri aur shaadi ke sawalon ka jawab maine de diya hai.",
+        "why": "No closing message until the very end, and every reply carries value."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "2027-2028 mein aapke videsh jane ke yog ban rahe hain",
+        "why": "The last message before the recharge pitch contains a concrete reading."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 9,
+        "quote": "Aapke bhavishya mein naukri aur shaadi ke acche yog dikh rahe hain",
+        "why": "The user triggered the 'Vague' condition, and the astrologer immediately provided a reading before asking a question."
+      }
+    },
+    "labels": [
+      {
+        "idx": 0,
+        "type": "other"
+      },
+      {
+        "idx": 1,
+        "type": "both"
+      },
+      {
+        "idx": 2,
+        "type": "other"
+      },
+      {
+        "idx": 3,
+        "type": "question"
+      },
+      {
+        "idx": 4,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "other"
+      },
+      {
+        "idx": 6,
+        "type": "both"
+      },
+      {
+        "idx": 7,
+        "type": "other"
+      },
+      {
+        "idx": 8,
+        "type": "other"
+      },
+      {
+        "idx": 9,
+        "type": "question"
+      },
+      {
+        "idx": 10,
+        "type": "both"
+      },
+      {
+        "idx": 11,
+        "type": "other"
+      },
+      {
+        "idx": 12,
+        "type": "other"
+      },
+      {
+        "idx": 13,
+        "type": "both"
+      },
+      {
+        "idx": 14,
+        "type": "other"
+      },
+      {
+        "idx": 15,
+        "type": "both"
+      },
+      {
+        "idx": 16,
+        "type": "other"
+      },
+      {
+        "idx": 17,
+        "type": "question"
+      },
+      {
+        "idx": 18,
+        "type": "both"
+      },
+      {
+        "idx": 19,
+        "type": "other"
+      },
+      {
+        "idx": 20,
+        "type": "question"
+      },
+      {
+        "idx": 21,
+        "type": "both"
+      },
+      {
+        "idx": 22,
+        "type": "other"
+      },
+      {
+        "idx": 23,
+        "type": "other"
+      },
+      {
+        "idx": 24,
+        "type": "both"
+      },
+      {
+        "idx": 25,
+        "type": "other"
+      }
+    ]
+  }
+}

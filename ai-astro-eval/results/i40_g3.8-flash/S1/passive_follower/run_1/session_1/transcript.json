@@ -1,0 +1,173 @@
+[
+  {
+    "role": "USER",
+    "text": "Purani job par vapas bulaya jayega?",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Namaste ji. Waha wapas bulane ke chances thode kam lagte hain, par nayi jagah rasta zaroor khulega. Kya pichli job mein achanak se koi dikkat aayi thi?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Namaste ji. Waha wapas bulane ke chances thode kam lagte hain, par nayi jagah rasta zaroor khulega. Kya pichli job mein achanak se koi dikkat aayi thi?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Haan sudden nikal diya",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "USER",
+    "text": "Kab tak milegi",
+    "sec": 30,
+    "idx": 3
+  },
+  {
+    "role": "ASTRO",
+    "text": "Nayi job ke ache yog March 2027 se September 2028 ke beech hain. Mehnat ke grah ki dheemi chaal se abhi deri hai. Kya 2022 mein padhai badli thi?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Nayi job ke ache yog March 2027 se September 2028 ke beech hain. Mehnat ke grah ki dheemi chaal se abhi deri hai. Kya 2022 mein padhai badli thi?"
+    },
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "Nahi",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Itni deri?",
+    "sec": 60,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "Karm ke grah ka asar dasve ghar par June 2027 tak hai, isliye thoda waqt lag raha hai. Par ek nayi line mein bada mauka dikhta hai. Kya abhi roz interview de rahe hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "Karm ke grah ka asar dasve ghar par June 2027 tak hai, isliye thoda waqt lag raha hai. Par ek nayi line mein bada mauka dikhta hai. Kya abhi roz interview de rahe hain?"
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Kya",
+    "sec": 90,
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Agli week interview hai",
+    "sec": 90,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kismat ka grah majboot hai, isliye teaching ya tech ki line mein kaam ban sakta hai. Guruvaar 19 November se Om Gram Greem Grom Sah Gurave Namah ka jaap kijiye. Yeh interview kis cheez ka hai?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Kismat ka grah majboot hai, isliye teaching ya tech ki line mein kaam ban sakta hai. Guruvaar 19 November se Om Gram Greem Grom Sah Gurave Namah ka jaap kijiye. Yeh interview kis cheez ka hai?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Tech field ka h",
+    "sec": 120,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Buddhi aur kismat ke grah saath hain, tech ka kaam aapke bilkul anukool hai. Pura dhyan tayari par lagaiye. Kya is interview ko lekar mann mein ghabrahat jyada ho rahi hai?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Buddhi aur kismat ke grah saath hain, tech ka kaam aapke bilkul anukool hai. Pura dhyan tayari par lagaiye. Kya is interview ko lekar mann mein ghabrahat jyada ho rahi hai?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ha thodi",
+    "sec": 150,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "Aap jo date batate ho vesa hota nahi, pichli baar bhi galat hua",
+    "sec": 150,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki baat samajh sakti hoon ji. Mann ke grah par dusre grahon ki nazar se thoda bhatkaav aata hai, par abhi himmat banaye rakhiye. Kya neend theek se aa rahi hai?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Aapki baat samajh sakti hoon ji. Mann ke grah par dusre grahon ki nazar se thoda bhatkaav aata hai, par abhi himmat banaye rakhiye. Kya neend theek se aa rahi hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Nahi, tension hai",
+    "sec": 180,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Mann ka grah kamzor hone se neend aur chinta ki chain banti hai. Roz raat ko thoda gunguna paani pee kar soyein. Kya paise ko lekar bhi ghar par baat chal rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Mann ka grah kamzor hone se neend aur chinta ki chain banti hai. Roz raat ko thoda gunguna paani pee kar soyein. Kya paise ko lekar bhi ghar par baat chal rahi hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ghar pe tension hai",
+    "sec": 210,
+    "idx": 18
+  },
+  {
+    "role": "ASTRO",
+    "text": "Kamai ka grah majboot hai, par doosre ghar mein rukawat se paisa tikta nahi. Pehle job pakadna zaroori hai, aage chal kar trade ya service ka kaam badhega.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Kamai ka grah majboot hai, par doosre ghar mein rukawat se paisa tikta nahi. Pehle job pakadna zaroori hai, aage chal kar trade ya service ka kaam badhega."
+    },
+    "idx": 19
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 240,
+    "idx": 20
+  },
+  {
+    "role": "USER",
+    "text": "Or kuch bataye",
+    "sec": 240,
+    "idx": 21
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aapki job ka sawal humne dekh liya hai. Aage 2027 se 2028 ke dauran videsh jane ka ek rasta bhi banta dikhta hai. Iske baare mein pura janne ke liye abhi recharge karke baat aage badhaiye.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Aapki job ka sawal humne dekh liya hai. Aage 2027 se 2028 ke dauran videsh jane ka ek rasta bhi banta dikhta hai. Iske baare mein pura janne ke liye abhi recharge karke baat aage badhaiye."
+    },
+    "idx": 22
+  },
+  {
+    "role": "USER",
+    "text": "Ok",
+    "sec": 270,
+    "idx": 23
+  }
+]

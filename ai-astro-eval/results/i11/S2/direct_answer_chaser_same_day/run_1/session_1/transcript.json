@@ -1,0 +1,149 @@
+[
+  {
+    "role": "USER",
+    "text": "Future",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Aane wale ek-do saal mein career aur kaam ke sthaan par kaafi behtari aayegi ji. Aap bataiye, abhi sabse zyada fikar kis baat ki hai—career, paisa ya family?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Aane wale ek-do saal mein career aur kaam ke sthaan par kaafi behtari aayegi ji. Aap bataiye, abhi sabse zyada fikar kis baat ki hai—career, paisa ya family?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shadi kb hogi meri?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ki baat hai ji, yeh toh sabse zaroori sawaal hai. Aap bataiye, family rishta dekh rahi hai ya aapki pasand se baat hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "Shaadi ki baat hai ji, yeh toh sabse zaroori sawaal hai. Aap bataiye, family rishta dekh rahi hai ya aapki pasand se baat hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Parents dekh rhe, ek rishta chal rha h. Kab tak hogi?",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech shaadi ka yog poora ban raha hai, aur abhi Guru ke samay se hi baatein chalna shuru ho gayi hain ji. Shukra ki kamzor sthiti aur thode dabav ki wajah se baat aage badhte hue thoda samay le sakti hai. Waise isme rishta kisi jaane-pehchaane daayre ya arranged zariye se hone ka zyada chance hai ji.",
+    "sec": 75,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech shaadi ka yog poora ban raha hai, aur abhi Guru ke samay se hi baatein chalna shuru ho gayi hain ji. Shukra ki kamzor sthiti aur thode dabav ki wajah se baat aage badhte hue thoda samay le sakti hai. Waise isme rishta kisi jaane-pehchaane daayre ya arranged zariye se hone ka zyada chance hai ji."
+    },
+    "idx": 5
+  },
+  {
+    "role": "USER",
+    "text": "Ok, 2027 me kaunse month me zyada chance hai?",
+    "sec": 90,
+    "idx": 6
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 ke aas-paas ka samay sabse strong hai ji, kyunki tabhi naya samay shuru hota hai aur baatein tezi pakadti hain. Halanki baaki pura window bhi khula rahega. Shaadi ke baad in-laws thode traditional aur serious mil sakte hain ji.",
+    "sec": 105,
+    "raw_response": {
+      "message": "March 2027 ke aas-paas ka samay sabse strong hai ji, kyunki tabhi naya samay shuru hota hai aur baatein tezi pakadti hain. Halanki baaki pura window bhi khula rahega. Shaadi ke baad in-laws thode traditional aur serious mil sakte hain ji."
+    },
+    "idx": 7
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak strong hoga?",
+    "sec": 120,
+    "idx": 8
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paise ki baat hai ji, yeh bhi samajhna zaroori hai. Aap bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paise ki baat hai ji, yeh bhi samajhna zaroori hai. Aap bataiye, paisa kahan atak raha hai, kharche mein ya kamai mein?"
+    },
+    "idx": 9
+  },
+  {
+    "role": "USER",
+    "text": "Kamai me. Kab tak badhegi?",
+    "sec": 150,
+    "idx": 10
+  },
+  {
+    "role": "ASTRO",
+    "text": "March 2027 se September 2028 ke beech kamai mein sudhaar aana shuru ho jayega ji, aur tabhi karz se bhi rahat milegi. Abhi ke samay mein kharche thode zyada lag sakte hain kyunki dhan ke sthaan par thoda dabav chal raha hai. Aap abhi kahin job kar rahe hain ya khud ka kuch dekh rahe hain?",
+    "sec": 165,
+    "raw_response": {
+      "message": "March 2027 se September 2028 ke beech kamai mein sudhaar aana shuru ho jayega ji, aur tabhi karz se bhi rahat milegi. Abhi ke samay mein kharche thode zyada lag sakte hain kyunki dhan ke sthaan par thoda dabav chal raha hai. Aap abhi kahin job kar rahe hain ya khud ka kuch dekh rahe hain?"
+    },
+    "idx": 11
+  },
+  {
+    "role": "USER",
+    "text": "Job kr rhi hu.",
+    "sec": 180,
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki tension sach mein man ko thaka deti hai ji. Yeh tension zyada-tar ghar ke aapsi mahol ko lekar hai ya kisi aur khaas baat par chal rahi hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "Ghar ki tension sach mein man ko thaka deti hai ji. Yeh tension zyada-tar ghar ke aapsi mahol ko lekar hai ya kisi aur khaas baat par chal rahi hai?"
+    },
+    "idx": 14
+  },
+  {
+    "role": "USER",
+    "text": "Aapsi rishte. Kab tak khatam hogi?",
+    "sec": 210,
+    "idx": 15
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ke aapsi rishton ki tension 2027 ke beech mein, khaaskar June ke baad kaafi hadd tak kam ho jayegi ji. Abhi man par thoda dabav aur gussa rehne ki wajah se baatein chubhti hain, kyunki grahon ki sthiti aisi chal rahi hai. 2027 ke baad hi aapke jeevan mein aur bhi bade badlav aur rahat aane ke yog hain ji.",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ghar ke aapsi rishton ki tension 2027 ke beech mein, khaaskar June ke baad kaafi hadd tak kam ho jayegi ji. Abhi man par thoda dabav aur gussa rehne ki wajah se baatein chubhti hain, kyunki grahon ki sthiti aisi chal rahi hai. 2027 ke baad hi aapke jeevan mein aur bhi bade badlav aur rahat aane ke yog hain ji."
+    },
+    "idx": 16
+  },
+  {
+    "role": "USER",
+    "text": "Ok. 2027 se pehle kuch acha hoga?",
+    "sec": 240,
+    "idx": 17
+  },
+  {
+    "role": "ASTRO",
+    "text": "Feb 2027 ke aane se pehle hi rishte aur career ki baatein aage badh sakti hain ji. Guru ke is chal rahe samay mein hi nayi soch aur baatein pakki hone ka yog banta hai. 2028 ke dauran aapke apne ghar ya property ka yog bhi khul kar samne aayega ji.",
+    "sec": 255,
+    "raw_response": {
+      "message": "Feb 2027 ke aane se pehle hi rishte aur career ki baatein aage badh sakti hain ji. Guru ke is chal rahe samay mein hi nayi soch aur baatein pakki hone ka yog banta hai. 2028 ke dauran aapke apne ghar ya property ka yog bhi khul kar samne aayega ji."
+    },
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 270,
+    "idx": 19
+  }
+]

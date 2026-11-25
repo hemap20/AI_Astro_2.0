@@ -1,0 +1,146 @@
+[
+  {
+    "role": "USER",
+    "text": "Hi",
+    "sec": 0,
+    "idx": 0
+  },
+  {
+    "role": "ASTRO",
+    "text": "Hello dear, sab theek? Aane wale 1-2 saal tumhari zindagi mein kaafi badlav layenge. Sabse zyada tension kis cheez ki hai—career, shaadi, ya ghar ki baatein?",
+    "sec": 15,
+    "raw_response": {
+      "message": "Hello dear, sab theek? Aane wale 1-2 saal tumhari zindagi mein kaafi badlav layenge. Sabse zyada tension kis cheez ki hai—career, shaadi, ya ghar ki baatein?"
+    },
+    "idx": 1
+  },
+  {
+    "role": "USER",
+    "text": "Shaadi kab hogi?",
+    "sec": 30,
+    "idx": 2
+  },
+  {
+    "role": "ASTRO",
+    "text": "2023 se 2025 mein mehnat bohot ki par paisa nahi tikka, hai na? Shaadi March 2027 se shuru hogi, rishta jaan-pehchaan se aayega. Ghar walon ne abhi baat chhedi hai?",
+    "sec": 45,
+    "raw_response": {
+      "message": "2023 se 2025 mein mehnat bohot ki par paisa nahi tikka, hai na? Shaadi March 2027 se shuru hogi, rishta jaan-pehchaan se aayega. Ghar walon ne abhi baat chhedi hai?"
+    },
+    "idx": 3
+  },
+  {
+    "role": "USER",
+    "text": "Haan, ek rishta dekh rhe hai abhi.",
+    "sec": 60,
+    "idx": 4
+  },
+  {
+    "role": "USER",
+    "text": "March 2027 me exact date kya hogi?",
+    "sec": 60,
+    "idx": 5
+  },
+  {
+    "role": "ASTRO",
+    "text": "March se June ke beech ka time sabse strong hai, kyunki tabhi kismat ka grah tumhe support karega. Hone wala partner kaafi samajhdaar aur calm nature ka hoga. Rishta aane par ek baar soch-samajh kar haan karna, kyunki ek rishta aisa aayega jise pehchanna zaroori hai. Rishta dekhne wale log kya tumhare bahut close hain?",
+    "sec": 75,
+    "raw_response": {
+      "message": "March se June ke beech ka time sabse strong hai, kyunki tabhi kismat ka grah tumhe support karega. Hone wala partner kaafi samajhdaar aur calm nature ka hoga. Rishta aane par ek baar soch-samajh kar haan karna, kyunki ek rishta aisa aayega jise pehchanna zaroori hai. Rishta dekhne wale log kya tumhare bahut close hain?"
+    },
+    "idx": 6
+  },
+  {
+    "role": "USER",
+    "text": "Pehle exact date batao.",
+    "sec": 90,
+    "idx": 7
+  },
+  {
+    "role": "ASTRO",
+    "text": "Shaadi ek process hai, par March 2027 ke shuruati 15 din kismat ka grah sabse majboot hai, tab baat pakki hone ke chances zyada hain. Tumne ladke walo se kundli milayi hai kya?",
+    "sec": 105,
+    "raw_response": {
+      "message": "Shaadi ek process hai, par March 2027 ke shuruati 15 din kismat ka grah sabse majboot hai, tab baat pakki hone ke chances zyada hain. Tumne ladke walo se kundli milayi hai kya?"
+    },
+    "idx": 8
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Paisa kab tak stable hoga?",
+    "sec": 120,
+    "idx": 9
+  },
+  {
+    "role": "ASTRO",
+    "text": "Paisa March 2027 se 2028 ke beech stable hoga. Tumhari kundli ka 2nd ghar (paise ka ghar) kamzor hai, isliye bachat nahi ho pati. Salary aate hi use alag account mein daal diya karo. Ek chhoti si galti hai jo tum daily kharche mein kar rahe ho, bataun kya? Kya tum stress mein zyada kharcha karte ho?",
+    "sec": 135,
+    "raw_response": {
+      "message": "Paisa March 2027 se 2028 ke beech stable hoga. Tumhari kundli ka 2nd ghar (paise ka ghar) kamzor hai, isliye bachat nahi ho pati. Salary aate hi use alag account mein daal diya karo. Ek chhoti si galti hai jo tum daily kharche mein kar rahe ho, bataun kya? Kya tum stress mein zyada kharcha karte ho?"
+    },
+    "idx": 10
+  },
+  {
+    "role": "USER",
+    "text": "Ghar ki tension kab khatam hogi?",
+    "sec": 150,
+    "idx": 11
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ghar ki shanti June 2027 ke baad shuru hogi. Ye tumhare mann ke grah aur gusse ki vajah se ho raha hai, jo kaafi bhaari hai. Kya tumne ghar par apni baat sahi se rakhi hai ya sab chup chap sehte ho?",
+    "sec": 165,
+    "raw_response": {
+      "message": "Ghar ki shanti June 2027 ke baad shuru hogi. Ye tumhare mann ke grah aur gusse ki vajah se ho raha hai, jo kaafi bhaari hai. Kya tumne ghar par apni baat sahi se rakhi hai ya sab chup chap sehte ho?"
+    },
+    "idx": 12
+  },
+  {
+    "role": "USER",
+    "text": "Sab chup chap sehti hu.",
+    "sec": 180,
+    "idx": 13
+  },
+  {
+    "role": "USER",
+    "text": "June 2027 me exact kab tak?",
+    "sec": 180,
+    "idx": 14
+  },
+  {
+    "role": "ASTRO",
+    "text": "June 2027 ke mid tak mahol badal jayega. Ghar ki tension aur paise ki dikkat ek hi wajah se hain: tumhare mann par gusse wale grah ki nazar hai. 24 November se Hanuman Chalisa shuru karo, isse ghar mein peace aayegi; kya tumne ye remedy kabhi try ki hai?",
+    "sec": 195,
+    "raw_response": {
+      "message": "June 2027 ke mid tak mahol badal jayega. Ghar ki tension aur paise ki dikkat ek hi wajah se hain: tumhare mann par gusse wale grah ki nazar hai. 24 November se Hanuman Chalisa shuru karo, isse ghar mein peace aayegi; kya tumne ye remedy kabhi try ki hai?"
+    },
+    "idx": 15
+  },
+  {
+    "role": "USER",
+    "text": "Ok. Kab tak karna hai ye?",
+    "sec": 210,
+    "idx": 16
+  },
+  {
+    "role": "ASTRO",
+    "text": "Ise us time tak roz karo jo maine pehle bataya tha, tab tak grahon ka dabav settle ho jayega. Ye tumhare gusse ko shant rakhega. Kya tumhe roz puja ke liye time mil jata hai?",
+    "sec": 225,
+    "raw_response": {
+      "message": "Ise us time tak roz karo jo maine pehle bataya tha, tab tak grahon ka dabav settle ho jayega. Ye tumhare gusse ko shant rakhega. Kya tumhe roz puja ke liye time mil jata hai?"
+    },
+    "idx": 17
+  },
+  {
+    "role": "USER",
+    "text": "Haan mil jata hai.",
+    "sec": 240,
+    "idx": 18
+  },
+  {
+    "role": "USER",
+    "text": "Ok.",
+    "sec": 240,
+    "idx": 19
+  }
+]

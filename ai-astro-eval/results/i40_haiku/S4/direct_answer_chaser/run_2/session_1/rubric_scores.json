@@ -1,0 +1,171 @@
+{
+  "scores": {
+    "1.1": 7,
+    "1.2": 4,
+    "1.4": 7,
+    "2.1": 8,
+    "2.2": 3,
+    "2.3": 8,
+    "2.4": 7,
+    "2.5": 7,
+    "2.6": null,
+    "2.7": 6,
+    "3.1": 6,
+    "3.2": 8,
+    "3.3": 7,
+    "4.2": 7,
+    "5.1": 3,
+    "1.3": 8,
+    "4.1": 1,
+    "4.3": 6
+  },
+  "gate_fail": [],
+  "overall": 6.06,
+  "shape": {
+    "M": 6,
+    "avg_words": 48.5,
+    "long_share": 1.0
+  },
+  "rep": {
+    "rep": 2,
+    "top_opener": 4
+  },
+  "judge": {
+    "gate": {
+      "G1": {
+        "fail": false,
+        "quote": null
+      },
+      "G2": {
+        "fail": false,
+        "quote": null
+      },
+      "G3": {
+        "fail": false,
+        "quote": null
+      },
+      "G4": {
+        "fail": false,
+        "quote": null
+      }
+    },
+    "rubrics": {
+      "1.1": {
+        "skipped": false,
+        "score": 7,
+        "quote": "rishte ka sahi hona aap dono ki kundli milan aur ghar ki soch par bhi tikta hai",
+        "why": "The astrologer acknowledges the user's concern about the relationship being right or wrong."
+      },
+      "1.2": {
+        "skipped": false,
+        "score": 4,
+        "quote": "Kya aap confirm kar sakti hain ki aapki shaadi ki baat pehli baar Nov 2026 mein hi uthi hai?",
+        "why": "Contains one Type C question (assuming a date not provided by the user)."
+      },
+      "1.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "seedha kahun to is rishte ke bare mein abhi pakki haan nahi nahi keh sakti, kyunki mere paas sirf unki DOB aur Bihar ki jaankari hai, unki kundli nahi",
+        "why": "Asks for the other person's chart/details with a clear reason."
+      },
+      "2.1": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Aapki kundli mein Shukra rishton ka grah hai aur abhi kamzor hai",
+        "why": "The reading is about the present, new, specific, and tied to a chart reason."
+      },
+      "2.2": {
+        "skipped": false,
+        "score": 3,
+        "quote": "seedha jawab: is rishte ko abhi haan ya na nahi keh sakti, kyunki ladke ki kundli mere paas nahi hai",
+        "why": "The astrologer refuses to answer the main question repeatedly without providing a direction."
+      },
+      "2.3": {
+        "skipped": false,
+        "score": 8,
+        "quote": "Gussa aapki kundli mein Mangal ka grah dikhata hai",
+        "why": "Multiple linked readings provided (Shukra for relationships, Mangal for anger)."
+      },
+      "2.4": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Gussa aapki kundli mein Mangal ka grah dikhata hai",
+        "why": "Adds a new point about the user's anger and links it to the chart."
+      },
+      "2.5": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein shaadi ka time Oct 2028 se Feb 2030 ke beech majboot dikhta hai",
+        "why": "Provides a consistent time window throughout the chat."
+      },
+      "2.6": {
+        "skipped": true,
+        "score": null,
+        "quote": null,
+        "why": "No remedy or practical advice given."
+      },
+      "2.7": {
+        "skipped": false,
+        "score": 6,
+        "quote": "seedha jawab: is rishte ko abhi haan ya na nahi keh sakti",
+        "why": "Answers the user's repeated question but never resolves the conflict or changes the approach."
+      },
+      "3.1": {
+        "skipped": false,
+        "score": 6,
+        "quote": "rishte ka sahi hona aap dono ki kundli milan aur ghar ki soch par bhi tikta hai",
+        "why": "A generic pointer about relationship compatibility."
+      },
+      "3.2": {
+        "skipped": false,
+        "score": 8,
+        "quote": null,
+        "why": "No closing message and no bare acknowledgements."
+      },
+      "3.3": {
+        "skipped": false,
+        "score": 7,
+        "quote": "Aapki kundli mein Shukra rishton ka grah hai aur abhi kamzor hai",
+        "why": "The last message contains a real reading."
+      },
+      "4.2": {
+        "skipped": false,
+        "score": 7,
+        "quote": null,
+        "why": "Uses easy, conversational language without unexplained technical terms."
+      },
+      "5.1": {
+        "skipped": false,
+        "score": 3,
+        "quote": "seedha haan ya na mein kahun to abhi is rishte ko pakka haan nahi keh sakti",
+        "why": "The user is testing/angry, and the astrologer repeats the same refusal without adapting the approach."
+      }
+    },
+    "labels": [
+      {
+        "idx": 3,
+        "type": "both"
+      },
+      {
+        "idx": 5,
+        "type": "both"
+      },
+      {
+        "idx": 8,
+        "type": "reading"
+      },
+      {
+        "idx": 11,
+        "type": "both"
+      },
+      {
+        "idx": 15,
+        "type": "reading"
+      },
+      {
+        "idx": 19,
+        "type": "both"
+      }
+    ]
+  }
+}
